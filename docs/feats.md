@@ -64,6 +64,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Skylla</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Whispers of the Grave Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2339**Whispers of the Grave (Skylla)**When all the life has left you, only her laughter will remain.<br><br><span style="color:var(--Flavescent)">Increases the effect of Skylla's Whispers of Baba Yaga ability by 80%. (Prestack)</span><code>buff_upgrade,80,17845,0</code></span>Whispers of the Grave
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Skylla's Whispers of Baba Yaga ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">05 Nov 2025<br>05 Feb 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Turiel</span>
         </span>
         <span class="featTableIcon4">
@@ -298,6 +315,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">11 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Skylla</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Keen Athlete Icon](images/featicons/2attributeboost.png)<span class="featTooltipContents">ID: 2348**Keen Athlete (Skylla)**Granny expects me to be at my very best, to do my very worst.<br><br><span style="color:var(--Flavescent)">Increases the Intelligence score of Skylla by 1. Increases the Strength score of Skylla by 1.</span><code>increase_ability_score,int,1<br>increase_ability_score,str,1</code></span>Keen Athlete
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the Intelligence score of Skylla by 1. Increases the Strength score of Skylla by 1.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">23 Dec 2025</span>
         </span>
     </span>
     <span class="featTableRow">

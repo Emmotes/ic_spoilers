@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2339**Feat**???: 2339</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Whispers of the Grave Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2339**Whispers of the Grave**When all the life has left you, only her laughter will remain.<br><br><span style="color:var(--Flavescent)">Increases the effect of Skylla's Whispers of Baba Yaga ability by 80%. (Prestack)</span><code>buff_upgrade,80,17845,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2339</span>
+            <span style="margin-left:15px">Whispers of the Grave</span>
+            <span style="margin-left:15px">Skylla</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -721,7 +722,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 633**Cozy Lark (Lark)**</span></span>
+            <span class="tooltipHolder">![Cozy Lark Skin Portrait](images/premiums/skin_633.png)<span class="itemTooltipContents">ID: 633**Cozy Lark (Lark)**<img src="images/premiums/skin_633.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1526,7 +1527,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 638**Cozy Dark Urge (Dark Urge)**</span></span>
+            <span class="tooltipHolder">![Cozy Dark Urge Skin Portrait](images/premiums/skin_638.png)<span class="itemTooltipContents">ID: 638**Cozy Dark Urge (Dark Urge)**<img src="images/premiums/skin_638.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

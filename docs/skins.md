@@ -179,7 +179,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 633**Cozy Lark (Lark)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Cozy Lark Portrait](images/skin_portraits/cozylark.png)<span class="featTooltipContents">ID: 633**Cozy Lark (Lark)**<img src="images/skin_models/cozylark.gif" alt="Cozy Lark Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Cozy Lark
@@ -298,7 +298,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 638**Cozy Dark Urge (Dark Urge)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Cozy Dark Urge Portrait](images/skin_portraits/cozydarkurge.png)<span class="featTooltipContents">ID: 638**Cozy Dark Urge (Dark Urge)**<img src="images/skin_models/cozydarkurge.gif" alt="Cozy Dark Urge Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Cozy Dark Urge
