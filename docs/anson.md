@@ -125,6 +125,16 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
     "animations": [
         {
             "type": "melee_attack",
+            "power_up_sequence": {
+                "start_frame": 0,
+                "end_frame": 3
+            },
+            "sequences": [
+                {
+                    "start_frame": 3,
+                    "end_frame": 20
+                }
+            ],
             "damage_frame": 2
         }
     ],
@@ -655,7 +665,7 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
             ]
         },
         {
-            "effect_string": "animation_synced_overlay,28091",
+            "effect_string": "animation_synced_overlay,28162",
             "skin_property_prefix": "erratic_energy_overlay",
             "apply_manually": true
         },
@@ -974,8 +984,7 @@ Unknown.
 > Anson starts in the formation with his Unshakable Ability unlocked. He can be moved but not removed.  
 > Only Anson and Champions buffed by both him and Uggie can deal damage.  
 > 1-2 Mimics spawn with each wave. They don't drop gold nor count towards quest progress.  
-> <b>Getting to Know Anson:</b> Anson increases the damage of Champions behind him, while Uggie increases the damage of Champions not next to Uggie. Position your damage dealer to take advantage of both buffs!  
-> 
+> <b>Getting to Know Anson:</b> Anson increases the damage of Champions behind him, while Uggie increases the damage of Champions not next to Uggie. Position your damage dealer to take advantage of both buffs!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![The Walkers of Waterdeep Icon](images/anson/1874.png) **Variant 2: The Walkers of Waterdeep** (Complete Area 125)
@@ -984,8 +993,7 @@ Unknown.
 > Champions resurrect at half health when changing areas instead of full health.  
 > Every 100 areas, enemy speed and damage is increased by 100%, stacking additively up to 10 times.  
 > Starting in area 50, a thrown rock hits a random Champion every second, dealing 1% of their max health in damage  
-> <b>Getting to Know Anson:</b> Anson's unstable weapon sometimes shocks him, but he powers through it. You may need to include some healing abilities to get him through!  
-> 
+> <b>Getting to Know Anson:</b> Anson's unstable weapon sometimes shocks him, but he powers through it. You may need to include some healing abilities to get him through!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Family Matters Icon](images/anson/1874.png) **Variant 3: Family Matters** (Complete Area 175)
@@ -993,8 +1001,7 @@ Unknown.
 > Anson's brother Valen and a scared villager join the formation.  
 > 1-2 Zhentarim Thugs spawn with each wave. They don't drop gold nor count towards quest progress.  
 > You may only use Good, Unaffiliated, or Fallbacks champions.  
-> <b>Getting to Know Anson:</b> Anson's specializations choices determine which heroes he works best with. Who will you include in the formation?  
-> 
+> <b>Getting to Know Anson:</b> Anson's specializations choices determine which heroes he works best with. Who will you include in the formation?
 </div></div>
 
 # Other Champion Images
