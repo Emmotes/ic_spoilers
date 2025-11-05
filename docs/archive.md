@@ -12,6 +12,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Emergence 12](archive/emergence_12.md)
 * [Emergence 13](archive/emergence_13.md)
 * [Farideh](archive/farideh.md)
+* [Feast of the Moon Augments](archive/augments_3.md)
 * [Founders' Day Augments](archive/augments_37.md)
 * [Hank](archive/hank.md)
 * [Highharvestide Augments](archive/augments_1.md)
@@ -21,6 +22,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Lazaapz](archive/lazaapz.md)
 * [Liars' Night Augments](archive/augments_2.md)
 * [New Campaign - Tales of the Champions](archive/campaign_tales.md)
+* [Skylla](archive/skylla.md)
 * [Steam Exclusive Giveaway](archive/giveaway_steam_1749661200.md)
 * [Tessalynde 'Tess' Halendria](archive/tess.md)
 

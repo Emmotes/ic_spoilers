@@ -23,32 +23,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="skylla.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Skylla Portrait Icon](images/skylla/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Skylla
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Warlock</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Feast of the Moon - 5 November 2025</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="lark.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -197,32 +171,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Feast of the Moon - 5 November 2025
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="skylla.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Skylla Portrait Icon](images/skylla/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Skylla
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Warlock</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
 {::nomarkdown}
 <a href="havilar.html">
 {:/nomarkdown}
@@ -382,7 +330,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* [Feast of the Moon Augments](augments_3.md) - 5 November 2025
 * EGS Exclusive Giveaway - 6 November 2025
 * [XBox Exclusive Giveaway](platform_giveaway_656.md) - 3 December 2025
 * [Unknown Exclusive Giveaway](platform_giveaway_657.md) - 11 December 2025
