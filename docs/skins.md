@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Action Figure Skylla Portrait](images/skin_portraits/actionfigureskylla.png)<span class="featTooltipContents">ID: 616**Action Figure Skylla (Skylla)**<img src="images/skin_models/actionfigureskylla.gif" alt="Action Figure Skylla Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Action Figure Skylla
-        </span>
-        <span class="skinTableSource">
-            Action Figure Skylla Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            05 Nov 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Entropic Sentry Portrait](images/skin_portraits/entropicsentry.png)<span class="featTooltipContents">ID: 617**Entropic Sentry (Sentry)**<img src="images/skin_models/entropicsentry.gif" alt="Entropic Sentry Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Entropic Sentry
-        </span>
-        <span class="skinTableSource">
-            Entropic Sentry Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            05 Nov 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Hemomancer Widdle Portrait](images/skin_portraits/hemomancerwiddle.png)<span class="featTooltipContents">ID: 618**Hemomancer Widdle (Widdle)**<img src="images/skin_models/hemomancerwiddle.gif" alt="Hemomancer Widdle Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Hemomancer Widdle
-        </span>
-        <span class="skinTableSource">
-            Hemomancer Widdle Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            05 Nov 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Turiel the Fallen Portrait](images/skin_portraits/turielthefallen.png)<span class="featTooltipContents">ID: 620**Turiel the Fallen (Turiel)**<img src="images/skin_models/turielthefallen.gif" alt="Turiel the Fallen Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

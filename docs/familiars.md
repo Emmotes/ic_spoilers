@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Spite the Sprite Portrait](images/familiars/spitethesprite.png)<span class="featTooltipContents">ID: 291**Spite the Sprite**A sprite as spiteful as their master is frightful.<img src="images/familiars/spitethesprite.gif" alt="Spite the Sprite Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Spite the Sprite
-        </span>
-        <span class="skinTableSource">
-            Action Figure Skylla Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            05 Nov 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Sting the Scorpion Portrait](images/familiars/stingthescorpion.png)<span class="featTooltipContents">ID: 299**Sting the Scorpion**It's all fun and games till Sting skitters out!<img src="images/familiars/stingthescorpion.gif" alt="Sting the Scorpion Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

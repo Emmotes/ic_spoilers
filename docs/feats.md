@@ -30,57 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Widdle</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2351**Entertainer (Widdle)**Do you have any idea how difficult it is to keep Darklords entertained?<br><br><span style="color:var(--Flavescent)">Increases the Charisma score of Widdle by 2.</span><code>increase_ability_score,cha,2</code></span>Entertainer
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the Charisma score of Widdle by 2.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">05 Nov 2025<br>05 Feb 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Sentry</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 2350**Taunt (Sentry)**Foes assail me, but my shield echoes my will: unyielding, unbroken.<br><br><span style="color:var(--Flavescent)">All Champions damage +100%. Sentry's attacks have a 50% chance to taunt enemies.</span><code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +100%. Sentry's attacks have a 50% chance to taunt enemies.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">05 Nov 2025<br>05 Feb 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Skylla</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Whispers of the Grave Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2339**Whispers of the Grave (Skylla)**When all the life has left you, only her laughter will remain.<br><br><span style="color:var(--Flavescent)">Increases the effect of Skylla's Whispers of Baba Yaga ability by 80%. (Prestack)</span><code>buff_upgrade,80,17845,0</code></span>Whispers of the Grave
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Skylla's Whispers of Baba Yaga ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">05 Nov 2025<br>05 Feb 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Turiel</span>
         </span>
         <span class="featTableIcon4">
