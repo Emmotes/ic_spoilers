@@ -330,7 +330,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* EGS Exclusive Giveaway - 6 November 2025
 * [XBox Exclusive Giveaway](platform_giveaway_656.md) - 3 December 2025
 * [Unknown Exclusive Giveaway](platform_giveaway_657.md) - 11 December 2025
 * [Emergence 14](emergence_14.md) - 24 December 2025
