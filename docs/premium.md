@@ -579,7 +579,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 625**Cozy Regis (Regis)**</span></span>
+            <span class="tooltipHolder">![Cozy Regis Skin Portrait](images/premiums/skin_625.png)<span class="itemTooltipContents">ID: 625**Cozy Regis (Regis)**<img src="images/premiums/skin_625.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -650,7 +650,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 626**Winter Gloom Shadowheart (Shadowheart)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 626**Winter Gloom Shadowheart (Shadowheart)**<img src="images/premiums/skin_626.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -993,7 +993,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 628**Cozy Nordom (Nordom)**</span></span>
+            <span class="tooltipHolder">![Cozy Nordom Skin Portrait](images/premiums/skin_628.png)<span class="itemTooltipContents">ID: 628**Cozy Nordom (Nordom)**<img src="images/premiums/skin_628.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

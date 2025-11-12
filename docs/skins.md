@@ -145,7 +145,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 625**Cozy Regis (Regis)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Cozy Regis Portrait](images/skin_portraits/cozyregis.png)<span class="featTooltipContents">ID: 625**Cozy Regis (Regis)**<img src="images/skin_models/cozyregis.gif" alt="Cozy Regis Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Cozy Regis
@@ -162,7 +162,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 626**Winter Gloom Shadowheart (Shadowheart)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 626**Winter Gloom Shadowheart (Shadowheart)**<img src="images/skin_models/wintergloomshadowheart.gif" alt="Winter Gloom Shadowheart Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
         </span>
         <span class="skinTableName">
             Winter Gloom Shadowheart
@@ -213,7 +213,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 628**Cozy Nordom (Nordom)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Cozy Nordom Portrait](images/skin_portraits/cozynordom.png)<span class="featTooltipContents">ID: 628**Cozy Nordom (Nordom)**<img src="images/skin_models/cozynordom.gif" alt="Cozy Nordom Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Cozy Nordom
