@@ -109,7 +109,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 297**Hug the Rug of Smothering**Full-bodied snuggles, whether you want them or not.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Hug the Rug of Smothering Portrait](images/familiars/hugtherugofsmothering.png)<span class="featTooltipContents">ID: 297**Hug the Rug of Smothering**Full-bodied snuggles, whether you want them or not.<img src="images/familiars/hugtherugofsmothering.gif" alt="Hug the Rug of Smothering Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Hug the Rug of Smothering
@@ -126,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 298**Fixer the Automaton**Quicker she says. Always quicker!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Fixer the Automaton Portrait](images/familiars/fixertheautomaton.png)<span class="featTooltipContents">ID: 298**Fixer the Automaton**Quicker she says. Always quicker!<img src="images/familiars/fixertheautomaton.gif" alt="Fixer the Automaton Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Fixer the Automaton

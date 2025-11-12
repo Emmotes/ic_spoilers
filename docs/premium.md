@@ -1125,7 +1125,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 297**Hug the Rug of Smothering**Full-bodied snuggles, whether you want them or not.</span></span>
+            <span class="tooltipHolder">![Hug the Rug of Smothering Familiar Portrait](images/premiums/familiar_297.png)<span class="itemTooltipContents">ID: 297**Hug the Rug of Smothering**Full-bodied snuggles, whether you want them or not.<img src="images/premiums/familiar_297.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1567,7 +1567,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 298**Fixer the Automaton**Quicker she says. Always quicker!</span></span>
+            <span class="tooltipHolder">![Fixer the Automaton Familiar Portrait](images/premiums/familiar_298.png)<span class="itemTooltipContents">ID: 298**Fixer the Automaton**Quicker she says. Always quicker!<img src="images/premiums/familiar_298.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
