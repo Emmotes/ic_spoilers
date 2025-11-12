@@ -64,6 +64,40 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Havilar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Bedeviled Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2367**Bedeviled (Havilar)**Hold 'em still, Mot! This next swing's gonna STING!<br><br><span style="color:var(--Flavescent)">Increases the effect of Havilar's Mot ability by 80%. (Prestack)</span><code>buff_upgrade,80,18038</code></span>Bedeviled
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Havilar's Mot ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">12 Nov 2025<br>12 Feb 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Havilar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![High Road to Hell Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2369**High Road to Hell (Havilar)**Faster, Zoonie! Kill! Kill!<br><br><span style="color:var(--Flavescent)">Increases the effect of Havilar's Speed Demon ability by 100%.</span><code>buff_upgrade,100,18042</code></span>High Road to Hell
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Havilar's Speed Demon ability by 100%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">12 Nov 2025<br>12 Feb 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Jang Sao</span>
         </span>
         <span class="featTableIcon4">

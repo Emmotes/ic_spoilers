@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2367**Feat**???: 2367</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Bedeviled Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2367**Bedeviled**Hold 'em still, Mot! This next swing's gonna STING!<br><br><span style="color:var(--Flavescent)">Increases the effect of Havilar's Mot ability by 80%. (Prestack)</span><code>buff_upgrade,80,18038</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2367</span>
+            <span style="margin-left:15px">Bedeviled</span>
+            <span style="margin-left:15px">Havilar</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -783,7 +784,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 627**Winter Gloom Yorven (Yorven)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 627**Winter Gloom Yorven (Yorven)**<img src="images/premiums/skin_627.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
