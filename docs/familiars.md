@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Lefty the Crawling Claw Portrait](images/familiars/leftythecrawlingclaw.png)<span class="featTooltipContents">ID: 292**Lefty the Crawling Claw**Undeath wrecks your cuticles--you have to stay on top of that.<img src="images/familiars/leftythecrawlingclaw.gif" alt="Lefty the Crawling Claw Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Lefty the Crawling Claw
-        </span>
-        <span class="skinTableSource">
-            Twice Cursed Havilar Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            12 Nov 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Shellby The Sea Otter Portrait](images/familiars/shellbytheseaotter.png)<span class="featTooltipContents">ID: 293**Shellby The Sea Otter**Longtime ally of Gromma - easily distracted by pretty things.<img src="images/familiars/shellbytheseaotter.gif" alt="Shellby The Sea Otter Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
