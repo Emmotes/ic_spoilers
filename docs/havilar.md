@@ -392,8 +392,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 27801,
+    "large_graphic_id": 27800,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -665,7 +665,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Odd Ones Out Icon](images/havilar/7110.png) **Variant 1: Odd Ones Out** (Complete Area 75)
-> Only every second bench seat can be used. The odd ones are right out!
+> Havilar starts in the formation. She can be moved, but not removed.  
+> Only every second bench slot can be used.  
+> Farideh and Mehen can be used despite this restriction. They're odd, for sure, but they're family.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Diamonds Are Forever Icon](images/havilar/7111.png) **Variant 2: Diamonds Are Forever** (Complete Area 125)
@@ -679,7 +681,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Formation
 
 <span class="formationBorder">
-    <svg xmlns="http://www.w3.org/2000/svg" id="Havilar" fill="#aaa" data-formationName="Havilar" data-campaignName="Grand Revel" width="300" height="140"><circle cx="175" cy="65" r="15"/><circle cx="135" cy="45" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="55" cy="85" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="25" r="15"/><circle cx="15" cy="65" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Havilar</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Grand Revel</text></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" id="Havilar" fill="#aaa" data-formationName="Havilar" data-campaignName="Feast of the Moon" width="338" height="140"><circle cx="175" cy="65" r="15"/><circle cx="135" cy="45" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="55" cy="85" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="25" r="15"/><circle cx="15" cy="65" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Havilar</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Feast of the Moon</text></svg>
 </span>
 
 [Back to Top](#top)
