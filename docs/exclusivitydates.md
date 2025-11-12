@@ -441,6 +441,74 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">05 Feb 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Havilar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Bedeviled Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2367**Bedeviled (Havilar)**Hold 'em still, Mot! This next swing's gonna STING!<br><br><span style="color:var(--Flavescent)">Increases the effect of Havilar's Mot ability by 80%. (Prestack)</span><code>buff_upgrade,80,18038</code></span>Bedeviled
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Havilar's Mot ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">12 Feb 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Havilar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![High Road to Hell Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2369**High Road to Hell (Havilar)**Faster, Zoonie! Kill! Kill!<br><br><span style="color:var(--Flavescent)">Increases the effect of Havilar's Speed Demon ability by 100%.</span><code>buff_upgrade,100,18042</code></span>High Road to Hell
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Havilar's Speed Demon ability by 100%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">12 Feb 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Turiel</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Axiomatic Embrace Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2352**Axiomatic Embrace (Turiel)**Good may be corrupted, but law is ineffable by definition.<br><br><span style="color:var(--Flavescent)">Increases the effect of Turiel's Lawful Mission ability by 80%. (Prestack)</span><code>buff_upgrade,80,10661,0</code></span>Axiomatic Embrace
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Turiel's Lawful Mission ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">12 Feb 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Intense Strife Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2353**Intense Strife (Minthara)**You think yourself broken? Defeated? I've only just begun.<br><br><span style="color:var(--Flavescent)">Increases the effect of Minthara's Soul Branding ability by 80%. (Prestack)</span><code>buff_upgrade,80,15944,0</code></span>Intense Strife
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Minthara's Soul Branding ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">12 Feb 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
