@@ -15,6 +15,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Feast of the Moon Augments](archive/augments_3.md)
 * [Founders' Day Augments](archive/augments_37.md)
 * [Hank](archive/hank.md)
+* [Havilar](archive/havilar.md)
 * [Highharvestide Augments](archive/augments_1.md)
 * [K'thriss](archive/kthriss.md)
 * [King of Shadows](archive/kos.md)
