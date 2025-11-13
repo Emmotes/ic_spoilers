@@ -86,7 +86,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 622**Star Blight Jang Sao (Jang Sao)**</span></span>
+            <span class="tooltipHolder">![Star Blight Jang Sao Skin Portrait](images/premiums/skin_622.png)<span class="itemTooltipContents">ID: 622**Star Blight Jang Sao (Jang Sao)**<img src="images/premiums/skin_622.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

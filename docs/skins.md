@@ -26,7 +26,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 622**Star Blight Jang Sao (Jang Sao)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Star Blight Jang Sao Portrait](images/skin_portraits/starblightjangsao.png)<span class="featTooltipContents">ID: 622**Star Blight Jang Sao (Jang Sao)**<img src="images/skin_models/starblightjangsao.gif" alt="Star Blight Jang Sao Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Star Blight Jang Sao
