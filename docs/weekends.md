@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/772.png">
-            <span class="weekendTooltipContents">ID: 772**Gold Infernal Iron Chest**Loot for: Bruenor, Nayeli, Sentry, Farideh and Havilar<code>"for_crusaders":[1,3,52,33,56]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Heart of Iron**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    14 November 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Havilar
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/sentry.png'">
-                        <span class="weekendTableChampionNameplate">Sentry</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/farideh.png'">
-                        <span class="weekendTableChampionNameplate">Farideh</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/havilar.png'">
-                        <span class="weekendTableChampionNameplate">Havilar</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/773.png">
             <span class="weekendTooltipContents">ID: 773**Gold Slayer's Reward Chest**Loot for: Celeste, Arkhan, Virgil, Briv and Minthara<code>"for_crusaders":[2,12,115,58,154]</code></span>
         </span>
