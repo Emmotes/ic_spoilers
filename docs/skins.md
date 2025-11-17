@@ -145,7 +145,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 629**Cozy Halsin (Halsin)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Cozy Halsin Portrait](images/skin_portraits/cozyhalsin.png)<span class="featTooltipContents">ID: 629**Cozy Halsin (Halsin)**<img src="images/skin_models/cozyhalsin.gif" alt="Cozy Halsin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Cozy Halsin
