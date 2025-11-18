@@ -86,7 +86,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Star Blight Jang Sao Skin Portrait](images/premiums/skin_622.png)<span class="itemTooltipContents">ID: 622**Star Blight Jang Sao (Jang Sao)**<img src="images/premiums/skin_622.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Star Blight Jang Sao Skin Portrait](images/premiums/skin_622.png)<span class="itemTooltipContents">ID: 622**Star Blight Jang Sao (Jang Sao)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_622.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_622-starry_form.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -439,7 +439,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 626**Winter Gloom Shadowheart (Shadowheart)**<img src="images/premiums/skin_626.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Winter Gloom Shadowheart Skin Portrait](images/premiums/skin_626.png)<span class="itemTooltipContents">ID: 626**Winter Gloom Shadowheart (Shadowheart)**<img src="images/premiums/skin_626.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -572,7 +572,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 627**Winter Gloom Yorven (Yorven)**<img src="images/premiums/skin_627.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Winter Gloom Yorven Skin Portrait](images/premiums/skin_627.png)<span class="itemTooltipContents">ID: 627**Winter Gloom Yorven (Yorven)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_627.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_627-shadow_mastiff.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
