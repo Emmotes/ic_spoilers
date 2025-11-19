@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Shellby The Sea Otter Portrait](images/familiars/shellbytheseaotter.png)<span class="featTooltipContents">ID: 293**Shellby The Sea Otter**Longtime ally of Gromma - easily distracted by pretty things.<img src="images/familiars/shellbytheseaotter.gif" alt="Shellby The Sea Otter Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Shellby The Sea Otter
-        </span>
-        <span class="skinTableSource">
-            Gromma's Sea Otter Guide Familiar & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            19 Nov 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Lerk the Lark Portrait](images/familiars/lerkthelark.png)<span class="featTooltipContents">ID: 294**Lerk the Lark**No idea where he got that hat from, but he has good taste!<img src="images/familiars/lerkthelark.gif" alt="Lerk the Lark Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

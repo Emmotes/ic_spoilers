@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dark Pact Virgil Portrait](images/skin_portraits/darkpactvirgil.png)<span class="featTooltipContents">ID: 623**Dark Pact Virgil (Virgil)**<img src="images/skin_models/darkpactvirgil.gif" alt="Dark Pact Virgil Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dark Pact Virgil
-        </span>
-        <span class="skinTableSource">
-            Dark Pact Virgil Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            19 Nov 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Star Blight Jang Sao Portrait](images/skin_portraits/starblightjangsao.png)<span class="featTooltipContents">ID: 622**Star Blight Jang Sao (Jang Sao)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/starblightjangsao.gif" alt="Star Blight Jang Sao Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/starblightjangsao-starry_form.gif" alt="Star Blight Jang Sao Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Star Blight Jang Sao
-        </span>
-        <span class="skinTableSource">
-            Star Blight Jang Sao Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            19 Nov 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Ballgown Havilar Portrait](images/skin_portraits/ballgownhavilar.png)<span class="featTooltipContents">ID: 636**Ballgown Havilar (Havilar)**<img src="images/skin_models/ballgownhavilar.gif" alt="Ballgown Havilar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -162,7 +128,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cozy Halsin Portrait](images/skin_portraits/cozyhalsin.png)<span class="featTooltipContents">ID: 629**Cozy Halsin (Halsin)**<img src="images/skin_models/cozyhalsin.gif" alt="Cozy Halsin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Cozy Halsin Portrait](images/skin_portraits/cozyhalsin.png)<span class="featTooltipContents">ID: 629**Cozy Halsin (Halsin)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/cozyhalsin.gif" alt="Cozy Halsin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/cozyhalsin-bear.gif" alt="Cozy Halsin Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Cozy Halsin
