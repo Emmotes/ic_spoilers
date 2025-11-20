@@ -9,7 +9,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Ballgown Havilar Portrait](images/skin_portraits/ballgownhavilar.png)<span class="featTooltipContents">ID: 636**Ballgown Havilar (Havilar)**<img src="images/skin_models/ballgownhavilar.gif" alt="Ballgown Havilar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Ballgown Havilar Portrait](images/skin_portraits/ballgownhavilar.png)<span class="featTooltipContents">ID: 636**Ballgown Havilar (Havilar)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/ballgownhavilar.gif" alt="Ballgown Havilar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ballgownhavilar-1.gif" alt="Ballgown Havilar Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ballgownhavilar-2.gif" alt="Ballgown Havilar Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ballgownhavilar-3.gif" alt="Ballgown Havilar Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ballgownhavilar-4.gif" alt="Ballgown Havilar Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Ballgown Havilar
@@ -111,7 +111,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Winter Gloom Yorven Portrait](images/skin_portraits/wintergloomyorven.png)<span class="featTooltipContents">ID: 627**Winter Gloom Yorven (Yorven)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/wintergloomyorven.gif" alt="Winter Gloom Yorven Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/wintergloomyorven-shadow_mastiff.gif" alt="Winter Gloom Yorven Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Winter Gloom Yorven Portrait](images/skin_portraits/wintergloomyorven.png)<span class="featTooltipContents">ID: 627**Winter Gloom Yorven (Yorven)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/wintergloomyorven.gif" alt="Winter Gloom Yorven Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/wintergloomyorven-shadow_mastiff.gif" alt="Winter Gloom Yorven Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Winter Gloom Yorven
@@ -128,7 +128,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cozy Halsin Portrait](images/skin_portraits/cozyhalsin.png)<span class="featTooltipContents">ID: 629**Cozy Halsin (Halsin)**<span style="display:flex;flex-direction:row"><img src="images/skin_models/cozyhalsin.gif" alt="Cozy Halsin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/cozyhalsin-bear.gif" alt="Cozy Halsin Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Cozy Halsin Portrait](images/skin_portraits/cozyhalsin.png)<span class="featTooltipContents">ID: 629**Cozy Halsin (Halsin)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/cozyhalsin.gif" alt="Cozy Halsin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/cozyhalsin-bear.gif" alt="Cozy Halsin Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Cozy Halsin
