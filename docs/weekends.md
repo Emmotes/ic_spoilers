@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/773.png">
-            <span class="weekendTooltipContents">ID: 773**Gold Slayer's Reward Chest**Loot for: Celeste, Arkhan, Virgil, Briv and Minthara<code>"for_crusaders":[2,12,115,58,154]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Slay the Darkness**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    21 November 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Minthara
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/arkhan.png'">
-                        <span class="weekendTableChampionNameplate">Arkhan</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/virgil.png'">
-                        <span class="weekendTableChampionNameplate">Virgil</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/briv.png'">
-                        <span class="weekendTableChampionNameplate">Briv</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/minthara.png'">
-                        <span class="weekendTableChampionNameplate">Minthara</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/774.png">
             <span class="weekendTooltipContents">ID: 774**Gold Commercial Chest**Loot for: Makos, Calliope, Havilar, Artemis and Hank<code>"for_crusaders":[9,5,56,54,163]</code></span>
         </span>
