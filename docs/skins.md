@@ -162,7 +162,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 630**Warmduke (Warduke)**<img src="images/skin_models/warmduke.gif" alt="Warmduke Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Warmduke Portrait](images/skin_portraits/warmduke.png)<span class="featTooltipContents">ID: 630**Warmduke (Warduke)**<img src="images/skin_models/warmduke.gif" alt="Warmduke Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Warmduke
@@ -213,7 +213,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">**Cozy Tess (Tess)**<img src="images/skin_models/cozytess.gif" alt="Cozy Tess Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Cozy Tess Portrait](images/skin_portraits/cozytess.png)<span class="featTooltipContents">**Cozy Tess (Tess)**<img src="images/skin_models/cozytess.gif" alt="Cozy Tess Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Cozy Tess
