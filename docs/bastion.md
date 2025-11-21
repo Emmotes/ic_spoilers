@@ -19,6 +19,12 @@ This appears to be some kind of new system in the game. We know nothing about it
 > "key": "saving_bastion_layout",  
 > "contents": "Saving Bastion Layout..."
 
+> "key": "events_bastion_unlock_condition",  
+> "contents": "Unlock the Bastion's Observatory to access Events!"
+
+> "key": "patrons_bastion_unlock_condition",  
+> "contents": "Unlock the Bastion's Parlor to access Patrons!"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
