@@ -592,7 +592,15 @@ This Tales drop will allow unlocking Ravengard and Spurt.
     </span>
 </span>
 
-## Mixed 12 Variants - 25 February 2026
+## Tales 7 - 25 February 2026
+
+This Tales drop will allow unlocking Shadowheart and Baeloth.
+
+<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md).
+
+- No adventures or variants detected yet.
+
+## Mixed 12 Variants - 25 March 2026
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
