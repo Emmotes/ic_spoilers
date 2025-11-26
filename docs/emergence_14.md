@@ -1,8 +1,6 @@
 [Back to Main](index.md)
 
-{% comment %}
 ![Emergence 14 Banner](images/emergence_14/banner.png)
-{% endcomment %}
 
 # Emergence 14
 
@@ -20,6 +18,15 @@ We know the next Emergence event will be Winter Beasts and that it will start on
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Pigmint**</span>
             <span style="margin-left:15px">Marvelous Support Pigment</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Cozy Calliope Skin Portrait](images/emergence_14/skin_635.png)<span class="itemTooltipContents">ID: 635**Cozy Calliope (Calliope)**<img src="images/emergence_14/skin_635.gif" alt="Cozy Calliope Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Cozy Calliope</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
