@@ -149,23 +149,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Skylla</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Keen Athlete Icon](images/featicons/2attributeboost.png)<span class="featTooltipContents">ID: 2348**Keen Athlete (Skylla)**Granny expects me to be at my very best, to do my very worst.<br><br><span style="color:var(--Flavescent)">Increases the Intelligence score of Skylla by 1. Increases the Strength score of Skylla by 1.</span><code>increase_ability_score,int,1<br>increase_ability_score,str,1</code></span>Keen Athlete
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the Intelligence score of Skylla by 1. Increases the Strength score of Skylla by 1.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">23 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Kas</span>
         </span>
         <span class="featTableIcon4">
@@ -179,6 +162,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">23 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Skylla</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Keen Athlete Icon](images/featicons/2attributeboost.png)<span class="featTooltipContents">ID: 2348**Keen Athlete (Skylla)**Granny expects me to be at my very best, to do my very worst.<br><br><span style="color:var(--Flavescent)">Increases the Intelligence score of Skylla by 1. Increases the Strength score of Skylla by 1.</span><code>increase_ability_score,int,1<br>increase_ability_score,str,1</code></span>Keen Athlete
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the Intelligence score of Skylla by 1. Increases the Strength score of Skylla by 1.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Emergence 14</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">24 Dec 2025</span>
         </span>
     </span>
     <span class="featTableRow">
