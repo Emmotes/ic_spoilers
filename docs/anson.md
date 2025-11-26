@@ -1001,7 +1001,7 @@ Unknown.
 > Anson's brother Valen and a scared villager join the formation.  
 > 1-2 Zhentarim Thugs spawn with each wave. They don't drop gold nor count towards quest progress.  
 > You may only use Good, Unaffiliated, or Fallbacks champions.  
-> <b>Getting to Know Anson:</b> Anson's specializations choices determine which heroes he works best with. Who will you include in the formation?
+> <b>Getting to Know Anson:</b> Anson's specialization choices determine which heroes he works best with. Who will you include in the formation?
 </div></div>
 
 # Other Champion Images
