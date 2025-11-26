@@ -4,9 +4,11 @@
 
 A list of the upcoming content drops. Just be aware that the dates and order of these content drops are educated guesses based on the order their graphics appear in the definitions. CNE have been known to release content drops in different orders - so don't be surprised if that happens again.
 
-## Tales 4 - 26 November 2025
+## Tales 5 - 23 December 2025
 
-This Tales drop will allow unlocking Havilar and Hank.
+This Tales drop will allow unlocking Kas and Nordom.
+
+<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md).
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -137,11 +139,9 @@ This Tales drop will allow unlocking Havilar and Hank.
     </span>
 </span>
 
-## Tales 5 - 23 December 2025
+## Tales 6 - 30 December 2025
 
-This Tales drop will allow unlocking Kas and Nordom.
-
-<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md).
+This Tales drop will allow unlocking Ravengard and Spurt.
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -272,7 +272,7 @@ This Tales drop will allow unlocking Kas and Nordom.
     </span>
 </span>
 
-## Mixed 12 Variants - 30 December 2025
+## Mixed 12 Variants - 28 January 2026
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -459,9 +459,11 @@ This Tales drop will allow unlocking Kas and Nordom.
     </span>
 </span>
 
-## Tales 6 - 28 January 2026
+## Tales 7 - 25 February 2026
 
-This Tales drop will allow unlocking Ravengard and Spurt.
+This Tales drop will allow unlocking Baeloth and Shadowheart.
+
+<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md).
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -592,15 +594,138 @@ This Tales drop will allow unlocking Ravengard and Spurt.
     </span>
 </span>
 
-## Tales 7 - 25 February 2026
+## Tales 8 - 25 March 2026
 
-This Tales drop will allow unlocking Shadowheart and Baeloth.
+<span class="contentDropsTableColumn">
+    <span class="contentDropsTableRowHeader">
+        <span class="contentDropsTableIcons">
+            <span style="margin-left:8px;">**Icon**</span>
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">**Campaign**</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">**Adventure Name**</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">**Type**</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Tales: Battle Brawl (Adventure)](images/contentdrop_portraits/tales_battlebrawl_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Tales</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Battle Brawl</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Adventure</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Battle Brawl: (Variant 1)](images/contentdrop_portraits/tales_battlebrawl_1.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Tales</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Battle Brawl:</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #1</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Battle Brawl: (Variant 2)](images/contentdrop_portraits/tales_battlebrawl_2.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Tales</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Battle Brawl:</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #2</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Battle Brawl: (Variant 3)](images/contentdrop_portraits/tales_battlebrawl_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Tales</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Battle Brawl:</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Tales: Dark Moon (Adventure)](images/contentdrop_portraits/tales_darkmoon_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Tales</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Dark Moon</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Adventure</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Dark Moon (Variant 1)](images/contentdrop_portraits/tales_darkmoon_1.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Tales</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Dark Moon</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #1</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Dark Moon (Variant 2)](images/contentdrop_portraits/tales_darkmoon_2.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Tales</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Dark Moon</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #2</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Dark Moon (Variant 3)](images/contentdrop_portraits/tales_darkmoon_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Tales</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Dark Moon</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+</span>
 
-<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md).
-
-- No adventures or variants detected yet.
-
-## Mixed 12 Variants - 25 March 2026
+## Mixed 12 Variants - 22 April 2026
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
