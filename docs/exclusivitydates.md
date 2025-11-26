@@ -526,6 +526,23 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">19 Feb 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Sheila</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Best Friends Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2357**Best Friends (Sheila)**I trust my friends, and they trust me! We'll always be together!<br><br><span style="color:var(--Flavescent)">Increases the effect of Sheila's Meekly Meeting, Youthful Allies and A Rosy Outlook by 80%. (Prestack)</span><code>buff_upgrades,80,16541,16542,16543</code></span>Best Friends
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Sheila's Meekly Meeting, Youthful Allies and A Rosy Outlook by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">26 Feb 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
