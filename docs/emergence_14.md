@@ -22,6 +22,16 @@ We know the next Emergence event will be Winter Beasts and that it will start on
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Golden Epic Icon for Blooshi Slot 1](images/emergence_14/ge_2524.png)<span class="itemTooltipContents">ID: 2524**Staff of the Reanimated (Blooshi)**If you could sum me up, spooky flowers and teeth would be a good start.<br><br><span style="color:var(--Flavescent)">All Champions damage +230%.</span><code>global_dps_multiplier_mult,230</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Staff of the Reanimated</span>
+            <span style="margin-left:15px">Blooshi (Slot 1)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
             <span class="tooltipHolder">![Cozy Calliope Skin Portrait](images/emergence_14/skin_635.png)<span class="itemTooltipContents">ID: 635**Cozy Calliope (Calliope)**<img src="images/emergence_14/skin_635.gif" alt="Cozy Calliope Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
@@ -37,6 +47,16 @@ We know the next Emergence event will be Winter Beasts and that it will start on
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Vengeful Composure</span>
             <span style="margin-left:15px">Minthara</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Keen Athlete Feat Icon](images/emergence_14/feat_2348.png)<span class="featTooltipContents">ID: 2348**Keen Athlete (Skylla)**Granny expects me to be at my very best, to do my very worst.<br><br><span style="color:var(--Flavescent)">Increases the Intelligence score of Skylla by 1. Increases the Strength score of Skylla by 1.</span><code>increase_ability_score,int,1<br>increase_ability_score,str,1</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Keen Athlete</span>
+            <span style="margin-left:15px">Skylla</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
