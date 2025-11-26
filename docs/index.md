@@ -153,6 +153,31 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="donaar.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Donaar Blit'zen Portrait Icon](images/donaar/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Donaar Blit'zen
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Dragonborn Paladin of Acq Inc "C" Team</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Grand Revel - Delayed until 11 February 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 {::nomarkdown}
@@ -308,6 +333,34 @@ These are the upcoming new and reworked champions and where they'll be found.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="donaar.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Donaar Blit'zen Portrait Icon](images/donaar/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Donaar Blit'zen
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Dragonborn Paladin of Acq Inc "C" Team</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 11 February 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rework ♻️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 </div></div>
 
@@ -322,7 +375,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 Miscellaneous spoilers with due dates.
 
 * [XBox Exclusive Giveaway](platform_giveaway_656.md) - 3 December 2025
-* [Unknown Exclusive Giveaway](platform_giveaway_657.md) - 11 December 2025
+* [EGS (Guess) Exclusive Giveaway](platform_giveaway_657.md) - 11 December 2025
 * [Emergence 14](emergence_14.md) - 24 December 2025
 * [Bastion](bastion.md) - ???
 * [Lawful Modron Core](lawful_modron_core.md) - ???
