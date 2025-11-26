@@ -297,7 +297,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Owlsworth the Snowy Owl Familiar Portrait](images/premiums/familiar_295.png)<span class="itemTooltipContents">ID: 295**Owlsworth the Snowy Owl**Most fear Owlsworth. One didn’t. He doesn't come back now.<img src="images/premiums/familiar_295.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Owlsworth the Snowy Owl Familiar Portrait](images/premiums/familiar_295.png)<span class="itemTooltipContents">ID: 295**Owlsworth the Snowy Owl**Most fear Owlsworth. One didn't. He doesn't come back now.<img src="images/premiums/familiar_295.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

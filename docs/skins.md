@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Ballgown Havilar Portrait](images/skin_portraits/ballgownhavilar.png)<span class="featTooltipContents">ID: 636**Ballgown Havilar (Havilar)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/ballgownhavilar.gif" alt="Ballgown Havilar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ballgownhavilar-1.gif" alt="Ballgown Havilar Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ballgownhavilar-2.gif" alt="Ballgown Havilar Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ballgownhavilar-3.gif" alt="Ballgown Havilar Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ballgownhavilar-4.gif" alt="Ballgown Havilar Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Ballgown Havilar
-        </span>
-        <span class="skinTableSource">
-            Adventure: Charging Up
-        </span>
-        <span class="skinTableCost">
-            Free
-        </span>
-        <span class="skinTableDate">
-            26 Nov 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Trickster Hank Portrait](images/skin_portraits/tricksterhank.png)<span class="featTooltipContents">ID: 637**Trickster Hank (Hank)**<img src="images/skin_models/tricksterhank.gif" alt="Trickster Hank Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Trickster Hank
-        </span>
-        <span class="skinTableSource">
-            Adventure: Crossover Episode
-        </span>
-        <span class="skinTableCost">
-            Free
-        </span>
-        <span class="skinTableDate">
-            26 Nov 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Trickster Sheila Portrait](images/skin_portraits/trickstersheila.png)<span class="featTooltipContents">ID: 624**Trickster Sheila (Sheila)**<img src="images/skin_models/trickstersheila.gif" alt="Trickster Sheila Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
