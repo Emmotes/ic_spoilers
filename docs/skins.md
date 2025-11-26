@@ -9,23 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Trickster Sheila Portrait](images/skin_portraits/trickstersheila.png)<span class="featTooltipContents">ID: 624**Trickster Sheila (Sheila)**<img src="images/skin_models/trickstersheila.gif" alt="Trickster Sheila Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Trickster Sheila
-        </span>
-        <span class="skinTableSource">
-            Trickster Sheila Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            26 Nov 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Cozy Tess Portrait](images/skin_portraits/cozytess.png)<span class="featTooltipContents">ID: 634**Cozy Tess (Tess)**<img src="images/skin_models/cozytess.gif" alt="Cozy Tess Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

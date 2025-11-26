@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Hank</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2349**Prodigal Leader (Hank)**I won't leave a single one of my friends behind!<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Tales of the Champions</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">26 Nov 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Sheila</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Best Friends Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2357**Best Friends (Sheila)**I trust my friends, and they trust me! We'll always be together!<br><br><span style="color:var(--Flavescent)">Increases the effect of Sheila's Meekly Meeting, Youthful Allies and A Rosy Outlook by 80%. (Prestack)</span><code>buff_upgrades,80,16541,16542,16543</code></span>Best Friends
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Sheila's Meekly Meeting, Youthful Allies and A Rosy Outlook by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">26 Nov 2025<br>26 Feb 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Tess</span>
         </span>
         <span class="featTableIcon4">
