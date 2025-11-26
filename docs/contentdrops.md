@@ -27,139 +27,6 @@ This Tales drop will allow unlocking Kas and Nordom.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Tales: Market Mischief (Adventure)](images/contentdrop_portraits/tales_marketmischief_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Market Mischief</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Market Mischief (Variant 1)](images/contentdrop_portraits/tales_marketmischief_1.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Market Mischief</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #1</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Market Mischief (Variant 2)](images/contentdrop_portraits/tales_marketmischief_2.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Market Mischief</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #2</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Market Mischief (Variant 3)](images/contentdrop_portraits/tales_marketmischief_3.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Market Mischief</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #3</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Tales: Tricksy Pixie (Adventure)](images/contentdrop_portraits/tales_tricksypixie_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Tricksy Pixie</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Tricksy Pixie (Variant 1)](images/contentdrop_portraits/tales_tricksypixie_1.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Tricksy Pixie</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #1</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Tricksy Pixie (Variant 2)](images/contentdrop_portraits/tales_tricksypixie_2.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Tricksy Pixie</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #2</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Tricksy Pixie (Variant 3)](images/contentdrop_portraits/tales_tricksypixie_3.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Tricksy Pixie</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #3</span>
-        </span>
-    </span>
-</span>
-
-## Tales 6 - 30 December 2025
-
-This Tales drop will allow unlocking Ravengard and Spurt.
-
-<span class="contentDropsTableColumn">
-    <span class="contentDropsTableRowHeader">
-        <span class="contentDropsTableIcons">
-            <span style="margin-left:8px;">**Icon**</span>
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">**Campaign**</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">**Adventure Name**</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">**Type**</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
             ![Tales: Ashes of the Past (Adventure)](images/contentdrop_portraits/tales_ashesofthepast_0.png)
         </span>
         <span class="contentDropsTableCampaign">
@@ -272,7 +139,7 @@ This Tales drop will allow unlocking Ravengard and Spurt.
     </span>
 </span>
 
-## Mixed 12 Variants - 28 January 2026
+## Mixed 12 Variants - 30 December 2025
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -459,11 +326,9 @@ This Tales drop will allow unlocking Ravengard and Spurt.
     </span>
 </span>
 
-## Tales 7 - 25 February 2026
+## Tales 6 - 28 January 2026
 
-This Tales drop will allow unlocking Baeloth and Shadowheart.
-
-<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md).
+This Tales drop will allow unlocking Ravengard and Spurt.
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -594,7 +459,11 @@ This Tales drop will allow unlocking Baeloth and Shadowheart.
     </span>
 </span>
 
-## Tales 8 - 25 March 2026
+## Tales 7 - 25 February 2026
+
+This Tales drop will allow unlocking Baeloth and Shadowheart.
+
+<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md).
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -725,7 +594,7 @@ This Tales drop will allow unlocking Baeloth and Shadowheart.
     </span>
 </span>
 
-## Mixed 12 Variants - 22 April 2026
+## Mixed 12 Variants - 25 March 2026
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
