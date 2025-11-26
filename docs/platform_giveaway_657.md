@@ -1,11 +1,11 @@
 [Back to Main](index.md)
 
-# Unknown Exclusive Giveaway
+# EGS (Guess) Exclusive Giveaway
 
-Contents of an upcoming Unknown exclusive platform giveaway have been spoiled.
+Contents of an upcoming EGS (Guess) exclusive platform giveaway have been spoiled.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 657</div>
-### Cozy Dark Urge Party Pack - $19.99  
+### Cozy Dark Urge Party Pack - $24.99  
 Date of release: 11 December 2025
 
 > 
