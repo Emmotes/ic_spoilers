@@ -109,11 +109,182 @@ Unknown.
 
 # Abilities
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Flawless Strike** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 28320,
+    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Formation_KyreFlawlessStrike",
+    "v": 4,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "formation_icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Invigorating Radiance** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 28321,
+    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Formation_KyreInvigoratingRadiance",
+    "v": 4,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "formation_icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Radiant Soul** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 28322,
+    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Formation_KyreRadiantSoul",
+    "v": 4,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "formation_icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Stunning Strike** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 28323,
+    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Formation_KyreStunningStrike",
+    "v": 4,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "formation_icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Specialisations
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Complete Control** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 28330,
+    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Specialization_KyreCompleteControl",
+    "v": 4,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "specialization_icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Faster Than Light** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 28331,
+    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Specialization_KyreFasterThanLight",
+    "v": 4,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "specialization_icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Pure of Soul** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 28332,
+    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Specialization_KyrePureOfSoul",
+    "v": 4,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "specialization_icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Items
 
@@ -194,6 +365,14 @@ Unknown.
     <span class="championImagesRow">
         <span class="championImagesPortrait">
             ![Kyre Console Portrait](images/kyre/console.png)Console Portrait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Kyre Gold Chest Icon](images/kyre/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Kyre Silver Chest Icon](images/kyre/chest_silver.png)Silver Chest Icon
         </span>
     </span>
 </span>
