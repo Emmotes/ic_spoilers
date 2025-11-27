@@ -283,6 +283,40 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">30 Dec 2025<br>30 Mar 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Spurt</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Free Agent Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2442**Free Agent (Spurt)**Agent Spurt, ready! Let's have some FUN! Together, WE WIN!<code>todo<br>DevNote: increases the Global DPS by 20% for each Unaffiliated Champion in the formation</code></span>Free Agent
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Tales of the Champions</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">28 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Ravengard</span>
+        </span>
+        <span class="featTableIcon4">
+            ![No Compromises Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2441**No Compromises (Ravengard)**As Grand Duke, my morals are tested time and again. I must not lose myself.<code>todo<br>DevNote: Change Alignment to Lawful Good</code></span>No Compromises
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Tales of the Champions</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">28 Jan 2026</span>
+        </span>
+    </span>
 </span>
 
 # Placeholder Date Feats
