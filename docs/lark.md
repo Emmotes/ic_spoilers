@@ -23,7 +23,7 @@
 
 Lark, a bard with as many secrets as songs.
 
-[The Fallbacks: Bound for Ruin - Fandom Wiki](https://forgottenrealms.fandom.com/wiki/The_Fallbacks:_Bound_for_Ruin)
+[The Fallbacks: Bound for Ruin - Fandom Wiki](https://forgottenrealms.fandom.com/wiki/The_Fallbacks:_Bound_for_Ruin){:target="_blank"}
 
 # Basic Information
 

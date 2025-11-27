@@ -2,7 +2,7 @@
 
 # Blessings
 
-A list of upcoming blessings that we know of and their assumed source. The vast majority will come from [Content Drops](contentdrops.md) but some are occasionally added because CNE want to increase the number of tiers in old campaigns.
+A list of upcoming blessings that we know of and their assumed source. The vast majority will come from [Content Drops](contentdrops.md){:target="_blank"} but some are occasionally added because CNE want to increase the number of tiers in old campaigns.
 
 ## Tales 5 - 23 December 2025 (Guess)
 

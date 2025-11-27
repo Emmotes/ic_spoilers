@@ -8,7 +8,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
 
 This Tales drop will allow unlocking Kas and Nordom.
 
-<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md).
+<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md){:target="_blank"}.
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
@@ -463,7 +463,7 @@ This Tales drop will allow unlocking Ravengard and Spurt.
 
 This Tales drop will allow unlocking Baeloth and Shadowheart.
 
-<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md).
+<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md){:target="_blank"}.
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
