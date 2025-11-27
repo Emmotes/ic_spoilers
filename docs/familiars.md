@@ -107,6 +107,159 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             30 Dec 2025
         </span>
     </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Clarkemoore the Goat Portrait](images/familiars/clarkemoorethegoat.png)<span class="featTooltipContents">ID: 307**Clarkemoore the Goat**The greatest of all time, in his own mind.<img src="images/familiars/clarkemoorethegoat.gif" alt="Clarkemoore the Goat Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Clarkemoore the Goat
+        </span>
+        <span class="skinTableSource">
+            Unknown Premium Pack
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 303**Froth the Pintling**Binwin used magic to make a winter ale and accidentally created a malt-born elemental.</span></span>
+        </span>
+        <span class="skinTableName">
+            Froth the Pintling
+        </span>
+        <span class="skinTableSource">
+            Unknown Premium Pack
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 305**Jar of Green Slime**'This is my brother - say hi brother!'~ Spurt</span></span>
+        </span>
+        <span class="skinTableName">
+            Jar of Green Slime
+        </span>
+        <span class="skinTableSource">
+            Unknown Premium Pack
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Lord Brook the Marid Portrait](images/familiars/lordbrookthemarid.png)<span class="featTooltipContents">ID: 308**Lord Brook the Marid**Beware wishes granted by this little watery lord.<img src="images/familiars/lordbrookthemarid.gif" alt="Lord Brook the Marid Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Lord Brook the Marid
+        </span>
+        <span class="skinTableSource">
+            Unknown Premium Pack
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 304**Meek the Kobold**Nobody trods on Meek! Nobody!</span></span>
+        </span>
+        <span class="skinTableName">
+            Meek the Kobold
+        </span>
+        <span class="skinTableSource">
+            Unknown Premium Pack
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Sleet the Jackalope Portrait](images/familiars/sleetthejackalope.png)<span class="featTooltipContents">ID: 302**Sleet the Jackalope**Mysterious cryptid hidden beyond the Spine of the World.<img src="images/familiars/sleetthejackalope.gif" alt="Sleet the Jackalope Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Sleet the Jackalope
+        </span>
+        <span class="skinTableSource">
+            Unknown Premium Pack
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 306**Soul the Sun Elemental**We are made of star-stuff.</span></span>
+        </span>
+        <span class="skinTableName">
+            Soul the Sun Elemental
+        </span>
+        <span class="skinTableSource">
+            Unknown Premium Pack
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 309**Splash the Water Elemental**The consummate puddle jumper.</span></span>
+        </span>
+        <span class="skinTableName">
+            Splash the Water Elemental
+        </span>
+        <span class="skinTableSource">
+            Unknown Premium Pack
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Splinter the Wooden Sword Portrait](images/familiars/splinterthewoodensword.png)<span class="featTooltipContents">ID: 301**Splinter the Wooden Sword**You never forget your first practice sword.<img src="images/familiars/splinterthewoodensword.gif" alt="Splinter the Wooden Sword Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Splinter the Wooden Sword
+        </span>
+        <span class="skinTableSource">
+            Unknown Premium Pack
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)
