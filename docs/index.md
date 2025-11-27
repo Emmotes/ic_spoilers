@@ -374,11 +374,11 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
+* [Lawful Modron Core](lawful_modron_core.md) - 3 December 2025 (Guess)
 * [XBox Exclusive Giveaway](platform_giveaway_656.md) - 3 December 2025
 * [EGS (Guess) Exclusive Giveaway](platform_giveaway_657.md) - 11 December 2025
 * [Emergence 14](emergence_14.md) - 24 December 2025
 * [Bastion](bastion.md) - ???
-* [Lawful Modron Core](lawful_modron_core.md) - ???
 
 # Misc
 
