@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/774.png">
-            <span class="weekendTooltipContents">ID: 774**Gold Commercial Chest**Loot for: Makos, Calliope, Havilar, Artemis and Hank<code>"for_crusaders":[9,5,56,54,163]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **We'll Be Right Back**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    28 November 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Hank
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/havilar.png'">
-                        <span class="weekendTableChampionNameplate">Havilar</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/artemis.png'">
-                        <span class="weekendTableChampionNameplate">Artemis</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hank.png'">
-                        <span class="weekendTableChampionNameplate">Hank</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/777.png">
             <span class="weekendTooltipContents">ID: 777**Gold Harmony Chest**Loot for: Jarlaxle, Celeste, Cazrin, Tess and Lark<code>"for_crusaders":[4,2,166,164,170]</code></span>
         </span>
