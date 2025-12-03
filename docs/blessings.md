@@ -20,7 +20,7 @@ A list of upcoming blessings that we know of and their assumed source. The vast 
             <span style="margin-left: 8px;">Local</span>
         </span>
         <span class="blessingsTableEffect">
-            <span style="margin-left: 8px;">Increase the damage of all Human, Tabaxi, and Githyanki by 100%.</span>
+            <span style="margin-left: 8px;">Increase the damage of all Human, Tabaxi, and Githyanki by X%.</span>
         </span>
     </span>
     <span class="blessingsTableRow">
