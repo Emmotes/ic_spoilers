@@ -57,7 +57,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Support / Control (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -96,87 +96,173 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/kyre/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Kyre" fill="#aaa" data-formationName="Kyre" data-campaignName="Grand Revel" width="260" height="140"><circle cx="135" cy="45" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="55" cy="85" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="65" r="15"/><circle cx="15" cy="105" r="15"/><text x="165" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Kyre</text><text x="165" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Grand Revel</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Radiant Sun Bolt** (Magic)
+> Kyre attacks the enemy with the most remaining health with a searing bolt of magical radiance, dealing 1 hit.  
+> Cooldown: 3.5s (Cap 0.875s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 935,
+    "name": "Radiant Sun Bolt",
+    "description": "Kyre attacks the enemy with the most remaining health with a searing bolt of magical radiance, dealing 1 hit.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 3.5,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_offset_y": -63,
+            "shoot_offset_x": 100,
+            "shoot_frame": 14,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "3991cd5b5876b1b70359d7edd687cf5f",
+                "target_offset_y": 0,
+                "projectile_speed": 2250,
+                "projectile_graphic_id": 28290
+            }
+        }
+    ],
+    "tags": [
+        "ranged",
+        "magic"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Radiant Sun Bolt** (Magic)
+> Kyre attacks the two enemies with the most remaining health with a searing bolt of magical radiance, dealing 1 hit to each target. (If only one target remains, deal 2 hits to that target.)  
+> Cooldown: 3.5s (Cap 0.875s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 936,
+    "name": "Radiant Sun Bolt",
+    "description": "Kyre attacks the two enemies with the most remaining health with a searing bolt of magical radiance, dealing 1 hit to each target. (If only one target remains, deal 2 hits to that target.)",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 2,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 3.5,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_offset_y": -63,
+            "shoot_offset_x": 100,
+            "shoot_frame": 14,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "3991cd5b5876b1b70359d7edd687cf5f",
+                "target_offset_y": 0,
+                "projectile_speed": 2250,
+                "projectile_graphic_id": 28290
+            }
+        }
+    ],
+    "tags": [
+        "ranged",
+        "magic",
+        "multitarget"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Unknown**
+> Kyre creates a wave of radiant light and fire, dealing 1 ultimate hit to enemies it envelopes.  
+> Cooldown: 150s (Cap 37.5s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 937,
+    "name": "Searing Arc Strike",
+    "description": "Kyre creates an energy wave, dealing 1 ultimate hit to affected enemies.\r\n",
+    "long_description": "Kyre creates a wave of radiant light and fire, dealing 1 ultimate hit to enemies it envelopes.",
+    "graphic_id": 28335,
+    "target": "random",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 0.03,
+    "cooldown": 150,
+    "animations": [
+        {
+            "type": "kyre_ultimate"
+        }
+    ],
+    "tags": [
+        "melee",
+        "ultimate"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Flawless Strike** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 28320,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Formation_KyreFlawlessStrike",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Invigorating Radiance** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 28321,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Formation_KyreInvigoratingRadiance",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Radiant Soul** (Guess)
-> Unknown effect.
+> Kyre increases the damage of all Champions adjacent to them by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28322,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Formation_KyreRadiantSoul",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
+    "id": 2593,
+    "flavour_text": "",
+    "description": {
+        "desc": "Kyre increases the damage of all Champions adjacent to them by $amount%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "adj"
+            ],
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 28322,
+    "large_graphic_id": 28318,
+    "properties": {
+        "is_formation_ability": true
     }
 }
 </pre>
@@ -186,22 +272,155 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Stunning Strike** (Guess)
-> Unknown effect.
+> Kyre's normal attacks have a 100% chance to stun their target(s) for 10 seconds. This chance is multiplicatively reduced by 25% each time they stun an enemy with this ability, but resets back to full when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28323,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Formation_KyreStunningStrike",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
+    "id": 2594,
+    "flavour_text": "",
+    "description": {
+        "desc": "Kyre's normal attacks have a $base_chance% chance to stun their target(s) for $duration seconds. This chance is multiplicatively reduced by 25% each time they stun an enemy with this ability, but resets back to full when changing areas."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "add_attack_stun,100",
+            "base_chance": 100,
+            "duration": 10,
+            "graphic": 1509,
+            "manual_stacking": true,
+            "amount_func": "by_expr",
+            "amount_by_expr": "base_chance*pow(0.75,input)",
+            "more_triggers": [
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reset"
+                    }
+                },
+                {
+                    "trigger": "monster_stunned_by_owner",
+                    "action": {
+                        "type": "add_stack"
+                    }
+                }
+            ],
+            "stack_title": "Stuns This Area",
+            "show_stacks": true,
+            "use_computed_amount_for_description": true,
+            "amount_updated_listeners": [
+                "area_changed",
+                "owner_attack_ended"
+            ],
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 28323,
+    "large_graphic_id": 28319,
+    "properties": {
+        "is_formation_ability": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "owner_use_outgoing_description": true,
+        "show_incoming": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Invigorating Radiance** (Guess)
+> Each time any Champion in the formation attacks a stunned enemy, Kyre gains a Radiance stack. Kyre increases the effect of Radiant Soul by 100% for each Radiance stack, stacking multiplicatively up to 100 stacks and resetting when changing areas.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2595,
+    "flavour_text": "",
+    "description": {
+        "desc": "Each time any Champion in the formation attacks a stunned enemy, Kyre gains a Radiance stack. Kyre increases the effect of Radiant Soul by $amount% for each Radiance stack, stacking multiplicatively up to $max_stacks stacks and resetting when changing areas."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,10,18667",
+            "amount_func": "mult",
+            "amount_expr": "upgrade_amount(18669,0)",
+            "max_stacks": 25,
+            "manual_stacking": true,
+            "stack_title": "Radiance Stacks",
+            "stacks_multiply": true,
+            "more_triggers": [
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reset"
+                    }
+                },
+                {
+                    "trigger": "hero_attack_ended_no_kill",
+                    "action": {
+                        "type": "add_stack",
+                        "stunned_only": true
+                    }
+                }
+            ],
+            "show_bonus": true,
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 28321,
+    "large_graphic_id": 28317,
+    "properties": {
+        "is_formation_ability": true,
+        "show_incoming": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Flawless Strike** (Guess)
+> Champions that attack a stunned enemy have a 20% additively increased chance to critically hit that enemy and deal 100% more critical damage.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2596,
+    "flavour_text": "",
+    "description": {
+        "desc": "Champions that attack a stunned enemy have a $amount% additively increased chance to critically hit that enemy and deal $amount___2% more critical damage."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "if_stunned_buff_base_crit_change_add,20",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "increase_damage_when_monster_stunned,100",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 28320,
+    "large_graphic_id": 28316,
+    "properties": {
+        "is_formation_ability": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -213,22 +432,31 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Complete Control** (Guess)
-> Unknown effect.
+> Increases the effect of Radiant Soul by 100% for each Champion in the formation with the Control role, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28330,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Specialization_KyreCompleteControl",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2597,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increases the effect of Radiant Soul by $amount% for each Champion in the formation with the Control role, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,18671",
+            "stack_func": "per_hero_attribute",
+            "amount_func": "mult",
+            "per_hero_expr": "HasTag(`control`)",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 28330,
+    "large_graphic_id": 28330,
+    "properties": {
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Control Champions: $num_stacks"
     }
 }
 </pre>
@@ -238,22 +466,31 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Faster Than Light** (Guess)
-> Unknown effect.
+> Increases the effect of Radiant Soul by 100% for each Champion with a Dexterity of 16 or higher in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28331,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Specialization_KyreFasterThanLight",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2598,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increases the effect of Radiant Soul by $amount% for each Champion with a Dexterity of 16 or higher in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,18671",
+            "stack_func": "per_hero_attribute",
+            "amount_func": "mult",
+            "per_hero_expr": "GetStat(`dex`) >= 16",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 28331,
+    "large_graphic_id": 28331,
+    "properties": {
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "DEX 16+ Champions: $num_stacks"
     }
 }
 </pre>
@@ -263,22 +500,39 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Pure of Soul** (Guess)
-> Unknown effect.
+> Increases the effect of Radiant Soul by 100% for each Good Champion in the formation, stacking multiplicatively. In addition, Champions adjacent to Kyre gain the Good tag. This does not affect their other alignment tags, and doesn't affect whether they are eligible for the adventure.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28332,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Specialization_KyrePureOfSoul",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2599,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increases the effect of Radiant Soul by $amount% for each Good Champion in the formation, stacking multiplicatively. In addition, Champions adjacent to Kyre gain the Good tag. This does not affect their other alignment tags, and doesn't affect whether they are eligible for the adventure."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,18671",
+            "stack_func": "per_hero_attribute",
+            "amount_func": "mult",
+            "per_hero_expr": "HasTag(`good`)",
+            "off_when_benched": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "add_hero_tags,0,good",
+            "targets": [
+                "adj"
+            ],
+            "hide_amount_rate": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 28332,
+    "large_graphic_id": 28332,
+    "properties": {
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Qualifying Champions: $num_stacks"
     }
 }
 </pre>
@@ -357,7 +611,22 @@ Unknown.
 
 # Adventures and Variants
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unlock Adventure: The Missing Merchants (Kyre)** (Complete Area 50)
+> Discover the fate of some merchants in the jungles of Chult.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 1: Variant 1** (Complete Area 75)
+> 
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 2: Variant 2** (Complete Area 125)
+> 
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 3: Variant 3** (Complete Area 175)
+> 
+</div></div>
 
 # Other Champion Images
 
