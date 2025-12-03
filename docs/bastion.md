@@ -35,6 +35,27 @@ Some graphics were found that had the format `Bastion/Rooms/Hallway/...`:
 > [bastion_wall_hallway_sidewalltop.png](images/bastion/rooms/hallway/bastion_wall_hallway_sidewalltop.png){:target="_blank"}  
 > [bastion_wall_hallway_sidewalltopcorner.png](images/bastion/rooms/hallway/bastion_wall_hallway_sidewalltopcorner.png){:target="_blank"}  
 
+## Tavern
+
+Some graphics were found that had the format `Bastion/Rooms/Tavern/...`:
+
+> [bastion_doodad_barrel.png](images/bastion/rooms/tavern/bastion_doodad_barrel.png){:target="_blank"}  
+> [bastion_doodad_bartop.png](images/bastion/rooms/tavern/bastion_doodad_bartop.png){:target="_blank"}  
+> [bastion_doodad_candle.png](images/bastion/rooms/tavern/bastion_doodad_candle.png){:target="_blank"}  
+> [bastion_doodad_diagonalchair.png](images/bastion/rooms/tavern/bastion_doodad_diagonalchair.png){:target="_blank"}  
+> [bastion_doodad_longshelf.png](images/bastion/rooms/tavern/bastion_doodad_longshelf.png){:target="_blank"}  
+> [bastion_doodad_roundtable.png](images/bastion/rooms/tavern/bastion_doodad_roundtable.png){:target="_blank"}  
+> [bastion_doodad_stool.png](images/bastion/rooms/tavern/bastion_doodad_stool.png){:target="_blank"}  
+> [bastion_doodad_winerack.png](images/bastion/rooms/tavern/bastion_doodad_winerack.png){:target="_blank"}  
+> [bastion_floor_woodhorz_panel1.png](images/bastion/rooms/tavern/bastion_floor_woodhorz_panel1.png){:target="_blank"}  
+> [bastion_floor_woodvertical_panel1.png](images/bastion/rooms/tavern/bastion_floor_woodvertical_panel1.png){:target="_blank"}  
+> [bastion_general_backwallgradient.png](images/bastion/rooms/tavern/bastion_general_backwallgradient.png){:target="_blank"}  
+> [bastion_wall_tavern_cutout.png](images/bastion/rooms/tavern/bastion_wall_tavern_cutout.png){:target="_blank"}  
+> [bastion_wall_tavern_panel1.png](images/bastion/rooms/tavern/bastion_wall_tavern_panel1.png){:target="_blank"}  
+> [bastion_wall_tavern_sidewallcorner.png](images/bastion/rooms/tavern/bastion_wall_tavern_sidewallcorner.png){:target="_blank"}  
+> [bastion_wall_tavern_sidewallfront.png](images/bastion/rooms/tavern/bastion_wall_tavern_sidewallfront.png){:target="_blank"}  
+> [bastion_wall_tavern_sidewalltop.png](images/bastion/rooms/tavern/bastion_wall_tavern_sidewalltop.png){:target="_blank"}  
+
 # Text Defines
 
 > "key": "loading_bastion_details",  
