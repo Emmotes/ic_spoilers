@@ -35,57 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Wulfgar</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1330**Master's Precision (Wulfgar)**Rage will fuel my warhammer!<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Wulfgar by 20%.</span><code>buff_base_crit_chance_add,20</code></span>Master's Precision
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Additively increases the Crit Chance of Wulfgar by 20%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">03 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Cazrin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Forbidden Magic Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2290**Forbidden Magic (Cazrin)**Knowledge should be shared by everyone, not hoarded by dragons.<br><br><span style="color:var(--Flavescent)">Increases the effect of Cazrin's Self Taught and Ancestor's Shadow by 80%. (Prestack)</span><code>buff_upgrades,80,17678,17679</code></span>Forbidden Magic
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Cazrin's Self Taught and Ancestor's Shadow by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">03 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Bobby</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2227**Master's Precision (Bobby)**You wanna guess how many baddies I've bashed with this club?<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Bobby by 20%.</span><code>buff_base_crit_chance_add,20</code></span>Master's Precision
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Additively increases the Crit Chance of Bobby by 20%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">03 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Torogar</span>
         </span>
         <span class="featTableIcon4">
@@ -507,6 +456,40 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableDate">
             <span class="featTableInner">26 Feb 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lark</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Here for a Lark Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2390**Here for a Lark (Lark)**I've always wanted to do the Waterdeep After Dark tour.<br><br><span style="color:var(--Flavescent)">Increases the effect of Lark's Bardic Perspiration ability by 80%.</span><code>buff_upgrade,80,18053</code></span>Here for a Lark
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Lark's Bardic Perspiration ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">03 Mar 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Shadowheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1981**Prodigal Leader (Shadowheart)**Pain was my teacher. Let's share what I've learned.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +50%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">03 Mar 2026</span>
         </span>
     </span>
 </span>
