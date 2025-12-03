@@ -188,7 +188,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Kobold Bard</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Fleetswake - Delayed until 11 March 2026 (Guess)</span>
+                <span class="indexChampionTableNoLink">Fleetswake - Delayed until 11 March 2026</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -387,7 +387,7 @@ These are the upcoming new and reworked champions and where they'll be found.
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Deekin (Guess)
+                Deekin
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Kobold Bard</span>
@@ -416,7 +416,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* [Lawful Modron Core](lawful_modron_core.md) - 3 December 2025 (Guess)
+* [Lawful Modron Core](lawful_modron_core.md) - 10 December 2025 (Guess)
 * [EGS Exclusive Giveaway](platform_giveaway_657.md) - 11 December 2025
 * [Emergence 14](emergence_14.md) - 23 December 2025
 * [Bastion](bastion.md) - ???
