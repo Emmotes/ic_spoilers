@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cozy Lark Portrait](images/skin_portraits/cozylark.png)<span class="featTooltipContents">ID: 633**Cozy Lark (Lark)**<img src="images/skin_models/cozylark.gif" alt="Cozy Lark Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Cozy Lark
-        </span>
-        <span class="skinTableSource">
-            Cozy Lark Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            03 Dec 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Winter Gloom Shadowheart Portrait](images/skin_portraits/wintergloomshadowheart.png)<span class="featTooltipContents">ID: 626**Winter Gloom Shadowheart (Shadowheart)**<img src="images/skin_models/wintergloomshadowheart.gif" alt="Winter Gloom Shadowheart Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Winter Gloom Shadowheart
-        </span>
-        <span class="skinTableSource">
-            Winter Gloom Shadowheart Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            03 Dec 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Cozy Halsin Portrait](images/skin_portraits/cozyhalsin.png)<span class="featTooltipContents">ID: 629**Cozy Halsin (Halsin)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/cozyhalsin.gif" alt="Cozy Halsin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/cozyhalsin-bear.gif" alt="Cozy Halsin Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
