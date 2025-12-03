@@ -32,6 +32,26 @@ We know the next Emergence event will be Winter Beasts and that it will start on
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Golden Epic Icon for Windfall Slot 1](images/emergence_14/ge_3965.png)<span class="itemTooltipContents">ID: 3965**Queen's Blade (Windfall)**She rewarded me with this on the day I opened the Red Belvedere.<br><br><span style="color:var(--Flavescent)">All Champions damage +230%.</span><code>global_dps_multiplier_mult,230</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Queen's Blade</span>
+            <span style="margin-left:15px">Windfall (Slot 1)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Golden Epic Icon for Lark Slot 2](images/emergence_14/ge_4041.png)<span class="itemTooltipContents">ID: 4041**Pendant of Brilliance (Lark)**Every good performer knows when and how to make a quick exit, when necessary.<br><br><span style="color:var(--Flavescent)">Increases the effect of Lark's Uptempo Uggie ability by 275%.</span><code>buff_upgrade,275,18052</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Pendant of Brilliance</span>
+            <span style="margin-left:15px">Lark (Slot 2)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
             <span class="tooltipHolder">![Cozy Calliope Skin Portrait](images/emergence_14/skin_635.png)<span class="itemTooltipContents">ID: 635**Cozy Calliope (Calliope)**<img src="images/emergence_14/skin_635.gif" alt="Cozy Calliope Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
@@ -89,7 +109,18 @@ We know the next Emergence event will be Winter Beasts and that it will start on
             <span style="margin-left:15px">Beadle</span>
         </span>
     </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Winter Beast Emergence Chest Icon](images/emergence_14/chest_787.png)<span class="itemTooltipContents">ID: 787**Winter Beast Emergence Chest**Loot for: Beadle, Blooshi, Calliope, Lark, Minthara, Skylla and Windfall<code>"for_crusaders":[64,106,5,170,154,169,167]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Winter Beast Emergence Chest</span>
+        </span>
+    </span>
 </span>
+
+The Winter Beast Emergence Chest will contain loot for Beadle, Blooshi, Calliope, Lark, Minthara, Skylla and Windfall.
 
 {% comment %}
 # Emergence FAQ
