@@ -21,7 +21,7 @@
 
 # Kyre
 
-I have absolutely no idea who this is.
+Kyre has been confirmed as a new CNE original.
 
 # Basic Information
 
@@ -41,7 +41,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Human</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -49,7 +49,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Monk</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -73,7 +73,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Non-binary (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">

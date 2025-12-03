@@ -23,31 +23,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="lark.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Lark Portrait Icon](images/lark/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Lark
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Tiefling Bard of The Fallbacks</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Simril - 3 December 2025</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="anson.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -84,7 +59,7 @@ These are the event champions that are upcoming and all the information we know 
                 Kyre
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">&nbsp;</span>
+                <span class="indexChampionTableNoLink">Human Monk</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Grand Revel - 4 February 2026</span>
@@ -236,31 +211,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 ## Simril - 3 December 2025
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
 {::nomarkdown}
-<a href="lark.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Lark Portrait Icon](images/lark/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Lark
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Tiefling Bard of The Fallbacks</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="nordom.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -363,7 +313,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Kyre
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">&nbsp;</span>
+                <span class="indexChampionTableNoLink">Human Monk</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
