@@ -1,8 +1,8 @@
 [Back to Main](index.md)
 
-# EGS (Guess) Exclusive Giveaway
+# EGS Exclusive Giveaway
 
-Contents of an upcoming EGS (Guess) exclusive platform giveaway have been spoiled.
+Contents of an upcoming EGS exclusive platform giveaway have been spoiled.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 657</div>
 ### Cozy Dark Urge Party Pack - $24.99  

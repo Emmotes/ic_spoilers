@@ -34,7 +34,7 @@ These are the event champions that are upcoming and all the information we know 
                 Lark
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Tiefling Bard of The Fallbacks (Guess)</span>
+                <span class="indexChampionTableNoLink">Tiefling Bard of The Fallbacks</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Simril - 3 December 2025</span>
@@ -42,8 +42,6 @@ These are the event champions that are upcoming and all the information we know 
         </span>
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
-            ![Melee Attack Icon](images/general/icon_melee.png)
-            ![Ranged Attack Icon](images/general/icon_ranged.png)
         </span>
     </span>
 {::nomarkdown}
@@ -91,6 +89,9 @@ These are the event champions that are upcoming and all the information we know 
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Grand Revel - 4 February 2026</span>
             </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
     </span>
 {::nomarkdown}
@@ -205,7 +206,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Lark
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Tiefling Bard of The Fallbacks (Guess)</span>
+                <span class="indexChampionTableNoLink">Tiefling Bard of The Fallbacks</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
@@ -213,8 +214,6 @@ These are the upcoming new and reworked champions and where they'll be found.
         </span>
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
-            ![Melee Attack Icon](images/general/icon_melee.png)
-            ![Ranged Attack Icon](images/general/icon_ranged.png)
         </span>
     </span>
 {::nomarkdown}
@@ -329,6 +328,9 @@ These are the upcoming new and reworked champions and where they'll be found.
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
         </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -375,8 +377,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 Miscellaneous spoilers with due dates.
 
 * [Lawful Modron Core](lawful_modron_core.md) - 3 December 2025 (Guess)
-* [XBox Exclusive Giveaway](platform_giveaway_656.md) - 3 December 2025
-* [EGS (Guess) Exclusive Giveaway](platform_giveaway_657.md) - 11 December 2025
+* [EGS Exclusive Giveaway](platform_giveaway_657.md) - 11 December 2025
 * [Emergence 14](emergence_14.md) - 24 December 2025
 * [Bastion](bastion.md) - ???
 
