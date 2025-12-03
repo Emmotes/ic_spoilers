@@ -30,23 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Tess</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Iron Deficiency Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2439**Iron Deficiency (Tess)**Uggie needs bacon grease, apple cores, rusty nails, cat vomit, and vinegar.<br><br><span style="color:var(--Flavescent)">Increases the effect of Tess's Snack Attack ability by 80%.</span><code>buff_upgrade,80,17318</code></span>Iron Deficiency
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Tess's Snack Attack ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">03 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Shadowheart</span>
         </span>
         <span class="featTableIcon4">
@@ -166,23 +149,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Kas</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Resolute Icon](images/featicons/stunimmunity.png)<span class="featTooltipContents">ID: 2375**Resolute (Kas)**I've lost touch with my true self for too long. No more.<br><br><span style="color:var(--Flavescent)">Grants Kas immunity to stun effects.</span><code>hero_stun_immunity</code></span>Resolute
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Grants Kas immunity to stun effects.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Tales of the Champions</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">23 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Skylla</span>
         </span>
         <span class="featTableIcon4">
@@ -195,7 +161,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Emergence 14</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">24 Dec 2025</span>
+            <span class="featTableInner">23 Dec 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -212,7 +178,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Emergence 14</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">24 Dec 2025</span>
+            <span class="featTableInner">23 Dec 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -229,7 +195,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Emergence 14</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">24 Dec 2025</span>
+            <span class="featTableInner">23 Dec 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -246,7 +212,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Emergence 14</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">24 Dec 2025</span>
+            <span class="featTableInner">23 Dec 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -263,7 +229,24 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Emergence 14</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">24 Dec 2025</span>
+            <span class="featTableInner">23 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Kas</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Resolute Icon](images/featicons/stunimmunity.png)<span class="featTooltipContents">ID: 2375**Resolute (Kas)**I've lost touch with my true self for too long. No more.<br><br><span style="color:var(--Flavescent)">Grants Kas immunity to stun effects.</span><code>hero_stun_immunity</code></span>Resolute
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Grants Kas immunity to stun effects.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Tales of the Champions</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">23 Dec 2025</span>
         </span>
     </span>
     <span class="featTableRow">

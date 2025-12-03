@@ -9,23 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cozy Tess Portrait](images/skin_portraits/cozytess.png)<span class="featTooltipContents">ID: 634**Cozy Tess (Tess)**<img src="images/skin_models/cozytess.gif" alt="Cozy Tess Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Cozy Tess
-        </span>
-        <span class="skinTableSource">
-            Winter Celebration (Guess)
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            03 Dec 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Cozy Lark Portrait](images/skin_portraits/cozylark.png)<span class="featTooltipContents">ID: 633**Cozy Lark (Lark)**<img src="images/skin_models/cozylark.gif" alt="Cozy Lark Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
