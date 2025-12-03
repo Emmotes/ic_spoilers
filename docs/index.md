@@ -97,6 +97,28 @@ These are the event champions that are upcoming and all the information we know 
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="raistlinmajere.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Raistlin Majere
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Human Wizard (Guess)</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Fleetswake - 4 March 2026</span>
+            </span>
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 # Reworked Champions
@@ -179,6 +201,25 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Deekin Portrait Icon](images/deekin/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Deekin
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Kobold Bard</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Fleetswake - Delayed until 11 March 2026 (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Ranged Attack Icon](images/general/icon_ranged.png)
+        </span>
+    </span>
 </span>
 
 {::nomarkdown}
@@ -365,6 +406,55 @@ These are the upcoming new and reworked champions and where they'll be found.
 {:/nomarkdown}
 </span>
 </div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
+## Fleetswake - 4 March 2026
+<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
+{::nomarkdown}
+<a href="raistlinmajere.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Raistlin Majere
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Human Wizard (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Deekin Portrait Icon](images/deekin/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Deekin (Guess)
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Kobold Bard</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 11 March 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rework ♻️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Ranged Attack Icon](images/general/icon_ranged.png)
+        </span>
+    </span>
+</span>
+</div></div>
 
 {::nomarkdown}
 
@@ -378,7 +468,7 @@ Miscellaneous spoilers with due dates.
 
 * [Lawful Modron Core](lawful_modron_core.md) - 3 December 2025 (Guess)
 * [EGS Exclusive Giveaway](platform_giveaway_657.md) - 11 December 2025
-* [Emergence 14](emergence_14.md) - 24 December 2025
+* [Emergence 14](emergence_14.md) - 23 December 2025
 * [Bastion](bastion.md) - ???
 
 # Misc
