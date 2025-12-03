@@ -23,26 +23,131 @@ Only abilities that have seen some changes will be displayed here - and be aware
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. That and we don't have access to any upgrade data prior to release. Making assumptions on how the champions will turn out based on this information would be premature.
 
-# Specialisations
+# Attacks
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Business Partners** (Guess)
-> Unknown.
+**Base Attack: Command** (Guess)
+> Donaar casts a random command. His commands target one enemy and deal a small amount of psychic damage in addition to their effect (see the passive Command ability for details).  
+> Cooldown: 3.8s (Cap 0.95s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28327,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Specialization_DonaarBusinessPartners",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 934,
+    "name": "Command",
+    "description": "Donaar targets a random enemy, casting a random Command on them and doing a small amount of psychic damage",
+    "long_description": "Donaar casts a random command. His commands target one enemy and deal a small amount of psychic damage in addition to their effect (see the passive Command ability for details).",
+    "graphic_id": 0,
+    "target": "random",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 3.8,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "shoot_frame": 22,
+            "projectile": "psychic_damage"
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+# Abilities
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Command** (Guess)
+> Donaar attacks with the Command spell. The Command he chooses with each attack is randomly picked from the following options:
+Hold: the target is stunned for 3 seconds
+Duel: the target berserks, moving 50% faster and attacking twice as often, but dealing 90% less damage
+Cower: the target now has a 50% chance to miss on any attack it makes and takes 200% extra damage
+Droppit: the target drops 200% more gold when it dies
+All Commands last until the target dies, unless otherwise noted.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2571,
+    "flavour_text": "",
+    "description": {
+        "desc": "Donaar attacks with the Command spell. The Command he chooses with each attack is randomly picked from the following options:\nHold: the target is stunned for $amount___2 seconds\nDuel: the target berserks, moving $amount___3% faster and attacking twice as often, but dealing 90% less damage\nCower: the target now has a 50% chance to miss on any attack it makes and takes $amount___4% extra damage\nDroppit: the target drops $amount___5% more gold when it dies\nAll Commands last until the target dies, unless otherwise noted.\n"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "donaar_command_word",
+            "bias": -1,
+            "off_when_benched": true,
+            "command_indicies": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "effect_string": "add_monster_hit_effects,3,934",
+            "apply_manually": true,
+            "use_chained_attack": false,
+            "monster_effect": {
+                "effect_string": "effect_def,2584"
+            },
+            "after_damage": false
+        },
+        {
+            "effect_string": "add_monster_hit_effects,50,934",
+            "apply_manually": true,
+            "use_chained_attack": false,
+            "monster_effect": {
+                "effect_string": "effect_def,2585"
+            },
+            "after_damage": false
+        },
+        {
+            "effect_string": "add_monster_hit_effects,200,934",
+            "apply_manually": true,
+            "use_chained_attack": false,
+            "monster_effect": {
+                "effect_string": "effect_def,2586"
+            },
+            "after_damage": false
+        },
+        {
+            "effect_string": "add_monster_hit_effects,200,934",
+            "apply_manually": true,
+            "use_chained_attack": false,
+            "monster_effect": {
+                "effect_string": "effect_def,2587"
+            },
+            "after_damage": false
+        },
+        {
+            "effect_string": "add_monster_hit_effects,50,934",
+            "apply_manually": true,
+            "use_chained_attack": false,
+            "monster_effect": {
+                "effect_string": "effect_def,2472"
+            },
+            "after_damage": false
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -51,23 +156,176 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Not So Straightforward** (Guess)
-> Unknown.
+**Aura of Vitality** (Guess)
+> Every second, Donaar targets the Champion that has lost the most health (on a percentage basis), giving them a healing buff that lasts for 10 seconds, and heals for 5 HP every second (stacks by resetting the time).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28328,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Specialization_DonaarNotSoStraightforward",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2572,
+    "flavour_text": "",
+    "description": {
+        "desc": "Every second, $source targets the Champion that has lost the most health (on a percentage basis), giving them a healing buff that lasts for $duration seconds, and heals for $amount HP every second (stacks by resetting the time)"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "donaar_aura_of_vitality,5",
+            "tick_rate": 1,
+            "duration": 10
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 4214,
+    "large_graphic_id": 4213,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Lead by Example** (Guess)
+> Increases the Damage of all Champions in the same column as Donaar as well as all Champions behind him in the formation by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2573,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increases the Damage of all Champions in the same column as $source as well as all Champions behind him in the formation by $amount%"
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "col_and_behind"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 4216,
+    "large_graphic_id": 4215,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Donaar counts twice for abilities that count the number of species, classes, alignments, affiliations, or roles in the formation.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2574,
+    "flavour_text": "",
+    "description": {
+        "desc": "Donaar counts twice for abilities that count the number of species, classes, alignments, affiliations, or roles in the formation."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unknown** (Guess)
+> Enemies affected by one of Donaar's Command Word spells take an additional $amount% damage while they are affected by it.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2575,
+    "flavour_text": "",
+    "description": {
+        "desc": "Enemies affected by one of Donaar's Command Word spells take an additional $amount% damage while they are affected by it."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+# Specialisations
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Not So Straightforward** (Guess)
+> Increases the effect of Lead By Example by 100% for each Chaotic Champion in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2576,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increases the effect of Lead By Example by $amount% for each Chaotic Champion in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,18654",
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`chaotic`)",
+            "amount_func": "mult",
+            "amount_expr": "upgrade_amount(18657,0)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "upgrade_unlocked",
+                "feat_changed"
+            ],
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Chaotic Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -77,22 +335,99 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Scales and Horns** (Guess)
-> Unknown.
+> Increases the effect of Lead By Example by 125% for each Dragonborn or Tiefling Champion in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28329,
-    "graphic": "Icons/Events/2018GrandRevel/GrandRevel_Y9/Icon_Specialization_DonaarScalesAndHorns",
-    "v": 4,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2577,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increases the effect of Lead By Example by $amount% for each Dragonborn or Tiefling Champion in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,125",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,18654",
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`dragonborn`) || HasTag(`tiefling`)",
+            "amount_func": "mult",
+            "amount_expr": "upgrade_amount(18658,0)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "upgrade_unlocked",
+                "feat_changed"
+            ],
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Dragonborn or Tiefling Champions: $num_stacks___2"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Business Partners** (Guess)
+> Increases the effect of Lead By Example by 150% for each C-Team or Acquisitions Incorporated affiliated Champion in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2578,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increases the effect of Lead By Example by $amount% for each C-Team or Acquisitions Incorporated affiliated Champion in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,150",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,18654",
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`cteam`) || HasTag(`acqinc`)",
+            "amount_func": "mult",
+            "amount_expr": "upgrade_amount(18659,0)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "upgrade_unlocked",
+                "feat_changed"
+            ],
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "C-Team or Acquisitions Incorporated Champions: $num_stacks___2"
     }
 }
 </pre>
