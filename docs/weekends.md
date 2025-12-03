@@ -51,7 +51,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
             <img src="images/weekends/778.png">
-            <span class="weekendTooltipContents">ID: 778**Gold Marching Chest**Loot for: Nayeli, Calliope, Hew Maan, Shandie and Nordom<code>"for_crusaders":[3,5,75,47,100]</code></span>
+            <span class="weekendTooltipContents">ID: 778**Gold Marching Chest**Loot for: Nayeli, Calliope, Hew Maan, Shandie and Yorven<code>"for_crusaders":[3,5,75,47,92]</code></span>
         </span>
         <span class="weekendTableMain">
             <span class="weekendTableTitleRow">
@@ -68,7 +68,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic for Nordom
+                        Golden Epic for Yorven
                     </span>
                 </span>
                 <span class="weekendTableChampions">
@@ -84,8 +84,8 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/shandie.png'">
                         <span class="weekendTableChampionNameplate">Shandie</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nordom.png'">
-                        <span class="weekendTableChampionNameplate">Nordom</span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/yorven.png'">
+                        <span class="weekendTableChampionNameplate">Yorven</span>
                     </span>
                 </span>
             </span>
@@ -172,6 +172,178 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/kas.png'">
                         <span class="weekendTableChampionNameplate">Kas</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+    </span>
+    <span class="weekendTableRow">
+        <span class="weekendTableIcon">
+            <img src="images/weekends/783.png">
+            <span class="weekendTooltipContents">ID: 783**Gold Fancy Blade Chest**Loot for: Asharra, Minsc, Baldric, Tess and Anson<code>"for_crusaders":[6,7,165,164,171]</code></span>
+        </span>
+        <span class="weekendTableMain">
+            <span class="weekendTableTitleRow">
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    **Magical Blades**
+                </span>
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    02 January 2026
+                </span>
+            </span>
+            <span class="weekendTableContentBlock">
+                <span class="weekendTableReward">
+                    <span class="weekendTableContents" style="padding-top:5px">
+                        Assumed Reward:
+                    </span>
+                    <span class="weekendTableContents">
+                        Golden Epic for Anson
+                    </span>
+                </span>
+                <span class="weekendTableChampions">
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/asharra.png'">
+                        <span class="weekendTableChampionNameplate">Asharra</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/minsc.png'">
+                        <span class="weekendTableChampionNameplate">Minsc</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/baldric.png'">
+                        <span class="weekendTableChampionNameplate">Baldric</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tess.png'">
+                        <span class="weekendTableChampionNameplate">Tess</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/anson.png'">
+                        <span class="weekendTableChampionNameplate">Anson</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+    </span>
+    <span class="weekendTableRow">
+        <span class="weekendTableIcon">
+            <img src="images/weekends/784.png">
+            <span class="weekendTooltipContents">ID: 784**Gold New Leaf Chest**Loot for: Tyril, Hitch, Shadowheart, Dark Urge and Binwin<code>"for_crusaders":[10,13,141,146,27]</code></span>
+        </span>
+        <span class="weekendTableMain">
+            <span class="weekendTableTitleRow">
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    **New Leaf**
+                </span>
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    09 January 2026
+                </span>
+            </span>
+            <span class="weekendTableContentBlock">
+                <span class="weekendTableReward">
+                    <span class="weekendTableContents" style="padding-top:5px">
+                        Assumed Reward:
+                    </span>
+                    <span class="weekendTableContents">
+                        Golden Epic for Binwin
+                    </span>
+                </span>
+                <span class="weekendTableChampions">
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tyril.png'">
+                        <span class="weekendTableChampionNameplate">Tyril</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hitch.png'">
+                        <span class="weekendTableChampionNameplate">Hitch</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/shadowheart.png'">
+                        <span class="weekendTableChampionNameplate">Shadowheart</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/darkurge.png'">
+                        <span class="weekendTableChampionNameplate">Dark Urge</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/binwin.png'">
+                        <span class="weekendTableChampionNameplate">Binwin</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+    </span>
+    <span class="weekendTableRow">
+        <span class="weekendTableIcon">
+            <img src="images/weekends/785.png">
+            <span class="weekendTooltipContents">ID: 785**Gold Commercial Chest**Loot for: Celeste, Jamilah, Diana, Bobby and Eric<code>"for_crusaders":[2,11,148,152,157]</code></span>
+        </span>
+        <span class="weekendTableMain">
+            <span class="weekendTableTitleRow">
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    **We'll Be Right Back**
+                </span>
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    16 January 2026
+                </span>
+            </span>
+            <span class="weekendTableContentBlock">
+                <span class="weekendTableReward">
+                    <span class="weekendTableContents" style="padding-top:5px">
+                        Assumed Reward:
+                    </span>
+                    <span class="weekendTableContents">
+                        Golden Epic for Eric
+                    </span>
+                </span>
+                <span class="weekendTableChampions">
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
+                        <span class="weekendTableChampionNameplate">Celeste</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jamilah.png'">
+                        <span class="weekendTableChampionNameplate">Jamilah</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/diana.png'">
+                        <span class="weekendTableChampionNameplate">Diana</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bobby.png'">
+                        <span class="weekendTableChampionNameplate">Bobby</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/eric.png'">
+                        <span class="weekendTableChampionNameplate">Eric</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+    </span>
+    <span class="weekendTableRow">
+        <span class="weekendTableIcon">
+            <img src="images/weekends/786.png">
+            <span class="weekendTooltipContents">ID: 786**Gold Boldness Chest**Loot for: Bruenor, Minsc, Spurt, Widdle and Ravengard<code>"for_crusaders":[1,7,43,91,149]</code></span>
+        </span>
+        <span class="weekendTableMain">
+            <span class="weekendTableTitleRow">
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    **Brave & Bold**
+                </span>
+                <span class="weekendTableContents" style="font-size:1.3em">
+                    23 January 2026
+                </span>
+            </span>
+            <span class="weekendTableContentBlock">
+                <span class="weekendTableReward">
+                    <span class="weekendTableContents" style="padding-top:5px">
+                        Assumed Reward:
+                    </span>
+                    <span class="weekendTableContents">
+                        Golden Epic for Ravengard
+                    </span>
+                </span>
+                <span class="weekendTableChampions">
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
+                        <span class="weekendTableChampionNameplate">Bruenor</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/minsc.png'">
+                        <span class="weekendTableChampionNameplate">Minsc</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/spurt.png'">
+                        <span class="weekendTableChampionNameplate">Spurt</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/widdle.png'">
+                        <span class="weekendTableChampionNameplate">Widdle</span>
+                    </span>
+                    <span class="weekendTableChampion" style="background-image:url('images/portraits/ravengard.png'">
+                        <span class="weekendTableChampionNameplate">Ravengard</span>
                     </span>
                 </span>
             </span>
