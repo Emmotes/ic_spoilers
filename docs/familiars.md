@@ -24,7 +24,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Owlsworth the Snowy Owl Portrait](images/familiars/owlsworththesnowyowl.png)<span class="featTooltipContents">ID: 295**Owlsworth the Snowy Owl**Most fear Owlsworth. One didn’t. He doesn't come back now.<img src="images/familiars/owlsworththesnowyowl.gif" alt="Owlsworth the Snowy Owl Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Owlsworth the Snowy Owl Portrait](images/familiars/owlsworththesnowyowl.png)<span class="featTooltipContents">ID: 295**Owlsworth the Snowy Owl**Most fear Owlsworth. One didn't. He doesn't come back now.<img src="images/familiars/owlsworththesnowyowl.gif" alt="Owlsworth the Snowy Owl Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Owlsworth the Snowy Owl
@@ -109,138 +109,19 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Clarkemoore the Goat Portrait](images/familiars/clarkemoorethegoat.png)<span class="featTooltipContents">ID: 307**Clarkemoore the Goat**The greatest of all time, in his own mind.<img src="images/familiars/clarkemoorethegoat.gif" alt="Clarkemoore the Goat Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Clarkemoore the Goat
-        </span>
-        <span class="skinTableSource">
-            Unknown Premium Pack
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            ???
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 303**Froth the Pintling**Binwin used magic to make a winter ale and accidentally created a malt-born elemental.</span></span>
-        </span>
-        <span class="skinTableName">
-            Froth the Pintling
-        </span>
-        <span class="skinTableSource">
-            Unknown Premium Pack
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            ???
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 305**Jar of Green Slime**'This is my brother - say hi brother!'~ Spurt</span></span>
-        </span>
-        <span class="skinTableName">
-            Jar of Green Slime
-        </span>
-        <span class="skinTableSource">
-            Unknown Premium Pack
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            ???
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Lord Brook the Marid Portrait](images/familiars/lordbrookthemarid.png)<span class="featTooltipContents">ID: 308**Lord Brook the Marid**Beware wishes granted by this little watery lord.<img src="images/familiars/lordbrookthemarid.gif" alt="Lord Brook the Marid Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Lord Brook the Marid
-        </span>
-        <span class="skinTableSource">
-            Unknown Premium Pack
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            ???
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 304**Meek the Kobold**Nobody trods on Meek! Nobody!</span></span>
-        </span>
-        <span class="skinTableName">
-            Meek the Kobold
-        </span>
-        <span class="skinTableSource">
-            Unknown Premium Pack
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            ???
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Sleet the Jackalope Portrait](images/familiars/sleetthejackalope.png)<span class="featTooltipContents">ID: 302**Sleet the Jackalope**Mysterious cryptid hidden beyond the Spine of the World.<img src="images/familiars/sleetthejackalope.gif" alt="Sleet the Jackalope Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Sleet the Jackalope
         </span>
         <span class="skinTableSource">
-            Unknown Premium Pack
+            Sleet the Jackalope Familiar Pack
         </span>
         <span class="skinTableCost">
-            ???
+            2,380p
         </span>
         <span class="skinTableDate">
-            ???
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 306**Soul the Sun Elemental**We are made of star-stuff.</span></span>
-        </span>
-        <span class="skinTableName">
-            Soul the Sun Elemental
-        </span>
-        <span class="skinTableSource">
-            Unknown Premium Pack
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            ???
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 309**Splash the Water Elemental**The consummate puddle jumper.</span></span>
-        </span>
-        <span class="skinTableName">
-            Splash the Water Elemental
-        </span>
-        <span class="skinTableSource">
-            Unknown Premium Pack
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            ???
+            07 Jan 2026
         </span>
     </span>
     <span class="skinTableRow">
@@ -251,13 +132,132 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             Splinter the Wooden Sword
         </span>
         <span class="skinTableSource">
-            Unknown Premium Pack
+            Wintershield Knight Anson Theme Pack
         </span>
         <span class="skinTableCost">
-            ???
+            3,830p
         </span>
         <span class="skinTableDate">
-            ???
+            07 Jan 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 303**Froth the Pintling**Binwin used magic to make a winter ale and accidentally created a malt-born elemental.</span></span>
+        </span>
+        <span class="skinTableName">
+            Froth the Pintling
+        </span>
+        <span class="skinTableSource">
+            Cold Brew Binwin Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            14 Jan 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 304**Meek the Kobold**Nobody trods on Meek! Nobody!</span></span>
+        </span>
+        <span class="skinTableName">
+            Meek the Kobold
+        </span>
+        <span class="skinTableSource">
+            Meek the Kobold Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            840p
+        </span>
+        <span class="skinTableDate">
+            21 Jan 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 305**Jar of Green Slime**'This is my brother - say hi brother!'~ Spurt</span></span>
+        </span>
+        <span class="skinTableName">
+            Jar of Green Slime
+        </span>
+        <span class="skinTableSource">
+            Spurt's Jar of Green Slime Familiar & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            28 Jan 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 306**Soul the Sun Elemental**We are made of star-stuff.</span></span>
+        </span>
+        <span class="skinTableName">
+            Soul the Sun Elemental
+        </span>
+        <span class="skinTableSource">
+            Ancient Kyre Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            04 Feb 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Clarkemoore the Goat Portrait](images/familiars/clarkemoorethegoat.png)<span class="featTooltipContents">ID: 307**Clarkemoore the Goat**The greatest of all time, in his own mind.<img src="images/familiars/clarkemoorethegoat.gif" alt="Clarkemoore the Goat Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Clarkemoore the Goat
+        </span>
+        <span class="skinTableSource">
+            Mountain Donaar Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            11 Feb 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Lord Brook the Marid Portrait](images/familiars/lordbrookthemarid.png)<span class="featTooltipContents">ID: 308**Lord Brook the Marid**Beware wishes granted by this little watery lord.<img src="images/familiars/lordbrookthemarid.gif" alt="Lord Brook the Marid Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Lord Brook the Marid
+        </span>
+        <span class="skinTableSource">
+            Lord Brook the Marid Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            18 Feb 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 309**Splash the Water Elemental**The consummate puddle jumper.</span></span>
+        </span>
+        <span class="skinTableName">
+            Splash the Water Elemental
+        </span>
+        <span class="skinTableSource">
+            Splash the Water Elemental Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            25 Feb 2026
         </span>
     </span>
 </span>

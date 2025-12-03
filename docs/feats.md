@@ -64,6 +64,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Lark</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Here for a Lark Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2390**Here for a Lark (Lark)**I've always wanted to do the Waterdeep After Dark tour.<br><br><span style="color:var(--Flavescent)">Increases the effect of Lark's Bardic Perspiration ability by 80%.</span><code>buff_upgrade,80,18053</code></span>Here for a Lark
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Lark's Bardic Perspiration ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">03 Dec 2025<br>03 Mar 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Halsin</span>
         </span>
         <span class="featTableIcon4">
