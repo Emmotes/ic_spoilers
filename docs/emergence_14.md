@@ -4,7 +4,7 @@
 
 # Emergence 14
 
-We know the next Emergence event will be Winter Beasts and that it will start on 24 December 2025.
+We know the next Emergence event will be Winter Beasts and that it will start on 23 December 2025.
 
 ### Shop Contents
 
