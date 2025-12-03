@@ -17,6 +17,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Highharvestide Augments](archive/augments_1.md)
 * [K'thriss](archive/kthriss.md)
 * [King of Shadows](archive/kos.md)
+* [Lark](archive/lark.md)
 * [Lazaapz](archive/lazaapz.md)
 * [Liars' Night Augments](archive/augments_2.md)
 * [New Campaign - Tales of the Champions](archive/campaign_tales.md)
