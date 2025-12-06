@@ -128,7 +128,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 632**Cozy Hunter Vin Ursa (Vin Ursa)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Cozy Hunter Vin Ursa Portrait](images/skin_portraits/cozyhuntervinursa.png)<span class="featTooltipContents">ID: 632**Cozy Hunter Vin Ursa (Vin Ursa)**<img src="images/skin_models/cozyhuntervinursa.gif" alt="Cozy Hunter Vin Ursa Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Cozy Hunter Vin Ursa
@@ -196,7 +196,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 645**Cold Brew Binwin (Binwin)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Cold Brew Binwin Portrait](images/skin_portraits/coldbrewbinwin.png)<span class="featTooltipContents">ID: 645**Cold Brew Binwin (Binwin)**<img src="images/skin_models/coldbrewbinwin.gif" alt="Cold Brew Binwin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Cold Brew Binwin

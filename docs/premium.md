@@ -677,7 +677,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 632**Cozy Hunter Vin Ursa (Vin Ursa)**</span></span>
+            <span class="tooltipHolder">![Cozy Hunter Vin Ursa Skin Portrait](images/premiums/skin_632.png)<span class="itemTooltipContents">ID: 632**Cozy Hunter Vin Ursa (Vin Ursa)**<img src="images/premiums/skin_632.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1041,7 +1041,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 645**Cold Brew Binwin (Binwin)**</span></span>
+            <span class="tooltipHolder">![Cold Brew Binwin Skin Portrait](images/premiums/skin_645.png)<span class="itemTooltipContents">ID: 645**Cold Brew Binwin (Binwin)**<img src="images/premiums/skin_645.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1050,7 +1050,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 303**Froth the Pintling**Binwin used magic to make a winter ale and accidentally created a malt-born elemental.</span></span>
+            <span class="tooltipHolder">![Froth the Pintling Familiar Portrait](images/premiums/familiar_303.png)<span class="itemTooltipContents">ID: 303**Froth the Pintling**Binwin used magic to make a winter ale and accidentally created a malt-born elemental.<img src="images/premiums/familiar_303.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
