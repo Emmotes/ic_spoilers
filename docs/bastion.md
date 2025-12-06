@@ -4,6 +4,10 @@
 
 This appears to be some kind of new system in the game. We know very little about it except for some text defines and graphics.
 
+We know it will let players unlock rooms to gain access to some game systems - such as Parlor for Patrons / Observatory for Events. We also know that rooms will be able to level up (though what effect this will have is anyone's guess).
+
+The assumption is that this will be some kind of new-player onboarding system.
+
 # Known Rooms
 
 ## Guild
