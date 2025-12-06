@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/777.png">
-            <span class="weekendTooltipContents">ID: 777**Gold Harmony Chest**Loot for: Jarlaxle, Celeste, Cazrin, Tess and Lark<code>"for_crusaders":[4,2,166,164,170]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Music Lesson**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    05 December 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Lark
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jarlaxle.png'">
-                        <span class="weekendTableChampionNameplate">Jarlaxle</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/cazrin.png'">
-                        <span class="weekendTableChampionNameplate">Cazrin</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tess.png'">
-                        <span class="weekendTableChampionNameplate">Tess</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/lark.png'">
-                        <span class="weekendTableChampionNameplate">Lark</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/778.png">
             <span class="weekendTooltipContents">ID: 778**Gold Marching Chest**Loot for: Nayeli, Calliope, Hew Maan, Shandie and Yorven<code>"for_crusaders":[3,5,75,47,92]</code></span>
         </span>
