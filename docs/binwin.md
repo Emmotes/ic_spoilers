@@ -95,8 +95,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
-        "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "is_formation_ability": true
     }
 }
 </pre>
@@ -172,9 +171,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "bonus_hit_counter",
+            "min_stacks": 0,
             "max_stacks": 10,
             "stacks_on_trigger": "will_stack_manually",
             "stacks_multiply": true,
+            "show_stacks": true,
             "more_triggers": [
                 {
                     "trigger": "area_changed",
@@ -234,6 +235,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Extra Damage** (Guess)
 > Each subsequent hit Binwin does during the same attack deals 100% more damage, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -245,11 +248,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "binwin_extra_damage,100"
-        },
-        {
             "effect_string": "pre_stack,100",
             "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "binwin_extra_damage,100",
+            "amount_expr": "upgrade_amount(18460,0)"
         }
     ],
     "requirements": "",
@@ -283,30 +287,38 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "binwin_lingering_damage,100",
-            "apply_manually": true,
+            "off_when_benched": true,
             "seconds_of_bud": 1,
             "total_seconds": 5,
-            "debuffing_attack_ids": [
-                107,
-                108
-            ],
+            "debuffing_attack_ids": [],
             "debuff_before_damage": false,
             "debuff_effects": [
                 {
-                    "effect_string": "bud_dot,$seconds_of_bud",
+                    "effect_string": "bud_dot,$amount",
                     "active_graphic_id": 28054,
                     "active_graphic_y": -75,
                     "tick_rate": 1,
-                    "total_ticks": 9999,
+                    "total_ticks": 5,
                     "for_time": "$total_seconds",
                     "time_stack_type": "time_reset",
-                    "stack_across_effects": true
+                    "stack_across_effects": true,
+                    "exact_damage": true
                 }
             ]
         },
         {
+            "effect_string": "change_upgrade_data,18461,0",
+            "apply_manually": true,
+            "data": {
+                "debuffing_attack_ids": [
+                    107
+                ]
+            },
+            "skip_effect_key_desc": true
+        },
+        {
             "effect_string": "apply_when_bud_setting",
-            "index_to_apply": 0,
+            "index_to_apply": 1,
             "skip_effect_key_desc": true
         }
     ],
@@ -346,7 +358,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 28051,
     "properties": {
         "is_formation_ability": true,
-        "show_incoming": false
+        "show_incoming": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -462,7 +475,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 28060,
     "properties": {
         "is_formation_ability": true,
-        "use_outgoing_description": true
+        "use_outgoing_description": true,
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks"
     }
 }
 </pre>
