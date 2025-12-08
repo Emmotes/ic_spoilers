@@ -66,12 +66,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Command** (Guess)
-> Donaar attacks with the Command spell. The Command he chooses with each attack is randomly picked from the following options:
-Hold: the target is stunned for 3 seconds
-Duel: the target berserks, moving 50% faster and attacking twice as often, but dealing 90% less damage
-Cower: the target now has a 50% chance to miss on any attack it makes and takes 200% extra damage
-Droppit: the target drops 200% more gold when it dies
-All Commands last until the target dies, unless otherwise noted.
+> Hold: the target is stunned for 3 seconds | Duel: the target berserks, moving 50% faster and attacking twice as often, but dealing 90% less damage | Cower: the target now has a 50% chance to miss on any attack it makes and takes 200% extra damage | Droppit: the target drops 200% more gold when it dies | All Commands last until the target dies, unless otherwise noted. |.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -79,7 +74,7 @@ All Commands last until the target dies, unless otherwise noted.
     "id": 2571,
     "flavour_text": "",
     "description": {
-        "desc": "Donaar attacks with the Command spell. The Command he chooses with each attack is randomly picked from the following options:\nHold: the target is stunned for $amount___2 seconds\nDuel: the target berserks, moving $amount___3% faster and attacking twice as often, but dealing 90% less damage\nCower: the target now has a 50% chance to miss on any attack it makes and takes $amount___4% extra damage\nDroppit: the target drops $amount___5% more gold when it dies\nAll Commands last until the target dies, unless otherwise noted.\n"
+        "desc": " Hold: the target is stunned for $amount___2 seconds | Duel: the target berserks, moving $amount___3% faster and attacking twice as often, but dealing 90% less damage | Cower: the target now has a 50% chance to miss on any attack it makes and takes $amount___4% extra damage | Droppit: the target drops $amount___5% more gold when it dies | All Commands last until the target dies, unless otherwise noted. | "
     },
     "effect_keys": [
         {
