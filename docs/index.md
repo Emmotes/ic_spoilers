@@ -102,31 +102,6 @@ A list of champions that will be seeing reworks in upcoming events.
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="nordom.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Nordom Whistleklik Portrait Icon](images/nordom/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Nordom Whistleklik
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Modron Fighter</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Simril - Delayed until 10 December 2025</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Ranged Attack Icon](images/general/icon_ranged.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="binwin.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -207,39 +182,6 @@ A list of champions that will be seeing reworks in upcoming events.
 
 These are the upcoming new and reworked champions and where they'll be found.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
-## Simril - 3 December 2025
-<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="nordom.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Nordom Whistleklik Portrait Icon](images/nordom/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Nordom Whistleklik
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Modron Fighter</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 10 December 2025</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rework ♻️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Ranged Attack Icon](images/general/icon_ranged.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-</span>
-</div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Wintershield - 7 January 2026
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
@@ -416,7 +358,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* [Lawful Modron Core](lawful_modron_core.md) - 10 December 2025 (Guess)
 * [EGS Exclusive Giveaway](platform_giveaway_657.md) - 11 December 2025
 * [Emergence 14](emergence_14.md) - 23 December 2025
 * [Bastion](bastion.md) - ???
