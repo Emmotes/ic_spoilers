@@ -406,10 +406,16 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     "effect_keys": [
         {
             "effect_string": "if_stunned_buff_base_crit_change_add,20",
+            "targets": [
+                "all"
+            ],
             "off_when_benched": true
         },
         {
             "effect_string": "increase_damage_when_monster_stunned,100",
+            "targets": [
+                "all"
+            ],
             "off_when_benched": true
         }
     ],
@@ -433,6 +439,8 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Complete Control** (Guess)
 > Increases the effect of Radiant Soul by 100% for each Champion in the formation with the Control role, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -444,9 +452,19 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,100,18671",
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,100,18667",
             "stack_func": "per_hero_attribute",
             "amount_func": "mult",
+            "amount_expr": "upgrade_amount(18671,0)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "upgrade_unlocked",
+                "feat_changed"
+            ],
             "per_hero_expr": "HasTag(`control`)",
             "off_when_benched": true
         }
@@ -456,7 +474,10 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     "large_graphic_id": 28330,
     "properties": {
         "is_formation_ability": true,
-        "spec_option_post_apply_info": "Control Champions: $num_stacks"
+        "spec_option_post_apply_info": "Control Champions: $num_stacks",
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -467,6 +488,8 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Faster Than Light** (Guess)
 > Increases the effect of Radiant Soul by 100% for each Champion with a Dexterity of 16 or higher in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -478,9 +501,19 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,100,18671",
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,100,18667",
             "stack_func": "per_hero_attribute",
             "amount_func": "mult",
+            "amount_expr": "upgrade_amount(18672,0)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "upgrade_unlocked",
+                "feat_changed"
+            ],
             "per_hero_expr": "GetStat(`dex`) >= 16",
             "off_when_benched": true
         }
@@ -490,7 +523,10 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     "large_graphic_id": 28331,
     "properties": {
         "is_formation_ability": true,
-        "spec_option_post_apply_info": "DEX 16+ Champions: $num_stacks"
+        "spec_option_post_apply_info": "DEX 16+ Champions: $num_stacks",
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -501,6 +537,8 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Pure of Soul** (Guess)
 > Increases the effect of Radiant Soul by 100% for each Good Champion in the formation, stacking multiplicatively. In addition, Champions adjacent to Kyre gain the Good tag. This does not affect their other alignment tags, and doesn't affect whether they are eligible for the adventure.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -512,9 +550,19 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,100,18671",
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,100,18667",
             "stack_func": "per_hero_attribute",
             "amount_func": "mult",
+            "amount_expr": "upgrade_amount(18673,0)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "upgrade_unlocked",
+                "feat_changed"
+            ],
             "per_hero_expr": "HasTag(`good`)",
             "off_when_benched": true
         },
@@ -532,7 +580,10 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     "large_graphic_id": 28332,
     "properties": {
         "is_formation_ability": true,
-        "spec_option_post_apply_info": "Qualifying Champions: $num_stacks"
+        "spec_option_post_apply_info": "Qualifying Champions: $num_stacks",
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -616,15 +667,29 @@ Unknown.
 > Discover the fate of some merchants in the jungles of Chult.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: Variant 1** (Complete Area 75)
+![The Crawling Dark Icon](images/kyre/28324.png) **Variant 1: The Crawling Dark** (Complete Area 75)
+> Kyre starts in the formation. They can't be moved or removed.   
+> Only Kyre and Champions next to them can deal damage.  
+> 1-2 Shadowy Rats spawn with each wave. They don't drop gold nor count towards quest progress.  
+> <b>Getting to Know Kyre:</b> Kyre increases the damage of Champions next to them. Place your damage dealer to take the best advantage of these buffs!  
 > 
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: Variant 2** (Complete Area 125)
+![Absolutely Stunning Icon](images/kyre/28325.png) **Variant 2: Absolutely Stunning** (Complete Area 125)
+> Kyre starts in the formation. (Slot 3) They can't be moved or removed.   
+> Champions deal 1% damage to enemies that are not stunned.  
+> A Monk joins the formation. Champions adjacent to the Monk have a 10% chance to stun enemies they attack for 5 seconds.  
+> 1-2 Shadow Goblins spawn with each wave. They don't drop gold nor count towards quest progress.  
+> <b>Getting to Know Kyre:</b> Kyre can stun enemies and increase damage against them. Use them and other Champions that stun to get through these foes!  
 > 
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: Variant 3** (Complete Area 175)
+![Critical Allies Icon](images/kyre/28326.png) **Variant 3: Critical Allies** (Complete Area 175)
+> Kyre starts in the formation. They can be moved, but not removed.   
+> You may only use Good Champions, Control Champions, or Champions with a Dexterity of 16 or higher.  
+> After area 50, bosses spawn with a segmented special shield with 5 hits which must be destroyed before their regular hit points appear. To destroy a special shield segment, an enemy must be hit with a critical hit.  
+> 1-2 Shadows spawn with each wave. They don't drop gold nor count towards quest progress.  
+> <b>Getting to Know Kyre:</b> Kyre's specialization choice determines which Champions they work best with. Who will you add to the formation?  
 > 
 </div></div>
 
