@@ -152,7 +152,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Extra Attack** (Guess)
-> Binwin gains a Bonus Hit when an adjacent Champion attacks. The next time he attacks, he consumes his Bonus Hits to deal additional hits to the enemy he attacks. If his target dies and Binwin still has Bonus Hits, he'll jump to a new enemy if possible. Unused Bonus Hits are lost when his attack ends. Caps at 10 stacks.
+> Binwin gains a Bonus Hit when an adjacent Champion attacks. The next time he attacks, he consumes his Bonus Hits to deal additional hits to the enemy he attacks. If his target dies and Binwin still has Bonus Hits, he'll jump to a new enemy if possible. Unused Bonus Hits are lost when his attack ends. Caps at 10 stacks.100.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -160,7 +160,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2537,
     "flavour_text": "",
     "description": {
-        "desc": "Binwin gains a Bonus Hit when an adjacent Champion attacks. The next time he attacks, he consumes his Bonus Hits to deal additional hits to the enemy he attacks. If his target dies and Binwin still has Bonus Hits, he'll jump to a new enemy if possible. Unused Bonus Hits are lost when his attack ends. Caps at $max_stacks___2 stacks."
+        "desc": "Binwin gains a Bonus Hit when an adjacent Champion attacks. The next time he attacks, he consumes his Bonus Hits to deal additional hits to the enemy he attacks. If his target dies and Binwin still has Bonus Hits, he'll jump to a new enemy if possible. Unused Bonus Hits are lost when his attack ends. Caps at $max_stacks___2 stacks.$binwin_show_hits"
     },
     "effect_keys": [
         {
@@ -193,6 +193,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "trigger": "champion_affected_by_upg_attacked,18459,1",
                     "action": {
                         "type": "add_stack"
+                    }
+                },
+                {
+                    "trigger": "feat_changed,2407",
+                    "action": {
+                        "type": "reset"
                     }
                 }
             ],
@@ -274,7 +280,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Lingering Damage** (Guess)
-> While Binwin is your BUD-setting Champion and he attacks but does not kill an enemy, the enemy takes 100% of the damage it took over the next 5 seconds.
+> While Binwin is your BUD-setting Champion and he attacks but does not kill an enemy, the enemy takes 100% of the damage it took over the next 5 seconds. 100.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -282,7 +288,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2539,
     "flavour_text": "",
     "description": {
-        "desc": "While Binwin is your BUD-setting Champion and he attacks but does not kill an enemy, the enemy takes $amount% of the damage it took over the next 5 seconds."
+        "desc": "While Binwin is your BUD-setting Champion and he attacks but does not kill an enemy, the enemy takes $amount% of the damage it took over the next 5 seconds. $bud_setting_active"
     },
     "effect_keys": [
         {
@@ -462,7 +468,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2543,
     "flavour_text": "",
     "description": {
-        "desc": "Binwin's damage is increased by $amount% for each Dwarf, Kobold, Halfling, Gnome, or Goblin in the formation, stacking multiplicatively."
+        "desc": "Binwin's damage is increased by 200% for each Dwarf, Kobold, Halfling, Gnome, or Goblin in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
