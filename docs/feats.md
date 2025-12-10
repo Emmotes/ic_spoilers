@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Halsin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2361**Multiversal Allies (Halsin)**To serve and protect nature is a common bond that transcends all borders.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">10 Dec 2025<br>10 Mar 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Warduke</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Blazing Blade Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2362**Blazing Blade (Warduke)**I don't WANT to think about tactics. I want to HIT things with my SWORD!<br><br><span style="color:var(--Flavescent)">Increases the effect of Warduke's A Trained Killer ability by 80%.</span><code>buff_upgrade,80,9615</code></span>Blazing Blade
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Warduke's A Trained Killer ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">10 Dec 2025<br>10 Mar 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Dark Urge</span>
         </span>
         <span class="featTableIcon4">
@@ -193,6 +159,57 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Emergence 14</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">23 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Halsin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2361**Multiversal Allies (Halsin)**To serve and protect nature is a common bond that transcends all borders.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">23 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Warduke</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Blazing Blade Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2362**Blazing Blade (Warduke)**I don't WANT to think about tactics. I want to HIT things with my SWORD!<br><br><span style="color:var(--Flavescent)">Increases the effect of Warduke's A Trained Killer ability by 80%.</span><code>buff_upgrade,80,9615</code></span>Blazing Blade
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Warduke's A Trained Killer ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">23 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Nordom</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Explosive Bolts Icon](images/featicons/nordomexplosivebolts.png)<span class="featTooltipContents">ID: 2382**Explosive Bolts (Nordom)**Modification enabled. Allies are encouraged to maintain a safe distance.<br><br><span style="color:var(--Flavescent)">Nordom gains the Control role and his base attacks explode in a small radius, dealing 1 hit to all enemies in the area and knocking them back a short distance.</span><code>add_hero_tags,0,control</code></span>Explosive Bolts
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Nordom gains the Control role and his base attacks explode in a small radius, dealing 1 hit to all enemies in the area and knocking them back a short distance.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">23 Dec 2025</span>
@@ -447,6 +464,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Nordom</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Augmented Ranks Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2383**Augmented Ranks (Nordom)**One. One. One. One... Two? Two! TWO!<br><br><span style="color:var(--Flavescent)">Changes Form Orderly Ranks to target the next two columns.</span><code>change_upgrade_targets,18058</code></span>Augmented Ranks
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Changes Form Orderly Ranks to target the next two columns.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Eric</span>
         </span>
         <span class="featTableIcon4">
@@ -454,6 +488,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the temporary health effect of Eric's Shield of the Cavalier ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Nordom</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Optimization Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2380**Optimization (Nordom)**Statement of core belief: bigger numbers are better numbers.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nordom's Core Competency Specialization by 1% for each max level Modron Core you own.</span><code>buff_upgrade_add_flat_amount,1,18168,0</code></span>Optimization
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Nordom's Core Competency Specialization by 1% for each max level Modron Core you own.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
