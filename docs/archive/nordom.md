@@ -17,7 +17,7 @@ Modrons are the embodiment of law and order, marching in lockstep through the pl
 
 # Changes
 
-Nordom will be a reworked champion in the Simril event and delayed until 10 December 2025.
+Nordom will be a reworked champion in the Wintershield event and delayed until 14 January 2026.
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
@@ -778,7 +778,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Core Competency** (Guess)
-> Nordom gains Core Competency stacks based on the total level of all of your modron cores. The effect of Form Orderly Ranks is increased by 25% for each Core Competency stack, stacking multiplicatively.
+> Nordom gains Core Competency stacks based on the total level of all of your Modron cores. The effect of Form Orderly Ranks is increased by 25% for each Core Competency stack, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -786,7 +786,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2521,
     "flavour_text": "",
     "description": {
-        "desc": "Nordom gains Core Competency stacks based on the total level of all of your modron cores. The effect of Form Orderly Ranks is increased by $(nordom_core_competency_bonus)% for each Core Competency stack, stacking multiplicatively."
+        "desc": "Nordom gains Core Competency stacks based on the total level of all of your Modron cores. The effect of Form Orderly Ranks is increased by $(nordom_core_competency_bonus)% for each Core Competency stack, stacking multiplicatively."
     },
     "effect_keys": [
         {

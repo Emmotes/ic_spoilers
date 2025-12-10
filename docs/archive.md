@@ -21,6 +21,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Lazaapz](archive/lazaapz.md)
 * [Liars' Night Augments](archive/augments_2.md)
 * [New Campaign - Tales of the Champions](archive/campaign_tales.md)
+* [Nordom](archive/nordom.md)
 * [Skylla](archive/skylla.md)
 * [Tessalynde 'Tess' Halendria](archive/tess.md)
 
