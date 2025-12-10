@@ -35,74 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Torogar</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Primal Rage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2009**Primal Rage (Torogar)**I am a conqueror, in her unholy name.<br><br><span style="color:var(--Flavescent)">Increases the effect of Torogar's Preach ability by 80%.</span><code>buff_upgrade,80,4489</code></span>Primal Rage
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Torogar's Preach ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">10 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Alyndra</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Discard the Veil Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1587**Discard the Veil (Alyndra)**Perhaps there is no past, no future. There is only the infinite now.<br><br><span style="color:var(--Flavescent)">Increases the effect of Alyndra's I Have Foreseen This ability by 80%. (Prestack)</span><code>buff_upgrade,80,17747</code></span>Discard the Veil
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Alyndra's I Have Foreseen This ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">10 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Certainty</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Angel Investor Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2260**Angel Investor (Certainty)**Good enough. I believe in your potential.<br><br><span style="color:var(--Flavescent)">Increases the effect of Certainty's Employee Evaluations ability by 80%.</span><code>buff_upgrade,80,12509</code></span>Angel Investor
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Certainty's Employee Evaluations ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">10 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">D'hani</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Vicious Verdure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1617**Vicious Verdure (D'hani)**Imagine a dark green. Now, darker. Darker. Keep going.<br><br><span style="color:var(--Flavescent)">Increase the AOE damage dealt by Stroke of Green by 80%.</span><code>buff_upgrade,80,13714,1</code></span>Vicious Verdure
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increase the AOE damage dealt by Stroke of Green by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">10 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">KoS</span>
         </span>
         <span class="featTableIcon4">
@@ -492,6 +424,23 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">03 Mar 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Nordom</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Plumbing Wizardry Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2376**Plumbing Wizardry (Nordom)**It looks like you're attempting to achieve supercharged output. Would you like help?<br><br><span style="color:var(--Flavescent)">Increases the effect of Nordom's The Great Modron Puzzle ability by 80%.</span><code>buff_upgrade,80,18165</code></span>Plumbing Wizardry
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Nordom's The Great Modron Puzzle ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">10 Mar 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -554,8 +503,8 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableDate">
                 <span>10 September 2025</span>
             </span>
-            <span class="postSeasonTableDate">
-                <span>10 December 2025 (Guess)</span>
+            <span class="postSeasonTableDateLate">
+                <span>10 December 2025 (Guess) (Late)</span>
             </span>
         </span>
     </span>
