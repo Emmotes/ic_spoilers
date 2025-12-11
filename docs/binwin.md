@@ -240,7 +240,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Extra Damage** (Guess)
-> Each subsequent hit Binwin does during the same attack deals 100% more damage, stacking multiplicatively.
+> Each subsequent hit Binwin does during the same attack deals 100% more damage, stacking multiplicatively.100.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -250,7 +250,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2538,
     "flavour_text": "",
     "description": {
-        "desc": "Each subsequent hit Binwin does during the same attack deals $amount% more damage, stacking multiplicatively."
+        "desc": "Each subsequent hit Binwin does during the same attack deals $amount% more damage, stacking multiplicatively.$binwin_show_hits"
     },
     "effect_keys": [
         {
