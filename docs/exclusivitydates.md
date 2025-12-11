@@ -760,6 +760,52 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
+                <a id="g5a" onclick="exclusiveToggleContent(`g5`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![EGS Giveaway Cozy Dark Urge Party Pack Icon](images/general/egs.png)**EGS Giveaway** - Cozy Dark Urge Party Pack
+            </span>
+        </span>
+        <span id="g5" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 2440**Vicious Damage (Dark Urge)**Ooh, that's sure to leave a nasty scar, milord. Bravo!<br><br><span style="color:var(--Flavescent)">Increases the damage of Dark Urge by 400%. Dark Urge's attacks prevent the target from healing for 10 seconds.</span><code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Vicious Damage</span>
+                        <span style="margin-left:15px">Dark Urge</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>11 December 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>18 December 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>18 March 2026 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
                 <a id="e13a" onclick="exclusiveToggleContent(`e13`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
