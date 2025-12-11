@@ -4,97 +4,6 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 657</div>
-### Cozy Dark Urge Party Pack - $24.99  
-Date of release: 11 Dec 2025
-
-> 
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This pack might not be available for purchase since it's potentially a platform giveaway.*
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Valentine Champion Unlock Portrait](images/premiums/unlock_champion_103.png)<span class="itemTooltipContents">ID: 103**Valentine (Seat 5)**<img src="images/premiums/unlock_champion_103.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Valentine</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Dark Urge Champion Unlock Portrait](images/premiums/unlock_champion_146.png)<span class="itemTooltipContents">ID: 146**Dark Urge (Seat 11)**<img src="images/premiums/unlock_champion_146.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Dark Urge</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![King of Shadows Champion Unlock Portrait](images/premiums/unlock_champion_168.png)<span class="itemTooltipContents">ID: 168**King of Shadows (Seat 9)**<img src="images/premiums/unlock_champion_168.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">King of Shadows</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Cozy Dark Urge Skin Portrait](images/premiums/skin_638.png)<span class="itemTooltipContents">ID: 638**Cozy Dark Urge (Dark Urge)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_638.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_638-sceleritas_fel.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_638-1.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_638-2.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Cozy Dark Urge</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Vicious Damage Feat Portrait](images/featicons/viciousdamage.png)<span class="itemTooltipContents">ID: 2440**Vicious Damage**Ooh, that's sure to leave a nasty scar, milord. Bravo!<br><br><span style="color:var(--Flavescent)">Increases the damage of Dark Urge by 400%. Dark Urge's attacks prevent the target from healing for 10 seconds.</span><code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Vicious Damage</span>
-            <span style="margin-left:15px">Dark Urge</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Valentine Chest Chest Portrait](images/premiums/chests_363.png)<span class="itemTooltipContents">ID: 363**Platinum Valentine Chest**Loot for: Valentine<code>"for_crusaders":[103]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Valentine Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum The Dark Urge Chest Chest Portrait](images/premiums/chests_563.png)<span class="itemTooltipContents">ID: 563**Platinum The Dark Urge Chest**Loot for: Dark Urge<code>"for_crusaders":[146]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum The Dark Urge Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum King of Shadows Chest Chest Portrait](images/premiums/chests_756.png)<span class="itemTooltipContents">ID: 756**Platinum King of Shadows Chest**Loot for: King of Shadows<code>"for_crusaders":[168]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum King of Shadows Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 645</div>
 ### Cozy Regis Skin & Feat Pack - 1,680 Platinum  
 Date of release: 17 Dec 2025
@@ -728,11 +637,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2443**TBD Artemis Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2443**Multiversal Allies**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Artemis Feat (Do not translate)</span>
+            <span style="margin-left:15px">Multiversal Allies</span>
             <span style="margin-left:15px">Artemis</span>
         </span>
     </span>
@@ -959,11 +868,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2444**TBD Eric Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2444**Mercurial Demeanor**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Eric Feat (Do not translate)</span>
+            <span style="margin-left:15px">Mercurial Demeanor</span>
             <span style="margin-left:15px">Eric</span>
         </span>
     </span>
@@ -1030,11 +939,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2445**TBD Wyll Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2445**Psychic Link**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Wyll Feat (Do not translate)</span>
+            <span style="margin-left:15px">Psychic Link</span>
             <span style="margin-left:15px">Wyll</span>
         </span>
     </span>
@@ -1101,11 +1010,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2446**TBD Baeloth Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2446**Standard Affair**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Baeloth Feat (Do not translate)</span>
+            <span style="margin-left:15px">Standard Affair</span>
             <span style="margin-left:15px">Baeloth</span>
         </span>
     </span>
@@ -1172,11 +1081,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2447**TBD Viconia Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2447**Prolonged Suffering**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Viconia Feat (Do not translate)</span>
+            <span style="margin-left:15px">Prolonged Suffering</span>
             <span style="margin-left:15px">Viconia</span>
         </span>
     </span>
@@ -1286,11 +1195,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2448**TBD Dragonbait Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2448**Scent of Battle**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Dragonbait Feat (Do not translate)</span>
+            <span style="margin-left:15px">Scent of Battle</span>
             <span style="margin-left:15px">Dragonbait</span>
         </span>
     </span>
@@ -1357,11 +1266,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2449**TBD The Dark Urge Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2449**Human Glitch**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD The Dark Urge Feat (Do not translate)</span>
+            <span style="margin-left:15px">Human Glitch</span>
             <span style="margin-left:15px">Dark Urge</span>
         </span>
     </span>
@@ -1419,11 +1328,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2450**TBD Spurt Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2450**Non-Standard Affair**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Spurt Feat (Do not translate)</span>
+            <span style="margin-left:15px">Non-Standard Affair</span>
             <span style="margin-left:15px">Spurt</span>
         </span>
     </span>
@@ -1560,11 +1469,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2451**TBD Hew Maan Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2451**Free Agent**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Hew Maan Feat (Do not translate)</span>
+            <span style="margin-left:15px">Free Agent</span>
             <span style="margin-left:15px">Hew Maan</span>
         </span>
     </span>
@@ -1631,11 +1540,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2452**TBD Karlach Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2452**Hell's Heart**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Karlach Feat (Do not translate)</span>
+            <span style="margin-left:15px">Hell's Heart</span>
             <span style="margin-left:15px">Karlach</span>
         </span>
     </span>
@@ -1772,11 +1681,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2453**TBD Kalix Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2453**True Kin**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Kalix Feat (Do not translate)</span>
+            <span style="margin-left:15px">True Kin</span>
             <span style="margin-left:15px">Kalix</span>
         </span>
     </span>
@@ -1843,11 +1752,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2454**TBD Presto Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2454**Prodigal Leader**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Presto Feat (Do not translate)</span>
+            <span style="margin-left:15px">Prodigal Leader</span>
             <span style="margin-left:15px">Presto</span>
         </span>
     </span>
@@ -1914,11 +1823,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2455**TBD Birdsong Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2455**Multiversal Allies**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Birdsong Feat (Do not translate)</span>
+            <span style="margin-left:15px">Multiversal Allies</span>
             <span style="margin-left:15px">Birdsong</span>
         </span>
     </span>
@@ -1985,11 +1894,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2456**TBD K'thriss Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2456**Holiday Bonus**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD K'thriss Feat (Do not translate)</span>
+            <span style="margin-left:15px">Holiday Bonus</span>
             <span style="margin-left:15px">K'thriss</span>
         </span>
     </span>
@@ -2118,11 +2027,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2457**TBD Lae'zel Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2457**Bane of Ghaik**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Lae'zel Feat (Do not translate)</span>
+            <span style="margin-left:15px">Bane of Ghaik</span>
             <span style="margin-left:15px">Lae'zel</span>
         </span>
     </span>

@@ -9,23 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cozy Dark Urge Portrait](images/skin_portraits/cozydarkurge.png)<span class="featTooltipContents">ID: 638**Cozy Dark Urge (Dark Urge)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/cozydarkurge.gif" alt="Cozy Dark Urge Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/cozydarkurge-1.gif" alt="Cozy Dark Urge Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/cozydarkurge-2.gif" alt="Cozy Dark Urge Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/cozydarkurge-sceleritas_fel.gif" alt="Cozy Dark Urge Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Cozy Dark Urge
-        </span>
-        <span class="skinTableSource">
-            Cozy Dark Urge Party Pack
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            11 Dec 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Cozy Regis Portrait](images/skin_portraits/cozyregis.png)<span class="featTooltipContents">ID: 625**Cozy Regis (Regis)**<img src="images/skin_models/cozyregis.gif" alt="Cozy Regis Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

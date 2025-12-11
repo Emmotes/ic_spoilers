@@ -39,7 +39,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Increases the damage of Dark Urge by 400%. Dark Urge's attacks prevent the target from healing for 10 seconds.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">EGS</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">11 Dec 2025</span>
@@ -268,6 +268,91 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Artemis</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2443**Multiversal Allies (Artemis)**</span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">07 Jan 2026<br>07 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Wyll</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2445**Psychic Link (Wyll)**</span>Psychic Link
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">14 Jan 2026<br>14 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Eric</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2444**Mercurial Demeanor (Eric)**</span>Mercurial Demeanor
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">14 Jan 2026<br>14 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Viconia</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2447**Prolonged Suffering (Viconia)**</span>Prolonged Suffering
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">21 Jan 2026<br>21 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Baeloth</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2446**Standard Affair (Baeloth)**</span>Standard Affair
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">21 Jan 2026<br>21 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Spurt</span>
         </span>
         <span class="featTableIcon4">
@@ -298,6 +383,176 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">28 Jan 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Dragonbait</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2448**Scent of Battle (Dragonbait)**</span>Scent of Battle
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">28 Jan 2026<br>28 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Spurt</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2450**Non-Standard Affair (Spurt)**</span>Non-Standard Affair
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">28 Jan 2026<br>28 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Dark Urge</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2449**Human Glitch (Dark Urge)**</span>Human Glitch
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">28 Jan 2026<br>28 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Hew Maan</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2451**Free Agent (Hew Maan)**</span>Free Agent
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Feb 2026<br>04 May 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Karlach</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2452**Hell's Heart (Karlach)**</span>Hell's Heart
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Feb 2026<br>04 May 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Presto</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2454**Prodigal Leader (Presto)**</span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">11 Feb 2026<br>11 May 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Kalix</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2453**True Kin (Kalix)**</span>True Kin
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">11 Feb 2026<br>11 May 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Birdsong</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2455**Multiversal Allies (Birdsong)**</span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">18 Feb 2026<br>18 May 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">K'thriss</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2456**Holiday Bonus (K'thriss)**</span>Holiday Bonus
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">18 Feb 2026<br>18 May 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lae'zel</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2457**Bane of Ghaik (Lae'zel)**</span>Bane of Ghaik
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">25 Feb 2026<br>25 May 2026</span>
         </span>
     </span>
 </span>
