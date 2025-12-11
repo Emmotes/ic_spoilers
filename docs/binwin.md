@@ -152,7 +152,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Extra Attack** (Guess)
-> Binwin gains a Bonus Hit when an adjacent Champion attacks. The next time he attacks, he consumes his Bonus Hits to deal additional hits to the enemy he attacks. If his target dies and Binwin still has Bonus Hits, he'll jump to a new enemy if possible. Unused Bonus Hits are lost when his attack ends. Caps at 10 stacks.100.
+> Binwin gains a Bonus Hit when an adjacent Champion attacks. The next time he attacks, he consumes his Bonus Hits to deal additional hits to the enemy he attacks. If his target dies and Binwin still has Bonus Hits, he'll jump to a new enemy if possible. Unused Bonus Hits are lost when his attack ends. Caps at 10 stacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -160,7 +160,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2537,
     "flavour_text": "",
     "description": {
-        "desc": "Binwin gains a Bonus Hit when an adjacent Champion attacks. The next time he attacks, he consumes his Bonus Hits to deal additional hits to the enemy he attacks. If his target dies and Binwin still has Bonus Hits, he'll jump to a new enemy if possible. Unused Bonus Hits are lost when his attack ends. Caps at $max_stacks___2 stacks.$binwin_show_hits"
+        "desc": "Binwin gains a Bonus Hit when an adjacent Champion attacks. The next time he attacks, he consumes his Bonus Hits to deal additional hits to the enemy he attacks. If his target dies and Binwin still has Bonus Hits, he'll jump to a new enemy if possible. Unused Bonus Hits are lost when his attack ends. Caps at $max_stacks___2 stacks."
     },
     "effect_keys": [
         {
