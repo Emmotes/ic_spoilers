@@ -109,7 +109,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 304**Meek the Kobold**Nobody trods on Meek! Nobody!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Meek the Kobold Portrait](images/familiars/meekthekobold.png)<span class="featTooltipContents">ID: 304**Meek the Kobold**Nobody trods on Meek! Nobody!<img src="images/familiars/meekthekobold.gif" alt="Meek the Kobold Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Meek the Kobold

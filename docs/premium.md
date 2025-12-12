@@ -1134,7 +1134,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 304**Meek the Kobold**Nobody trods on Meek! Nobody!</span></span>
+            <span class="tooltipHolder">![Meek the Kobold Familiar Portrait](images/premiums/familiar_304.png)<span class="itemTooltipContents">ID: 304**Meek the Kobold**Nobody trods on Meek! Nobody!<img src="images/premiums/familiar_304.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
