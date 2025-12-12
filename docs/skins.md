@@ -196,7 +196,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Heroic Eric Portrait](images/skin_portraits/heroiceric.png)<span class="featTooltipContents">ID: 646**Heroic Eric (Eric)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Heroic Eric Portrait](images/skin_portraits/heroiceric.png)<span class="featTooltipContents">ID: 646**Heroic Eric (Eric)**<img src="images/skin_models/heroiceric.gif" alt="Heroic Eric Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Heroic Eric
