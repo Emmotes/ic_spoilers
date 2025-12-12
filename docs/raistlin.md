@@ -9,6 +9,14 @@
             Portrait
         </span>
     </span>
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Model GIF of Raistlin](images/raistlin/model.gif)
+        </span>
+        <span>
+            Model
+        </span>
+    </span>
 </span>
 
 # Raistlin
