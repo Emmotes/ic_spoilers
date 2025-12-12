@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/778.png">
-            <span class="weekendTooltipContents">ID: 778**Gold Marching Chest**Loot for: Nayeli, Calliope, Hew Maan, Shandie and Yorven<code>"for_crusaders":[3,5,75,47,92]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **March of the Modrons**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    12 December 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Yorven
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hewmaan.png'">
-                        <span class="weekendTableChampionNameplate">Hew Maan</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/shandie.png'">
-                        <span class="weekendTableChampionNameplate">Shandie</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/yorven.png'">
-                        <span class="weekendTableChampionNameplate">Yorven</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/779.png">
             <span class="weekendTooltipContents">ID: 779**Gold Shar Chest**Loot for: Minsc, Bruenor, Lae'zel, Karlach and Shadowheart<code>"for_crusaders":[7,1,128,143,141]</code></span>
         </span>
