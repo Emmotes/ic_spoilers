@@ -30,23 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Dark Urge</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Vicious Damage Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 2440**Vicious Damage (Dark Urge)**Ooh, that's sure to leave a nasty scar, milord. Bravo!<br><br><span style="color:var(--Flavescent)">Increases the damage of Dark Urge by 400%. Dark Urge's attacks prevent the target from healing for 10 seconds.</span><code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span>Vicious Damage
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of Dark Urge by 400%. Dark Urge's attacks prevent the target from healing for 10 seconds.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">EGS</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">11 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Regis</span>
         </span>
         <span class="featTableIcon4">
