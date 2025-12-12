@@ -859,7 +859,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 646**Heroic Eric (Eric)**</span></span>
+            <span class="tooltipHolder">![Heroic Eric Skin Portrait](images/premiums/skin_646.png)<span class="itemTooltipContents">ID: 646**Heroic Eric (Eric)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
