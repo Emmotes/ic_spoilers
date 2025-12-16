@@ -230,7 +230,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 648**Wintershield Knight Baeloth (Baeloth)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Wintershield Knight Baeloth Portrait](images/skin_portraits/wintershieldknightbaeloth.png)<span class="featTooltipContents">ID: 648**Wintershield Knight Baeloth (Baeloth)**<img src="images/skin_models/wintershieldknightbaeloth.gif" alt="Wintershield Knight Baeloth Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Wintershield Knight Baeloth
