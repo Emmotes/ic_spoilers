@@ -659,6 +659,9 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
                 1,
                 2
             ],
+            "post_buff_indicies": [
+                3
+            ],
             "attack_ids": [
                 924,
                 927
@@ -676,6 +679,14 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
             "max_stacks": 25,
             "stacks_multiply": false,
             "show_stacks": true,
+            "apply_manually": true
+        },
+        {
+            "effect_string": "add_max_combat_trance_stacks,1",
+            "stacks_on_trigger": "will_stack_manually",
+            "max_stacks": 25,
+            "stacks_multiply": false,
+            "show_stacks": false,
             "apply_manually": true
         }
     ],
@@ -696,7 +707,7 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Get Behind Me!** (Guess)
-> Anson taunts enemies to attack him when he attacks, and when he successfully taunts an enemy his max Meditation stacks are increased by 1, up to a max of 25. The max stack increase resets when changing areas.
+> Anson's attacks have a 50% chance to taunt enemies. When he successfully taunts an enemy, he increases his max Meditation stacks by 1 until changing areas, up to a max of 25.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -704,7 +715,7 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
     "id": 2559,
     "flavour_text": "",
     "description": {
-        "desc": "Anson taunts enemies to attack him when he attacks, and when he successfully taunts an enemy his max Meditation stacks are increased by 1, up to a max of 25. The max stack increase resets when changing areas."
+        "desc": "Anson's attacks have a 50% chance to taunt enemies. When he successfully taunts an enemy, he increases his max Meditation stacks by 1 until changing areas, up to a max of 25"
     },
     "effect_keys": [
         {
