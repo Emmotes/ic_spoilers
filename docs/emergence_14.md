@@ -81,6 +81,26 @@ We know the next Emergence event will be Winter Beasts and that it will start on
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Multiversal Allies Feat Icon](images/emergence_14/feat_2361.png)<span class="featTooltipContents">ID: 2361**Multiversal Allies (Halsin)**To serve and protect nature is a common bond that transcends all borders.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Multiversal Allies</span>
+            <span style="margin-left:15px">Halsin</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Blazing Blade Feat Icon](images/emergence_14/feat_2362.png)<span class="featTooltipContents">ID: 2362**Blazing Blade (Warduke)**I don't WANT to think about tactics. I want to HIT things with my SWORD!<br><br><span style="color:var(--Flavescent)">Increases the effect of Warduke's A Trained Killer ability by 80%.</span><code>buff_upgrade,80,9615</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Blazing Blade</span>
+            <span style="margin-left:15px">Warduke</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
             <span class="emergenceShopFeatIcon4 tooltipHolder">![Scholar Feat Icon](images/emergence_14/feat_2398.png)<span class="featTooltipContents">ID: 2398**Scholar (Calliope)**Why didn't anyone tell me books could be so freaking exciting!?<br><br><span style="color:var(--Flavescent)">Increases the Intelligence score of Calliope by 2.</span><code>increase_ability_score,int,2</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
@@ -111,7 +131,7 @@ We know the next Emergence event will be Winter Beasts and that it will start on
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Winter Beast Emergence Chest Icon](images/emergence_14/chest_787.png)<span class="itemTooltipContents">ID: 787**Winter Beast Emergence Chest**Loot for: Beadle, Blooshi, Calliope, Lark, Minthara, Skylla and Windfall<code>"for_crusaders":[64,106,5,170,154,169,167]</code></span></span>
+            <span class="tooltipHolder">![Winter Beast Emergence Chest Icon](images/emergence_14/chest_787.png)<span class="itemTooltipContents">ID: 787**Winter Beast Emergence Chest**Loot for: Beadle, Blooshi, Calliope, Lark, Minthara, Skylla, Windfall, Warduke and Halsin<code>"for_crusaders":[64,106,5,170,154,169,167,116,156]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
@@ -120,7 +140,7 @@ We know the next Emergence event will be Winter Beasts and that it will start on
     </span>
 </span>
 
-The Winter Beast Emergence Chest will contain loot for Beadle, Blooshi, Calliope, Lark, Minthara, Skylla and Windfall.
+The Winter Beast Emergence Chest will contain loot for Beadle, Blooshi, Calliope, Lark, Minthara, Skylla, Windfall, Warduke and Halsin.
 
 {% comment %}
 # Emergence FAQ
