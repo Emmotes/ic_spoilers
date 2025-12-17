@@ -637,7 +637,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2443**Multiversal Allies**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Multiversal Allies Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2443**Multiversal Allies**It's important in my line of work to know the right people for the right jobs.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -868,7 +868,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2444**Mercurial Demeanor**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Mercurial Demeanor Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2444**Mercurial Demeanor**Let's hear about this quest first, then I'll decide how I feel about it.<br><br><span style="color:var(--Flavescent)">Increases the base effect of Eric's Trait specializations by 80%.</span><code>buff_upgrades,80,16134,16135,16136</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -939,7 +939,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2445**Psychic Link**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Psychic Link Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2445**Psychic Link**I feel its power awakening within, and I sense Mizora's growing terror.<br><br><span style="color:var(--Flavescent)">Increases the effect of Wyll's Ceremorphosis ability by 80%. (Prestack)</span><code>buff_upgrade,80,13430</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1001,7 +1001,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Wintershield Knight Baeloth Skin Portrait](images/premiums/skin_648.png)<span class="itemTooltipContents">ID: 648**Wintershield Knight Baeloth (Baeloth)**<img src="images/premiums/skin_648.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Wintershield Knight Baeloth Skin Portrait](images/premiums/skin_648.png)<span class="itemTooltipContents">ID: 648**Wintershield Knight Baeloth (Baeloth)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_648.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_648-djiin.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1010,7 +1010,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2446**Standard Affair**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2446**Standard Affair**It's so much easier to stand out when I surround myself with mundanity!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2527</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1081,7 +1081,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2447**Prolonged Suffering**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prolonged Suffering Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2447**Prolonged Suffering**Stand, fool. I do not permit you to die. Yet.<br><br><span style="color:var(--Flavescent)">Increases the effect of Viconia's Cure Medium Wounds ability by 80%.</span><code>buff_upgrade,80,9783</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1195,7 +1195,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2448**Scent of Battle**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Scent of Battle Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2448**Scent of Battle**Boss smells like a burning bakery.<br><br><span style="color:var(--Flavescent)">Increases the effect of Dragonbait's Shen-state ability by 80%.</span><code>buff_upgrade,80,3272</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1266,7 +1266,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2449**Human Glitch**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Human Glitch Feat Portrait](images/featicons/glitch.png)<span class="itemTooltipContents">ID: 2449**Human Glitch**In another world - another life - would my destiny be any different?<code>todo<br>DevNote: TBC The Dark Urge counts as a Human. Increase the damage of all Champions by 20% for each Ceremorphosis stack the formation has.</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1319,7 +1319,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 305**Jar of Green Slime**'This is my brother - say hi brother!'~ Spurt</span></span>
+            <span class="tooltipHolder">![Jar of Green Slime Familiar Portrait](images/premiums/familiar_305.png)<span class="itemTooltipContents">ID: 305**Jar of Green Slime**'This is my brother - say hi brother!'~ Spurt<img src="images/premiums/familiar_305.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1328,7 +1328,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2450**Non-Standard Affair**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Non-Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2450**Non-Standard Affair**I want to be friends with everyone! EVERYONE!<code>todo<br>DevNote: Generic feat that increases the Global DPS by 20% (at epic) for each non-Standard Species Champion in the formation</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1399,7 +1399,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 306**Soul the Sun Elemental**We are made of star-stuff.</span></span>
+            <span class="tooltipHolder">![Soul the Sun Elemental Familiar Portrait](images/premiums/familiar_306.png)<span class="itemTooltipContents">ID: 306**Soul the Sun Elemental**We are made of star-stuff.<img src="images/premiums/familiar_306.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1469,7 +1469,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2451**Free Agent**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Free Agent Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2451**Free Agent**Agents Zrang, Kleeb, and Yassa, ready! We're a triple threat!<code>todo<br>DevNote: Generic feat that increases the Global DPS by 20% (at epic) for each Unaffiliated Champion in the formation (first done in Tales 6)</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1540,7 +1540,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2452**Hell's Heart**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Hell's Heart Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2452**Hell's Heart**Avernus taught me everything there is to know about pain. Let me show you.<br><br><span style="color:var(--Flavescent)">Increases the effect of Karlach's An Experienced Gladiator ability by 80%.</span><code>buff_upgrade,80,13725</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1681,7 +1681,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2453**True Kin**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![True Kin Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2453**True Kin**The clutch is all. The clutch IS all. The clutch is ALL.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kalix's Unorthodox Alliance ability by 80%. (Prestack)</span><code>buff_upgrade,80,16518,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1752,7 +1752,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2454**Prodigal Leader**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 2454**Prodigal Leader**I'll never stop learning. That's what life's all about!<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1823,7 +1823,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2455**Multiversal Allies**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Multiversal Allies Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2455**Multiversal Allies**A broadened perspective inspires the heart to greater heights.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1894,7 +1894,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2456**Holiday Bonus**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Holiday Bonus Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2456**Holiday Bonus**We've all been working so hard, I just thought perhaps we all deserve a little treat.<br><br><span style="color:var(--Flavescent)">Increases the base effect of K'thriss' Unseen Encouragement ability by 80%. (Prestack)</span><code>buff_upgrade,80,17324,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -2027,7 +2027,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2457**Bane of Ghaik**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Bane of Ghaik Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2457**Bane of Ghaik**They must ALL be destroyed, no matter the costs.<br><br><span style="color:var(--Flavescent)">Increases the effect of Lae'zel's Aberration Hunter ability by 80%.</span><code>buff_upgrade,80,12116</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>

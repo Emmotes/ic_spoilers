@@ -254,10 +254,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Artemis</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2443**Multiversal Allies (Artemis)**</span>Multiversal Allies
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2443**Multiversal Allies (Artemis)**It's important in my line of work to know the right people for the right jobs.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -271,10 +271,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Wyll</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2445**Psychic Link (Wyll)**</span>Psychic Link
+            ![Psychic Link Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2445**Psychic Link (Wyll)**I feel its power awakening within, and I sense Mizora's growing terror.<br><br><span style="color:var(--Flavescent)">Increases the effect of Wyll's Ceremorphosis ability by 80%. (Prestack)</span><code>buff_upgrade,80,13430</code></span>Psychic Link
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Wyll's Ceremorphosis ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -288,10 +288,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Eric</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2444**Mercurial Demeanor (Eric)**</span>Mercurial Demeanor
+            ![Mercurial Demeanor Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2444**Mercurial Demeanor (Eric)**Let's hear about this quest first, then I'll decide how I feel about it.<br><br><span style="color:var(--Flavescent)">Increases the base effect of Eric's Trait specializations by 80%.</span><code>buff_upgrades,80,16134,16135,16136</code></span>Mercurial Demeanor
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the base effect of Eric's Trait specializations by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -305,10 +305,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Viconia</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2447**Prolonged Suffering (Viconia)**</span>Prolonged Suffering
+            ![Prolonged Suffering Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2447**Prolonged Suffering (Viconia)**Stand, fool. I do not permit you to die. Yet.<br><br><span style="color:var(--Flavescent)">Increases the effect of Viconia's Cure Medium Wounds ability by 80%.</span><code>buff_upgrade,80,9783</code></span>Prolonged Suffering
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Viconia's Cure Medium Wounds ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -322,10 +322,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Baeloth</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2446**Standard Affair (Baeloth)**</span>Standard Affair
+            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2446**Standard Affair (Baeloth)**It's so much easier to stand out when I surround myself with mundanity!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2527</code></span>Standard Affair
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -373,10 +373,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Dragonbait</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2448**Scent of Battle (Dragonbait)**</span>Scent of Battle
+            ![Scent of Battle Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2448**Scent of Battle (Dragonbait)**Boss smells like a burning bakery.<br><br><span style="color:var(--Flavescent)">Increases the effect of Dragonbait's Shen-state ability by 80%.</span><code>buff_upgrade,80,3272</code></span>Scent of Battle
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Dragonbait's Shen-state ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -390,7 +390,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Spurt</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2450**Non-Standard Affair (Spurt)**</span>Non-Standard Affair
+            ![Non-Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2450**Non-Standard Affair (Spurt)**I want to be friends with everyone! EVERYONE!<code>todo<br>DevNote: Generic feat that increases the Global DPS by 20% (at epic) for each non-Standard Species Champion in the formation</code></span>Non-Standard Affair
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -407,7 +407,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Dark Urge</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2449**Human Glitch (Dark Urge)**</span>Human Glitch
+            ![Human Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 2449**Human Glitch (Dark Urge)**In another world - another life - would my destiny be any different?<code>todo<br>DevNote: TBC The Dark Urge counts as a Human. Increase the damage of all Champions by 20% for each Ceremorphosis stack the formation has.</code></span>Human Glitch
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -424,7 +424,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Hew Maan</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2451**Free Agent (Hew Maan)**</span>Free Agent
+            ![Free Agent Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2451**Free Agent (Hew Maan)**Agents Zrang, Kleeb, and Yassa, ready! We're a triple threat!<code>todo<br>DevNote: Generic feat that increases the Global DPS by 20% (at epic) for each Unaffiliated Champion in the formation (first done in Tales 6)</code></span>Free Agent
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -441,10 +441,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Karlach</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2452**Hell's Heart (Karlach)**</span>Hell's Heart
+            ![Hell's Heart Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2452**Hell's Heart (Karlach)**Avernus taught me everything there is to know about pain. Let me show you.<br><br><span style="color:var(--Flavescent)">Increases the effect of Karlach's An Experienced Gladiator ability by 80%.</span><code>buff_upgrade,80,13725</code></span>Hell's Heart
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Karlach's An Experienced Gladiator ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -458,10 +458,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Presto</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2454**Prodigal Leader (Presto)**</span>Prodigal Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2454**Prodigal Leader (Presto)**I'll never stop learning. That's what life's all about!<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">All Champions damage +50%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -475,10 +475,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Kalix</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2453**True Kin (Kalix)**</span>True Kin
+            ![True Kin Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2453**True Kin (Kalix)**The clutch is all. The clutch IS all. The clutch is ALL.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kalix's Unorthodox Alliance ability by 80%. (Prestack)</span><code>buff_upgrade,80,16518,0</code></span>True Kin
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Kalix's Unorthodox Alliance ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -492,10 +492,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Birdsong</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2455**Multiversal Allies (Birdsong)**</span>Multiversal Allies
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2455**Multiversal Allies (Birdsong)**A broadened perspective inspires the heart to greater heights.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -509,10 +509,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">K'thriss</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2456**Holiday Bonus (K'thriss)**</span>Holiday Bonus
+            ![Holiday Bonus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2456**Holiday Bonus (K'thriss)**We've all been working so hard, I just thought perhaps we all deserve a little treat.<br><br><span style="color:var(--Flavescent)">Increases the base effect of K'thriss' Unseen Encouragement ability by 80%. (Prestack)</span><code>buff_upgrade,80,17324,0</code></span>Holiday Bonus
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the base effect of K'thriss' Unseen Encouragement ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -526,10 +526,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Lae'zel</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2457**Bane of Ghaik (Lae'zel)**</span>Bane of Ghaik
+            ![Bane of Ghaik Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2457**Bane of Ghaik (Lae'zel)**They must ALL be destroyed, no matter the costs.<br><br><span style="color:var(--Flavescent)">Increases the effect of Lae'zel's Aberration Hunter ability by 80%.</span><code>buff_upgrade,80,12116</code></span>Bane of Ghaik
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Lae'zel's Aberration Hunter ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>

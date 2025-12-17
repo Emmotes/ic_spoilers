@@ -126,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 305**Jar of Green Slime**'This is my brother - say hi brother!'~ Spurt</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Jar of Green Slime Portrait](images/familiars/jarofgreenslime.png)<span class="featTooltipContents">ID: 305**Jar of Green Slime**'This is my brother - say hi brother!'~ Spurt<img src="images/familiars/jarofgreenslime.gif" alt="Jar of Green Slime Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Jar of Green Slime
@@ -143,7 +143,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 306**Soul the Sun Elemental**We are made of star-stuff.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Soul the Sun Elemental Portrait](images/familiars/soulthesunelemental.png)<span class="featTooltipContents">ID: 306**Soul the Sun Elemental**We are made of star-stuff.<img src="images/familiars/soulthesunelemental.gif" alt="Soul the Sun Elemental Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Soul the Sun Elemental

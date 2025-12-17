@@ -230,7 +230,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Wintershield Knight Baeloth Portrait](images/skin_portraits/wintershieldknightbaeloth.png)<span class="featTooltipContents">ID: 648**Wintershield Knight Baeloth (Baeloth)**<img src="images/skin_models/wintershieldknightbaeloth.gif" alt="Wintershield Knight Baeloth Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Wintershield Knight Baeloth Portrait](images/skin_portraits/wintershieldknightbaeloth.png)<span class="featTooltipContents">ID: 648**Wintershield Knight Baeloth (Baeloth)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/wintershieldknightbaeloth.gif" alt="Wintershield Knight Baeloth Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/wintershieldknightbaeloth-djiin.gif" alt="Wintershield Knight Baeloth Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Wintershield Knight Baeloth
@@ -243,6 +243,40 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             21 Jan 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Blood War Duke Ravengard Portrait](images/skin_portraits/bloodwardukeravengard.png)<span class="featTooltipContents">ID: 641**Blood War Duke Ravengard (Ravengard)**<img src="images/skin_models/bloodwardukeravengard.gif" alt="Blood War Duke Ravengard Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Blood War Duke Ravengard
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            28 Jan 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Pirate King Spurt Portrait](images/skin_portraits/piratekingspurt.png)<span class="featTooltipContents">ID: 642**Pirate King Spurt (Spurt)**<img src="images/skin_models/piratekingspurt.gif" alt="Pirate King Spurt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Pirate King Spurt
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            28 Jan 2026
         </span>
     </span>
     <span class="skinTableRow">

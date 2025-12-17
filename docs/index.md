@@ -151,7 +151,10 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="deekin.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Deekin Portrait Icon](images/deekin/portrait.png)
         </span>
@@ -170,6 +173,9 @@ A list of champions that will be seeing reworks in upcoming events.
             ![Ranged Attack Icon](images/general/icon_ranged.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 {::nomarkdown}
@@ -323,7 +329,10 @@ These are the upcoming new and reworked champions and where they'll be found.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="deekin.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Deekin Portrait Icon](images/deekin/portrait.png)
         </span>
@@ -345,6 +354,9 @@ These are the upcoming new and reworked champions and where they'll be found.
             ![Ranged Attack Icon](images/general/icon_ranged.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 </div></div>
 
