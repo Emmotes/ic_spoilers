@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cozy Regis Portrait](images/skin_portraits/cozyregis.png)<span class="featTooltipContents">ID: 625**Cozy Regis (Regis)**<img src="images/skin_models/cozyregis.gif" alt="Cozy Regis Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Cozy Regis
-        </span>
-        <span class="skinTableSource">
-            Cozy Regis Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            17 Dec 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Winter Gloom Yorven Portrait](images/skin_portraits/wintergloomyorven.png)<span class="featTooltipContents">ID: 627**Winter Gloom Yorven (Yorven)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/wintergloomyorven.gif" alt="Winter Gloom Yorven Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/wintergloomyorven-shadow_mastiff.gif" alt="Winter Gloom Yorven Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Winter Gloom Yorven
-        </span>
-        <span class="skinTableSource">
-            Winter Gloom Yorven Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            17 Dec 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Oerth Kas Portrait](images/skin_portraits/oerthkas.png)<span class="featTooltipContents">ID: 640**Oerth Kas (Kas)**<img src="images/skin_models/oerthkas.gif" alt="Oerth Kas Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -253,7 +219,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             Blood War Duke Ravengard
         </span>
         <span class="skinTableSource">
-            ???
+            Tales of the Champions (Guess)
         </span>
         <span class="skinTableCost">
             ???
@@ -270,7 +236,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             Pirate King Spurt
         </span>
         <span class="skinTableSource">
-            ???
+            Tales of the Champions (Guess)
         </span>
         <span class="skinTableCost">
             ???
