@@ -132,6 +132,40 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Halsin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2361**Multiversal Allies (Halsin)**To serve and protect nature is a common bond that transcends all borders.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Emergence 14</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">23 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Warduke</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Blazing Blade Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2362**Blazing Blade (Warduke)**I don't WANT to think about tactics. I want to HIT things with my SWORD!<br><br><span style="color:var(--Flavescent)">Increases the effect of Warduke's A Trained Killer ability by 80%.</span><code>buff_upgrade,80,9615</code></span>Blazing Blade
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Warduke's A Trained Killer ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Emergence 14</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">23 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Beadle</span>
         </span>
         <span class="featTableIcon4">
@@ -149,40 +183,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Halsin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2361**Multiversal Allies (Halsin)**To serve and protect nature is a common bond that transcends all borders.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">23 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Warduke</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Blazing Blade Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2362**Blazing Blade (Warduke)**I don't WANT to think about tactics. I want to HIT things with my SWORD!<br><br><span style="color:var(--Flavescent)">Increases the effect of Warduke's A Trained Killer ability by 80%.</span><code>buff_upgrade,80,9615</code></span>Blazing Blade
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Warduke's A Trained Killer ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">23 Dec 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Nordom</span>
         </span>
         <span class="featTableIcon4">
@@ -192,7 +192,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Nordom gains the Control role and his base attacks explode in a small radius, dealing 1 hit to all enemies in the area and knocking them back a short distance.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Tales of the Champions</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">23 Dec 2025</span>
