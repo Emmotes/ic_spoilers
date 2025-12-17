@@ -3354,7 +3354,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Venom Harvester Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2155**Venom Harvester (Spurt)**Spurt make discovery! Wyvern tail VERY stingy!<br><br><span style="color:var(--Flavescent)">Increases the effect of Spurt's Wa-spiration: Stingy ability by 80%.</span><code>buff_spurt_waspiration_effect,80,0</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Venom Harvester Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2155**Venom Harvester (Spurt)**I made a discovery! Wyvern tail VERY stingy!<br><br><span style="color:var(--Flavescent)">Increases the effect of Spurt's Wa-spiration: Stingy ability by 80%.</span><code>buff_spurt_waspiration_effect,80,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
