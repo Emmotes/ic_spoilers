@@ -111,15 +111,268 @@ Unknown.
 
 # Abilities
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Debilitating Magic** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 28521,
+    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Y9/Icon_Formation_Raistlin_DebilitatingMagic",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Flames of High Sorcery** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 28522,
+    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Y9/Icon_Formation_Raistlin_FlamesOfHighSorcery",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Herbalism** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 28523,
+    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Y9/Icon_Formation_Raistlin_Herbalism",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Prodigy of High Sorcery** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 28524,
+    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Y9/Icon_Formation_Raistlin_ProdigyOfHighSorcery",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Savant** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 28525,
+    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Y9/Icon_Formation_Raistlin_Savant",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Specialisations
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Heroic Mage** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 28529,
+    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Y9/Icon_Specialization_Raistlin_HeroicMage",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Reclusive Mage** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 28530,
+    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Y9/Icon_Specialization_Raistlin_ReclusiveMage",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**War Mage** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 28531,
+    "graphic": "Icons/Events/2018Fleetswake/Fleetswake_Y9/Icon_Specialization_Raistlin_WarMage",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Items
 
-Unknown.
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon" style="justify-content:flex-start">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableNameSmall">
+            **Name**
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Books Icon](images/raistlin/28484.png)</span><span class="itemTableIcon2">![Books Icon](images/raistlin/28484.png)</span><span class="itemTableIcon3">![Books Icon](images/raistlin/28485.png)</span><span class="itemTableIcon4">![Books Icon](images/raistlin/28486.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Books
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Clothing Icon](images/raistlin/28487.png)</span><span class="itemTableIcon2">![Clothing Icon](images/raistlin/28487.png)</span><span class="itemTableIcon3">![Clothing Icon](images/raistlin/28488.png)</span><span class="itemTableIcon4">![Clothing Icon](images/raistlin/28489.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Clothing
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Drinks Icon](images/raistlin/28490.png)</span><span class="itemTableIcon2">![Drinks Icon](images/raistlin/28490.png)</span><span class="itemTableIcon3">![Drinks Icon](images/raistlin/28491.png)</span><span class="itemTableIcon4">![Drinks Icon](images/raistlin/28492.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Drinks
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Other Rewards Icon](images/raistlin/28493.png)</span><span class="itemTableIcon2">![Other Rewards Icon](images/raistlin/28493.png)</span><span class="itemTableIcon3">![Other Rewards Icon](images/raistlin/28494.png)</span><span class="itemTableIcon4">![Other Rewards Icon](images/raistlin/28495.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Other Rewards
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Stones Icon](images/raistlin/28496.png)</span><span class="itemTableIcon2">![Stones Icon](images/raistlin/28496.png)</span><span class="itemTableIcon3">![Stones Icon](images/raistlin/28497.png)</span><span class="itemTableIcon4">![Stones Icon](images/raistlin/28498.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Stones
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Weapon Icon](images/raistlin/28499.png)</span><span class="itemTableIcon2">![Weapon Icon](images/raistlin/28499.png)</span><span class="itemTableIcon3">![Weapon Icon](images/raistlin/28500.png)</span><span class="itemTableIcon4">![Weapon Icon](images/raistlin/28501.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Weapon
+        </span>
+    </span>
+</span>
 
 # Feats
 
