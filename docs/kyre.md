@@ -272,7 +272,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Stunning Strike** (Guess)
-> Kyre's normal attacks have a 100000% chance to stun their target(s) for 10 seconds. This chance is multiplicatively reduced by 25% each time they stun an enemy with this ability, but resets back to full when changing areas.
+> Kyre's normal attacks have a 100% chance to stun their target(s) for 10 seconds. This chance is multiplicatively reduced by 25% each time they stun an enemy with this ability, but resets back to full when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -284,8 +284,8 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "add_attack_stun,100000",
-            "base_chance": 100000,
+            "effect_string": "add_attack_stun,100",
+            "base_chance": 100,
             "duration": 10,
             "graphic": 1509,
             "manual_stacking": true,
@@ -315,9 +315,17 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
             "off_when_benched": true
         },
         {
-            "effect_string": "expression_on_trigger,monster_stunned_by_owner",
+            "effect_string": "expression_on_trigger_disabled,monster_stunned_by_owner",
             "per_trigger_expr": "{AppendToSaveStat(`kyre_max_stunned_in_single_area`, false, 1) NotifyStatChanged(`KyreMaxStunnedInSingleArea`, false)}",
             "off_when_benched": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "stacks_data_binder_safe,0,kyre_max_stunned_in_single_area",
+            "is_instanced_stat": false,
+            "only_take_max": true,
+            "use_stat_defs": true,
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
