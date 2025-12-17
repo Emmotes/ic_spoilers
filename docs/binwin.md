@@ -56,7 +56,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "end_frame": 21
                 }
             ],
-            "radius": 250
+            "radius": 250,
+            "slow_graphic": 6548
         }
     ],
     "tags": [
