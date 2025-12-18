@@ -94,7 +94,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 644**Winter Wraith Artemis (Artemis)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Winter Wraith Artemis Portrait](images/skin_portraits/winterwraithartemis.png)<span class="featTooltipContents">ID: 644**Winter Wraith Artemis (Artemis)**<img src="images/skin_models/winterwraithartemis.gif" alt="Winter Wraith Artemis Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Winter Wraith Artemis
@@ -179,7 +179,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 649**Winter Nightmare Viconia (Viconia)**<img src="images/skin_models/winternightmareviconia.gif" alt="Winter Nightmare Viconia Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Winter Nightmare Viconia Portrait](images/skin_portraits/winternightmareviconia.png)<span class="featTooltipContents">ID: 649**Winter Nightmare Viconia (Viconia)**<img src="images/skin_models/winternightmareviconia.gif" alt="Winter Nightmare Viconia Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Winter Nightmare Viconia
