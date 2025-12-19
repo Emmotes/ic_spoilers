@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/779.png">
-            <span class="weekendTooltipContents">ID: 779**Gold Shar Chest**Loot for: Minsc, Bruenor, Lae'zel, Karlach and Shadowheart<code>"for_crusaders":[7,1,128,143,141]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Encroaching Darkness**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    19 December 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Shadowheart
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/minsc.png'">
-                        <span class="weekendTableChampionNameplate">Minsc</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/laezel.png'">
-                        <span class="weekendTableChampionNameplate">Lae'zel</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/karlach.png'">
-                        <span class="weekendTableChampionNameplate">Karlach</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/shadowheart.png'">
-                        <span class="weekendTableChampionNameplate">Shadowheart</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/780.png">
             <span class="weekendTooltipContents">ID: 780**Gold Eyeball Chest**Loot for: Celeste, Arkhan, Thellora, King of Shadows and Kas<code>"for_crusaders":[2,12,139,168,153]</code></span>
         </span>
