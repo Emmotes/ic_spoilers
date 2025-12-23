@@ -98,12 +98,9 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/raistlin/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Raistlin" fill="#aaa" data-formationName="Raistlin" data-campaignName="Fleetswake" width="300" height="160"><circle cx="175" cy="25" r="15"/><circle cx="175" cy="145" r="15"/><circle cx="135" cy="45" r="15"/><circle cx="135" cy="125" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="25" r="15"/><circle cx="15" cy="145" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Raistlin</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Fleetswake</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
@@ -384,7 +381,22 @@ Unknown.
 
 # Adventures and Variants
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unlock Adventure: The Unfair Sea (Raistlin)** (Complete Area 50)
+> Discover the fate of some merchants in the jungles of Chult.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 1: Variant 1** (Complete Area 75)
+> 
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 2: Variant 2** (Complete Area 125)
+> 
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 3: Variant 3** (Complete Area 175)
+> 
+</div></div>
 
 # Other Champion Images
 
