@@ -9,23 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Oerth Kas Portrait](images/skin_portraits/oerthkas.png)<span class="featTooltipContents">ID: 640**Oerth Kas (Kas)**<img src="images/skin_models/oerthkas.gif" alt="Oerth Kas Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Oerth Kas
-        </span>
-        <span class="skinTableSource">
-            Adventure: No Rest for the Wicked
-        </span>
-        <span class="skinTableCost">
-            Free
-        </span>
-        <span class="skinTableDate">
-            23 Dec 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Pirate Kalix Portrait](images/skin_portraits/piratekalix.png)<span class="featTooltipContents">ID: 631**Pirate Kalix (Kalix)**<img src="images/skin_models/piratekalix.gif" alt="Pirate Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -447,6 +430,142 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             25 Feb 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 663**Order of the Red Robes Gale (Gale)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Order of the Red Robes Gale
+        </span>
+        <span class="skinTableSource">
+            Order of the Red Robes Gale Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            04 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 662**Raistlin, Master of Past and Present (Raistlin)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Raistlin, Master of Past and Present
+        </span>
+        <span class="skinTableSource">
+            Raistlin, Master of Past and Present Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            04 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 664**Bard of the Dragon Queen Deekin (Deekin)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Bard of the Dragon Queen Deekin
+        </span>
+        <span class="skinTableSource">
+            Bard of the Dragon Queen Deekin Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            11 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 666**Heroic Sheila (Sheila)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Heroic Sheila
+        </span>
+        <span class="skinTableSource">
+            Heroic Sheila Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            11 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 665**Knight of Solamnia Zorbu (Zorbu)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Knight of Solamnia Zorbu
+        </span>
+        <span class="skinTableSource">
+            Knight of Solamnia Zorbu Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            11 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 668**Desmondlance Desmond (Desmond)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Desmondlance Desmond
+        </span>
+        <span class="skinTableSource">
+            Desmondlance Desmond Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            18 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 667**Dragon Chronicler Volo (Volo)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dragon Chronicler Volo
+        </span>
+        <span class="skinTableSource">
+            Dragon Chronicler Volo Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            18 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 670**Dragonlance Karlach (Karlach)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dragonlance Karlach
+        </span>
+        <span class="skinTableSource">
+            Dragonlance Karlach Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            25 Mar 2026
         </span>
     </span>
 </span>

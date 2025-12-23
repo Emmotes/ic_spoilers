@@ -192,6 +192,91 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             25 Feb 2026
         </span>
     </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 310**Caramon the Rabbit**Dear, good, steadfast, boring Caramon.</span></span>
+        </span>
+        <span class="skinTableName">
+            Caramon the Rabbit
+        </span>
+        <span class="skinTableSource">
+            Raistlin, Master of Past and Present Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            04 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 311**Dragon Orb of Istar**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dragon Orb of Istar
+        </span>
+        <span class="skinTableSource">
+            Dragon Orb of Istar Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            840p
+        </span>
+        <span class="skinTableDate">
+            04 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone…</span></span>
+        </span>
+        <span class="skinTableName">
+            Drone of Dooooom
+        </span>
+        <span class="skinTableSource">
+            Bard of the Dragon Queen Deekin Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            11 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 314**Seeker the Star Angler**Just watch out when her teeth grow in!</span></span>
+        </span>
+        <span class="skinTableName">
+            Seeker the Star Angler
+        </span>
+        <span class="skinTableSource">
+            Seeker the Star Angler Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            2,380p
+        </span>
+        <span class="skinTableDate">
+            25 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 313**Rocky the Baaz Draconian**</span></span>
+        </span>
+        <span class="skinTableName">
+            Rocky the Baaz Draconian
+        </span>
+        <span class="skinTableSource">
+            None
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)
