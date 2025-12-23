@@ -60,6 +60,28 @@ Some graphics were found that had the format `Bastion/Rooms/Tavern/...`:
 > [bastion_wall_tavern_sidewallfront.png](images/bastion/rooms/tavern/bastion_wall_tavern_sidewallfront.png){:target="_blank"}  
 > [bastion_wall_tavern_sidewalltop.png](images/bastion/rooms/tavern/bastion_wall_tavern_sidewalltop.png){:target="_blank"}  
 
+## Treasure
+
+Some graphics were found that had the format `Bastion/Rooms/Treasure/...`:
+
+> [bastion_doodad_bluefirepit.png](images/bastion/rooms/treasure/bastion_doodad_bluefirepit.png){:target="_blank"}  
+> [bastion_doodad_bluefiresconce.png](images/bastion/rooms/treasure/bastion_doodad_bluefiresconce.png){:target="_blank"}  
+> [bastion_doodad_orangebanner.png](images/bastion/rooms/treasure/bastion_doodad_orangebanner.png){:target="_blank"}  
+> [bastion_doodad_treasurechestplatform.png](images/bastion/rooms/treasure/bastion_doodad_treasurechestplatform.png){:target="_blank"}  
+> [bastion_doodad_treasurepile1.png](images/bastion/rooms/treasure/bastion_doodad_treasurepile1.png){:target="_blank"}  
+> [bastion_doodad_treasurepile2.png](images/bastion/rooms/treasure/bastion_doodad_treasurepile2.png){:target="_blank"}  
+> [bastion_doodad_treasurepile3.png](images/bastion/rooms/treasure/bastion_doodad_treasurepile3.png){:target="_blank"}  
+> [bastion_doodad_treasurepile4.png](images/bastion/rooms/treasure/bastion_doodad_treasurepile4.png){:target="_blank"}  
+> [bastion_doodad_treasurepile5.png](images/bastion/rooms/treasure/bastion_doodad_treasurepile5.png){:target="_blank"}  
+> [bastion_doodad_treasureroompillar.png](images/bastion/rooms/treasure/bastion_doodad_treasureroompillar.png){:target="_blank"}  
+> [bastion_floor_treasureroom.png](images/bastion/rooms/treasure/bastion_floor_treasureroom.png){:target="_blank"}  
+> [bastion_wall_treasureroom.png](images/bastion/rooms/treasure/bastion_wall_treasureroom.png){:target="_blank"}  
+> [bastion_wall_treasureroom_cutout.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_cutout.png){:target="_blank"}  
+> [bastion_wall_treasureroom_door_side.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_door_side.png){:target="_blank"}  
+> [bastion_wall_treasureroom_sidewall.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_sidewall.png){:target="_blank"}  
+> [bastion_wall_treasureroom_sidewallcorner.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_sidewallcorner.png){:target="_blank"}  
+> [bastion_wall_treasureroom_sidewallfront.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_sidewallfront.png){:target="_blank"}  
+
 # Text Defines
 
 > "key": "loading_bastion_details",  
