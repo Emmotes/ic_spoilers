@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Pirate Kalix Portrait](images/skin_portraits/piratekalix.png)<span class="featTooltipContents">ID: 631**Pirate Kalix (Kalix)**<img src="images/skin_models/piratekalix.gif" alt="Pirate Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Pirate Kalix
-        </span>
-        <span class="skinTableSource">
-            Champions of Renown: Year 8 All Star Pack
-        </span>
-        <span class="skinTableCost">
-            8,000p
-        </span>
-        <span class="skinTableDate">
-            23 Dec 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cozy Calliope Portrait](images/skin_portraits/cozycalliope.png)<span class="featTooltipContents">ID: 635**Cozy Calliope (Calliope)**<img src="images/skin_models/cozycalliope.gif" alt="Cozy Calliope Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Cozy Calliope
-        </span>
-        <span class="skinTableSource">
-            Emergence 14
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            23 Dec 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Simril Siren Ellywick Portrait](images/skin_portraits/simrilsirenellywick.png)<span class="featTooltipContents">ID: 639**Simril Siren Ellywick (Ellywick)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/simrilsirenellywick.gif" alt="Simril Siren Ellywick Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/simrilsirenellywick-flames.gif" alt="Simril Siren Ellywick Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/simrilsirenellywick-gem.gif" alt="Simril Siren Ellywick Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/simrilsirenellywick-knight.gif" alt="Simril Siren Ellywick Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/simrilsirenellywick-moon.gif" alt="Simril Siren Ellywick Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/simrilsirenellywick-the_fates.gif" alt="Simril Siren Ellywick Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Simril Siren Ellywick
-        </span>
-        <span class="skinTableSource">
-            Newsletter
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            23 Dec 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Cozy Hunter Vin Ursa Portrait](images/skin_portraits/cozyhuntervinursa.png)<span class="featTooltipContents">ID: 632**Cozy Hunter Vin Ursa (Vin Ursa)**<img src="images/skin_models/cozyhuntervinursa.gif" alt="Cozy Hunter Vin Ursa Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

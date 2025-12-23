@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cog the Clockwork Modron Portrait](images/familiars/cogtheclockworkmodron.png)<span class="featTooltipContents">ID: 296**Cog the Clockwork Modron**Craftsmanship even Primus would be impressed by.<img src="images/familiars/cogtheclockworkmodron.gif" alt="Cog the Clockwork Modron Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Cog the Clockwork Modron
-        </span>
-        <span class="skinTableSource">
-            Cog the Clockwork Modron Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            840p
-        </span>
-        <span class="skinTableDate">
-            23 Dec 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Fixer the Automaton Portrait](images/familiars/fixertheautomaton.png)<span class="featTooltipContents">ID: 298**Fixer the Automaton**Quicker she says. Always quicker!<img src="images/familiars/fixertheautomaton.gif" alt="Fixer the Automaton Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -228,7 +211,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone…</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone...</span></span>
         </span>
         <span class="skinTableName">
             Drone of Dooooom
