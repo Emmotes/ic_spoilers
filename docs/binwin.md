@@ -281,7 +281,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Lingering Damage** (Guess)
-> While Binwin is your BUD-setting Champion and he attacks but does not kill an enemy, the enemy takes 100% of the damage it took over the next 5 seconds. 100 100 100.
+> While Binwin is your BUD-setting Champion and he attacks but does not kill an enemy, the enemy takes 100% of the damage it took over the next 5 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
