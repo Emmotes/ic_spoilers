@@ -112,10 +112,10 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
 {
     "id": 935,
     "name": "Radiant Sun Bolt",
-    "description": "Kyre attacks the enemy with the most remaining health with a searing bolt of magical radiance, dealing 1 hit.",
-    "long_description": "",
+    "description": "Kyre attacks the toughest enemy for 1 hit.",
+    "long_description": "Kyre attacks the enemy with the most remaining health with a searing bolt of magical radiance, dealing 1 hit.",
     "graphic_id": 0,
-    "target": "front",
+    "target": "highest_health",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
@@ -160,10 +160,10 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
 {
     "id": 936,
     "name": "Radiant Sun Bolt",
-    "description": "Kyre attacks the two enemies with the most remaining health with a searing bolt of magical radiance, dealing 1 hit to each target. (If only one target remains, deal 2 hits to that target.)",
-    "long_description": "",
+    "description": "Kyre attacks the two toughest enemies for 1 hit each.",
+    "long_description": "Kyre attacks the two enemies with the most remaining health with a searing bolt of magical radiance, dealing 1 hit to each target. (If only one target remains, deal 2 hits to that target.)",
     "graphic_id": 0,
-    "target": "front",
+    "target": "highest_health",
     "num_targets": 2,
     "aoe_radius": 0,
     "damage_modifier": 1,
@@ -212,14 +212,16 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     "description": "Kyre creates an energy wave, dealing 1 ultimate hit to affected enemies.\r\n",
     "long_description": "Kyre creates a wave of radiant light and fire, dealing 1 ultimate hit to enemies it envelopes.",
     "graphic_id": 28335,
-    "target": "random",
+    "target": "front",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 0.03,
     "cooldown": 150,
     "animations": [
         {
-            "type": "kyre_ultimate"
+            "type": "ultimate_attack",
+            "ultimate": "kyre",
+            "animation_sequence_name": "ultimate"
         }
     ],
     "tags": [
@@ -272,7 +274,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Stunning Strike** (Guess)
-> Kyre's normal attacks have a 100% chance to stun their target(s) for 10 seconds. This chance is multiplicatively reduced by 25% each time they stun an enemy with this ability, but resets back to full when changing areas.
+> Kyre's normal attacks have a 100% chance to stun their 100targets100target100 for 10 seconds. This chance is multiplicatively reduced by 25% each time they stun an enemy with this ability, but resets back to full when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -280,7 +282,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     "id": 2594,
     "flavour_text": "",
     "description": {
-        "desc": "Kyre's normal attacks have a $base_chance% chance to stun their target(s) for $duration seconds. This chance is multiplicatively reduced by 25% each time they stun an enemy with this ability, but resets back to full when changing areas."
+        "desc": "Kyre's normal attacks have a $base_chance% chance to stun their $(if feat_assigned 2237)targets$(else)target$(fi) for $duration seconds. This chance is multiplicatively reduced by 25% each time they stun an enemy with this ability, but resets back to full when changing areas."
     },
     "effect_keys": [
         {
@@ -396,6 +398,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     "large_graphic_id": 28317,
     "properties": {
         "is_formation_ability": true,
+        "use_outgoing_description": true,
         "show_incoming": false
     }
 }
@@ -479,7 +482,8 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
                 "feat_changed"
             ],
             "per_hero_expr": "HasTag(`control`)",
-            "off_when_benched": true
+            "off_when_benched": true,
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -487,6 +491,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     "large_graphic_id": 28330,
     "properties": {
         "is_formation_ability": true,
+        "use_outgoing_description": true,
         "spec_option_post_apply_info": "Control Champions: $num_stacks",
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -528,7 +533,8 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
                 "feat_changed"
             ],
             "per_hero_expr": "GetStat(`dex`) >= 16",
-            "off_when_benched": true
+            "off_when_benched": true,
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -539,7 +545,8 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
         "spec_option_post_apply_info": "DEX 16+ Champions: $num_stacks",
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "use_outgoing_description": true
     }
 }
 </pre>
@@ -577,7 +584,8 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
                 "feat_changed"
             ],
             "per_hero_expr": "HasTag(`good`)",
-            "off_when_benched": true
+            "off_when_benched": true,
+            "show_bonus": true
         },
         {
             "off_when_benched": true,
@@ -596,7 +604,8 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
         "spec_option_post_apply_info": "Qualifying Champions: $num_stacks",
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "use_outgoing_description": true
     }
 }
 </pre>
@@ -689,7 +698,7 @@ Unknown.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Absolutely Stunning Icon](images/kyre/28325.png) **Variant 2: Absolutely Stunning** (Complete Area 125)
-> Kyre starts in the formation. (Slot 3) They can't be moved or removed.   
+> Kyre starts in the formation. They can't be moved or removed.   
 > Champions deal 1% damage to enemies that are not stunned.  
 > A Monk joins the formation. Champions adjacent to the Monk have a 10% chance to stun enemies they attack for 5 seconds.  
 > 1-2 Shadow Goblins spawn with each wave. They don't drop gold nor count towards quest progress.  
