@@ -281,7 +281,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Lingering Damage** (Guess)
-> While Binwin is your BUD-setting Champion and he attacks but does not kill an enemy, the enemy takes 100% of the damage it took over the next 5 seconds. 100.
+> While Binwin is your BUD-setting Champion and he attacks but does not kill an enemy, the enemy takes 100% of the damage it took over the next 5 seconds. 100 100 100.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -289,7 +289,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2539,
     "flavour_text": "",
     "description": {
-        "desc": "While Binwin is your BUD-setting Champion and he attacks but does not kill an enemy, the enemy takes $amount% of the damage it took over the next 5 seconds. $bud_setting_active"
+        "desc": "While Binwin is your BUD-setting Champion and he attacks but does not kill an enemy, the enemy takes $amount% of the damage it took over the next 5 seconds. $(if upgrade_purchased 18461) $bud_setting_active $(fi)"
     },
     "effect_keys": [
         {
