@@ -10,6 +10,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Cazrin Varaith](archive/cazrin.md)
 * [Emergence 12](archive/emergence_12.md)
 * [Emergence 13](archive/emergence_13.md)
+* [Emergence 14](archive/emergence_14.md)
 * [Farideh](archive/farideh.md)
 * [Feast of the Moon Augments](archive/augments_3.md)
 * [Founders' Day Augments](archive/augments_37.md)
