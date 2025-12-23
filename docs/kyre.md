@@ -274,7 +274,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Stunning Strike** (Guess)
-> Kyre's normal attacks have a 100% chance to stun their 100targets100target100 for 10 seconds. This chance is multiplicatively reduced by 25% each time they stun an enemy with this ability, but resets back to full when changing areas.
+> Kyre's normal attacks have a 100% chance to stun their target for 10 seconds. This chance is multiplicatively reduced by 25% each time they stun an enemy with this ability, but resets back to full when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
