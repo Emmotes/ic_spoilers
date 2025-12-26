@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/780.png">
-            <span class="weekendTooltipContents">ID: 780**Gold Eyeball Chest**Loot for: Celeste, Arkhan, Thellora, King of Shadows and Kas<code>"for_crusaders":[2,12,139,168,153]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Whispers from the Far Realm**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    26 December 2025
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Kas
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/arkhan.png'">
-                        <span class="weekendTableChampionNameplate">Arkhan</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/thellora.png'">
-                        <span class="weekendTableChampionNameplate">Thellora</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kos.png'">
-                        <span class="weekendTableChampionNameplate">KoS</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kas.png'">
-                        <span class="weekendTableChampionNameplate">Kas</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/783.png">
             <span class="weekendTooltipContents">ID: 783**Gold Fancy Blade Chest**Loot for: Asharra, Minsc, Baldric, Tess and Anson<code>"for_crusaders":[6,7,165,164,171]</code></span>
         </span>
