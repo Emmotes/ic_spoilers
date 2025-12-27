@@ -4,6 +4,8 @@
 
 A list of events and what champions are in them - to the best of our knowledge.
 
+You can find a champion's Event Buffs and Event Rewards in their tooltips. Please note that event buffs and event rewards are snapshot data - which means they were collected during their last event. There is nothing stopping CNE from changing those in a new event.
+
 <span style="font-size:1.2em;">ⓘ</span> *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
 # Wintershield - January
