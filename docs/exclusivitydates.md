@@ -475,6 +475,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">17 Mar 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Vin Ursa</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Orbital Ooze Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2224**Orbital Ooze (Vin Ursa)**I'm a simple plasmoid making my way through wildspace.<br><br><span style="color:var(--Flavescent)">Increases the effect of Vin Ursa's Friends in Low Places, Friends in Meh Places and Friends in High Places by 80%.</span><code>buff_upgrades,80,12092,12093,12094</code></span>Orbital Ooze
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Vin Ursa's Friends in Low Places, Friends in Meh Places and Friends in High Places by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Mar 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lazaapz</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Inexhaustible Fury Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2364**Inexhaustible Fury (Lazaapz)**Let's GO! I feel GREAT! I could break stuff all DAY!<br><br><span style="color:var(--Flavescent)">Increases the effect of Lazaapz's first set of Specializations by 80%.</span><code>buff_upgrades,80,17484,17485,17486</code></span>Inexhaustible Fury
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Lazaapz's first set of Specializations by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Mar 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
