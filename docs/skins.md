@@ -9,23 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cozy Hunter Vin Ursa Portrait](images/skin_portraits/cozyhuntervinursa.png)<span class="featTooltipContents">ID: 632**Cozy Hunter Vin Ursa (Vin Ursa)**<img src="images/skin_models/cozyhuntervinursa.gif" alt="Cozy Hunter Vin Ursa Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Cozy Hunter Vin Ursa
-        </span>
-        <span class="skinTableSource">
-            Cozy Hunter Vin Ursa Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            30 Dec 2025
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Winter Wraith Artemis Portrait](images/skin_portraits/winterwraithartemis.png)<span class="featTooltipContents">ID: 644**Winter Wraith Artemis (Artemis)**<img src="images/skin_models/winterwraithartemis.gif" alt="Winter Wraith Artemis Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
