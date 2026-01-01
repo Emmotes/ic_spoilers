@@ -13,10 +13,8 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Emergence 14](archive/emergence_14.md)
 * [Farideh](archive/farideh.md)
 * [Feast of the Moon Augments](archive/augments_3.md)
-* [Founders' Day Augments](archive/augments_37.md)
 * [Havilar](archive/havilar.md)
 * [Highharvestide Augments](archive/augments_1.md)
-* [K'thriss](archive/kthriss.md)
 * [King of Shadows](archive/kos.md)
 * [Lark](archive/lark.md)
 * [Lazaapz](archive/lazaapz.md)
@@ -24,7 +22,6 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [New Campaign - Tales of the Champions](archive/campaign_tales.md)
 * [Nordom](archive/nordom.md)
 * [Skylla](archive/skylla.md)
-* [Tessalynde 'Tess' Halendria](archive/tess.md)
 
 [Back to Top](#top)
 
