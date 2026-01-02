@@ -16,7 +16,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **Magical Blades**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    02 January 2026
+                    09 January 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
@@ -59,7 +59,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **New Leaf**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    09 January 2026
+                    16 January 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
@@ -102,7 +102,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **We'll Be Right Back**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    16 January 2026
+                    23 January 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
@@ -145,7 +145,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **Brave & Bold**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    23 January 2026
+                    30 January 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
@@ -172,49 +172,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion" style="background-image:url('images/portraits/ravengard.png'">
                         <span class="weekendTableChampionNameplate">Ravengard</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
-            <img src="images/weekends/788.png">
-            <span class="weekendTooltipContents">ID: 788**Gold Pranked Chest**Loot for: Makos, Calliope, Cazrin, Lark and Baldric<code>"for_crusaders":[9,5,166,170,165]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Mischief Makers**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    30 January 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Baldric
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/cazrin.png'">
-                        <span class="weekendTableChampionNameplate">Cazrin</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/lark.png'">
-                        <span class="weekendTableChampionNameplate">Lark</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/baldric.png'">
-                        <span class="weekendTableChampionNameplate">Baldric</span>
                     </span>
                 </span>
             </span>
