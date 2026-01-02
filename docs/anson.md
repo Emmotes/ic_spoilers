@@ -35,7 +35,7 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
             <span style="margin-right:4px;">**Seat**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">1</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -43,7 +43,7 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Human (Guess)</span>
+            <span style="margin-left:8px;">Human</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -51,7 +51,7 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Fighter (Guess)</span>
+            <span style="margin-left:8px;">Fighter</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -59,7 +59,7 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Tanking / Support / Debuff (Guess)</span>
+            <span style="margin-left:8px;">Support / Tanking / Control</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -67,7 +67,7 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
             <span style="margin-right:4px;">**Age**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">23</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -75,7 +75,7 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Male (Guess)</span>
+            <span style="margin-left:8px;">Male</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -83,7 +83,7 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Neutral Good</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -91,7 +91,7 @@ Anson will be a new champion in the Wintershield event on 7 January 2026.
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">The Fallbacks (Guess)</span>
+            <span style="margin-left:8px;">The Fallbacks</span>
         </span>
     </span>
 </span>

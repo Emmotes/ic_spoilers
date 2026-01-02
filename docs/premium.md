@@ -15,7 +15,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Anson Champion Unlock Portrait](images/premiums/unlock_champion_171.png)<span class="itemTooltipContents">ID: 171**Anson**<img src="images/premiums/unlock_champion_171.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Anson Champion Unlock Portrait](images/premiums/unlock_champion_171.png)<span class="itemTooltipContents">ID: 171**Anson (Seat 1)**<img src="images/premiums/unlock_champion_171.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>

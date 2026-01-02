@@ -34,7 +34,7 @@ These are the event champions that are upcoming and all the information we know 
                 Anson
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Fighter of The Fallbacks (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Fighter of The Fallbacks</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Wintershield - 7 January 2026</span>
@@ -203,7 +203,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Anson
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Fighter of The Fallbacks (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Fighter of The Fallbacks</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
