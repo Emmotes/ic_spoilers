@@ -6,6 +6,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 
 * [Ahghairon's Day Augments](archive/augments_39.md)
 * [Alyndra](archive/alyndra.md)
+* [Anson Iro](archive/anson.md)
 * [Baldric Goodhand](archive/baldric.md)
 * [Cazrin Varaith](archive/cazrin.md)
 * [Emergence 12](archive/emergence_12.md)

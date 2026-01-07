@@ -23,34 +23,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="anson.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Anson Iro Portrait Icon](images/anson/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Anson Iro
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Fighter of The Fallbacks</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Wintershield - 7 January 2026</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Roadmapped 🗺️
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="kyre.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -209,31 +181,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Wintershield - 7 January 2026
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="anson.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Anson Iro Portrait Icon](images/anson/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Anson Iro
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Fighter of The Fallbacks</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐<br>Roadmapped 🗺️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
 {::nomarkdown}
 <a href="binwin.html">
 {:/nomarkdown}
