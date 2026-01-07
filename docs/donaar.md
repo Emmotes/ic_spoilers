@@ -66,7 +66,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Command** (Guess)
-> Hold: the target is stunned for 3 seconds | Duel: the target berserks, moving 50% faster and attacking twice as often, but dealing 90% less damage | Cower: the target now has a 50% chance to miss on any attack it makes and takes 200% extra damage | Droppit: the target drops 200% more gold when it dies | All Commands last until the target dies, unless otherwise noted. |.
+> Donaar attacks with the Command spell. The Command he chooses with each attack is randomly picked from the following options:  
+> Hold: the target is stunned for 3 seconds  
+> Duel: the target berserks, moving 50% faster and attacking twice as often, but dealing 90% less damage  
+> Cower: the target now has a 50% chance to miss on any attack it makes and takes 200% extra damage  
+> Droppit: the target drops 200% more gold when it dies  
+> All Commands last until the target dies, unless otherwise noted.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -74,7 +79,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2571,
     "flavour_text": "",
     "description": {
-        "desc": " Hold: the target is stunned for $amount___2 seconds | Duel: the target berserks, moving $amount___3% faster and attacking twice as often, but dealing 90% less damage | Cower: the target now has a 50% chance to miss on any attack it makes and takes $amount___4% extra damage | Droppit: the target drops $amount___5% more gold when it dies | All Commands last until the target dies, unless otherwise noted. | "
+        "desc": "Donaar attacks with the Command spell. The Command he chooses with each attack is randomly picked from the following options:^Hold: the target is stunned for $amount___2 seconds^Duel: the target berserks, moving $amount___3% faster and attacking twice as often, but dealing 90% less damage^Cower: the target now has a 50% chance to miss on any attack it makes and takes $amount___4% extra damage^Droppit: the target drops $amount___5% more gold when it dies^All Commands last until the target dies, unless otherwise noted."
     },
     "effect_keys": [
         {
@@ -130,6 +135,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "use_chained_attack": false,
             "monster_effect": {
                 "effect_string": "effect_def,2472"
+            },
+            "after_damage": false
+        },
+        {
+            "effect_string": "add_monster_hit_effects,0,934",
+            "apply_manually": false,
+            "use_chained_attack": false,
+            "monster_effect": {
+                "effect_string": "effect_def,2605"
             },
             "after_damage": false
         }
@@ -229,7 +243,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "donaar_extra_vote",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -247,7 +262,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Enemies affected by one of Donaar's Command Word spells take an additional $amount% damage while they are affected by it.
+> Enemies affected by one of Donaar's Command Word spells take an additional 100% damage while they are affected by it.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -259,7 +274,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "increase_monster_damage_if_affected_by,100,2605"
         }
     ],
     "requirements": "",
