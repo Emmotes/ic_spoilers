@@ -43,7 +43,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 647**Blade of the North Wyll (Wyll)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Blade of the North Wyll Portrait](images/skin_portraits/bladeofthenorthwyll.png)<span class="featTooltipContents">ID: 647**Blade of the North Wyll (Wyll)**<img src="images/skin_models/bladeofthenorthwyll.gif" alt="Blade of the North Wyll Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Blade of the North Wyll
