@@ -27,11 +27,11 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Anson Portrait Icon](images/anson/portrait.png)
+            ![Anson Iro Portrait Icon](images/anson/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Anson
+                Anson Iro
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Human Fighter of The Fallbacks</span>
@@ -214,11 +214,11 @@ These are the upcoming new and reworked champions and where they'll be found.
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Anson Portrait Icon](images/anson/portrait.png)
+            ![Anson Iro Portrait Icon](images/anson/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Anson
+                Anson Iro
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Human Fighter of The Fallbacks</span>
