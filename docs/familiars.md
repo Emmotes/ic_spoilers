@@ -7,40 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Sleet the Jackalope Portrait](images/familiars/sleetthejackalope.png)<span class="featTooltipContents">ID: 302**Sleet the Jackalope**Mysterious cryptid hidden beyond the Spine of the World.<img src="images/familiars/sleetthejackalope.gif" alt="Sleet the Jackalope Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Sleet the Jackalope
-        </span>
-        <span class="skinTableSource">
-            Sleet the Jackalope Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            2,380p
-        </span>
-        <span class="skinTableDate">
-            07 Jan 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Splinter the Wooden Sword Portrait](images/familiars/splinterthewoodensword.png)<span class="featTooltipContents">ID: 301**Splinter the Wooden Sword**You never forget your first practice sword.<img src="images/familiars/splinterthewoodensword.gif" alt="Splinter the Wooden Sword Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Splinter the Wooden Sword
-        </span>
-        <span class="skinTableSource">
-            Wintershield Knight Anson Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            07 Jan 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Froth the Pintling Portrait](images/familiars/froththepintling.png)<span class="featTooltipContents">ID: 303**Froth the Pintling**Binwin used magic to make a winter ale and accidentally created a malt-born elemental.<img src="images/familiars/froththepintling.gif" alt="Froth the Pintling Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

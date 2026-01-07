@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Artemis</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2443**Standard Affair (Artemis)**It's important in my line of work to know the right people for the right jobs.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span>Standard Affair
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">07 Jan 2026<br>07 Apr 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Anson</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Right Hand Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2435**Right Hand (Anson)**You can always count on me. I've got your back.<br><br><span style="color:var(--Flavescent)">Increases the effect of Anson's Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,18474,18475,18476</code></span>Right Hand
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Anson's Specializations by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">07 Jan 2026<br>07 Apr 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Wyll</span>
         </span>
         <span class="featTableIcon4">

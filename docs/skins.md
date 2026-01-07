@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Winter Wraith Artemis Portrait](images/skin_portraits/winterwraithartemis.png)<span class="featTooltipContents">ID: 644**Winter Wraith Artemis (Artemis)**<img src="images/skin_models/winterwraithartemis.gif" alt="Winter Wraith Artemis Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Winter Wraith Artemis
-        </span>
-        <span class="skinTableSource">
-            Winter Wraith Artemis Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            07 Jan 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Wintershield Knight Anson Portrait](images/skin_portraits/wintershieldknightanson.png)<span class="featTooltipContents">ID: 643**Wintershield Knight Anson (Anson)**<img src="images/skin_models/wintershieldknightanson.gif" alt="Wintershield Knight Anson Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Wintershield Knight Anson
-        </span>
-        <span class="skinTableSource">
-            Wintershield Knight Anson Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            07 Jan 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Blade of the North Wyll Portrait](images/skin_portraits/bladeofthenorthwyll.png)<span class="featTooltipContents">ID: 647**Blade of the North Wyll (Wyll)**<img src="images/skin_models/bladeofthenorthwyll.gif" alt="Blade of the North Wyll Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
