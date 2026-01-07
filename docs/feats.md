@@ -33,13 +33,30 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Artemis</span>
         </span>
         <span class="featTableIcon4">
-            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2443**Multiversal Allies (Artemis)**It's important in my line of work to know the right people for the right jobs.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
+            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2443**Standard Affair (Artemis)**It's important in my line of work to know the right people for the right jobs.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span>Standard Affair
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">07 Jan 2026<br>07 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Anson</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Right Hand Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2435**Right Hand (Anson)**You can always count on me. I've got your back.<br><br><span style="color:var(--Flavescent)">Increases the effect of Anson's Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,18474,18475,18476</code></span>Right Hand
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Anson's Specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">07 Jan 2026<br>07 Apr 2026</span>
@@ -101,10 +118,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Baeloth</span>
         </span>
         <span class="featTableIcon4">
-            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2446**Standard Affair (Baeloth)**It's so much easier to stand out when I surround myself with mundanity!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2527</code></span>Standard Affair
+            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2446**Standard Affair (Baeloth)**It's so much easier to stand out when I surround myself with mundanity!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span>Standard Affair
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -753,6 +770,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Anson</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Deep Thoughts Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2428**Deep Thoughts (Anson)**True mastery is a continuous cutting motion.<br><br><span style="color:var(--Flavescent)">Increases the effect of Anson's Combat Trance ability by 40%. (Prestack)</span><code>buff_upgrade,40,18472,0</code></span>Deep Thoughts
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Anson's Combat Trance ability by 40%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Jarlaxle</span>
         </span>
         <span class="featTableIcon4">
@@ -821,6 +855,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Anson</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Patience of Steel Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2429**Patience of Steel (Anson)**Wait for the perfect opportunity... then... STRIKE!<br><br><span style="color:var(--Flavescent)">Increases the maximum number of Meditation stacks from Anson's Combat Trance ability by 25.</span><code>add_max_combat_trance_stacks,25</code></span>Patience of Steel
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the maximum number of Meditation stacks from Anson's Combat Trance ability by 25.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Bruenor</span>
         </span>
         <span class="featTableIcon3">
@@ -862,6 +913,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Vin Ursa's Front Deck and Rear Deck by 40%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Anson</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Severe Storm Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2430**Severe Storm (Anson)**I am the storm that is approaching.<br><br><span style="color:var(--Flavescent)">Erratic Energy now does 10 seconds of BUD.</span><code>change_upgrade_data,18473,0</code></span>Severe Storm
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Erratic Energy now does 10 seconds of BUD.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -991,6 +1059,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Anson</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Stormtossed Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2431**Stormtossed (Anson)**This is going to hurt, but it will be far worse for you.<br><br><span style="color:var(--Flavescent)">Anson takes half as much damage from his Erratic Energy ability.</span><code>change_upgrade_data,18473,0</code></span>Stormtossed
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Anson takes half as much damage from his Erratic Energy ability.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Jarlaxle</span>
         </span>
         <span class="featTableIcon3">
@@ -1076,6 +1161,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Anson</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Isolated Storm Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2432**Isolated Storm (Anson)**I put everything I have into a single strike. Then I do it again.<br><br><span style="color:var(--Flavescent)">Increases the stacks that Anson's Erratic Energy grants to Combat Trance's maximum stacks per hit by 1.</span><code>change_upgrade_data,18473,0</code></span>Isolated Storm
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the stacks that Anson's Erratic Energy grants to Combat Trance's maximum stacks per hit by 1.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Minthara</span>
         </span>
         <span class="featTableIcon4">
@@ -1134,6 +1236,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the Strength score of Alyndra by 2.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Anson</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Surging Storm Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2433**Surging Storm (Anson)**Watch out! I can't control it! I don't know what will happen!<br><br><span style="color:var(--Flavescent)">Increases the maximum number of additional Meditation stacks that can be gained by Anson's Erratic Energy ability by 50.</span><code>change_upgrade_data,18473,2</code></span>Surging Storm
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the maximum number of additional Meditation stacks that can be gained by Anson's Erratic Energy ability by 50.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>

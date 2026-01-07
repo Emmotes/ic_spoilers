@@ -332,13 +332,13 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 660**Lord of Murder Dark Urge (Dark Urge)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 660**Heroic Hank (Hank)**</span></span>
         </span>
         <span class="skinTableName">
-            Lord of Murder Dark Urge
+            Heroic Hank
         </span>
         <span class="skinTableSource">
-            Lord of Murder Dark Urge Skin & Feat Pack
+            Heroic Hank Skin & Feat Pack
         </span>
         <span class="skinTableCost">
             1,680p

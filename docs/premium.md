@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2435**Feat**???: 2435</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Right Hand Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2435**Right Hand**You can always count on me. I've got your back.<br><br><span style="color:var(--Flavescent)">Increases the effect of Anson's Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,18474,18475,18476</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2435</span>
+            <span style="margin-left:15px">Right Hand</span>
+            <span style="margin-left:15px">Anson</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -102,11 +103,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Multiversal Allies Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2443**Multiversal Allies**It's important in my line of work to know the right people for the right jobs.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2443**Standard Affair**It's important in my line of work to know the right people for the right jobs.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Multiversal Allies</span>
+            <span style="margin-left:15px">Standard Affair</span>
             <span style="margin-left:15px">Artemis</span>
         </span>
     </span>
@@ -475,7 +476,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2446**Standard Affair**It's so much easier to stand out when I surround myself with mundanity!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2527</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2446**Standard Affair**It's so much easier to stand out when I surround myself with mundanity!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1534,40 +1535,40 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 680</div>
-### Lord of Murder Dark Urge Skin & Feat Pack - 1,680 Platinum  
+### Heroic Hank Skin & Feat Pack - 1,680 Platinum  
 Date of release: 25 Feb 2026
 
-> Unlock The Dark Urge along with his exclusive Lord of Murder Skin & Feat!
+> Unlock Hank along with his exclusive Heroic Skin & Feat!
 
 Contents:
 
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Dark Urge Champion Unlock Portrait](images/premiums/unlock_champion_146.png)<span class="itemTooltipContents">ID: 146**Dark Urge (Seat 11)**<img src="images/premiums/unlock_champion_146.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Hank Champion Unlock Portrait](images/premiums/unlock_champion_163.png)<span class="itemTooltipContents">ID: 163**Hank (Seat 1)**<img src="images/premiums/unlock_champion_163.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Dark Urge</span>
+            <span style="margin-left:15px">Hank</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 660**Lord of Murder Dark Urge (Dark Urge)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 660**Heroic Hank (Hank)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Lord of Murder Dark Urge</span>
+            <span style="margin-left:15px">Heroic Hank</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2458**TBD The Dark Urge Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2458**TBD Hank Feat (Do not translate)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD The Dark Urge Feat (Do not translate)</span>
-            <span style="margin-left:15px">Dark Urge</span>
+            <span style="margin-left:15px">TBD Hank Feat (Do not translate)</span>
+            <span style="margin-left:15px">Hank</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1592,11 +1593,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum The Dark Urge Chest Chest Portrait](images/premiums/chests_563.png)<span class="itemTooltipContents">ID: 563**Platinum The Dark Urge Chest**Loot for: Dark Urge<code>"for_crusaders":[146]</code></span></span>
+            <span class="tooltipHolder">![Platinum Hank Chest Chest Portrait](images/premiums/chests_659.png)<span class="itemTooltipContents">ID: 659**Platinum Hank Chest**Loot for: Hank<code>"for_crusaders":[163]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum The Dark Urge Chest</span>
+            <span style="margin-left:15px">Platinum Hank Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -1888,7 +1889,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone...</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone…</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
