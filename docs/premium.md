@@ -491,7 +491,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 651**Scarlet Corsair Dark Urge (Dark Urge)**</span></span>
+            <span class="tooltipHolder">![Scarlet Corsair Dark Urge Skin Portrait](images/premiums/skin_651.png)<span class="itemTooltipContents">ID: 651**Scarlet Corsair Dark Urge (Dark Urge)**<img src="images/premiums/skin_651.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1047,7 +1047,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 657**Primordial Air Birdsong (Birdsong)**</span></span>
+            <span class="tooltipHolder">![Primordial Air Birdsong Skin Portrait](images/premiums/skin_657.png)<span class="itemTooltipContents">ID: 657**Primordial Air Birdsong (Birdsong)**<img src="images/premiums/skin_657.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

@@ -145,7 +145,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 651**Scarlet Corsair Dark Urge (Dark Urge)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Scarlet Corsair Dark Urge Portrait](images/skin_portraits/scarletcorsairdarkurge.png)<span class="featTooltipContents">ID: 651**Scarlet Corsair Dark Urge (Dark Urge)**<img src="images/skin_models/scarletcorsairdarkurge.gif" alt="Scarlet Corsair Dark Urge Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Scarlet Corsair Dark Urge
@@ -264,7 +264,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 657**Primordial Air Birdsong (Birdsong)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Primordial Air Birdsong Portrait](images/skin_portraits/primordialairbirdsong.png)<span class="featTooltipContents">ID: 657**Primordial Air Birdsong (Birdsong)**<img src="images/skin_models/primordialairbirdsong.gif" alt="Primordial Air Birdsong Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Primordial Air Birdsong
