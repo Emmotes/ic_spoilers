@@ -35,57 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Farideh</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Blessing of Asmodeus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2174**Blessing of Asmodeus (Farideh)**I didn't ask for this power, but it's mine now. I'll use it for good.<br><br><span style="color:var(--Flavescent)">Increases the effect of Farideh's Chosen of Asmodeus ability by 80%. (Prestack)</span><code>buff_upgrade,80,17836,0</code></span>Blessing of Asmodeus
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Farideh's Chosen of Asmodeus ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">08 Jan 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Ezmerelda</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Lethal Study Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2299**Lethal Study (Ezmerelda)**Every creature has a weak spot. Watch and learn.<br><br><span style="color:var(--Flavescent)">Increases the effect of Ezmerelda's Training Montage ability by 80%. (Prestack)</span><code>buff_upgrade,80,15037,0</code></span>Lethal Study
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Ezmerelda's Training Montage ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">08 Jan 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Kas</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Federates Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2298**Federates (Kas)**Only a handful of mortals may say that they've earned my esteem.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kas' Mortal Pawns ability by 80%.</span><code>buff_upgrade,80,15620,2</code></span>Federates
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Kas' Mortal Pawns ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">08 Jan 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Avren</span>
         </span>
         <span class="featTableIcon4">
