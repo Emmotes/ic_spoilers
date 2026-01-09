@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/783.png">
-            <span class="weekendTooltipContents">ID: 783**Gold Fancy Blade Chest**Loot for: Asharra, Minsc, Baldric, Tess and Anson<code>"for_crusaders":[6,7,165,164,171]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Magical Blades**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    09 January 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Anson
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/asharra.png'">
-                        <span class="weekendTableChampionNameplate">Asharra</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/minsc.png'">
-                        <span class="weekendTableChampionNameplate">Minsc</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/baldric.png'">
-                        <span class="weekendTableChampionNameplate">Baldric</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tess.png'">
-                        <span class="weekendTableChampionNameplate">Tess</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/anson.png'">
-                        <span class="weekendTableChampionNameplate">Anson</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/784.png">
             <span class="weekendTooltipContents">ID: 784**Gold New Leaf Chest**Loot for: Tyril, Hitch, Shadowheart, Dark Urge and Binwin<code>"for_crusaders":[10,13,141,146,27]</code></span>
         </span>
