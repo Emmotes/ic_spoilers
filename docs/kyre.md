@@ -209,7 +209,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
 {
     "id": 937,
     "name": "Searing Arc Strike",
-    "description": "Kyre creates an energy wave, dealing 1 ultimate hit to affected enemies.\r\n",
+    "description": "Kyre creates an energy wave, dealing 1 ultimate hit to affected enemies.",
     "long_description": "Kyre creates a wave of radiant light and fire, dealing 1 ultimate hit to enemies it envelopes.",
     "graphic_id": 28335,
     "target": "front",
@@ -693,8 +693,7 @@ Unknown.
 > Kyre starts in the formation. They can't be moved or removed.   
 > Only Kyre and Champions next to them can deal damage.  
 > 1-2 Shadowy Rats spawn with each wave. They don't drop gold nor count towards quest progress.  
-> <b>Getting to Know Kyre:</b> Kyre increases the damage of Champions next to them. Place your damage dealer to take the best advantage of these buffs!  
-> 
+> <b>Getting to Know Kyre:</b> Kyre increases the damage of Champions next to them. Place your damage dealer to take the best advantage of these buffs!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Absolutely Stunning Icon](images/kyre/28325.png) **Variant 2: Absolutely Stunning** (Complete Area 125)
@@ -702,8 +701,7 @@ Unknown.
 > Champions deal 1% damage to enemies that are not stunned.  
 > A Monk joins the formation. Champions adjacent to the Monk have a 10% chance to stun enemies they attack for 5 seconds.  
 > 1-2 Shadow Goblins spawn with each wave. They don't drop gold nor count towards quest progress.  
-> <b>Getting to Know Kyre:</b> Kyre can stun enemies and increase damage against them. Use them and other Champions that stun to get through these foes!  
-> 
+> <b>Getting to Know Kyre:</b> Kyre can stun enemies and increase damage against them. Use them and other Champions that stun to get through these foes!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Critical Allies Icon](images/kyre/28326.png) **Variant 3: Critical Allies** (Complete Area 175)
@@ -711,8 +709,7 @@ Unknown.
 > You may only use Good Champions, Control Champions, or Champions with a Dexterity of 16 or higher.  
 > After area 50, bosses spawn with a segmented special shield with 5 hits which must be destroyed before their regular hit points appear. To destroy a special shield segment, an enemy must be hit with a critical hit.  
 > 1-2 Shadows spawn with each wave. They don't drop gold nor count towards quest progress.  
-> <b>Getting to Know Kyre:</b> Kyre's specialization choice determines which Champions they work best with. Who will you add to the formation?  
-> 
+> <b>Getting to Know Kyre:</b> Kyre's specialization choice determines which Champions they work best with. Who will you add to the formation?
 </div></div>
 
 # Other Champion Images
