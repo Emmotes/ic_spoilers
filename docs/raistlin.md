@@ -383,18 +383,18 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unlock Adventure: The Unfair Sea (Raistlin)** (Complete Area 50)
-> Discover the fate of some merchants in the jungles of Chult.
+> Search for some missing ships during Fleetswake in Waterdeep.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: Variant 1** (Complete Area 75)
+**Variant 1: The Sly One** (Complete Area 75)
 > 
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: Variant 2** (Complete Area 125)
+**Variant 2: Test of Sorcery** (Complete Area 125)
 > 
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: Variant 3** (Complete Area 175)
+**Variant 3: War of the Lance** (Complete Area 175)
 > 
 </div></div>
 
