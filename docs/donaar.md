@@ -62,6 +62,44 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Command** (Guess)
+> Donaar casts a random command. His commands target one enemy and deal a small amount of psychic damage in addition to their effect (see the passive Command ability for details).  
+> Cooldown: 3.8s (Cap 0.95s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 938,
+    "name": "Command",
+    "description": "Donaar targets a random enemy, casting a random Command on them and doing a small amount of psychic damage",
+    "long_description": "Donaar casts a random command. His commands target one enemy and deal a small amount of psychic damage in addition to their effect (see the passive Command ability for details).",
+    "graphic_id": 0,
+    "target": "random",
+    "num_targets": 1,
+    "aoe_radius": 100,
+    "damage_modifier": 1,
+    "cooldown": 3.8,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "shoot_frame": 22,
+            "projectile": "psychic_damage"
+        }
+    ],
+    "tags": [
+        "melee",
+        "aoe"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
@@ -94,7 +132,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             ]
         },
         {
-            "effect_string": "add_monster_hit_effects,3,934",
+            "effect_string": "add_monster_hit_effects,3,934,938",
             "apply_manually": true,
             "use_chained_attack": false,
             "monster_effect": {
@@ -103,7 +141,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "after_damage": false
         },
         {
-            "effect_string": "add_monster_hit_effects,50,934",
+            "effect_string": "add_monster_hit_effects,50,934,938",
             "apply_manually": true,
             "use_chained_attack": false,
             "monster_effect": {
@@ -112,7 +150,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "after_damage": false
         },
         {
-            "effect_string": "add_monster_hit_effects,200,934",
+            "effect_string": "add_monster_hit_effects,200,934,938",
             "apply_manually": true,
             "use_chained_attack": false,
             "monster_effect": {
@@ -121,7 +159,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "after_damage": false
         },
         {
-            "effect_string": "add_monster_hit_effects,200,934",
+            "effect_string": "add_monster_hit_effects,200,934,938",
             "apply_manually": true,
             "use_chained_attack": false,
             "monster_effect": {
@@ -130,7 +168,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "after_damage": false
         },
         {
-            "effect_string": "add_monster_hit_effects,50,934",
+            "effect_string": "add_monster_hit_effects,50,934,938",
             "apply_manually": true,
             "use_chained_attack": false,
             "monster_effect": {
@@ -139,7 +177,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "after_damage": false
         },
         {
-            "effect_string": "add_monster_hit_effects,0,934",
+            "effect_string": "add_monster_hit_effects,0,934,938",
             "apply_manually": false,
             "use_chained_attack": false,
             "monster_effect": {
@@ -166,7 +204,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Aura of Vitality** (Guess)
-> Every second, Donaar targets the Champion that has lost the most health (on a percentage basis), giving them a healing buff that lasts for 10 seconds, and heals for 5 HP every second (stacks by resetting the time).
+> Every second, Donaar heals the champion who has lost the most health for 5 health over 10 seconds (1 immediate tick + 10 more ticks each second thereafter). If he targets a champion who already has this effect, it refreshes the duration to 10 seconds, but doesn't immediately tick again.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -174,7 +212,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2572,
     "flavour_text": "",
     "description": {
-        "desc": "Every second, $source targets the Champion that has lost the most health (on a percentage basis), giving them a healing buff that lasts for $duration seconds, and heals for $amount HP every second (stacks by resetting the time)"
+        "desc": "Every second, Donaar heals the champion who has lost the most health for $amount health over 10 seconds (1 immediate tick + 10 more ticks each second thereafter). If he targets a champion who already has this effect, it refreshes the duration to 10 seconds, but doesn't immediately tick again."
     },
     "effect_keys": [
         {
@@ -198,7 +236,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Lead by Example** (Guess)
-> Increases the Damage of all Champions in the same column as Donaar as well as all Champions behind him in the formation by 100%.
+> Donaar increases the damage of Champions in the same column and the column(s) behind him by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -206,7 +244,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2573,
     "flavour_text": "",
     "description": {
-        "desc": "Increases the Damage of all Champions in the same column as $source as well as all Champions behind him in the formation by $amount%"
+        "desc": "Donaar increases the damage of Champions in the same column and the column(s) behind him by $amount%."
     },
     "effect_keys": [
         {
@@ -231,7 +269,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> Donaar counts twice for abilities that count the number of species, classes, alignments, affiliations, or roles in the formation.
+> When Donaar is in the formation, most abilities that involve stacks are granted 100 extra stack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -239,11 +277,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2574,
     "flavour_text": "",
     "description": {
-        "desc": "Donaar counts twice for abilities that count the number of species, classes, alignments, affiliations, or roles in the formation."
+        "desc": "When Donaar is in the formation, most abilities that involve stacks are granted $amount extra stack."
     },
     "effect_keys": [
         {
-            "effect_string": "donaar_extra_vote",
+            "effect_string": "increase_all_stack_counts,100",
             "off_when_benched": true
         }
     ],
