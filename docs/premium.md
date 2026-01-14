@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2409**Feat**???: 2409</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Catchphrase Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2409**Catchphrase**You gotta bin it to win it!<br><br><span style="color:var(--Flavescent)">Increases the effect of Binwin's Extra Damage ability by 80%. (Prestack)</span><code>buff_upgrade,80,18460,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2409</span>
+            <span style="margin-left:15px">Catchphrase</span>
+            <span style="margin-left:15px">Binwin</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -164,7 +165,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Blade of the North Wyll Skin Portrait](images/premiums/skin_647.png)<span class="itemTooltipContents">ID: 647**Blade of the North Wyll (Wyll)**<img src="images/premiums/skin_647.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Blade of the North Wyll Skin Portrait](images/premiums/skin_647.png)<span class="itemTooltipContents">ID: 647**Blade of the North Wyll (Wyll)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_647.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_647-mizora.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -500,7 +501,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Human Glitch Feat Portrait](images/featicons/glitch.png)<span class="itemTooltipContents">ID: 2449**Human Glitch**In another world - another life - would my destiny be any different?<code>todo<br>DevNote: TBC The Dark Urge counts as a Human. Increase the damage of all Champions by 20% for each Ceremorphosis stack the formation has.</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Human Glitch Feat Portrait](images/featicons/glitch.png)<span class="itemTooltipContents">ID: 2449**Human Glitch**In another world - another life - would my destiny be any different?<br><br><span style="color:var(--Flavescent)">The Dark Urge also counts as a Human and increases the damage of all Champions by 20% for each Ceremorphosis stack the formation has.</span><code>add_hero_tags,0,human<br>global_dps_multiplier_mult,20</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -562,7 +563,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Non-Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2450**Non-Standard Affair**I want to be friends with everyone! EVERYONE!<code>todo<br>DevNote: Generic feat that increases the Global DPS by 20% (at epic) for each non-Standard Species Champion in the formation</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Non-Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2450**Non-Standard Affair**I want to be friends with everyone! EVERYONE!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2608</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -702,7 +703,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Free Agent Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2451**Free Agent**Agents Zrang, Kleeb, and Yassa, ready! We're a triple threat!<code>todo<br>DevNote: Generic feat that increases the Global DPS by 20% (at epic) for each Unaffiliated Champion in the formation (first done in Tales 6)</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Free Agent Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2451**Free Agent**Agents Zrang, Kleeb, and Yassa, ready! We're a triple threat!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Unaffiliated Champion in the formation.</span><code>global_dps_multiplier_mult,20</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1384,7 +1385,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 309**Splash the Water Elemental**The consummate puddle jumper.</span></span>
+            <span class="tooltipHolder">![Splash the Water Elemental Familiar Portrait](images/premiums/familiar_309.png)<span class="itemTooltipContents">ID: 309**Splash the Water Elemental**The consummate puddle jumper.<img src="images/premiums/familiar_309.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

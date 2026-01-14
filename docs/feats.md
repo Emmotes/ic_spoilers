@@ -64,6 +64,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Binwin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Catchphrase Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2409**Catchphrase (Binwin)**You gotta bin it to win it!<br><br><span style="color:var(--Flavescent)">Increases the effect of Binwin's Extra Damage ability by 80%. (Prestack)</span><code>buff_upgrade,80,18460,0</code></span>Catchphrase
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Binwin's Extra Damage ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">14 Jan 2026<br>14 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Viconia</span>
         </span>
         <span class="featTableIcon4">
@@ -101,10 +118,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Spurt</span>
         </span>
         <span class="featTableIcon4">
-            ![Free Agent Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2442**Free Agent (Spurt)**Agent Spurt, ready! Let's have some FUN! Together, WE WIN!<code>todo<br>DevNote: increases the Global DPS by 20% for each Unaffiliated Champion in the formation</code></span>Free Agent
+            ![Free Agent Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2442**Free Agent (Spurt)**Agent Spurt, ready! Let's have some FUN! Together, WE WIN!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Unaffiliated Champion in the formation.</span><code>global_dps_multiplier_mult,20</code></span>Free Agent
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each Unaffiliated Champion in the formation.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Tales of the Champions</span>
@@ -118,10 +135,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Ravengard</span>
         </span>
         <span class="featTableIcon4">
-            ![No Compromises Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2441**No Compromises (Ravengard)**As Grand Duke, my morals are tested time and again. I must not lose myself.<code>todo<br>DevNote: Change Alignment to Lawful Good</code></span>No Compromises
+            ![No Compromises Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2441**No Compromises (Ravengard)**As Grand Duke, my morals are tested time and again. I must not lose myself.<br><br><span style="color:var(--Flavescent)">Changes Hero Alignment to Lawful Good for Ravengard.</span><code>change_hero_alignment_tag,lawful,good</code></span>No Compromises
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Changes Hero Alignment to Lawful Good for Ravengard.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Tales of the Champions</span>
@@ -152,10 +169,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Spurt</span>
         </span>
         <span class="featTableIcon4">
-            ![Non-Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2450**Non-Standard Affair (Spurt)**I want to be friends with everyone! EVERYONE!<code>todo<br>DevNote: Generic feat that increases the Global DPS by 20% (at epic) for each non-Standard Species Champion in the formation</code></span>Non-Standard Affair
+            ![Non-Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2450**Non-Standard Affair (Spurt)**I want to be friends with everyone! EVERYONE!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2608</code></span>Non-Standard Affair
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -169,10 +186,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Dark Urge</span>
         </span>
         <span class="featTableIcon4">
-            ![Human Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 2449**Human Glitch (Dark Urge)**In another world - another life - would my destiny be any different?<code>todo<br>DevNote: TBC The Dark Urge counts as a Human. Increase the damage of all Champions by 20% for each Ceremorphosis stack the formation has.</code></span>Human Glitch
+            ![Human Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 2449**Human Glitch (Dark Urge)**In another world - another life - would my destiny be any different?<br><br><span style="color:var(--Flavescent)">The Dark Urge also counts as a Human and increases the damage of all Champions by 20% for each Ceremorphosis stack the formation has.</span><code>add_hero_tags,0,human<br>global_dps_multiplier_mult,20</code></span>Human Glitch
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">The Dark Urge also counts as a Human and increases the damage of all Champions by 20% for each Ceremorphosis stack the formation has.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -186,10 +203,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Hew Maan</span>
         </span>
         <span class="featTableIcon4">
-            ![Free Agent Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2451**Free Agent (Hew Maan)**Agents Zrang, Kleeb, and Yassa, ready! We're a triple threat!<code>todo<br>DevNote: Generic feat that increases the Global DPS by 20% (at epic) for each Unaffiliated Champion in the formation (first done in Tales 6)</code></span>Free Agent
+            ![Free Agent Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2451**Free Agent (Hew Maan)**Agents Zrang, Kleeb, and Yassa, ready! We're a triple threat!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Unaffiliated Champion in the formation.</span><code>global_dps_multiplier_mult,20</code></span>Free Agent
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each Unaffiliated Champion in the formation.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -607,6 +624,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the Crit Damage of Catti-brie by 120%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Binwin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![One for the Road Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2407**One for the Road (Binwin)**Hey! You forgot something! MY AXE!<br><br><span style="color:var(--Flavescent)">Adds 1 base stack and increases max stacks by 1 for Extra Attacks.</span><code>change_upgrade_data,18459,1</code></span>One for the Road
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Adds 1 base stack and increases max stacks by 1 for Extra Attacks.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -1246,6 +1280,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Binwin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Slow and Steady Icon](images/featicons/slowandsteady.png)<span class="featTooltipContents">ID: 2412**Slow and Steady (Binwin)**Let's take our time. Really savor it, you know?<br><br><span style="color:var(--Flavescent)">Increases the damage of Binwin by 800%. Increases the cooldown on Binwin's Base Attack by 2 seconds.</span><code>hero_dps_multiplier_mult,800<br>increase_attack_cooldown,2</code></span>Slow and Steady
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of Binwin by 800%. Increases the cooldown on Binwin's Base Attack by 2 seconds.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Krux</span>
         </span>
         <span class="featTableIcon4">
@@ -1603,23 +1654,6 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Binwin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Above the Crowd Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 155**Above the Crowd (Binwin)**You know I'm actually quite tall, for a dwarf.<br><br><span style="color:var(--Flavescent)">Increases the effect of Binwin's Tallest in Faerûn ability by 80%.</span><code>buff_upgrade,80,1131</code></span>Above the Crowd
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Binwin's Tallest in Faerûn ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Krull</span>
         </span>
         <span class="featTableIcon4">
@@ -1637,19 +1671,19 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Gazrick</span>
+            <span class="featTableInner">Binwin</span>
         </span>
         <span class="featTableIcon4">
-            ![Moving Shop Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1657**Moving Shop (Gazrick)**Part of the fun is never knowing where you will set up next!<br><br><span style="color:var(--Flavescent)">Increases the effect of Gazrick's Travelling Merchant ability by 80%.</span><code>buff_upgrade,80,7535</code></span>Moving Shop
+            ![Above the Crowd Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 155**Above the Crowd (Binwin)**You know I'm actually quite tall, for a dwarf.<code>todo<br>DevNote: this was a old feat that was a duplicate and never released. can be reused for something else</code></span>Above the Crowd
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Gazrick's Travelling Merchant ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
             <span class="featTableInner">???</span>
         </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
         <span class="featTableDate">
-            <span class="featTableInner">03 Jan 2032</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">

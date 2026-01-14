@@ -9,7 +9,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Blade of the North Wyll Portrait](images/skin_portraits/bladeofthenorthwyll.png)<span class="featTooltipContents">ID: 647**Blade of the North Wyll (Wyll)**<img src="images/skin_models/bladeofthenorthwyll.gif" alt="Blade of the North Wyll Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Blade of the North Wyll Portrait](images/skin_portraits/bladeofthenorthwyll.png)<span class="featTooltipContents">ID: 647**Blade of the North Wyll (Wyll)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/bladeofthenorthwyll.gif" alt="Blade of the North Wyll Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/bladeofthenorthwyll-mizora.gif" alt="Blade of the North Wyll Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Blade of the North Wyll
@@ -118,6 +118,23 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableSource">
             Tales of the Champions (Guess)
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            28 Jan 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 671**Human Glitch Dark Urge (Dark Urge)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Human Glitch Dark Urge
+        </span>
+        <span class="skinTableSource">
+            ???
         </span>
         <span class="skinTableCost">
             ???
