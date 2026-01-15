@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Blade of the North Wyll Portrait](images/skin_portraits/bladeofthenorthwyll.png)<span class="featTooltipContents">ID: 647**Blade of the North Wyll (Wyll)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/bladeofthenorthwyll.gif" alt="Blade of the North Wyll Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/bladeofthenorthwyll-mizora.gif" alt="Blade of the North Wyll Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Blade of the North Wyll
-        </span>
-        <span class="skinTableSource">
-            Blade of the North Wyll Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            14 Jan 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cold Brew Binwin Portrait](images/skin_portraits/coldbrewbinwin.png)<span class="featTooltipContents">ID: 645**Cold Brew Binwin (Binwin)**<img src="images/skin_models/coldbrewbinwin.gif" alt="Cold Brew Binwin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Cold Brew Binwin
-        </span>
-        <span class="skinTableSource">
-            Cold Brew Binwin Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            14 Jan 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Heroic Eric Portrait](images/skin_portraits/heroiceric.png)<span class="featTooltipContents">ID: 646**Heroic Eric (Eric)**<img src="images/skin_models/heroiceric.gif" alt="Heroic Eric Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Heroic Eric
-        </span>
-        <span class="skinTableSource">
-            Heroic Eric Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            14 Jan 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Winter Nightmare Viconia Portrait](images/skin_portraits/winternightmareviconia.png)<span class="featTooltipContents">ID: 649**Winter Nightmare Viconia (Viconia)**<img src="images/skin_models/winternightmareviconia.gif" alt="Winter Nightmare Viconia Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

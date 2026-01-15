@@ -30,57 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Wyll</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Psychic Link Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2445**Psychic Link (Wyll)**I feel its power awakening within, and I sense Mizora's growing terror.<br><br><span style="color:var(--Flavescent)">Increases the effect of Wyll's Ceremorphosis ability by 80%. (Prestack)</span><code>buff_upgrade,80,13430</code></span>Psychic Link
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Wyll's Ceremorphosis ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">14 Jan 2026<br>14 Apr 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Eric</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Mercurial Demeanor Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2444**Mercurial Demeanor (Eric)**Let's hear about this quest first, then I'll decide how I feel about it.<br><br><span style="color:var(--Flavescent)">Increases the base effect of Eric's Trait specializations by 80%.</span><code>buff_upgrades,80,16134,16135,16136</code></span>Mercurial Demeanor
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the base effect of Eric's Trait specializations by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">14 Jan 2026<br>14 Apr 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Binwin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Catchphrase Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2409**Catchphrase (Binwin)**You gotta bin it to win it!<br><br><span style="color:var(--Flavescent)">Increases the effect of Binwin's Extra Damage ability by 80%. (Prestack)</span><code>buff_upgrade,80,18460,0</code></span>Catchphrase
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Binwin's Extra Damage ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">14 Jan 2026<br>14 Apr 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Viconia</span>
         </span>
         <span class="featTableIcon4">

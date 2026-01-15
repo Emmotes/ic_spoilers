@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Froth the Pintling Portrait](images/familiars/froththepintling.png)<span class="featTooltipContents">ID: 303**Froth the Pintling**Binwin used magic to make a winter ale and accidentally created a malt-born elemental.<img src="images/familiars/froththepintling.gif" alt="Froth the Pintling Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Froth the Pintling
-        </span>
-        <span class="skinTableSource">
-            Cold Brew Binwin Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            14 Jan 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Meek the Kobold Portrait](images/familiars/meekthekobold.png)<span class="featTooltipContents">ID: 304**Meek the Kobold**Nobody trods on Meek! Nobody!<img src="images/familiars/meekthekobold.gif" alt="Meek the Kobold Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
