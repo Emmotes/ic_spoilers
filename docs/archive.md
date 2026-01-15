@@ -8,6 +8,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Alyndra](archive/alyndra.md)
 * [Anson Iro](archive/anson.md)
 * [Baldric Goodhand](archive/baldric.md)
+* [Binwin](archive/binwin.md)
 * [Cazrin Varaith](archive/cazrin.md)
 * [Emergence 12](archive/emergence_12.md)
 * [Emergence 13](archive/emergence_13.md)
