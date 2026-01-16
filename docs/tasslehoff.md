@@ -1,9 +1,23 @@
 [Back to Main](index.md)
 
-{% comment %}
 <span class="championPortraitsRow">
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![PC Portrait for Tasslehoff](images/tasslehoff/portrait.png)
+        </span>
+        <span>
+            Portrait
+        </span>
+    </span>
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Model GIF of Tasslehoff](images/tasslehoff/model.gif)
+        </span>
+        <span>
+            Model
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 # Tasslehoff
 
