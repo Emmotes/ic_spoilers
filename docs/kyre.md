@@ -219,9 +219,9 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     "cooldown": 150,
     "animations": [
         {
-            "type": "ultimate_attack",
-            "ultimate": "kyre",
-            "animation_sequence_name": "ultimate"
+            "type": "kyre_ultimate",
+            "jump_to_target": true,
+            "target_offset_x": -300
         }
     ],
     "tags": [
@@ -286,20 +286,13 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "add_attack_stun,100",
+            "off_when_benched": false,
+            "effect_string": "add_attack_stun,0",
             "base_chance": 100,
             "duration": 10,
             "graphic": 1509,
             "manual_stacking": true,
-            "amount_func": "by_expr",
-            "amount_by_expr": "base_chance*pow(0.75,input)",
             "more_triggers": [
-                {
-                    "trigger": "area_changed",
-                    "action": {
-                        "type": "reset"
-                    }
-                },
                 {
                     "trigger": "monster_stunned_by_owner",
                     "action": {
@@ -313,21 +306,21 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
             "amount_updated_listeners": [
                 "area_changed",
                 "owner_attack_ended"
-            ],
-            "off_when_benched": true
+            ]
         },
         {
-            "effect_string": "expression_on_trigger_disabled,monster_stunned_by_owner",
-            "per_trigger_expr": "{AppendToSaveStat(`kyre_max_stunned_in_single_area`, false, 1) NotifyStatChanged(`KyreMaxStunnedInSingleArea`, false)}",
-            "off_when_benched": true
-        },
-        {
-            "off_when_benched": true,
+            "off_when_benched": false,
             "effect_string": "stacks_data_binder_safe,0,kyre_max_stunned_in_single_area",
             "is_instanced_stat": false,
             "only_take_max": true,
             "use_stat_defs": true,
             "skip_effect_key_desc": true
+        },
+        {
+            "off_when_benched": false,
+            "effect_string": "kyre_stunning_strike",
+            "attack_stun_index": 0,
+            "base_chance": 100
         }
     ],
     "requirements": "",
@@ -349,7 +342,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Invigorating Radiance** (Guess)
-> Each time any Champion in the formation attacks a stunned enemy, Kyre gains a Radiance stack. Kyre increases the effect of Radiant Soul by 100% for each Radiance stack, stacking multiplicatively up to 100 stacks and resetting when changing areas.
+> Each time any Champion in the formation attacks a stunned enemy, Kyre gains a Radiance stack. Kyre increases the effect of Radiant Soul by 10% for each Radiance stack, stacking multiplicatively up to 25 stacks and resetting when changing areas.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -359,21 +352,20 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     "id": 2595,
     "flavour_text": "",
     "description": {
-        "desc": "Each time any Champion in the formation attacks a stunned enemy, Kyre gains a Radiance stack. Kyre increases the effect of Radiant Soul by $amount% for each Radiance stack, stacking multiplicatively up to $max_stacks stacks and resetting when changing areas."
+        "desc": "Each time any Champion in the formation attacks a stunned enemy, Kyre gains a Radiance stack. Kyre increases the effect of Radiant Soul by $amount% for each Radiance stack, stacking multiplicatively up to $(max_stacks___2) stacks and resetting when changing areas."
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack,100",
+            "effect_string": "pre_stack,10",
             "skip_effect_key_desc": true
         },
         {
-            "effect_string": "buff_upgrade,10,18667",
-            "amount_func": "mult",
+            "effect_string": "buff_upgrade,0,18667",
+            "stacks_multiply": true,
             "amount_expr": "upgrade_amount(18669,0)",
             "max_stacks": 25,
             "manual_stacking": true,
             "stack_title": "Radiance Stacks",
-            "stacks_multiply": true,
             "more_triggers": [
                 {
                     "trigger": "area_changed",
@@ -382,7 +374,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
                     }
                 },
                 {
-                    "trigger": "hero_attack_ended_no_kill",
+                    "trigger": "monster_attacked",
                     "action": {
                         "type": "add_stack",
                         "stunned_only": true
@@ -398,8 +390,11 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     "large_graphic_id": 28317,
     "properties": {
         "is_formation_ability": true,
-        "use_outgoing_description": true,
-        "show_incoming": false
+        "owner_use_outgoing_description": true,
+        "show_incoming": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -421,18 +416,22 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "if_stunned_buff_base_crit_change_add,20",
+            "effect_string": "if_stunned_buff_base_crit_chance_add,20",
             "targets": [
                 "all"
             ],
-            "off_when_benched": true
+            "off_when_benched": true,
+            "slot_change_updates_targets": true,
+            "description": ""
         },
         {
-            "effect_string": "increase_damage_when_monster_stunned,100",
+            "effect_string": "increase_crit_damage_when_monster_stunned,100",
             "targets": [
                 "all"
             ],
-            "off_when_benched": true
+            "off_when_benched": true,
+            "slot_change_updates_targets": true,
+            "description": ""
         }
     ],
     "requirements": "",
@@ -440,9 +439,11 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     "large_graphic_id": 28316,
     "properties": {
         "is_formation_ability": true,
+        "use_outgoing_description": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "show_incoming": false,
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -491,11 +492,12 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     "large_graphic_id": 28330,
     "properties": {
         "is_formation_ability": true,
-        "use_outgoing_description": true,
-        "spec_option_post_apply_info": "Control Champions: $num_stacks",
+        "formation_circle_icon": true,
+        "spec_option_post_apply_info": "Control Champions: $num_stacks___2",
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "use_outgoing_description": true
     }
 }
 </pre>
@@ -542,7 +544,8 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     "large_graphic_id": 28331,
     "properties": {
         "is_formation_ability": true,
-        "spec_option_post_apply_info": "DEX 16+ Champions: $num_stacks",
+        "formation_circle_icon": true,
+        "spec_option_post_apply_info": "DEX 16+ Champions: $num_stacks___2",
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
@@ -601,11 +604,12 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
     "large_graphic_id": 28332,
     "properties": {
         "is_formation_ability": true,
-        "spec_option_post_apply_info": "Qualifying Champions: $num_stacks",
+        "formation_circle_icon": true,
+        "spec_option_post_apply_info": "Qualifying Champions: $num_stacks___2",
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "use_outgoing_description": true
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
