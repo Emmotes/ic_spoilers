@@ -417,6 +417,23 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 669**Mage of the White Robes Orkira (Orkira)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Mage of the White Robes Orkira
+        </span>
+        <span class="skinTableSource">
+            Mage of the White Robes Orkira Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            18 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 670**Dragonlance Karlach (Karlach)**</span></span>
         </span>
         <span class="skinTableName">
