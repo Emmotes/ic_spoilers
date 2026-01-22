@@ -288,7 +288,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 652**Ancient Hew Maan (Hew Maan)**</span></span>
+            <span class="tooltipHolder">![Ancient Hew Maan Skin Portrait](images/premiums/skin_652.png)<span class="itemTooltipContents">ID: 652**Ancient Hew Maan (Hew Maan)**<img src="images/premiums/skin_652.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -712,7 +712,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 658**Winter Hexblade K'thriss (K'thriss)**</span></span>
+            <span class="tooltipHolder">![Winter Hexblade K'thriss Skin Portrait](images/premiums/skin_658.png)<span class="itemTooltipContents">ID: 658**Winter Hexblade K'thriss (K'thriss)**<img src="images/premiums/skin_658.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

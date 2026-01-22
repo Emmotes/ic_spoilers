@@ -94,7 +94,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 652**Ancient Hew Maan (Hew Maan)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Ancient Hew Maan Portrait](images/skin_portraits/ancienthewmaan.png)<span class="featTooltipContents">ID: 652**Ancient Hew Maan (Hew Maan)**<img src="images/skin_models/ancienthewmaan.gif" alt="Ancient Hew Maan Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Ancient Hew Maan
@@ -213,7 +213,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 658**Winter Hexblade K'thriss (K'thriss)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Winter Hexblade K'thriss Portrait](images/skin_portraits/winterhexbladekthriss.png)<span class="featTooltipContents">ID: 658**Winter Hexblade K'thriss (K'thriss)**<img src="images/skin_models/winterhexbladekthriss.gif" alt="Winter Hexblade K'thriss Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Winter Hexblade K'thriss
