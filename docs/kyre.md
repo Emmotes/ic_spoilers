@@ -200,7 +200,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Attack: Unknown**
+**Ultimate Attack: Searing Arc Strike** (Guess)
 > Kyre creates a wave of radiant light and fire, dealing 1 ultimate hit to enemies it envelopes.  
 > Cooldown: 150s (Cap 37.5s)
 <details><summary><em>Raw Data</em></summary>
