@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Winter Nightmare Viconia Portrait](images/skin_portraits/winternightmareviconia.png)<span class="featTooltipContents">ID: 649**Winter Nightmare Viconia (Viconia)**<img src="images/skin_models/winternightmareviconia.gif" alt="Winter Nightmare Viconia Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Winter Nightmare Viconia
-        </span>
-        <span class="skinTableSource">
-            Winter Nightmare Viconia Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            21 Jan 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Wintershield Knight Baeloth Portrait](images/skin_portraits/wintershieldknightbaeloth.png)<span class="featTooltipContents">ID: 648**Wintershield Knight Baeloth (Baeloth)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/wintershieldknightbaeloth.gif" alt="Wintershield Knight Baeloth Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/wintershieldknightbaeloth-djiin.gif" alt="Wintershield Knight Baeloth Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Wintershield Knight Baeloth
-        </span>
-        <span class="skinTableSource">
-            Wintershield Knight Baeloth Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            21 Jan 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Blood War Duke Ravengard Portrait](images/skin_portraits/bloodwardukeravengard.png)<span class="featTooltipContents">ID: 641**Blood War Duke Ravengard (Ravengard)**<img src="images/skin_models/bloodwardukeravengard.gif" alt="Blood War Duke Ravengard Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

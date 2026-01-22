@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Meek the Kobold Portrait](images/familiars/meekthekobold.png)<span class="featTooltipContents">ID: 304**Meek the Kobold**Nobody trods on Meek! Nobody!<img src="images/familiars/meekthekobold.gif" alt="Meek the Kobold Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Meek the Kobold
-        </span>
-        <span class="skinTableSource">
-            Meek the Kobold Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            840p
-        </span>
-        <span class="skinTableDate">
-            21 Jan 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Jar of Green Slime Portrait](images/familiars/jarofgreenslime.png)<span class="featTooltipContents">ID: 305**Jar of Green Slime**'This is my brother - say hi brother!'~ Spurt<img src="images/familiars/jarofgreenslime.gif" alt="Jar of Green Slime Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
