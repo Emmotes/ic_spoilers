@@ -458,6 +458,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">14 Apr 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Viconia</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prolonged Suffering Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2447**Prolonged Suffering (Viconia)**Stand, fool. I do not permit you to die. Yet.<br><br><span style="color:var(--Flavescent)">Increases the effect of Viconia's Cure Medium Wounds ability by 80%.</span><code>buff_upgrade,80,9783</code></span>Prolonged Suffering
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Viconia's Cure Medium Wounds ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">21 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Baeloth</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2446**Standard Affair (Baeloth)**It's so much easier to stand out when I surround myself with mundanity!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span>Standard Affair
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">21 Apr 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
