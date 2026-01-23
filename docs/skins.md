@@ -43,23 +43,6 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 671**Human Glitch Dark Urge (Dark Urge)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Human Glitch Dark Urge
-        </span>
-        <span class="skinTableSource">
-            ???
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            28 Jan 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Pirate Dragonbait Portrait](images/skin_portraits/piratedragonbait.png)<span class="featTooltipContents">ID: 650**Pirate Dragonbait (Dragonbait)**<img src="images/skin_models/piratedragonbait.gif" alt="Pirate Dragonbait Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
