@@ -162,7 +162,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 654**Mountain Donaar (Donaar)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Mountain Donaar Portrait](images/skin_portraits/mountaindonaar.png)<span class="featTooltipContents">ID: 654**Mountain Donaar (Donaar)**<img src="images/skin_models/mountaindonaar.gif" alt="Mountain Donaar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Mountain Donaar
@@ -247,7 +247,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 659**Undying Queen Lae'zel (Lae'zel)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Undying Queen Lae'zel Portrait](images/skin_portraits/undyingqueenlaezel.png)<span class="featTooltipContents">ID: 659**Undying Queen Lae'zel (Lae'zel)**<img src="images/skin_models/undyingqueenlaezel.gif" alt="Undying Queen Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Undying Queen Lae'zel

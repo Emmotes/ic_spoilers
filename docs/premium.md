@@ -430,7 +430,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 654**Mountain Donaar (Donaar)**</span></span>
+            <span class="tooltipHolder">![Mountain Donaar Skin Portrait](images/premiums/skin_654.png)<span class="itemTooltipContents">ID: 654**Mountain Donaar (Donaar)**<img src="images/premiums/skin_654.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -845,7 +845,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 659**Undying Queen Lae'zel (Lae'zel)**</span></span>
+            <span class="tooltipHolder">![Undying Queen Lae'zel Skin Portrait](images/premiums/skin_659.png)<span class="itemTooltipContents">ID: 659**Undying Queen Lae'zel (Lae'zel)**<img src="images/premiums/skin_659.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
