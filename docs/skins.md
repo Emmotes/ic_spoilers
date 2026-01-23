@@ -77,7 +77,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Ancient Hew Maan Portrait](images/skin_portraits/ancienthewmaan.png)<span class="featTooltipContents">ID: 652**Ancient Hew Maan (Hew Maan)**<img src="images/skin_models/ancienthewmaan.gif" alt="Ancient Hew Maan Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Ancient Hew Maan Portrait](images/skin_portraits/ancienthewmaan.png)<span class="featTooltipContents">ID: 652**Ancient Hew Maan (Hew Maan)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/ancienthewmaan.gif" alt="Ancient Hew Maan Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ancienthewmaan-kleeb.gif" alt="Ancient Hew Maan Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ancienthewmaan-yassa.gif" alt="Ancient Hew Maan Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ancienthewmaan-zrang.gif" alt="Ancient Hew Maan Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Ancient Hew Maan
