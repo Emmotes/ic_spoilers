@@ -247,7 +247,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Order of the Red Robes Gale Portrait](images/skin_portraits/orderoftheredrobesgale.png)<span class="featTooltipContents">ID: 663**Order of the Red Robes Gale (Gale)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Order of the Red Robes Gale Portrait](images/skin_portraits/orderoftheredrobesgale.png)<span class="featTooltipContents">ID: 663**Order of the Red Robes Gale (Gale)**<img src="images/skin_models/orderoftheredrobesgale.gif" alt="Order of the Red Robes Gale Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Order of the Red Robes Gale

@@ -41,7 +41,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 307**Clarkemoore the Goat**The greatest of all time, in his own mind.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Clarkemoore the Goat Portrait](images/familiars/clarkemoorethegoat.png)<span class="featTooltipContents">ID: 307**Clarkemoore the Goat**The greatest of all time, in his own mind.<img src="images/familiars/clarkemoorethegoat.gif" alt="Clarkemoore the Goat Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Clarkemoore the Goat

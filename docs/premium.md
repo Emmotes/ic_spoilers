@@ -1171,7 +1171,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Order of the Red Robes Gale Skin Portrait](images/premiums/skin_663.png)<span class="itemTooltipContents">ID: 663**Order of the Red Robes Gale (Gale)**</span></span>
+            <span class="tooltipHolder">![Order of the Red Robes Gale Skin Portrait](images/premiums/skin_663.png)<span class="itemTooltipContents">ID: 663**Order of the Red Robes Gale (Gale)**<img src="images/premiums/skin_663.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
