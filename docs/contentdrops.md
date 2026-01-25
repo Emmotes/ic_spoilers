@@ -39,13 +39,13 @@ This Tales drop will allow unlocking Ravengard and Spurt.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Legacy: (Variant 1)](images/contentdrop_portraits/tales_legacy_1.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Legacy (Variant 1)](images/contentdrop_portraits/tales_legacy_1.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Legacy:</span>
+            <span style="margin-left: 8px;">Legacy</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #1</span>
@@ -53,13 +53,13 @@ This Tales drop will allow unlocking Ravengard and Spurt.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Legacy: (Variant 2)](images/contentdrop_portraits/tales_legacy_2.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Legacy (Variant 2)](images/contentdrop_portraits/tales_legacy_2.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Legacy:</span>
+            <span style="margin-left: 8px;">Legacy</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #2</span>
@@ -67,13 +67,13 @@ This Tales drop will allow unlocking Ravengard and Spurt.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Legacy: (Variant 3)](images/contentdrop_portraits/tales_legacy_3.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Legacy (Variant 3)](images/contentdrop_portraits/tales_legacy_3.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Legacy:</span>
+            <span style="margin-left: 8px;">Legacy</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #3</span>
@@ -95,13 +95,13 @@ This Tales drop will allow unlocking Ravengard and Spurt.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Ultimate Treasure: (Variant 1)](images/contentdrop_portraits/tales_ultimatetreasure_1.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Ultimate Treasure (Variant 1)](images/contentdrop_portraits/tales_ultimatetreasure_1.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Ultimate Treasure:</span>
+            <span style="margin-left: 8px;">Ultimate Treasure</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #1</span>
@@ -109,13 +109,13 @@ This Tales drop will allow unlocking Ravengard and Spurt.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Ultimate Treasure: (Variant 2)](images/contentdrop_portraits/tales_ultimatetreasure_2.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Ultimate Treasure (Variant 2)](images/contentdrop_portraits/tales_ultimatetreasure_2.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Ultimate Treasure:</span>
+            <span style="margin-left: 8px;">Ultimate Treasure</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #2</span>
@@ -123,13 +123,13 @@ This Tales drop will allow unlocking Ravengard and Spurt.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Ultimate Treasure: (Variant 3)](images/contentdrop_portraits/tales_ultimatetreasure_3.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Ultimate Treasure (Variant 3)](images/contentdrop_portraits/tales_ultimatetreasure_3.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Ultimate Treasure:</span>
+            <span style="margin-left: 8px;">Ultimate Treasure</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #3</span>
@@ -361,13 +361,13 @@ This Tales drop will allow unlocking Baeloth and Shadowheart.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Battle Brawl: (Variant 1)](images/contentdrop_portraits/tales_battlebrawl_1.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Battle Brawl (Variant 1)](images/contentdrop_portraits/tales_battlebrawl_1.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Battle Brawl:</span>
+            <span style="margin-left: 8px;">Battle Brawl</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #1</span>
@@ -375,13 +375,13 @@ This Tales drop will allow unlocking Baeloth and Shadowheart.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Battle Brawl: (Variant 2)](images/contentdrop_portraits/tales_battlebrawl_2.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Battle Brawl (Variant 2)](images/contentdrop_portraits/tales_battlebrawl_2.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Battle Brawl:</span>
+            <span style="margin-left: 8px;">Battle Brawl</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #2</span>
@@ -389,13 +389,13 @@ This Tales drop will allow unlocking Baeloth and Shadowheart.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Battle Brawl: (Variant 3)](images/contentdrop_portraits/tales_battlebrawl_3.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Battle Brawl (Variant 3)](images/contentdrop_portraits/tales_battlebrawl_3.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Battle Brawl:</span>
+            <span style="margin-left: 8px;">Battle Brawl</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #3</span>
