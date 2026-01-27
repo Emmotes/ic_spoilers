@@ -213,7 +213,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 660**Heroic Hank (Hank)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Heroic Hank Portrait](images/skin_portraits/heroichank.png)<span class="featTooltipContents">ID: 660**Heroic Hank (Hank)**<img src="images/skin_models/heroichank.gif" alt="Heroic Hank Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Heroic Hank
