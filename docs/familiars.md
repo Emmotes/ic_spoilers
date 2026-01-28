@@ -109,7 +109,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 311**Dragon Orb of Istar**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon Orb of Istar Portrait](images/familiars/dragonorbofistar.png)<span class="featTooltipContents">ID: 311**Dragon Orb of Istar**<img src="images/familiars/dragonorbofistar.gif" alt="Dragon Orb of Istar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dragon Orb of Istar
@@ -126,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone...</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone…</span></span>
         </span>
         <span class="skinTableName">
             Drone of Dooooom
@@ -156,6 +156,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             25 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 315**Animated Armor of Collaboration**Forged from many disciplines and powered by a shared goal, this living armor stands as proof that games and communities are built better together.</span></span>
+        </span>
+        <span class="skinTableName">
+            Animated Armor of Collaboration
+        </span>
+        <span class="skinTableSource">
+            Animated Armor of Collaboration Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            27 Mar 2026
         </span>
     </span>
     <span class="skinTableRow">

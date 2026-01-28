@@ -86,7 +86,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Scarlet Corsair Dark Urge Skin Portrait](images/premiums/skin_651.png)<span class="itemTooltipContents">ID: 651**Scarlet Corsair Dark Urge (Dark Urge)**<img src="images/premiums/skin_651.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Scarlet Corsair Dark Urge Skin Portrait](images/premiums/skin_651.png)<span class="itemTooltipContents">ID: 651**Scarlet Corsair Dark Urge (Dark Urge)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_651.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_651-sceleritas_fel.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_651-1.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_651-2.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -288,7 +288,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Ancient Hew Maan Skin Portrait](images/premiums/skin_652.png)<span class="itemTooltipContents">ID: 652**Ancient Hew Maan (Hew Maan)**<img src="images/premiums/skin_652.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Ancient Hew Maan Skin Portrait](images/premiums/skin_652.png)<span class="itemTooltipContents">ID: 652**Ancient Hew Maan (Hew Maan)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_652.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_652-zrang.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_652-yassa.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_652-kleeb.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1110,7 +1110,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 311**Dragon Orb of Istar**</span></span>
+            <span class="tooltipHolder">![Dragon Orb of Istar Familiar Portrait](images/premiums/familiar_311.png)<span class="itemTooltipContents">ID: 311**Dragon Orb of Istar**<img src="images/premiums/familiar_311.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1251,7 +1251,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone...</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone…</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1803,6 +1803,60 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Modron Component Pieces**</span>
             <span style="margin-left:15px">x2,000</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 693</div>
+### Animated Armor of Collaboration Familiar Pack - $5.99  
+Date of release: 27 Mar 2026
+
+> Collect your own Animated Armor of Collaboration familiar!
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: It appears that this pack will only be available for real money instead of Platinum.*
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 315**Animated Armor of Collaboration**Forged from many disciplines and powered by a shared goal, this living armor stands as proof that games and communities are built better together.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Animated Armor of Collaboration</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Giant's Strength Buff Portrait](images/premiums/buff_4.png)<span class="itemTooltipContents">ID: 4**Huge Potion of Giant's Strength**A transparent potion in which floats the sliver of a giant's fingernail.<code>global_dps_multiplier_mult,900</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Giant's Strength</span>
+            <span style="margin-left:15px">x2</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Clairvoyance Buff Portrait](images/premiums/buff_8.png)<span class="itemTooltipContents">ID: 8**Huge Potion of Clairvoyance**Three eyeballs bob in this yellowish potion.<code>gold_multiplier_mult,400</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Clairvoyance</span>
+            <span style="margin-left:15px">x2</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Speed</span>
+            <span style="margin-left:15px">x2</span>
         </span>
     </span>
 </span>
