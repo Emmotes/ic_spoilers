@@ -62,11 +62,14 @@ These are the event champions that are upcoming and all the information we know 
                 Raistlin
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Wizard (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Wizard of Heroes of the Lance (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Fleetswake - 4 March 2026</span>
             </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             Roadmapped 🗺️
@@ -87,7 +90,7 @@ These are the event champions that are upcoming and all the information we know 
                 Tasslehoff
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Kender Rogue (Guess)</span>
+                <span class="indexChampionTableNoLink">Kender Rogue of Heroes of the Lance (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Festival of Fools - 1 April 2026</span>
@@ -245,11 +248,14 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Raistlin
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Wizard (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Wizard of Heroes of the Lance (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐<br>Roadmapped 🗺️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
     </span>
 {::nomarkdown}
@@ -300,7 +306,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Tasslehoff
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Kender Rogue (Guess)</span>
+                <span class="indexChampionTableNoLink">Kender Rogue of Heroes of the Lance (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
