@@ -441,15 +441,15 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **War Mage** (Guess)
-> Raistlin increases the effect of Prodigy of High Sorcery by 125% for each Good Champion in the formation, stacking multiplicatively.
+> Raistlin increases the effect of Prodigy of High Sorcery by 125% for each Champion in the formation with a Melee or Ranged base attack, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 2624,
+    "id": 2625,
     "flavour_text": "",
     "description": {
-        "desc": "Raistlin increases the effect of Prodigy of High Sorcery by $amount% for each Good Champion in the formation, stacking multiplicatively."
+        "desc": "Raistlin increases the effect of Prodigy of High Sorcery by $amount% for each Champion in the formation with a Melee or Ranged base attack, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -458,10 +458,10 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
             "show_bonus": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "HasTag(`good`)",
+            "per_hero_expr": "HasAttackDamageType(`ranged`) || HasAttackDamageType(`melee`)",
             "amount_updated_listeners": [
                 "slot_changed",
-                "hero_tags_changed"
+                "attack_changed"
             ]
         }
     ],
@@ -472,7 +472,7 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
         "formation_circle_icon": false,
-        "spec_option_post_apply_info": "Good Champions: $num_stacks"
+        "spec_option_post_apply_info": "Melee or Ranged Champions: $num_stacks"
     }
 }
 </pre>
@@ -482,24 +482,24 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Reclusive Mage** (Guess)
-> Raistlin increases the effect of Prodigy of High Sorcery by 125% for each Good Champion in the formation, stacking multiplicatively.
+> Raistlin increases the effect of Prodigy of High Sorcery by 300% for each Tanking Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 2624,
+    "id": 2626,
     "flavour_text": "",
     "description": {
-        "desc": "Raistlin increases the effect of Prodigy of High Sorcery by $amount% for each Good Champion in the formation, stacking multiplicatively."
+        "desc": "Raistlin increases the effect of Prodigy of High Sorcery by $amount% for each Tanking Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,125,18929",
+            "effect_string": "buff_upgrade,300,18929",
             "off_when_benched": true,
             "show_bonus": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "HasTag(`good`)",
+            "per_hero_expr": "HasTag(`tanking`)",
             "amount_updated_listeners": [
                 "slot_changed",
                 "hero_tags_changed"
@@ -513,7 +513,7 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
         "formation_circle_icon": false,
-        "spec_option_post_apply_info": "Good Champions: $num_stacks"
+        "spec_option_post_apply_info": "Tanking Champions: $num_stacks"
     }
 }
 </pre>
