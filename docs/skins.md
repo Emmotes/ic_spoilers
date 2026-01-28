@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Pirate Dragonbait Portrait](images/skin_portraits/piratedragonbait.png)<span class="featTooltipContents">ID: 650**Pirate Dragonbait (Dragonbait)**<img src="images/skin_models/piratedragonbait.gif" alt="Pirate Dragonbait Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Pirate Dragonbait
-        </span>
-        <span class="skinTableSource">
-            Pirate Dragonbait Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            28 Jan 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Scarlet Corsair Dark Urge Portrait](images/skin_portraits/scarletcorsairdarkurge.png)<span class="featTooltipContents">ID: 651**Scarlet Corsair Dark Urge (Dark Urge)**<img src="images/skin_models/scarletcorsairdarkurge.gif" alt="Scarlet Corsair Dark Urge Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Scarlet Corsair Dark Urge
-        </span>
-        <span class="skinTableSource">
-            Scarlet Corsair Dark Urge Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            28 Jan 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Ancient Hew Maan Portrait](images/skin_portraits/ancienthewmaan.png)<span class="featTooltipContents">ID: 652**Ancient Hew Maan (Hew Maan)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/ancienthewmaan.gif" alt="Ancient Hew Maan Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ancienthewmaan-kleeb.gif" alt="Ancient Hew Maan Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ancienthewmaan-yassa.gif" alt="Ancient Hew Maan Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ancienthewmaan-zrang.gif" alt="Ancient Hew Maan Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
