@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Blood War Duke Ravengard Portrait](images/skin_portraits/bloodwardukeravengard.png)<span class="featTooltipContents">ID: 641**Blood War Duke Ravengard (Ravengard)**<img src="images/skin_models/bloodwardukeravengard.gif" alt="Blood War Duke Ravengard Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Blood War Duke Ravengard
-        </span>
-        <span class="skinTableSource">
-            Tales of the Champions (Guess)
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            28 Jan 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Pirate King Spurt Portrait](images/skin_portraits/piratekingspurt.png)<span class="featTooltipContents">ID: 642**Pirate King Spurt (Spurt)**<img src="images/skin_models/piratekingspurt.gif" alt="Pirate King Spurt Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Pirate King Spurt
-        </span>
-        <span class="skinTableSource">
-            Tales of the Champions (Guess)
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            28 Jan 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Pirate Dragonbait Portrait](images/skin_portraits/piratedragonbait.png)<span class="featTooltipContents">ID: 650**Pirate Dragonbait (Dragonbait)**<img src="images/skin_models/piratedragonbait.gif" alt="Pirate Dragonbait Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
