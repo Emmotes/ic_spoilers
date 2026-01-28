@@ -328,7 +328,7 @@ This Tales drop will allow unlocking Baeloth and Shadowheart.
 
 ## Tales 8 - 22 April 2026
 
-This Tales drop will allow unlocking Barrowin and Kalix.
+This Tales drop will allow unlocking Kalix and Barrowin.
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
