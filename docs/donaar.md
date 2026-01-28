@@ -138,6 +138,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "monster_effect": {
                 "effect_string": "effect_def,2584"
             },
+            "one_per_target": true,
             "after_damage": false
         },
         {
@@ -147,6 +148,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "monster_effect": {
                 "effect_string": "effect_def,2585"
             },
+            "one_per_target": true,
             "after_damage": false
         },
         {
@@ -156,6 +158,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "monster_effect": {
                 "effect_string": "effect_def,2586"
             },
+            "one_per_target": true,
             "after_damage": false
         },
         {
@@ -165,6 +168,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "monster_effect": {
                 "effect_string": "effect_def,2587"
             },
+            "one_per_target": true,
             "after_damage": false
         },
         {
@@ -174,6 +178,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "monster_effect": {
                 "effect_string": "effect_def,2472"
             },
+            "one_per_target": true,
             "after_damage": false
         },
         {
@@ -183,6 +188,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "monster_effect": {
                 "effect_string": "effect_def,2605"
             },
+            "one_per_target": true,
             "after_damage": false
         }
     ],
@@ -269,7 +275,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Unknown** (Guess)
-> When Donaar is in the formation, most abilities that involve stacks are granted 100 extra stack.
+> When Donaar is in the formation, most abilities that involve stacks are granted 1 extra stack.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -281,7 +287,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "increase_all_stack_counts,100",
+            "effect_string": "increase_all_stack_counts,1",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "donaar_extra_vote",
             "off_when_benched": true
         }
     ],
