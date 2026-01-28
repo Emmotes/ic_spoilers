@@ -86,7 +86,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Scarlet Corsair Dark Urge Skin Portrait](images/premiums/skin_651.png)<span class="itemTooltipContents">ID: 651**Scarlet Corsair Dark Urge (Dark Urge)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_651.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_651-sceleritas_fel.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_651-1.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_651-2.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+            <span class="tooltipHolder">![Scarlet Corsair Dark Urge Skin Portrait](images/premiums/skin_651.png)<span class="itemTooltipContents">ID: 651**Scarlet Corsair Dark Urge (Dark Urge)**<img src="images/premiums/skin_651.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

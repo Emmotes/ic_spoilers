@@ -26,7 +26,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Scarlet Corsair Dark Urge Portrait](images/skin_portraits/scarletcorsairdarkurge.png)<span class="featTooltipContents">ID: 651**Scarlet Corsair Dark Urge (Dark Urge)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/scarletcorsairdarkurge.gif" alt="Scarlet Corsair Dark Urge Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/scarletcorsairdarkurge-1.gif" alt="Scarlet Corsair Dark Urge Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/scarletcorsairdarkurge-2.gif" alt="Scarlet Corsair Dark Urge Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/scarletcorsairdarkurge-sceleritas_fel.gif" alt="Scarlet Corsair Dark Urge Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Scarlet Corsair Dark Urge Portrait](images/skin_portraits/scarletcorsairdarkurge.png)<span class="featTooltipContents">ID: 651**Scarlet Corsair Dark Urge (Dark Urge)**<img src="images/skin_models/scarletcorsairdarkurge.gif" alt="Scarlet Corsair Dark Urge Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Scarlet Corsair Dark Urge
