@@ -492,6 +492,57 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">21 Apr 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Dragonbait</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Scent of Battle Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2448**Scent of Battle (Dragonbait)**Boss smells like a burning bakery.<br><br><span style="color:var(--Flavescent)">Increases the effect of Dragonbait's Shen-state ability by 80%.</span><code>buff_upgrade,80,3272</code></span>Scent of Battle
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Dragonbait's Shen-state ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">28 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Spurt</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Non-Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2450**Non-Standard Affair (Spurt)**I want to be friends with everyone! EVERYONE!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2608</code></span>Non-Standard Affair
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">28 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Dark Urge</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Human Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 2449**Human Glitch (Dark Urge)**In another world - another life - would my destiny be any different?<br><br><span style="color:var(--Flavescent)">The Dark Urge also counts as a Human and increases the damage of all Champions by 20% for each Ceremorphosis stack the formation has.</span><code>add_hero_tags,0,human<br>global_dps_multiplier_mult,20</code></span>Human Glitch
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">The Dark Urge also counts as a Human and increases the damage of all Champions by 20% for each Ceremorphosis stack the formation has.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">28 Apr 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
