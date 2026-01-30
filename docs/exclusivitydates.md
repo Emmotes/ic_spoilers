@@ -35,40 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Halsin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2302**Prodigal Leader (Halsin)**Even those who defile nature inevitably return to it, in the end.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">29 Jan 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Dark Urge</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Blood Moon Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2303**Blood Moon (Dark Urge)**Time for the final act.<br><br><span style="color:var(--Flavescent)">Increases the effect of Dark Urge's The Urge ability by 80%.</span><code>buff_upgrade,80,14379</code></span>Blood Moon
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Dark Urge's The Urge ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">29 Jan 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Skylla</span>
         </span>
         <span class="featTableIcon4">
