@@ -33,7 +33,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
             <span style="margin-right:4px;">**Seat**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">5</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -57,7 +57,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Support / Control (Guess)</span>
+            <span style="margin-left:8px;">Support / Control</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -65,7 +65,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
             <span style="margin-right:4px;">**Age**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">23</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -73,7 +73,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Non-binary (Guess)</span>
+            <span style="margin-left:8px;">Non-binary</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -81,7 +81,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Lawful Good</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -89,7 +89,7 @@ Kyre will be a new champion in the Grand Revel event on 4 February 2026.
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">-</span>
         </span>
     </span>
 </span>
