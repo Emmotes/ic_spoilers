@@ -105,6 +105,9 @@ Some graphics were found that had the format `Bastion/Rooms/Treasure/...`:
 > "key": "patrons_bastion_unlock_condition",  
 > "contents": "Unlock the Bastion's Parlor to access Patrons!"
 
+> "key": "bastion",  
+> "contents": "Bastion"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
