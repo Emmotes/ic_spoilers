@@ -247,7 +247,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 665**Knight of Solamnia Zorbu (Zorbu)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Knight of Solamnia Zorbu Portrait](images/skin_portraits/knightofsolamniazorbu.png)<span class="featTooltipContents">ID: 665**Knight of Solamnia Zorbu (Zorbu)**<img src="images/skin_models/knightofsolamniazorbu.gif" alt="Knight of Solamnia Zorbu Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Knight of Solamnia Zorbu

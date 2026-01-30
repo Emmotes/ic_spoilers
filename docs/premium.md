@@ -1117,7 +1117,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 665**Knight of Solamnia Zorbu (Zorbu)**</span></span>
+            <span class="tooltipHolder">![Knight of Solamnia Zorbu Skin Portrait](images/premiums/skin_665.png)<span class="itemTooltipContents">ID: 665**Knight of Solamnia Zorbu (Zorbu)**<img src="images/premiums/skin_665.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
