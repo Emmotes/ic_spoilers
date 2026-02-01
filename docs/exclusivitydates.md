@@ -640,8 +640,8 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableDate">
                 <span>31 October 2025</span>
             </span>
-            <span class="postSeasonTableDate">
-                <span>31 January 2026 (Guess)</span>
+            <span class="postSeasonTableDateLate">
+                <span>31 January 2026 (Guess) (Late)</span>
             </span>
         </span>
     </span>
@@ -685,8 +685,8 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableDate">
                 <span>31 October 2025</span>
             </span>
-            <span class="postSeasonTableDate">
-                <span>31 January 2026 (Guess)</span>
+            <span class="postSeasonTableDateLate">
+                <span>31 January 2026 (Guess) (Late)</span>
             </span>
         </span>
     </span>
