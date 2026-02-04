@@ -276,7 +276,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* [Grand Revel Augments](augments_10.md) - 4 February 2026
 * Emergence 15 - 22 April 2026
 * [Bastion](bastion.md) - ???
 
