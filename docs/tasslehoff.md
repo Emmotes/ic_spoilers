@@ -98,12 +98,9 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/tasslehoff/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Tasslehoff" fill="#aaa" data-formationName="Tasslehoff" data-campaignName="Festival of Fools" width="294" height="160"><circle cx="135" cy="85" r="15"/><circle cx="135" cy="125" r="15"/><circle cx="95" cy="25" r="15"/><circle cx="95" cy="65" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="95" cy="145" r="15"/><circle cx="55" cy="45" r="15"/><circle cx="55" cy="85" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="65" r="15"/><text x="165" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Tasslehoff</text><text x="165" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Festival of Fools</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
@@ -352,7 +349,22 @@ Unknown.
 
 # Adventures and Variants
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unlock Adventure: A Fool's Errand (Tasslehoff)** (Complete Area 50)
+> Save the village from a foolish prank gone wrong.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 1: Variant 1** (Complete Area 75)
+> 
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 2: Variant 2** (Complete Area 125)
+> 
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 3: Variant 3** (Complete Area 175)
+> 
+</div></div>
 
 # Other Champion Images
 
