@@ -16,6 +16,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Havilar](archive/havilar.md)
 * [Highharvestide Augments](archive/augments_1.md)
 * [King of Shadows](archive/kos.md)
+* [Kyre](archive/kyre.md)
 * [Lark](archive/lark.md)
 * [Liars' Night Augments](archive/augments_2.md)
 * [Nordom](archive/nordom.md)
