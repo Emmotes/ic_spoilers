@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Soul the Sun Elemental Portrait](images/familiars/soulthesunelemental.png)<span class="featTooltipContents">ID: 306**Soul the Sun Elemental**We are made of star-stuff.<img src="images/familiars/soulthesunelemental.gif" alt="Soul the Sun Elemental Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Soul the Sun Elemental
-        </span>
-        <span class="skinTableSource">
-            Ancient Kyre Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            04 Feb 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Clarkemoore the Goat Portrait](images/familiars/clarkemoorethegoat.png)<span class="featTooltipContents">ID: 307**Clarkemoore the Goat**The greatest of all time, in his own mind.<img src="images/familiars/clarkemoorethegoat.gif" alt="Clarkemoore the Goat Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

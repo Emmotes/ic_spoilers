@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Ancient Hew Maan Portrait](images/skin_portraits/ancienthewmaan.png)<span class="featTooltipContents">ID: 652**Ancient Hew Maan (Hew Maan)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/ancienthewmaan.gif" alt="Ancient Hew Maan Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ancienthewmaan-kleeb.gif" alt="Ancient Hew Maan Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ancienthewmaan-yassa.gif" alt="Ancient Hew Maan Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/ancienthewmaan-zrang.gif" alt="Ancient Hew Maan Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Ancient Hew Maan
-        </span>
-        <span class="skinTableSource">
-            Ancient Hew Maan Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            04 Feb 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Ancient Kyre Portrait](images/skin_portraits/ancientkyre.png)<span class="featTooltipContents">ID: 661**Ancient Kyre (Kyre)**<img src="images/skin_models/ancientkyre.gif" alt="Ancient Kyre Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Ancient Kyre
-        </span>
-        <span class="skinTableSource">
-            Ancient Kyre Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            04 Feb 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Primordial Fire Karlach Portrait](images/skin_portraits/primordialfirekarlach.png)<span class="featTooltipContents">ID: 653**Primordial Fire Karlach (Karlach)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/primordialfirekarlach.gif" alt="Primordial Fire Karlach Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/primordialfirekarlach-infernal_engine.gif" alt="Primordial Fire Karlach Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Primordial Fire Karlach
-        </span>
-        <span class="skinTableSource">
-            Primordial Fire Karlach Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            04 Feb 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Ancient Magus Presto Portrait](images/skin_portraits/ancientmaguspresto.png)<span class="featTooltipContents">ID: 656**Ancient Magus Presto (Presto)**<img src="images/skin_models/ancientmaguspresto.gif" alt="Ancient Magus Presto Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -230,7 +179,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 666**Heroic Sheila (Sheila)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Heroic Sheila Portrait](images/skin_portraits/heroicsheila.png)<span class="featTooltipContents">ID: 666**Heroic Sheila (Sheila)**<img src="images/skin_models/heroicsheila.gif" alt="Heroic Sheila Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Heroic Sheila

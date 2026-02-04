@@ -30,57 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Hew Maan</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Free Agent Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2451**Free Agent (Hew Maan)**Agents Zrang, Kleeb, and Yassa, ready! We're a triple threat!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Unaffiliated Champion in the formation.</span><code>global_dps_multiplier_mult,20</code></span>Free Agent
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each Unaffiliated Champion in the formation.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">04 Feb 2026<br>04 May 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Karlach</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Hell's Heart Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2452**Hell's Heart (Karlach)**Avernus taught me everything there is to know about pain. Let me show you.<br><br><span style="color:var(--Flavescent)">Increases the effect of Karlach's An Experienced Gladiator ability by 80%.</span><code>buff_upgrade,80,13725</code></span>Hell's Heart
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Karlach's An Experienced Gladiator ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">04 Feb 2026<br>04 May 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Kyre</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Dual Sun Technique Icon](images/featicons/twobolts.png)<span class="featTooltipContents">ID: 2473**Dual Sun Technique (Kyre)**No more holding back!<br><br><span style="color:var(--Flavescent)">Kyre fires two bolts with their base attack.</span><code>change_base_attack,936</code></span>Dual Sun Technique
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Kyre fires two bolts with their base attack.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">04 Feb 2026<br>04 May 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Presto</span>
         </span>
         <span class="featTableIcon4">
