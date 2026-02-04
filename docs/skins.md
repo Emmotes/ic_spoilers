@@ -26,7 +26,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 661**Ancient Kyre (Kyre)**<img src="images/skin_models/ancientkyre.gif" alt="Ancient Kyre Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Ancient Kyre Portrait](images/skin_portraits/ancientkyre.png)<span class="featTooltipContents">ID: 661**Ancient Kyre (Kyre)**<img src="images/skin_models/ancientkyre.gif" alt="Ancient Kyre Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Ancient Kyre
@@ -43,7 +43,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Primordial Fire Karlach Portrait](images/skin_portraits/primordialfirekarlach.png)<span class="featTooltipContents">ID: 653**Primordial Fire Karlach (Karlach)**<img src="images/skin_models/primordialfirekarlach.gif" alt="Primordial Fire Karlach Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Primordial Fire Karlach Portrait](images/skin_portraits/primordialfirekarlach.png)<span class="featTooltipContents">ID: 653**Primordial Fire Karlach (Karlach)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/primordialfirekarlach.gif" alt="Primordial Fire Karlach Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/primordialfirekarlach-infernal_engine.gif" alt="Primordial Fire Karlach Alternate Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Primordial Fire Karlach

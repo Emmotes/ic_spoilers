@@ -24,7 +24,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 661**Ancient Kyre (Kyre)**<img src="images/premiums/skin_661.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Ancient Kyre Skin Portrait](images/premiums/skin_661.png)<span class="itemTooltipContents">ID: 661**Ancient Kyre (Kyre)**<img src="images/premiums/skin_661.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2473**Feat**???: 2473</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Dual Sun Technique Feat Portrait](images/featicons/twobolts.png)<span class="itemTooltipContents">ID: 2473**Dual Sun Technique**No more holding back!<br><br><span style="color:var(--Flavescent)">Kyre fires two bolts with their base attack.</span><code>change_base_attack,936</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2473</span>
+            <span style="margin-left:15px">Dual Sun Technique</span>
+            <span style="margin-left:15px">Kyre</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -164,7 +165,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Primordial Fire Karlach Skin Portrait](images/premiums/skin_653.png)<span class="itemTooltipContents">ID: 653**Primordial Fire Karlach (Karlach)**<img src="images/premiums/skin_653.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Primordial Fire Karlach Skin Portrait](images/premiums/skin_653.png)<span class="itemTooltipContents">ID: 653**Primordial Fire Karlach (Karlach)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_653.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_653-infernal_engine.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -872,17 +873,16 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2527**Feat**???: 2527</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor</span>
+            <span style="margin-left:15px">???: 2527</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 790**Platinum Raistlin Chest**Loot for: Raistlin<code>"for_crusaders":[173]</code></span></span>
+            <span class="tooltipHolder">![Platinum Raistlin Chest Chest Portrait](images/premiums/chests_790.png)<span class="itemTooltipContents">ID: 790**Platinum Raistlin Chest**Loot for: Raistlin<code>"for_crusaders":[173]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>

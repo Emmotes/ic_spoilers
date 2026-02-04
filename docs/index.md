@@ -43,9 +43,6 @@ These are the event champions that are upcoming and all the information we know 
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Roadmapped 🗺️
-        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -194,7 +191,7 @@ These are the upcoming new and reworked champions and where they'll be found.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐<br>Roadmapped 🗺️
+            New ⭐
         </span>
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)

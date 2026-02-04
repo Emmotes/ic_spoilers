@@ -64,6 +64,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Kyre</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Dual Sun Technique Icon](images/featicons/twobolts.png)<span class="featTooltipContents">ID: 2473**Dual Sun Technique (Kyre)**No more holding back!<br><br><span style="color:var(--Flavescent)">Kyre fires two bolts with their base attack.</span><code>change_base_attack,936</code></span>Dual Sun Technique
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Kyre fires two bolts with their base attack.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Feb 2026<br>04 May 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Presto</span>
         </span>
         <span class="featTableIcon4">
@@ -311,6 +328,57 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Kyre</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2461**Prodigal Leader (Kyre)**The light of life and love shall never fall to darkness. This, I vow.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +50%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Kyre</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Burning Glory Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2464**Burning Glory (Kyre)**Be as a beacon in this world, projecting hope for all to see.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kyre's Radiant Soul ability by 80%.</span><code>buff_upgrade,80,18667,0</code></span>Burning Glory
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Kyre's Radiant Soul ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Kyre</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Pierce the Heavens Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2465**Pierce the Heavens (Kyre)**I've practiced this spiral thrust maneuver ten thousand times.<br><br><span style="color:var(--Flavescent)">Increases the base chance of Stunning Strike up to 200%.</span><code>change_upgrade_data,18668,0<br>change_upgrade_data,18668,2</code></span>Pierce the Heavens
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the base chance of Stunning Strike up to 200%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Nordom</span>
         </span>
         <span class="featTableIcon4">
@@ -318,6 +386,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Changes Form Orderly Ranks to target the next two columns.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Kyre</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Blinding Force Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2466**Blinding Force (Kyre)**Know yourself. Know what needs to be done. Know to never hesitate.<br><br><span style="color:var(--Flavescent)">Increases the stun duration to 20 seconds for Stunning Strike.</span><code>change_upgrade_data,18668,0</code></span>Blinding Force
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the stun duration to 20 seconds for Stunning Strike.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
