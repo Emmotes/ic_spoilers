@@ -158,6 +158,165 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Magic Missile** (Magic)
+> Raistlin fires a number of magic missiles at the toughest enemies.  
+> Cooldown: 4.75s (Cap 1.1875s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 946,
+    "name": "Magic Missile",
+    "description": "Raistlin fires a number of magic missiles at the toughest enemies.",
+    "long_description": "Raistlin fires a number of magic missiles at the toughest enemies.",
+    "graphic_id": 0,
+    "target": "highest_health",
+    "num_targets": 4,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4.75,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "magic_missile",
+            "shoot_frame": 10,
+            "shoot_offset_x": 64,
+            "shoot_offset_y": -28,
+            "projectile_delay": 0.1,
+            "projectile_count": 4,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "projectile_graphic_id": 753,
+                "impact_graphic_id": 754,
+                "impact_offset_y": -50
+            },
+            "bonus_damage_from": {
+                "type": "raistlin_debilitating_magic"
+            },
+            "hold_shoot_frame": true
+        }
+    ],
+    "tags": [
+        "ranged",
+        "magic"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Magic Missile** (Magic)
+> Raistlin fires a number of magic missiles at the toughest enemies.  
+> Cooldown: 4.75s (Cap 1.1875s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 947,
+    "name": "Magic Missile",
+    "description": "Raistlin fires a number of magic missiles at the toughest enemies.",
+    "long_description": "Raistlin fires a number of magic missiles at the toughest enemies.",
+    "graphic_id": 0,
+    "target": "highest_health",
+    "num_targets": 5,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4.75,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "magic_missile",
+            "shoot_frame": 10,
+            "shoot_offset_x": 64,
+            "shoot_offset_y": -28,
+            "projectile_delay": 0.1,
+            "projectile_count": 5,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "projectile_graphic_id": 753,
+                "impact_graphic_id": 754,
+                "impact_offset_y": -50
+            },
+            "bonus_damage_from": {
+                "type": "raistlin_debilitating_magic"
+            },
+            "hold_shoot_frame": true
+        }
+    ],
+    "tags": [
+        "ranged",
+        "magic"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Magic Missile** (Magic)
+> Raistlin fires a number of magic missiles at the toughest enemies.  
+> Cooldown: 4.75s (Cap 1.1875s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 948,
+    "name": "Magic Missile",
+    "description": "Raistlin fires a number of magic missiles at the toughest enemies.",
+    "long_description": "Raistlin fires a number of magic missiles at the toughest enemies.",
+    "graphic_id": 0,
+    "target": "highest_health",
+    "num_targets": 6,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 4.75,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "magic_missile",
+            "shoot_frame": 10,
+            "shoot_offset_x": 64,
+            "shoot_offset_y": -28,
+            "projectile_delay": 0.1,
+            "projectile_count": 6,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "projectile_graphic_id": 753,
+                "impact_graphic_id": 754,
+                "impact_offset_y": -50
+            },
+            "bonus_damage_from": {
+                "type": "raistlin_debilitating_magic"
+            },
+            "hold_shoot_frame": true
+        }
+    ],
+    "tags": [
+        "ranged",
+        "magic"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Raistlin's Wheel of Flame** (Guess)
 > Raistlin envelopes enemies with a deadly ring of fire, dealing one ultimate hit every second to enemies in the area.  
 > Cooldown: 180s (Cap 45s)
@@ -175,10 +334,29 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
     "aoe_radius": 0,
     "damage_modifier": 0.03,
     "cooldown": 180,
-    "animations": {
-        "type": "ultimate_attack",
-        "ultimate": "lark"
-    },
+    "animations": [
+        {
+            "type": "ultimate_attack",
+            "ultimate": "raistlin",
+            "projectile_data": {
+                "type": "ranged_attack",
+                "shoot_offset_y": -185,
+                "shoot_offset_x": 46,
+                "shoot_frame": 36,
+                "shoot_sound": 149,
+                "hit_sound": 133,
+                "projectile_details": {
+                    "projectile_speed": 3500,
+                    "projectile_graphic_id": 28553,
+                    "impact_graphic_id": 28552,
+                    "smoke_graphic_id": 446
+                },
+                "percent_height_offset": 5,
+                "use_auto_rotation": true
+            },
+            "damage_frame": 8
+        }
+    ],
     "tags": [
         "magic",
         "ultimate"
@@ -204,7 +382,7 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
     "id": 2619,
     "flavour_text": "",
     "description": {
-        "desc": "Raistlin increases his damage by $(amount)% for each Champion that is not adjacent to him, stacking multiplicatively."
+        "desc": "Raistlin increases his damage by $(not_buffed amount)% for each Champion that is not adjacent to him, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -293,7 +471,7 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
     "id": 2621,
     "flavour_text": "",
     "description": {
-        "desc": "When Raistlin attacks and is at or above $health_percent_threshold% of his max health, he takes $damage_percent% of his max health as damage but deals 400% more damage with his attack."
+        "desc": "When Raistlin attacks and is at or above $health_percent_threshold% of his max health, he takes $damage_percent% of his max health as damage but deals $amount% more damage with his attack."
     },
     "effect_keys": [
         {
@@ -375,7 +553,7 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
             "stack_title": "Fireballs in last area",
             "effects": [
                 {
-                    "effect_string": "damage_hit_based_target_by_percent,0"
+                    "effect_string": "damage_hit_based_target_by_percent_disabled,0"
                 },
                 {
                     "effect_string": "damage_monster_target_by_percent,0"
@@ -408,7 +586,7 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
     "id": 2624,
     "flavour_text": "",
     "description": {
-        "desc": "Raistlin increases the effect of Prodigy of High Sorcery by $amount% for each Good Champion in the formation, stacking multiplicatively."
+        "desc": "Raistlin increases the effect of Prodigy of High Sorcery by $(not_buffed amount)% for each Good Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -449,7 +627,7 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
     "id": 2625,
     "flavour_text": "",
     "description": {
-        "desc": "Raistlin increases the effect of Prodigy of High Sorcery by $amount% for each Champion in the formation with a Melee or Ranged base attack, stacking multiplicatively."
+        "desc": "Raistlin increases the effect of Prodigy of High Sorcery by $(not_buffed amount)% for each Champion in the formation with a Melee or Ranged base attack, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -490,7 +668,7 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
     "id": 2626,
     "flavour_text": "",
     "description": {
-        "desc": "Raistlin increases the effect of Prodigy of High Sorcery by $amount% for each Tanking Champion in the formation, stacking multiplicatively."
+        "desc": "Raistlin increases the effect of Prodigy of High Sorcery by $(not_buffed amount)% for each Tanking Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -598,14 +776,29 @@ Unknown.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Variant 1: The Sly One** (Complete Area 75)
-> 
+> Raistlin starts in the formation. He can be moved, but not removed.  
+> Only Raistlin and Champions not next to him can deal damage.  
+> After area 100, attacks against undamaged enemies have a 90% chance to completely miss.  
+> 1-2 Baaz Draconians spawn with each wave. They don't drop gold nor count towards quest progress.  
+> <b>Getting to Know Raistlin:</b> Raistlin's role is dealing damage, and he deals more damage when he is next to fewer Champions. Place him in an isolated spot of a formation to increase his damage!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Variant 2: Test of Sorcery** (Complete Area 125)
-> 
+> Raistlin starts in the formation. He can be moved, but not removed.  
+> Fizban joins the formation. Champions in Fizban's column deal 1000% additional damage. This bonus counts as a positional formation ability.  
+> You may only use Champions that have positional formation abilities.  
+> In each boss area, a Sivak Draconian boss spawns as part of the first wave. It must also be defeated to progress.  
+> <b>Getting to Know Raistlin:</b> Raistlin's damage is increased dramatically when he is buffed by positional formation abilities that target 4 or fewer Champions in the formation. This buff further increases as the number of Champions buffed by the ability is reduced!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Variant 3: War of the Lance** (Complete Area 175)
+> Raistlin starts in the formation. He can be moved, but not removed.  
+> You may only use Good Champions, Tanking Champions, or Champions with a ranged or melee attack.  
+> Champions do not regain health when changing areas.  
+> Every 3 seconds, a random Champion is struck by a falling rock, dealing 5% of their maximum health in damage.  
+> 1-2 Kapak Draconians spawn with each wave. They don't drop gold nor count towards quest progress.  
+> In each boss area, an Aurak Draconian boss spawns as part of the first wave. It must also be defeated to progress.  
+> <b>Getting to Know Raistlin:</b> Raistlin's specialization choice determines which Champions he works best with. Which Champions will you add to the formation?   
 > 
 </div></div>
 
