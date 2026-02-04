@@ -108,6 +108,9 @@ Some graphics were found that had the format `Bastion/Rooms/Treasure/...`:
 > "key": "bastion",  
 > "contents": "Bastion"
 
+> "key": "bastion_dialog_title",  
+> "contents": "Your Bastion - Level $level"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
