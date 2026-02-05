@@ -162,7 +162,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 664**Bard of the Dragon Queen Deekin (Deekin)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Bard of the Dragon Queen Deekin Portrait](images/skin_portraits/bardofthedragonqueendeekin.png)<span class="featTooltipContents">ID: 664**Bard of the Dragon Queen Deekin (Deekin)**<img src="images/skin_models/bardofthedragonqueendeekin.gif" alt="Bard of the Dragon Queen Deekin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Bard of the Dragon Queen Deekin
@@ -230,7 +230,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 667**Dragon Chronicler Volo (Volo)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon Chronicler Volo Portrait](images/skin_portraits/dragonchroniclervolo.png)<span class="featTooltipContents">ID: 667**Dragon Chronicler Volo (Volo)**<img src="images/skin_models/dragonchroniclervolo.gif" alt="Dragon Chronicler Volo Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dragon Chronicler Volo

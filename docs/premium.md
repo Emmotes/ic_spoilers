@@ -835,7 +835,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 664**Bard of the Dragon Queen Deekin (Deekin)**</span></span>
+            <span class="tooltipHolder">![Bard of the Dragon Queen Deekin Skin Portrait](images/premiums/skin_664.png)<span class="itemTooltipContents">ID: 664**Bard of the Dragon Queen Deekin (Deekin)**<img src="images/premiums/skin_664.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1047,7 +1047,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 667**Dragon Chronicler Volo (Volo)**</span></span>
+            <span class="tooltipHolder">![Dragon Chronicler Volo Skin Portrait](images/premiums/skin_667.png)<span class="itemTooltipContents">ID: 667**Dragon Chronicler Volo (Volo)**<img src="images/premiums/skin_667.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
