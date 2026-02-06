@@ -422,6 +422,8 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Savant** (Guess)
 > For each positional formation ability affecting Raistlin, he gains Intensity stacks based on how few other Champions are also affected by the same ability. He gains one stack if there are three other Champions affected, two if there are two other Champions affected, three if there is only one other Champion affected, and four if Raistlin is the only Champion affected. The effect of Prodigy of High Sorcery is increased by 100% for each Intensity stack Raistlin has, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -433,7 +435,11 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,100,18929",
+            "effect_string": "pre_stack,100",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,18929",
             "amount_func": "mult",
             "stack_func": "per_positional_formation_ability",
             "stack_func_data": {
@@ -449,8 +455,8 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
         }
     ],
     "requirements": "",
-    "graphic_id": 1,
-    "large_graphic_id": 1,
+    "graphic_id": 28524,
+    "large_graphic_id": 28520,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -481,8 +487,8 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
         }
     ],
     "requirements": "",
-    "graphic_id": 1,
-    "large_graphic_id": 1,
+    "graphic_id": 28521,
+    "large_graphic_id": 28516,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -517,8 +523,8 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
         }
     ],
     "requirements": "",
-    "graphic_id": 1,
-    "large_graphic_id": 1,
+    "graphic_id": 28523,
+    "large_graphic_id": 28518,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -562,8 +568,8 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
         }
     ],
     "requirements": "",
-    "graphic_id": 1,
-    "large_graphic_id": 1,
+    "graphic_id": 28522,
+    "large_graphic_id": 28517,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
@@ -603,8 +609,8 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
         }
     ],
     "requirements": "",
-    "graphic_id": 1,
-    "large_graphic_id": 1,
+    "graphic_id": 0,
+    "large_graphic_id": 28529,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -618,7 +624,7 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**War Mage** (Guess)
+**Reclusive Mage** (Guess)
 > Raistlin increases the effect of Prodigy of High Sorcery by 125% for each Champion in the formation with a Melee or Ranged base attack, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -644,8 +650,8 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
         }
     ],
     "requirements": "",
-    "graphic_id": 1,
-    "large_graphic_id": 1,
+    "graphic_id": 0,
+    "large_graphic_id": 28530,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -659,7 +665,7 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Reclusive Mage** (Guess)
+**War Mage** (Guess)
 > Raistlin increases the effect of Prodigy of High Sorcery by 300% for each Tanking Champion in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -685,8 +691,8 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
         }
     ],
     "requirements": "",
-    "graphic_id": 1,
-    "large_graphic_id": 1,
+    "graphic_id": 0,
+    "large_graphic_id": 28531,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
