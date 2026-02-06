@@ -98,6 +98,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Hank</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2458**Stand Together (Hank)**</span>Stand Together
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">25 Feb 2026<br>25 May 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Lae'zel</span>
         </span>
         <span class="featTableIcon4">
@@ -111,6 +128,125 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">25 Feb 2026<br>25 May 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Gale</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2475**Prodigal Leader (Gale)**</span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Mar 2026<br>04 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Sheila</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2477**Old Tricks (Sheila)**</span>Old Tricks
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">11 Mar 2026<br>11 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Zorbu</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2476**Hunter's Oath (Zorbu)**</span>Hunter's Oath
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">11 Mar 2026<br>11 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Desmond</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2479**Multiversal Allies (Desmond)**</span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">18 Mar 2026<br>18 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Orkira</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2480**Eager Martyr (Orkira)**</span>Eager Martyr
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">18 Mar 2026<br>18 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Volo</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2478**Volo's Keen Knowledge (Volo)**</span>Volo's Keen Knowledge
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">18 Mar 2026<br>18 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Karlach</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2481**Prodigal Leader (Karlach)**</span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">25 Mar 2026<br>25 Jun 2026</span>
         </span>
     </span>
 </span>
