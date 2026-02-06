@@ -274,7 +274,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Decisionist's Extra Vote** (Guess)
 > When Donaar is in the formation, most abilities that involve stacks are granted 1 extra stack.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -309,7 +309,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Commanding Presence** (Guess)
 > Enemies affected by one of Donaar's Command Word spells take an additional 100% damage while they are affected by it.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -486,6 +486,186 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
         "spec_option_post_apply_info": "C-Team or Acquisitions Incorporated Champions: $num_stacks___2"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Command: Hold** (Guess)
+> Donaar casts Command: Hold twice as often with his base attack, and increases the duration of the stun by 2 seconds.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2579,
+    "flavour_text": "",
+    "description": {
+        "desc": "Donaar casts Command: Hold twice as often with his base attack, and increases the duration of the stun by 2 seconds."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "change_upgrade_data,18652,0",
+            "data": {
+                "bias": "1"
+            }
+        },
+        {
+            "effect_string": "change_upgrade_data,18652,1",
+            "data": {
+                "amount": "5",
+                "monster_effect": {
+                    "effect_string": "effect_def,2591"
+                }
+            }
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Command: Duel** (Guess)
+> Donaar casts Command: Duel twice as often with his base attack, and the speed of enemies Donaar berserks is increased by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2580,
+    "flavour_text": "",
+    "description": {
+        "desc": "Donaar casts Command: Duel twice as often with his base attack, and the speed of enemies Donaar berserks is increased by 100%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "change_upgrade_data,18652,0",
+            "data": {
+                "bias": "2"
+            }
+        },
+        {
+            "effect_string": "change_upgrade_data,18652,2",
+            "data": {
+                "amount": "100",
+                "monster_effect": {
+                    "effect_string": "effect_def,2590"
+                }
+            }
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Command: Cower** (Guess)
+> Donaar casts Command: Cower twice as often with his base attack, and the bonus damage taken by cowering targets is increased by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2581,
+    "flavour_text": "",
+    "description": {
+        "desc": "Donaar casts Command: Cower twice as often with his base attack, and the bonus damage taken by cowering targets is increased by 100%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "change_upgrade_data,18652,0",
+            "data": {
+                "bias": "3"
+            }
+        },
+        {
+            "effect_string": "change_upgrade_data,18652,3",
+            "data": {
+                "amount": "400",
+                "monster_effect": {
+                    "effect_string": "effect_def,2589"
+                }
+            }
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Command: Droppit** (Guess)
+> Donaar casts Command: Droppit twice as often with his base attack, and the extra gold dropped is increased by 100%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2582,
+    "flavour_text": "",
+    "description": {
+        "desc": "Donaar casts Command: Droppit twice as often with his base attack, and the extra gold dropped is increased by 100%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "change_upgrade_data,18652,0",
+            "data": {
+                "bias": "4"
+            }
+        },
+        {
+            "effect_string": "change_upgrade_data,18652,4",
+            "data": {
+                "amount": "400",
+                "monster_effect": {
+                    "effect_string": "effect_def,2588"
+                }
+            }
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
