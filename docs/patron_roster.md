@@ -3759,39 +3759,39 @@ A list of all champions and their patron availability.
         <input type="checkbox" disabled>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="111,50,69,323,323,323,323,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="112,137,108,323,0,0,323,204">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="112,137,108,323,0,0,323,204">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="112,137,108,323,0,0,323,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="112,137,108,323,0,0,323,0">
         119
     </span>
-    <span class="patronRosterItem" data-sort="112,137,108,323,0,0,323,204">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="112,137,108,323,0,0,323,204">
+    <span class="patronRosterItem" data-sort="112,137,108,323,0,0,323,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="112,137,108,323,0,0,323,0">
         Uriah
     </span>
-    <span class="patronRosterItem" data-sort="112,137,108,323,0,0,323,204">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="112,137,108,323,0,0,323,204">
+    <span class="patronRosterItem" data-sort="112,137,108,323,0,0,323,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="112,137,108,323,0,0,323,0">
         9
     </span>
-    <span class="patronRosterItem" data-sort="112,137,108,323,0,0,323,204">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="112,137,108,323,0,0,323,204">
+    <span class="patronRosterItem" data-sort="112,137,108,323,0,0,323,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="112,137,108,323,0,0,323,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="112,137,108,323,0,0,323,204">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="112,137,108,323,0,0,323,204">
+    <span class="patronRosterItem" data-sort="112,137,108,323,0,0,323,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="112,137,108,323,0,0,323,0">
         <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="112,137,108,323,0,0,323,204">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="112,137,108,323,0,0,323,204">
+    <span class="patronRosterItem" data-sort="112,137,108,323,0,0,323,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="112,137,108,323,0,0,323,0">
         <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="112,137,108,323,0,0,323,204">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="112,137,108,323,0,0,323,204">
+    <span class="patronRosterItem" data-sort="112,137,108,323,0,0,323,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="112,137,108,323,0,0,323,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="112,137,108,323,0,0,323,204">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="112,137,108,323,0,0,323,204">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-02-06</label>
+    <span class="patronRosterItem" data-sort="112,137,108,323,0,0,323,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="112,137,108,323,0,0,323,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="112,137,108,323,0,0,323,204">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="112,137,108,323,0,0,323,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="113,123,15,323,323,323,323,206">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="113,123,15,323,323,323,323,206">
         120
