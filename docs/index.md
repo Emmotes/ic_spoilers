@@ -278,6 +278,7 @@ Miscellaneous spoilers with due dates.
 
 * Emergence 15 - 22 April 2026
 * [Bastion](bastion.md) - ???
+* Dragonlance Celebration - ???
 
 # Misc
 
