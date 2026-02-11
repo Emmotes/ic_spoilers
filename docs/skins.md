@@ -26,23 +26,6 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Mountain Donaar Portrait](images/skin_portraits/mountaindonaar.png)<span class="featTooltipContents">ID: 654**Mountain Donaar (Donaar)**<img src="images/skin_models/mountaindonaar.gif" alt="Mountain Donaar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Mountain Donaar
-        </span>
-        <span class="skinTableSource">
-            Mountain Donaar Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            11 Feb 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Primordial Earth Kalix Portrait](images/skin_portraits/primordialearthkalix.png)<span class="featTooltipContents">ID: 655**Primordial Earth Kalix (Kalix)**<img src="images/skin_models/primordialearthkalix.gif" alt="Primordial Earth Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -128,6 +111,23 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Knight of Solamnia Shandie Portrait](images/skin_portraits/knightofsolamniashandie.png)<span class="featTooltipContents">ID: 671**Knight of Solamnia Shandie (Shandie)**<img src="images/skin_models/knightofsolamniashandie.gif" alt="Knight of Solamnia Shandie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Knight of Solamnia Shandie
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            04 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Order of the Red Robes Gale Portrait](images/skin_portraits/orderoftheredrobesgale.png)<span class="featTooltipContents">ID: 663**Order of the Red Robes Gale (Gale)**<img src="images/skin_models/orderoftheredrobesgale.gif" alt="Order of the Red Robes Gale Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -145,7 +145,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 662**Raistlin, Master of Past and Present (Raistlin)**<img src="images/skin_models/raistlinmasterofpastandpresent.gif" alt="Raistlin, Master of Past and Present Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Raistlin, Master of Past and Present Portrait](images/skin_portraits/raistlinmasterofpastandpresent.png)<span class="featTooltipContents">ID: 662**Raistlin, Master of Past and Present (Raistlin)**<img src="images/skin_models/raistlinmasterofpastandpresent.gif" alt="Raistlin, Master of Past and Present Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Raistlin, Master of Past and Present

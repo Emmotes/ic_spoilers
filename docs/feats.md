@@ -101,10 +101,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Hank</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2458**Stand Together (Hank)**</span>Stand Together
+            ![Stand Together Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2458**Stand Together (Hank)**Come on, everyone! If we all work together, we can't lose!<br><br><span style="color:var(--Flavescent)">Increases the effect of Hank's first set of Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,17083,17084,17085</code></span>Stand Together
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Hank's first set of Specializations by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -135,10 +135,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Gale</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2475**Prodigal Leader (Gale)**</span>Prodigal Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2475**Prodigal Leader (Gale)**Mark my words well. My name will be counted among the greatest wizards of all worlds!<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">All Champions damage +50%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -152,10 +152,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Sheila</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2477**Old Tricks (Sheila)**</span>Old Tricks
+            ![Old Tricks Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2477**Old Tricks (Sheila)**You'd think they would have learned by now.<br><br><span style="color:var(--Flavescent)">Increases the effect of Sheila's second set of Specializations by 80%.</span><code>buff_upgrades,80,16544,16545,16546</code></span>Old Tricks
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Sheila's second set of Specializations by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -169,10 +169,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Zorbu</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2476**Hunter's Oath (Zorbu)**</span>Hunter's Oath
+            ![Hunter's Oath Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2476**Hunter's Oath (Zorbu)**I vow to protect this world from those who would despoil it.<br><br><span style="color:var(--Flavescent)">Increases the effect of Zorbu's Focused Fury ability by 80%.</span><code>buff_upgrade,80,12990</code></span>Hunter's Oath
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Zorbu's Focused Fury ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -186,10 +186,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Desmond</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2479**Multiversal Allies (Desmond)**</span>Multiversal Allies
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2479**Multiversal Allies (Desmond)**All are welcome in this pack.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -203,10 +203,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Orkira</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2480**Eager Martyr (Orkira)**</span>Eager Martyr
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2480**Eager Martyr (Orkira)**I won't let them harm you, no matter what it takes!<br><br><span style="color:var(--Flavescent)">Reduces the cooldown of Self Sacrifice by 15 seconds.</span><code>change_upgrade_data,5575</code></span>Eager Martyr
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Reduces the cooldown of Self Sacrifice by 15 seconds.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -220,10 +220,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Volo</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2478**Volo's Keen Knowledge (Volo)**</span>Volo's Keen Knowledge
+            ![Volo's Keen Knowledge Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2478**Volo's Keen Knowledge (Volo)**Why, I dare to posit that the noble owlbear is, in fact, a creation of the gods themselves!<br><br><span style="color:var(--Flavescent)">Increases the effect of Volo's Volo's Guide to Monsters ability by 80%. (Prestack)</span><code>buff_upgrade,80,16552,0</code></span>Volo's Keen Knowledge
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Volo's Volo's Guide to Monsters ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -234,13 +234,47 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Shadowheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2501**Multiversal Allies (Shadowheart)**It's quite the menagerie of colorful companions I find myself surrounded with.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Tales of the Champions</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">25 Mar 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Baeloth</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Resolute Icon](images/featicons/stunimmunity.png)<span class="featTooltipContents">ID: 2500**Resolute (Baeloth)**The show. MUST. Go on.<br><br><span style="color:var(--Flavescent)">Grants Strongheart immunity to stun effects.</span><code>hero_stun_immunity</code></span>Resolute
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Grants Strongheart immunity to stun effects.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Tales of the Champions</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">25 Mar 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Karlach</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2481**Prodigal Leader (Karlach)**</span>Prodigal Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2481**Prodigal Leader (Karlach)**Always bet on Mama K!<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">All Champions damage +50%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -352,6 +386,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the drop chance of coins from K'thriss' Hoardsperson ability by 100%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Donaar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Terrifying Aura Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2495**Terrifying Aura (Donaar)**I'm just standing here... menacingly!<br><br><span style="color:var(--Flavescent)">Increases the effect of Donaar's Commanding Presence ability by 80%.</span><code>buff_upgrade,80,18656</code></span>Terrifying Aura
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Donaar's Commanding Presence ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>

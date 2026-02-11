@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Clarkemoore the Goat Portrait](images/familiars/clarkemoorethegoat.png)<span class="featTooltipContents">ID: 307**Clarkemoore the Goat**The greatest of all time, in his own mind.<img src="images/familiars/clarkemoorethegoat.gif" alt="Clarkemoore the Goat Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Clarkemoore the Goat
-        </span>
-        <span class="skinTableSource">
-            Mountain Donaar Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            11 Feb 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Lord Brook the Marid Portrait](images/familiars/lordbrookthemarid.png)<span class="featTooltipContents">ID: 308**Lord Brook the Marid**Beware wishes granted by this little watery lord.<img src="images/familiars/lordbrookthemarid.gif" alt="Lord Brook the Marid Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -75,7 +58,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragon Orb of Istar Portrait](images/familiars/dragonorbofistar.png)<span class="featTooltipContents">ID: 311**Dragon Orb of Istar**<img src="images/familiars/dragonorbofistar.gif" alt="Dragon Orb of Istar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon Orb of Istar Portrait](images/familiars/dragonorbofistar.png)<span class="featTooltipContents">ID: 311**Dragon Orb of Istar**Each Orb of Dragonkind contains the essence of an evil dragon, who resents any attempt to coax magic from it.<img src="images/familiars/dragonorbofistar.gif" alt="Dragon Orb of Istar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dragon Orb of Istar
@@ -92,7 +75,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone…</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Drone of Dooooom Portrait](images/familiars/droneofdooooom.png)<span class="featTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone…<img src="images/familiars/droneofdooooom.gif" alt="Drone of Dooooom Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Drone of Dooooom
@@ -143,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 313**Rocky the Baaz Draconian**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Rocky the Baaz Draconian Portrait](images/familiars/rockythebaazdraconian.png)<span class="featTooltipContents">ID: 313**Rocky the Baaz Draconian**Even the smallest draconian is not one to underestimate!<img src="images/familiars/rockythebaazdraconian.gif" alt="Rocky the Baaz Draconian Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Rocky the Baaz Draconian
