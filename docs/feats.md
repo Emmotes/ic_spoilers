@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Presto</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2454**Prodigal Leader (Presto)**I'll never stop learning. That's what life's all about!<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">11 Feb 2026<br>11 May 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Kalix</span>
-        </span>
-        <span class="featTableIcon4">
-            ![True Kin Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2453**True Kin (Kalix)**The clutch is all. The clutch IS all. The clutch is ALL.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kalix's Unorthodox Alliance ability by 80%. (Prestack)</span><code>buff_upgrade,80,16518,0</code></span>True Kin
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Kalix's Unorthodox Alliance ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">11 Feb 2026<br>11 May 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Birdsong</span>
         </span>
         <span class="featTableIcon4">

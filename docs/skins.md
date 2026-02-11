@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Ancient Magus Presto Portrait](images/skin_portraits/ancientmaguspresto.png)<span class="featTooltipContents">ID: 656**Ancient Magus Presto (Presto)**<img src="images/skin_models/ancientmaguspresto.gif" alt="Ancient Magus Presto Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Ancient Magus Presto
-        </span>
-        <span class="skinTableSource">
-            Ancient Magus Presto Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            11 Feb 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Primordial Earth Kalix Portrait](images/skin_portraits/primordialearthkalix.png)<span class="featTooltipContents">ID: 655**Primordial Earth Kalix (Kalix)**<img src="images/skin_models/primordialearthkalix.gif" alt="Primordial Earth Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Primordial Earth Kalix
-        </span>
-        <span class="skinTableSource">
-            Primordial Earth Kalix Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            11 Feb 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Primordial Air Birdsong Portrait](images/skin_portraits/primordialairbirdsong.png)<span class="featTooltipContents">ID: 657**Primordial Air Birdsong (Birdsong)**<img src="images/skin_models/primordialairbirdsong.gif" alt="Primordial Air Birdsong Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
