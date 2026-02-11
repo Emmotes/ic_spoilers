@@ -441,6 +441,7 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
         {
             "effect_string": "buff_upgrade,0,18929",
             "amount_func": "mult",
+            "amount_expr": "upgrade_amount(18930,0)",
             "stack_func": "per_positional_formation_ability",
             "stack_func_data": {
                 "stack_count_expr": "max(0, 4-other_champions_affected)"
@@ -452,6 +453,10 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
                 "positional_formation_ability_changed"
             ],
             "off_when_benched": true
+        },
+        {
+            "effect_string": "raistlin_savant_achievement",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -459,7 +464,11 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
     "large_graphic_id": 28520,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -484,6 +493,11 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
             "effect_string": "raistlin_debilitating_magic,400",
             "health_percent_threshold": 90,
             "damage_percent": 1
+        },
+        {
+            "effect_string": "do_nothing,0",
+            "active_graphic_id": 28829,
+            "active_graphic_y": -70
         }
     ],
     "requirements": "",
@@ -556,6 +570,7 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
             "stacks_multiply": false,
             "damage_per_stack": 10,
             "show_stacks": true,
+            "max_stacks": 5,
             "stack_title": "Fireballs in last area",
             "effects": [
                 {
@@ -781,7 +796,7 @@ Unknown.
 > Search for some missing ships during Fleetswake in Waterdeep.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: The Sly One** (Complete Area 75)
+![The Sly One Icon](images/raistlin/28510.png) **Variant 1: The Sly One** (Complete Area 75)
 > Raistlin starts in the formation. He can be moved, but not removed.  
 > Only Raistlin and Champions not next to him can deal damage.  
 > After area 100, attacks against undamaged enemies have a 90% chance to completely miss.  
@@ -789,7 +804,7 @@ Unknown.
 > <b>Getting to Know Raistlin:</b> Raistlin's role is dealing damage, and he deals more damage when he is next to fewer Champions. Place him in an isolated spot of a formation to increase his damage!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: Test of Sorcery** (Complete Area 125)
+![Test of Sorcery Icon](images/raistlin/28511.png) **Variant 2: Test of Sorcery** (Complete Area 125)
 > Raistlin starts in the formation. He can be moved, but not removed.  
 > Fizban joins the formation. Champions in Fizban's column deal 1000% additional damage. This bonus counts as a positional formation ability.  
 > You may only use Champions that have positional formation abilities.  
@@ -797,7 +812,7 @@ Unknown.
 > <b>Getting to Know Raistlin:</b> Raistlin's damage is increased dramatically when he is buffed by positional formation abilities that target 4 or fewer Champions in the formation. This buff further increases as the number of Champions buffed by the ability is reduced!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: War of the Lance** (Complete Area 175)
+![War of the Lance Icon](images/raistlin/28512.png) **Variant 3: War of the Lance** (Complete Area 175)
 > Raistlin starts in the formation. He can be moved, but not removed.  
 > You may only use Good Champions, Tanking Champions, or Champions with a ranged or melee attack.  
 > Champions do not regain health when changing areas.  
