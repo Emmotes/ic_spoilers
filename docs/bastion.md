@@ -111,6 +111,9 @@ Some graphics were found that had the format `Bastion/Rooms/Treasure/...`:
 > "key": "bastion_dialog_title",  
 > "contents": "Your Bastion - Level $level"
 
+> "key": "bastion_room_upg_hint",  
+> "contents": "Once you've met the requirements, click this icon to upgrade your $roomName"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
