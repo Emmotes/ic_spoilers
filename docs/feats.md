@@ -549,6 +549,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Donaar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Misdirection Icon](images/featicons/misdirection.png)<span class="featTooltipContents">ID: 2499**Misdirection (Donaar)**Hey! Look over there! A distraction!<br><br><span style="color:var(--Flavescent)">Enemies that attempt to attack this Champion will instead attack a different Champion, if possible.</span><code>global_dps_multiplier_mult,100<br>reverse_taunt</code></span>Misdirection
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Enemies that attempt to attack this Champion will instead attack a different Champion, if possible.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Mehen</span>
         </span>
         <span class="featTableIcon4">
