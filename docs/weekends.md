@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/792.png">
-            <span class="weekendTooltipContents">ID: 792**Gold Infernal Iron Chest**Loot for: Makos, Asharra, Briv, Dark Urge and Karlach<code>"for_crusaders":[9,6,58,146,143]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Heart of Iron**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    13 February 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Karlach
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/asharra.png'">
-                        <span class="weekendTableChampionNameplate">Asharra</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/briv.png'">
-                        <span class="weekendTableChampionNameplate">Briv</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/darkurge.png'">
-                        <span class="weekendTableChampionNameplate">Dark Urge</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/karlach.png'">
-                        <span class="weekendTableChampionNameplate">Karlach</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/793.png">
             <span class="weekendTooltipContents">ID: 793**Gold Hat Chest**Loot for: Tyril, Celeste, Sentry, Artemis and Hew Maan<code>"for_crusaders":[10,2,52,54,75]</code></span>
         </span>
