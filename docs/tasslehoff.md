@@ -11,7 +11,7 @@
     </span>
     <span class="championPortraitsColumn">
         <span class="championPortraitsImage">
-            ![Model GIF of Tasslehoff](images/tasslehoff/model.gif)
+            ![Model WebP of Tasslehoff](images/tasslehoff/model.webp)
         </span>
         <span>
             Model

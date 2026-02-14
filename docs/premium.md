@@ -15,7 +15,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Birdsong Champion Unlock Portrait](images/premiums/unlock_champion_21.png)<span class="itemTooltipContents">ID: 21**Birdsong (Seat 9)**<img src="images/premiums/unlock_champion_21.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Birdsong Champion Unlock Portrait](images/premiums/unlock_champion_21.png)<span class="itemTooltipContents">ID: 21**Birdsong (Seat 9)**<img src="images/premiums/unlock_champion_21.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -24,7 +24,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Primordial Air Birdsong Skin Portrait](images/premiums/skin_657.png)<span class="itemTooltipContents">ID: 657**Primordial Air Birdsong (Birdsong)**<img src="images/premiums/skin_657.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Primordial Air Birdsong Skin Portrait](images/premiums/skin_657.png)<span class="itemTooltipContents">ID: 657**Primordial Air Birdsong (Birdsong)**<img src="images/premiums/skin_657.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -86,7 +86,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![K'thriss Champion Unlock Portrait](images/premiums/unlock_champion_38.png)<span class="itemTooltipContents">ID: 38**K'thriss (Seat 1)**<img src="images/premiums/unlock_champion_38.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![K'thriss Champion Unlock Portrait](images/premiums/unlock_champion_38.png)<span class="itemTooltipContents">ID: 38**K'thriss (Seat 1)**<img src="images/premiums/unlock_champion_38.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -95,7 +95,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Winter Hexblade K'thriss Skin Portrait](images/premiums/skin_658.png)<span class="itemTooltipContents">ID: 658**Winter Hexblade K'thriss (K'thriss)**<img src="images/premiums/skin_658.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Winter Hexblade K'thriss Skin Portrait](images/premiums/skin_658.png)<span class="itemTooltipContents">ID: 658**Winter Hexblade K'thriss (K'thriss)**<img src="images/premiums/skin_658.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -157,7 +157,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Lord Brook the Marid Familiar Portrait](images/premiums/familiar_308.png)<span class="itemTooltipContents">ID: 308**Lord Brook the Marid**Beware wishes granted by this little watery lord.<img src="images/premiums/familiar_308.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Lord Brook the Marid Familiar Portrait](images/premiums/familiar_308.png)<span class="itemTooltipContents">ID: 308**Lord Brook the Marid**Beware wishes granted by this little watery lord.<img src="images/premiums/familiar_308.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -219,7 +219,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Lae'zel Champion Unlock Portrait](images/premiums/unlock_champion_128.png)<span class="itemTooltipContents">ID: 128**Lae'zel (Seat 2)**<img src="images/premiums/unlock_champion_128.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Lae'zel Champion Unlock Portrait](images/premiums/unlock_champion_128.png)<span class="itemTooltipContents">ID: 128**Lae'zel (Seat 2)**<img src="images/premiums/unlock_champion_128.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -228,7 +228,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Undying Queen Lae'zel Skin Portrait](images/premiums/skin_659.png)<span class="itemTooltipContents">ID: 659**Undying Queen Lae'zel (Lae'zel)**<img src="images/premiums/skin_659.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Undying Queen Lae'zel Skin Portrait](images/premiums/skin_659.png)<span class="itemTooltipContents">ID: 659**Undying Queen Lae'zel (Lae'zel)**<img src="images/premiums/skin_659.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -290,7 +290,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Hank Champion Unlock Portrait](images/premiums/unlock_champion_163.png)<span class="itemTooltipContents">ID: 163**Hank (Seat 1)**<img src="images/premiums/unlock_champion_163.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Hank Champion Unlock Portrait](images/premiums/unlock_champion_163.png)<span class="itemTooltipContents">ID: 163**Hank (Seat 1)**<img src="images/premiums/unlock_champion_163.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -299,7 +299,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Heroic Hank Skin Portrait](images/premiums/skin_660.png)<span class="itemTooltipContents">ID: 660**Heroic Hank (Hank)**<img src="images/premiums/skin_660.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Heroic Hank Skin Portrait](images/premiums/skin_660.png)<span class="itemTooltipContents">ID: 660**Heroic Hank (Hank)**<img src="images/premiums/skin_660.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -361,7 +361,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Splash the Water Elemental Familiar Portrait](images/premiums/familiar_309.png)<span class="itemTooltipContents">ID: 309**Splash the Water Elemental**The consummate puddle jumper.<img src="images/premiums/familiar_309.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Splash the Water Elemental Familiar Portrait](images/premiums/familiar_309.png)<span class="itemTooltipContents">ID: 309**Splash the Water Elemental**The consummate puddle jumper.<img src="images/premiums/familiar_309.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -423,7 +423,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Raistlin Champion Unlock Portrait](images/premiums/unlock_champion_173.png)<span class="itemTooltipContents">ID: 173**Raistlin**<img src="images/premiums/unlock_champion_173.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Raistlin Champion Unlock Portrait](images/premiums/unlock_champion_173.png)<span class="itemTooltipContents">ID: 173**Raistlin**<img src="images/premiums/unlock_champion_173.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -432,7 +432,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Raistlin, Master of Past and Present Skin Portrait](images/premiums/skin_662.png)<span class="itemTooltipContents">ID: 662**Raistlin, Master of Past and Present (Raistlin)**<img src="images/premiums/skin_662.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Raistlin, Master of Past and Present Skin Portrait](images/premiums/skin_662.png)<span class="itemTooltipContents">ID: 662**Raistlin, Master of Past and Present (Raistlin)**<img src="images/premiums/skin_662.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -492,7 +492,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Dragon Orb of Istar Familiar Portrait](images/premiums/familiar_311.png)<span class="itemTooltipContents">ID: 311**Dragon Orb of Istar**Each Orb of Dragonkind contains the essence of an evil dragon, who resents any attempt to coax magic from it.<img src="images/premiums/familiar_311.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Dragon Orb of Istar Familiar Portrait](images/premiums/familiar_311.png)<span class="itemTooltipContents">ID: 311**Dragon Orb of Istar**Each Orb of Dragonkind contains the essence of an evil dragon, who resents any attempt to coax magic from it.<img src="images/premiums/familiar_311.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -544,7 +544,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Gale Champion Unlock Portrait](images/premiums/unlock_champion_147.png)<span class="itemTooltipContents">ID: 147**Gale (Seat 1)**<img src="images/premiums/unlock_champion_147.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Gale Champion Unlock Portrait](images/premiums/unlock_champion_147.png)<span class="itemTooltipContents">ID: 147**Gale (Seat 1)**<img src="images/premiums/unlock_champion_147.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -553,7 +553,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Order of the Red Robes Gale Skin Portrait](images/premiums/skin_663.png)<span class="itemTooltipContents">ID: 663**Order of the Red Robes Gale (Gale)**<img src="images/premiums/skin_663.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Order of the Red Robes Gale Skin Portrait](images/premiums/skin_663.png)<span class="itemTooltipContents">ID: 663**Order of the Red Robes Gale (Gale)**<img src="images/premiums/skin_663.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -615,7 +615,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Deekin Champion Unlock Portrait](images/premiums/unlock_champion_28.png)<span class="itemTooltipContents">ID: 28**Deekin (Seat 1)**<img src="images/premiums/unlock_champion_28.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Deekin Champion Unlock Portrait](images/premiums/unlock_champion_28.png)<span class="itemTooltipContents">ID: 28**Deekin (Seat 1)**<img src="images/premiums/unlock_champion_28.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -624,7 +624,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Bard of the Dragon Queen Deekin Skin Portrait](images/premiums/skin_664.png)<span class="itemTooltipContents">ID: 664**Bard of the Dragon Queen Deekin (Deekin)**<img src="images/premiums/skin_664.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Bard of the Dragon Queen Deekin Skin Portrait](images/premiums/skin_664.png)<span class="itemTooltipContents">ID: 664**Bard of the Dragon Queen Deekin (Deekin)**<img src="images/premiums/skin_664.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -633,7 +633,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Drone of Dooooom Familiar Portrait](images/premiums/familiar_312.png)<span class="itemTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone…<img src="images/premiums/familiar_312.gif" alt="Familiar  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Drone of Dooooom Familiar Portrait](images/premiums/familiar_312.png)<span class="itemTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone…<img src="images/premiums/familiar_312.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -684,7 +684,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Zorbu Champion Unlock Portrait](images/premiums/unlock_champion_22.png)<span class="itemTooltipContents">ID: 22**Zorbu (Seat 12)**<img src="images/premiums/unlock_champion_22.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Zorbu Champion Unlock Portrait](images/premiums/unlock_champion_22.png)<span class="itemTooltipContents">ID: 22**Zorbu (Seat 12)**<img src="images/premiums/unlock_champion_22.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -693,7 +693,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Knight of Solamnia Zorbu Skin Portrait](images/premiums/skin_665.png)<span class="itemTooltipContents">ID: 665**Knight of Solamnia Zorbu (Zorbu)**<img src="images/premiums/skin_665.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Knight of Solamnia Zorbu Skin Portrait](images/premiums/skin_665.png)<span class="itemTooltipContents">ID: 665**Knight of Solamnia Zorbu (Zorbu)**<img src="images/premiums/skin_665.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -755,7 +755,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Sheila Champion Unlock Portrait](images/premiums/unlock_champion_160.png)<span class="itemTooltipContents">ID: 160**Sheila (Seat 7)**<img src="images/premiums/unlock_champion_160.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Sheila Champion Unlock Portrait](images/premiums/unlock_champion_160.png)<span class="itemTooltipContents">ID: 160**Sheila (Seat 7)**<img src="images/premiums/unlock_champion_160.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -764,7 +764,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Heroic Sheila Skin Portrait](images/premiums/skin_666.png)<span class="itemTooltipContents">ID: 666**Heroic Sheila (Sheila)**<img src="images/premiums/skin_666.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Heroic Sheila Skin Portrait](images/premiums/skin_666.png)<span class="itemTooltipContents">ID: 666**Heroic Sheila (Sheila)**<img src="images/premiums/skin_666.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -826,7 +826,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Volo Champion Unlock Portrait](images/premiums/unlock_champion_159.png)<span class="itemTooltipContents">ID: 159**Volo (Seat 9)**<img src="images/premiums/unlock_champion_159.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Volo Champion Unlock Portrait](images/premiums/unlock_champion_159.png)<span class="itemTooltipContents">ID: 159**Volo (Seat 9)**<img src="images/premiums/unlock_champion_159.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -835,7 +835,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Dragon Chronicler Volo Skin Portrait](images/premiums/skin_667.png)<span class="itemTooltipContents">ID: 667**Dragon Chronicler Volo (Volo)**<img src="images/premiums/skin_667.gif" alt="Skin  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Dragon Chronicler Volo Skin Portrait](images/premiums/skin_667.png)<span class="itemTooltipContents">ID: 667**Dragon Chronicler Volo (Volo)**<img src="images/premiums/skin_667.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -897,7 +897,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Desmond Champion Unlock Portrait](images/premiums/unlock_champion_96.png)<span class="itemTooltipContents">ID: 96**Desmond (Seat 4)**<img src="images/premiums/unlock_champion_96.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Desmond Champion Unlock Portrait](images/premiums/unlock_champion_96.png)<span class="itemTooltipContents">ID: 96**Desmond (Seat 4)**<img src="images/premiums/unlock_champion_96.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -968,7 +968,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Orkira Champion Unlock Portrait](images/premiums/unlock_champion_78.png)<span class="itemTooltipContents">ID: 78**Orkira (Seat 1)**<img src="images/premiums/unlock_champion_78.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Orkira Champion Unlock Portrait](images/premiums/unlock_champion_78.png)<span class="itemTooltipContents">ID: 78**Orkira (Seat 1)**<img src="images/premiums/unlock_champion_78.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -1039,7 +1039,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Karlach Champion Unlock Portrait](images/premiums/unlock_champion_143.png)<span class="itemTooltipContents">ID: 143**Karlach (Seat 4)**<img src="images/premiums/unlock_champion_143.gif" alt="Champion Unlock  Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Karlach Champion Unlock Portrait](images/premiums/unlock_champion_143.png)<span class="itemTooltipContents">ID: 143**Karlach (Seat 4)**<img src="images/premiums/unlock_champion_143.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>

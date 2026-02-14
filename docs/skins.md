@@ -9,7 +9,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Primordial Air Birdsong Portrait](images/skin_portraits/primordialairbirdsong.png)<span class="featTooltipContents">ID: 657**Primordial Air Birdsong (Birdsong)**<img src="images/skin_models/primordialairbirdsong.gif" alt="Primordial Air Birdsong Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Primordial Air Birdsong Portrait](images/skin_portraits/primordialairbirdsong.png)<span class="featTooltipContents">ID: 657**Primordial Air Birdsong (Birdsong)**<img src="images/skin_models/primordialairbirdsong.webp" alt="Primordial Air Birdsong Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Primordial Air Birdsong
@@ -26,7 +26,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Winter Hexblade K'thriss Portrait](images/skin_portraits/winterhexbladekthriss.png)<span class="featTooltipContents">ID: 658**Winter Hexblade K'thriss (K'thriss)**<img src="images/skin_models/winterhexbladekthriss.gif" alt="Winter Hexblade K'thriss Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Winter Hexblade K'thriss Portrait](images/skin_portraits/winterhexbladekthriss.png)<span class="featTooltipContents">ID: 658**Winter Hexblade K'thriss (K'thriss)**<img src="images/skin_models/winterhexbladekthriss.webp" alt="Winter Hexblade K'thriss Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Winter Hexblade K'thriss
@@ -43,7 +43,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Heroic Hank Portrait](images/skin_portraits/heroichank.png)<span class="featTooltipContents">ID: 660**Heroic Hank (Hank)**<img src="images/skin_models/heroichank.gif" alt="Heroic Hank Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Heroic Hank Portrait](images/skin_portraits/heroichank.png)<span class="featTooltipContents">ID: 660**Heroic Hank (Hank)**<img src="images/skin_models/heroichank.webp" alt="Heroic Hank Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Heroic Hank
@@ -60,7 +60,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Undying Queen Lae'zel Portrait](images/skin_portraits/undyingqueenlaezel.png)<span class="featTooltipContents">ID: 659**Undying Queen Lae'zel (Lae'zel)**<img src="images/skin_models/undyingqueenlaezel.gif" alt="Undying Queen Lae'zel Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Undying Queen Lae'zel Portrait](images/skin_portraits/undyingqueenlaezel.png)<span class="featTooltipContents">ID: 659**Undying Queen Lae'zel (Lae'zel)**<img src="images/skin_models/undyingqueenlaezel.webp" alt="Undying Queen Lae'zel Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Undying Queen Lae'zel
@@ -77,7 +77,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Knight of Solamnia Shandie Portrait](images/skin_portraits/knightofsolamniashandie.png)<span class="featTooltipContents">ID: 671**Knight of Solamnia Shandie (Shandie)**<img src="images/skin_models/knightofsolamniashandie.gif" alt="Knight of Solamnia Shandie Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Knight of Solamnia Shandie Portrait](images/skin_portraits/knightofsolamniashandie.png)<span class="featTooltipContents">ID: 671**Knight of Solamnia Shandie (Shandie)**<img src="images/skin_models/knightofsolamniashandie.webp" alt="Knight of Solamnia Shandie Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Knight of Solamnia Shandie
@@ -94,7 +94,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Order of the Red Robes Gale Portrait](images/skin_portraits/orderoftheredrobesgale.png)<span class="featTooltipContents">ID: 663**Order of the Red Robes Gale (Gale)**<img src="images/skin_models/orderoftheredrobesgale.gif" alt="Order of the Red Robes Gale Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Order of the Red Robes Gale Portrait](images/skin_portraits/orderoftheredrobesgale.png)<span class="featTooltipContents">ID: 663**Order of the Red Robes Gale (Gale)**<img src="images/skin_models/orderoftheredrobesgale.webp" alt="Order of the Red Robes Gale Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Order of the Red Robes Gale
@@ -111,7 +111,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Raistlin, Master of Past and Present Portrait](images/skin_portraits/raistlinmasterofpastandpresent.png)<span class="featTooltipContents">ID: 662**Raistlin, Master of Past and Present (Raistlin)**<img src="images/skin_models/raistlinmasterofpastandpresent.gif" alt="Raistlin, Master of Past and Present Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Raistlin, Master of Past and Present Portrait](images/skin_portraits/raistlinmasterofpastandpresent.png)<span class="featTooltipContents">ID: 662**Raistlin, Master of Past and Present (Raistlin)**<img src="images/skin_models/raistlinmasterofpastandpresent.webp" alt="Raistlin, Master of Past and Present Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Raistlin, Master of Past and Present
@@ -128,7 +128,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Bard of the Dragon Queen Deekin Portrait](images/skin_portraits/bardofthedragonqueendeekin.png)<span class="featTooltipContents">ID: 664**Bard of the Dragon Queen Deekin (Deekin)**<img src="images/skin_models/bardofthedragonqueendeekin.gif" alt="Bard of the Dragon Queen Deekin Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Bard of the Dragon Queen Deekin Portrait](images/skin_portraits/bardofthedragonqueendeekin.png)<span class="featTooltipContents">ID: 664**Bard of the Dragon Queen Deekin (Deekin)**<img src="images/skin_models/bardofthedragonqueendeekin.webp" alt="Bard of the Dragon Queen Deekin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Bard of the Dragon Queen Deekin
@@ -145,7 +145,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Heroic Sheila Portrait](images/skin_portraits/heroicsheila.png)<span class="featTooltipContents">ID: 666**Heroic Sheila (Sheila)**<img src="images/skin_models/heroicsheila.gif" alt="Heroic Sheila Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Heroic Sheila Portrait](images/skin_portraits/heroicsheila.png)<span class="featTooltipContents">ID: 666**Heroic Sheila (Sheila)**<img src="images/skin_models/heroicsheila.webp" alt="Heroic Sheila Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Heroic Sheila
@@ -162,7 +162,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Knight of Solamnia Zorbu Portrait](images/skin_portraits/knightofsolamniazorbu.png)<span class="featTooltipContents">ID: 665**Knight of Solamnia Zorbu (Zorbu)**<img src="images/skin_models/knightofsolamniazorbu.gif" alt="Knight of Solamnia Zorbu Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Knight of Solamnia Zorbu Portrait](images/skin_portraits/knightofsolamniazorbu.png)<span class="featTooltipContents">ID: 665**Knight of Solamnia Zorbu (Zorbu)**<img src="images/skin_models/knightofsolamniazorbu.webp" alt="Knight of Solamnia Zorbu Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Knight of Solamnia Zorbu
@@ -196,7 +196,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragon Chronicler Volo Portrait](images/skin_portraits/dragonchroniclervolo.png)<span class="featTooltipContents">ID: 667**Dragon Chronicler Volo (Volo)**<img src="images/skin_models/dragonchroniclervolo.gif" alt="Dragon Chronicler Volo Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon Chronicler Volo Portrait](images/skin_portraits/dragonchroniclervolo.png)<span class="featTooltipContents">ID: 667**Dragon Chronicler Volo (Volo)**<img src="images/skin_models/dragonchroniclervolo.webp" alt="Dragon Chronicler Volo Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dragon Chronicler Volo

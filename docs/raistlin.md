@@ -11,7 +11,7 @@
     </span>
     <span class="championPortraitsColumn">
         <span class="championPortraitsImage">
-            ![Model GIF of Raistlin](images/raistlin/model.gif)
+            ![Model WebP of Raistlin](images/raistlin/model.webp)
         </span>
         <span>
             Model

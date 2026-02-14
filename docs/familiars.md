@@ -7,7 +7,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Lord Brook the Marid Portrait](images/familiars/lordbrookthemarid.png)<span class="featTooltipContents">ID: 308**Lord Brook the Marid**Beware wishes granted by this little watery lord.<img src="images/familiars/lordbrookthemarid.gif" alt="Lord Brook the Marid Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Lord Brook the Marid Portrait](images/familiars/lordbrookthemarid.png)<span class="featTooltipContents">ID: 308**Lord Brook the Marid**Beware wishes granted by this little watery lord.<img src="images/familiars/lordbrookthemarid.webp" alt="Lord Brook the Marid Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Lord Brook the Marid
@@ -24,7 +24,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Splash the Water Elemental Portrait](images/familiars/splashthewaterelemental.png)<span class="featTooltipContents">ID: 309**Splash the Water Elemental**The consummate puddle jumper.<img src="images/familiars/splashthewaterelemental.gif" alt="Splash the Water Elemental Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Splash the Water Elemental Portrait](images/familiars/splashthewaterelemental.png)<span class="featTooltipContents">ID: 309**Splash the Water Elemental**The consummate puddle jumper.<img src="images/familiars/splashthewaterelemental.webp" alt="Splash the Water Elemental Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Splash the Water Elemental
@@ -58,7 +58,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragon Orb of Istar Portrait](images/familiars/dragonorbofistar.png)<span class="featTooltipContents">ID: 311**Dragon Orb of Istar**Each Orb of Dragonkind contains the essence of an evil dragon, who resents any attempt to coax magic from it.<img src="images/familiars/dragonorbofistar.gif" alt="Dragon Orb of Istar Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon Orb of Istar Portrait](images/familiars/dragonorbofistar.png)<span class="featTooltipContents">ID: 311**Dragon Orb of Istar**Each Orb of Dragonkind contains the essence of an evil dragon, who resents any attempt to coax magic from it.<img src="images/familiars/dragonorbofistar.webp" alt="Dragon Orb of Istar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dragon Orb of Istar
@@ -75,7 +75,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Drone of Dooooom Portrait](images/familiars/droneofdooooom.png)<span class="featTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone…<img src="images/familiars/droneofdooooom.gif" alt="Drone of Dooooom Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Drone of Dooooom Portrait](images/familiars/droneofdooooom.png)<span class="featTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone…<img src="images/familiars/droneofdooooom.webp" alt="Drone of Dooooom Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Drone of Dooooom
@@ -126,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Rocky the Baaz Draconian Portrait](images/familiars/rockythebaazdraconian.png)<span class="featTooltipContents">ID: 313**Rocky the Baaz Draconian**Even the smallest draconian is not one to underestimate!<img src="images/familiars/rockythebaazdraconian.gif" alt="Rocky the Baaz Draconian Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Rocky the Baaz Draconian Portrait](images/familiars/rockythebaazdraconian.png)<span class="featTooltipContents">ID: 313**Rocky the Baaz Draconian**Even the smallest draconian is not one to underestimate!<img src="images/familiars/rockythebaazdraconian.webp" alt="Rocky the Baaz Draconian Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Rocky the Baaz Draconian
