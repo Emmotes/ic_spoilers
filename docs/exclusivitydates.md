@@ -507,227 +507,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="e12a" onclick="exclusiveToggleContent(`e12`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![Emergence 12 Icon](images/general/e12.png)**Emergence 12** - Vecnae
-            </span>
-        </span>
-        <span id="e12" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Cantrip: Ascendant Shocking Grasp Feat Icon](images/featicons/krondshockinggrasp.png)<span class="featTooltipContents">ID: 2218**Cantrip: Ascendant Shocking Grasp (Krond)**Few can survive the lightning strike of a rampaging kraken. I did. Let's see how you fare.<br><br><span style="color:var(--Flavescent)">Krond gains the Control role and his base attack deals additional 1600% damage to the main target, and the target is stunned for 4 seconds.</span><code>krond_shocking_grasp,1600,4<br>change_base_attack,864<br>add_hero_tags,0,control</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Cantrip: Ascendant Shocking Grasp</span>
-                        <span style="margin-left:15px">Krond</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Discerning Taste Feat Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 2230**Discerning Taste (Kas)**Ah, such a rich vintage, with notes of fey. I must have more.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kas' Life Drain ability by 80%.</span><code>buff_upgrade,80,15621,0</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Discerning Taste</span>
-                        <span style="margin-left:15px">Kas</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2231**Prodigal Leader (Tess)**I'm not always the best leader, but I truly believe that we're stronger together.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Prodigal Leader</span>
-                        <span style="margin-left:15px">Tess</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Weapon Master Feat Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2229**Weapon Master (Windfall)**I've lost count of the number of lives I've taken with this blade.<br><br><span style="color:var(--Flavescent)">Increases the damage of Windfall by 120%.</span><code>hero_dps_multiplier_mult,120</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Weapon Master</span>
-                        <span style="margin-left:15px">Windfall</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Gentleman Jarlaxle Skin Icon](images/exclusivities/skin_27453.png)<span class="featTooltipContents">ID: 584**Gentleman Jarlaxle (Jarlaxle)**<img src="images/exclusivities/skin_27285.webp" alt="Gentleman Jarlaxle Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Gentleman Jarlaxle</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Chosen of Vecna Blooshi Skin Icon](images/exclusivities/skin_27278.png)<span class="featTooltipContents">ID: 581**Chosen of Vecna Blooshi (Blooshi)**<img src="images/exclusivities/skin_27266.webp" alt="Chosen of Vecna Blooshi Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Chosen of Vecna Blooshi</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for NERDS Slot 2](images/exclusivities/ge_11622.png)<span class="itemTooltipContents">ID: 2480**+1 Bow of Owlbear Slaying (NERDS)**After perfectly stalking their foe, it ends with a surprise attack!<br><br><span style="color:var(--Flavescent)">Increases the effect of NERDS's Ranger ability by 275%.</span><code>buff_upgrade,275,6140</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">+1 Bow of Owlbear Slaying</span>
-                        <span style="margin-left:15px">NERDS (Slot 2)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Blooshi Slot 4](images/exclusivities/ge_13384.png)<span class="itemTooltipContents">ID: 2536**Fork of Regicide (Blooshi)**Everyone knows a fork is the best assassination tool. Good size for eyes.<br><br><span style="color:var(--Flavescent)">Increases the effect of Blooshi's A Life Well Lived ability by 275%.</span><code>buff_upgrade,275,7520</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Fork of Regicide</span>
-                        <span style="margin-left:15px">Blooshi (Slot 4)</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Tess Slot 4](images/exclusivities/ge_26784.png)<span class="itemTooltipContents">ID: 3905**Trapfinder's Friend (Tess)**No trap is safe from me.<br><br><span style="color:var(--Flavescent)">Increases the effect of Tess's Trap Expert ability by 275%.</span><code>buff_upgrade,275,17320</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Golden Epic**</span>
-                        <span style="margin-left:15px">Trapfinder's Friend</span>
-                        <span style="margin-left:15px">Tess (Slot 4)</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>23 July 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>31 October 2025</span>
-            </span>
-            <span class="postSeasonTableDateLate">
-                <span>31 January 2026 (Guess) (Late)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![XBox Giveaway Better Play Experience Icon](images/general/xbox.png)**XBox Giveaway** - Better Play Experience
-            </span>
-        </span>
-        <span id="g1" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Clove the Badger Familiar Icon](images/exclusivities/fam_249.png)<span class="featTooltipContents">ID: 249**Clove the Badger**He's on the hunt, best leave him alone till he finds that crow.<br><img src="images/exclusivities/fam_249.webp" alt="Clove the Badger Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Familiar**</span>
-                        <span style="margin-left:15px">Clove the Badger</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>22 October 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>31 October 2025</span>
-            </span>
-            <span class="postSeasonTableDateLate">
-                <span>31 January 2026 (Guess) (Late)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![EGS Giveaway Nixie's Champions of Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Nixie's Champions of Renown Pack
-            </span>
-        </span>
-        <span id="g3" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Sting the Scorpion Familiar Icon](images/exclusivities/fam_299.png)<span class="featTooltipContents">ID: 299**Sting the Scorpion**It's all fun and games till Sting skitters out!<br><img src="images/exclusivities/fam_299.webp" alt="Sting the Scorpion Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Familiar**</span>
-                        <span style="margin-left:15px">Sting the Scorpion</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>06 November 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>13 November 2025</span>
-            </span>
-            <span class="postSeasonTableDateLate">
-                <span>13 February 2026 (Guess) (Late)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![XBox Giveaway Jang Sao's Champions of Renown Pack Icon](images/general/xbox.png)**XBox Giveaway** - Jang Sao's Champions of Renown Pack
             </span>
         </span>
-        <span id="g2" class="postSeasonTableRowShowHide" hidden>
+        <span id="g1" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -766,13 +552,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
+                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![Years End Giveaway Winterfest Celebration Icon](images/general/years end.png)**Years End Giveaway** - Winterfest Celebration
             </span>
         </span>
-        <span id="g4" class="postSeasonTableRowShowHide" hidden>
+        <span id="g2" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -811,13 +597,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g5a" onclick="exclusiveToggleContent(`g5`)">
+                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![EGS Giveaway Cozy Dark Urge Party Pack Icon](images/general/egs.png)**EGS Giveaway** - Cozy Dark Urge Party Pack
             </span>
         </span>
-        <span id="g5" class="postSeasonTableRowShowHide" hidden>
+        <span id="g3" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -3503,6 +3289,130 @@ This is the list of recurring events that have had their exclusivity period end.
             </span>
             <span class="postSeasonTableDate">
                 <span>01 November 2025 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="e12a" onclick="exclusiveToggleContent(`e12`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Emergence 12 Icon](images/general/e12.png)**Emergence 12** - Vecnae
+            </span>
+        </span>
+        <span id="e12" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Cantrip: Ascendant Shocking Grasp Feat Icon](images/featicons/krondshockinggrasp.png)<span class="featTooltipContents">ID: 2218**Cantrip: Ascendant Shocking Grasp (Krond)**Few can survive the lightning strike of a rampaging kraken. I did. Let's see how you fare.<br><br><span style="color:var(--Flavescent)">Krond gains the Control role and his base attack deals additional 1600% damage to the main target, and the target is stunned for 4 seconds.</span><code>krond_shocking_grasp,1600,4<br>change_base_attack,864<br>add_hero_tags,0,control</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Cantrip: Ascendant Shocking Grasp</span>
+                        <span style="margin-left:15px">Krond</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Discerning Taste Feat Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 2230**Discerning Taste (Kas)**Ah, such a rich vintage, with notes of fey. I must have more.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kas' Life Drain ability by 80%.</span><code>buff_upgrade,80,15621,0</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Discerning Taste</span>
+                        <span style="margin-left:15px">Kas</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2231**Prodigal Leader (Tess)**I'm not always the best leader, but I truly believe that we're stronger together.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Prodigal Leader</span>
+                        <span style="margin-left:15px">Tess</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Weapon Master Feat Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2229**Weapon Master (Windfall)**I've lost count of the number of lives I've taken with this blade.<br><br><span style="color:var(--Flavescent)">Increases the damage of Windfall by 120%.</span><code>hero_dps_multiplier_mult,120</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Weapon Master</span>
+                        <span style="margin-left:15px">Windfall</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Gentleman Jarlaxle Skin Icon](images/exclusivities/skin_27453.png)<span class="featTooltipContents">ID: 584**Gentleman Jarlaxle (Jarlaxle)**<img src="images/exclusivities/skin_27285.webp" alt="Gentleman Jarlaxle Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Gentleman Jarlaxle</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Chosen of Vecna Blooshi Skin Icon](images/exclusivities/skin_27278.png)<span class="featTooltipContents">ID: 581**Chosen of Vecna Blooshi (Blooshi)**<img src="images/exclusivities/skin_27266.webp" alt="Chosen of Vecna Blooshi Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Chosen of Vecna Blooshi</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for NERDS Slot 2](images/exclusivities/ge_11622.png)<span class="itemTooltipContents">ID: 2480**+1 Bow of Owlbear Slaying (NERDS)**After perfectly stalking their foe, it ends with a surprise attack!<br><br><span style="color:var(--Flavescent)">Increases the effect of NERDS's Ranger ability by 275%.</span><code>buff_upgrade,275,6140</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">+1 Bow of Owlbear Slaying</span>
+                        <span style="margin-left:15px">NERDS (Slot 2)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Blooshi Slot 4](images/exclusivities/ge_13384.png)<span class="itemTooltipContents">ID: 2536**Fork of Regicide (Blooshi)**Everyone knows a fork is the best assassination tool. Good size for eyes.<br><br><span style="color:var(--Flavescent)">Increases the effect of Blooshi's A Life Well Lived ability by 275%.</span><code>buff_upgrade,275,7520</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Fork of Regicide</span>
+                        <span style="margin-left:15px">Blooshi (Slot 4)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Tess Slot 4](images/exclusivities/ge_26784.png)<span class="itemTooltipContents">ID: 3905**Trapfinder's Friend (Tess)**No trap is safe from me.<br><br><span style="color:var(--Flavescent)">Increases the effect of Tess's Trap Expert ability by 275%.</span><code>buff_upgrade,275,17320</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Trapfinder's Friend</span>
+                        <span style="margin-left:15px">Tess (Slot 4)</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>23 July 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>31 October 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>31 January 2026 (Guess)</span>
             </span>
         </span>
     </span>
