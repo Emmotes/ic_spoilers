@@ -492,6 +492,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">11 May 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Birdsong</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2455**Multiversal Allies (Birdsong)**A broadened perspective inspires the heart to greater heights.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">18 May 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">K'thriss</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Holiday Bonus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2456**Holiday Bonus (K'thriss)**We've all been working so hard, I just thought perhaps we all deserve a little treat.<br><br><span style="color:var(--Flavescent)">Increases the base effect of K'thriss' Unseen Encouragement ability by 80%. (Prestack)</span><code>buff_upgrade,80,17324,0</code></span>Holiday Bonus
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the base effect of K'thriss' Unseen Encouragement ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">18 May 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
