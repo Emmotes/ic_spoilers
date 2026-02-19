@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Primordial Air Birdsong Portrait](images/skin_portraits/primordialairbirdsong.png)<span class="featTooltipContents">ID: 657**Primordial Air Birdsong (Birdsong)**<img src="images/skin_models/primordialairbirdsong.webp" alt="Primordial Air Birdsong Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Primordial Air Birdsong
-        </span>
-        <span class="skinTableSource">
-            Primordial Air Birdsong Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            18 Feb 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Winter Hexblade K'thriss Portrait](images/skin_portraits/winterhexbladekthriss.png)<span class="featTooltipContents">ID: 658**Winter Hexblade K'thriss (K'thriss)**<img src="images/skin_models/winterhexbladekthriss.webp" alt="Winter Hexblade K'thriss Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Winter Hexblade K'thriss
-        </span>
-        <span class="skinTableSource">
-            Winter Hexblade K'thriss Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            18 Feb 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Heroic Hank Portrait](images/skin_portraits/heroichank.png)<span class="featTooltipContents">ID: 660**Heroic Hank (Hank)**<img src="images/skin_models/heroichank.webp" alt="Heroic Hank Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

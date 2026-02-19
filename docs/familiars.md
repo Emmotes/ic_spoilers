@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Lord Brook the Marid Portrait](images/familiars/lordbrookthemarid.png)<span class="featTooltipContents">ID: 308**Lord Brook the Marid**Beware wishes granted by this little watery lord.<img src="images/familiars/lordbrookthemarid.webp" alt="Lord Brook the Marid Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Lord Brook the Marid
-        </span>
-        <span class="skinTableSource">
-            Lord Brook the Marid Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            18 Feb 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Splash the Water Elemental Portrait](images/familiars/splashthewaterelemental.png)<span class="featTooltipContents">ID: 309**Splash the Water Elemental**The consummate puddle jumper.<img src="images/familiars/splashthewaterelemental.webp" alt="Splash the Water Elemental Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
