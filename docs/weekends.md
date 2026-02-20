@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/793.png">
-            <span class="weekendTooltipContents">ID: 793**Gold Hat Chest**Loot for: Tyril, Celeste, Sentry, Artemis and Hew Maan<code>"for_crusaders":[10,2,52,54,75]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Hat of Many Spells**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    20 February 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Hew Maan
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tyril.png'">
-                        <span class="weekendTableChampionNameplate">Tyril</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/sentry.png'">
-                        <span class="weekendTableChampionNameplate">Sentry</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/artemis.png'">
-                        <span class="weekendTableChampionNameplate">Artemis</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hewmaan.png'">
-                        <span class="weekendTableChampionNameplate">Hew Maan</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/794.png">
             <span class="weekendTooltipContents">ID: 794**Gold Certificate Chest**Loot for: Arkhan, Bruenor, Kalix, Hank and Cazrin<code>"for_crusaders":[12,1,158,163,166]</code></span>
         </span>
