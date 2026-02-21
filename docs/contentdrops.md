@@ -618,6 +618,14 @@ This Tales drop will allow unlocking Kalix and Barrowin.
     </span>
 </span>
 
+## Tales 9 - 27 May 2026
+
+This Tales drop will allow unlocking Birdsong and Tess.
+
+<span style="font-size:1.2em;">ⓘ</span> This content drop might be joined by new [Blessings](blessings.md){:target="_blank"}.
+
+- No adventures or variants detected yet.
+
 
 [Back to Top](#top)
 
