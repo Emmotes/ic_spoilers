@@ -23,7 +23,7 @@
 
 Lauralanthalasa Kanan, commonly known as Laurana, was a princess of the Qualinesti Elves and a Hero of the Lance. She was a brave fighter, a brilliant tactician, and an inspirational leader who became the Golden General of the Whitestone Army during the War of the Lance, leading them to victory.
 
-[Dragonlace Fandom Wiki](https://dragonlance.fandom.com/wiki/Tasslehoff_Burrfoot/){:target="_blank"}
+[Dragonlace Fandom Wiki](https://dragonlance.fandom.com/wiki/Laurana_Kanan/){:target="_blank"}
 
 # Basic Information
 
