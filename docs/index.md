@@ -72,6 +72,28 @@ These are the event champions that are upcoming and all the information we know 
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="laurana.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Laurana Portrait Icon](images/laurana/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Laurana
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Elf Fighter of Heroes of the Lance (Guess)</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">The Great Modron March - 6 May 2026</span>
+            </span>
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 # Reworked Champions
@@ -193,6 +215,33 @@ These are the upcoming new and reworked champions and where they'll be found.
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Kender Rogue of Heroes of the Lance (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+</span>
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
+## The Great Modron March - 6 May 2026
+<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
+{::nomarkdown}
+<a href="laurana.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Laurana Portrait Icon](images/laurana/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Laurana
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Elf Fighter of Heroes of the Lance (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
