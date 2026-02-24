@@ -505,7 +505,10 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
     "large_graphic_id": 28516,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -819,8 +822,7 @@ Unknown.
 > Every 3 seconds, a random Champion is struck by a falling rock, dealing 5% of their maximum health in damage.  
 > 1-2 Kapak Draconians spawn with each wave. They don't drop gold nor count towards quest progress.  
 > In each boss area, an Aurak Draconian boss spawns as part of the first wave. It must also be defeated to progress.  
-> <b>Getting to Know Raistlin:</b> Raistlin's specialization choice determines which Champions he works best with. Which Champions will you add to the formation?   
-> 
+> <b>Getting to Know Raistlin:</b> Raistlin's specialization choice determines which Champions he works best with. Which Champions will you add to the formation?
 </div></div>
 
 # Other Champion Images
