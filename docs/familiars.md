@@ -92,7 +92,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 315**Animated Armor of Collaboration**Forged from many disciplines and powered by a shared goal, this living armor stands as proof that games and communities are built better together.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Animated Armor of Collaboration Portrait](images/familiars/animatedarmorofcollaboration.png)<span class="featTooltipContents">ID: 315**Animated Armor of Collaboration**Forged from many disciplines and powered by a shared goal, this living armor stands as proof that games and communities are built better together.<img src="images/familiars/animatedarmorofcollaboration.webp" alt="Animated Armor of Collaboration Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Animated Armor of Collaboration

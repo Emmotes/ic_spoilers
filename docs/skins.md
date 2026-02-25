@@ -145,7 +145,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 668**Desmondlance Desmond (Desmond)**<img src="images/skin_models/desmondlancedesmond.webp" alt="Desmondlance Desmond Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Desmondlance Desmond Portrait](images/skin_portraits/desmondlancedesmond.png)<span class="featTooltipContents">ID: 668**Desmondlance Desmond (Desmond)**<img src="images/skin_models/desmondlancedesmond.webp" alt="Desmondlance Desmond Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Desmondlance Desmond
