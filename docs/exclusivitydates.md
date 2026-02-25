@@ -480,10 +480,10 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">Hank</span>
         </span>
         <span class="featTableIcon4">
-            ![Stand Together Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2458**Stand Together (Hank)**Come on, everyone! If we all work together, we can't lose!<br><br><span style="color:var(--Flavescent)">Increases the effect of Hank's first set of Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,17083,17084,17085</code></span>Stand Together
+            ![Stand Together Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2458**Stand Together (Hank)**Come on, everyone! If we all work together, we can't lose!<br><br><span style="color:var(--Flavescent)">Increases the effect of Hank's second set of Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,17083,17084,17085</code></span>Stand Together
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Hank's first set of Specializations by 80%. (Prestack)</span>
+            <span class="featTableInner">Increases the effect of Hank's second set of Specializations by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
