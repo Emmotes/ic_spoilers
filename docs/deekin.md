@@ -237,7 +237,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "show_bonus": true,
             "amount_func": "mult",
             "stack_func": "per_area_completed",
-            "off_when_benched": true
+            "off_when_benched": true,
+            "amount_updated_listeners": [
+                "area_completed"
+            ]
         }
     ],
     "requirements": "",
@@ -392,7 +395,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Troubadour Troupe** (Guess)
-> Deekin increases the effect of Story of Doom by 100% for each Bard in the formation, stacking multiplicatively.
+> Deekin increases the effect of Story of Doom by 200% for each Bard in the formation, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -404,7 +407,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,100,18855",
+            "effect_string": "buff_upgrade,200,18855",
             "off_when_benched": true,
             "show_bonus": true,
             "amount_func": "mult",
