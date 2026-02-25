@@ -738,6 +738,51 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             </span>
         </span>
     </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Dragonlance Giveaway Dragonlance Celebration Icon](images/general/dragonlance.png)**Dragonlance Giveaway** - Dragonlance Celebration
+            </span>
+        </span>
+        <span id="g4" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Knight of Solamnia Shandie Skin Icon](images/exclusivities/skin_28779.png)<span class="featTooltipContents">ID: 671**Knight of Solamnia Shandie (Shandie)**<img src="images/exclusivities/skin_28776.webp" alt="Knight of Solamnia Shandie Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Knight of Solamnia Shandie</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>04 March 2026</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>11 March 2026</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>11 June 2026 (Guess)</span>
+            </span>
+        </span>
+    </span>
 </span>
 
 # Old Exclusive Special Events

@@ -49,7 +49,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             Knight of Solamnia Shandie
         </span>
         <span class="skinTableSource">
-            Dragonlance Celebration
+            Dragonlance Giveaway - Dragonlance Celebration
         </span>
         <span class="skinTableCost">
             ???
