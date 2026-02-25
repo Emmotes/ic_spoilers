@@ -439,7 +439,7 @@ Raistlin will be a new champion in the Fleetswake event on 4 March 2026.
             "off_when_benched": true
         },
         {
-            "effect_string": "buff_upgrade,0,18929",
+            "effect_string": "buff_upgrades,0,18929",
             "amount_func": "mult",
             "amount_expr": "upgrade_amount(18930,0)",
             "stack_func": "per_positional_formation_ability",
@@ -807,15 +807,7 @@ Unknown.
 > <b>Getting to Know Raistlin:</b> Raistlin's role is dealing damage, and he deals more damage when he is next to fewer Champions. Place him in an isolated spot of a formation to increase his damage!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![Test of Sorcery Icon](images/raistlin/28511.png) **Variant 2: Test of Sorcery** (Complete Area 125)
-> Raistlin starts in the formation. He can be moved, but not removed.  
-> Fizban joins the formation. Champions in Fizban's column deal 1000% additional damage. This bonus counts as a positional formation ability.  
-> You may only use Champions that have positional formation abilities.  
-> In each boss area, a Sivak Draconian boss spawns as part of the first wave. It must also be defeated to progress.  
-> <b>Getting to Know Raistlin:</b> Raistlin's damage is increased dramatically when he is buffed by positional formation abilities that target 4 or fewer Champions in the formation. This buff further increases as the number of Champions buffed by the ability is reduced!
-</div></div>
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-![War of the Lance Icon](images/raistlin/28512.png) **Variant 3: War of the Lance** (Complete Area 175)
+![War of the Lance Icon](images/raistlin/28512.png) **Variant 2: War of the Lance** (Complete Area 175)
 > Raistlin starts in the formation. He can be moved, but not removed.  
 > You may only use Good Champions, Tanking Champions, or Champions with a ranged or melee attack.  
 > Champions do not regain health when changing areas.  
@@ -823,6 +815,10 @@ Unknown.
 > 1-2 Kapak Draconians spawn with each wave. They don't drop gold nor count towards quest progress.  
 > In each boss area, an Aurak Draconian boss spawns as part of the first wave. It must also be defeated to progress.  
 > <b>Getting to Know Raistlin:</b> Raistlin's specialization choice determines which Champions he works best with. Which Champions will you add to the formation?
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 3: Fleetswake Mastery Challenge** (Mastery Challenge: Get as far as you can!)
+> No restrictions
 </div></div>
 
 # Other Champion Images
