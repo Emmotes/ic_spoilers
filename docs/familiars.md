@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Splash the Water Elemental Portrait](images/familiars/splashthewaterelemental.png)<span class="featTooltipContents">ID: 309**Splash the Water Elemental**The consummate puddle jumper.<img src="images/familiars/splashthewaterelemental.webp" alt="Splash the Water Elemental Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Splash the Water Elemental
-        </span>
-        <span class="skinTableSource">
-            Splash the Water Elemental Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            25 Feb 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 310**Caramon the Rabbit**Dear, good, steadfast, boring Caramon.</span></span>
         </span>
         <span class="skinTableName">

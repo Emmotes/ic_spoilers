@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Heroic Hank Portrait](images/skin_portraits/heroichank.png)<span class="featTooltipContents">ID: 660**Heroic Hank (Hank)**<img src="images/skin_models/heroichank.webp" alt="Heroic Hank Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Heroic Hank
-        </span>
-        <span class="skinTableSource">
-            Heroic Hank Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            25 Feb 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Undying Queen Lae'zel Portrait](images/skin_portraits/undyingqueenlaezel.png)<span class="featTooltipContents">ID: 659**Undying Queen Lae'zel (Lae'zel)**<img src="images/skin_models/undyingqueenlaezel.webp" alt="Undying Queen Lae'zel Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Undying Queen Lae'zel
-        </span>
-        <span class="skinTableSource">
-            Undying Queen Lae'zel Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            25 Feb 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Knight of Solamnia Shandie Portrait](images/skin_portraits/knightofsolamniashandie.png)<span class="featTooltipContents">ID: 671**Knight of Solamnia Shandie (Shandie)**<img src="images/skin_models/knightofsolamniashandie.webp" alt="Knight of Solamnia Shandie Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
