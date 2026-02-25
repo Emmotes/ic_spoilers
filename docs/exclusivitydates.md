@@ -475,6 +475,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">18 May 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Hank</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Stand Together Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2458**Stand Together (Hank)**Come on, everyone! If we all work together, we can't lose!<br><br><span style="color:var(--Flavescent)">Increases the effect of Hank's first set of Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,17083,17084,17085</code></span>Stand Together
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Hank's first set of Specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">25 May 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lae'zel</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Bane of Ghaik Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2457**Bane of Ghaik (Lae'zel)**They must ALL be destroyed, no matter the costs.<br><br><span style="color:var(--Flavescent)">Increases the effect of Lae'zel's Aberration Hunter ability by 80%.</span><code>buff_upgrade,80,12116</code></span>Bane of Ghaik
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Lae'zel's Aberration Hunter ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">25 May 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
