@@ -372,6 +372,7 @@ Miscellaneous spoilers with due dates.
 
 * Dragonlance Celebration - 4 March 2026
 * [Fleetswake Augments](augments_12.md) - 4 March 2026
+* EGS Giveaway - Raistlin's Renown Pack - 5 March 2026
 * Emergence 15 - 22 April 2026
 * [Bastion](bastion.md) - ???
 
