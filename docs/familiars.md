@@ -41,6 +41,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Rocky the Baaz Draconian Portrait](images/familiars/rockythebaazdraconian.png)<span class="featTooltipContents">ID: 313**Rocky the Baaz Draconian**Even the smallest draconian is not one to underestimate!<img src="images/familiars/rockythebaazdraconian.webp" alt="Rocky the Baaz Draconian Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Rocky the Baaz Draconian
+        </span>
+        <span class="skinTableSource">
+            EGS Giveaway - Raistlin's Renown Pack
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            05 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Drone of Dooooom Portrait](images/familiars/droneofdooooom.png)<span class="featTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone…<img src="images/familiars/droneofdooooom.webp" alt="Drone of Dooooom Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -88,23 +105,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             27 Mar 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Rocky the Baaz Draconian Portrait](images/familiars/rockythebaazdraconian.png)<span class="featTooltipContents">ID: 313**Rocky the Baaz Draconian**Even the smallest draconian is not one to underestimate!<img src="images/familiars/rockythebaazdraconian.webp" alt="Rocky the Baaz Draconian Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Rocky the Baaz Draconian
-        </span>
-        <span class="skinTableSource">
-            None
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            ???
         </span>
     </span>
 </span>
