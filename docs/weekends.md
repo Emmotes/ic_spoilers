@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/794.png">
-            <span class="weekendTooltipContents">ID: 794**Gold Certificate Chest**Loot for: Arkhan, Bruenor, Kalix, Hank and Cazrin<code>"for_crusaders":[12,1,158,163,166]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Law of the Land**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    27 February 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Cazrin
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/arkhan.png'">
-                        <span class="weekendTableChampionNameplate">Arkhan</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kalix.png'">
-                        <span class="weekendTableChampionNameplate">Kalix</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hank.png'">
-                        <span class="weekendTableChampionNameplate">Hank</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/cazrin.png'">
-                        <span class="weekendTableChampionNameplate">Cazrin</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/797.png">
             <span class="weekendTooltipContents">ID: 797**Gold Distinguished Chest**Loot for: Asharra, Minsc, Briv, Karlach and Raistlin<code>"for_crusaders":[6,7,58,143,173]</code></span>
         </span>
