@@ -7,7 +7,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 310**Caramon the Rabbit**Dear, good, steadfast, boring Caramon.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Caramon the Rabbit Portrait](images/familiars/caramontherabbit.png)<span class="featTooltipContents">ID: 310**Caramon the Rabbit**Dear, good, steadfast, boring Caramon.<img src="images/familiars/caramontherabbit.webp" alt="Caramon the Rabbit Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Caramon the Rabbit

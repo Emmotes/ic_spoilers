@@ -162,6 +162,23 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Dragonlance Shadowheart Portrait](images/skin_portraits/dragonlanceshadowheart.png)<span class="featTooltipContents">ID: 673**Dragonlance Shadowheart (Shadowheart)**<img src="images/skin_models/dragonlanceshadowheart.webp" alt="Dragonlance Shadowheart Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Dragonlance Shadowheart
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            25 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 670**Dragonlance Karlach (Karlach)**</span></span>
         </span>
         <span class="skinTableName">

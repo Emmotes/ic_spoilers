@@ -33,7 +33,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 310**Caramon the Rabbit**Dear, good, steadfast, boring Caramon.</span></span>
+            <span class="tooltipHolder">![Caramon the Rabbit Familiar Portrait](images/premiums/familiar_310.png)<span class="itemTooltipContents">ID: 310**Caramon the Rabbit**Dear, good, steadfast, boring Caramon.<img src="images/premiums/familiar_310.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2527**Feat**???: 2527</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Fate Foretold Feat Portrait](images/featicons/alignmentchange.png)<span class="itemTooltipContents">ID: 2527**Fate Foretold**As was foretold, he is the master of both present and past. ~Fizban<br><br><span style="color:var(--Flavescent)">Increases the Base DPS of Raistlin by 400% and changes his alignment to Chaotic Evil.</span><code>hero_dps_multiplier_mult,400<br>change_hero_alignment_tag,chaotic,evil</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2527</span>
+            <span style="margin-left:15px">Fate Foretold</span>
+            <span style="margin-left:15px">Raistlin</span>
         </span>
     </span>
     <span class="premiumsTableItem">

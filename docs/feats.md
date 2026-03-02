@@ -47,6 +47,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Raistlin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Fate Foretold Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2527**Fate Foretold (Raistlin)**As was foretold, he is the master of both present and past. ~Fizban<br><br><span style="color:var(--Flavescent)">Increases the Base DPS of Raistlin by 400% and changes his alignment to Chaotic Evil.</span><code>hero_dps_multiplier_mult,400<br>change_hero_alignment_tag,chaotic,evil</code></span>Fate Foretold
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the Base DPS of Raistlin by 400% and changes his alignment to Chaotic Evil.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Mar 2026<br>04 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Sheila</span>
         </span>
         <span class="featTableIcon4">
@@ -179,6 +196,74 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">25 Mar 2026<br>25 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Raistlin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Flaming Darts Icon](images/featicons/twomagicmissile.png)<span class="featTooltipContents">ID: 2513**Flaming Darts (Raistlin)**Kalith karan, tobaniskar! ~Raistlin<br><br><span style="color:var(--Flavescent)">Raistlin fires two additional magic missiles with his base attack.</span><code>do_nothing</code></span>Flaming Darts
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Raistlin fires two additional magic missiles with his base attack.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Kyre</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Pierce the Heavens Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2465**Pierce the Heavens (Kyre)**I've practiced this spiral thrust maneuver ten thousand times.<br><br><span style="color:var(--Flavescent)">Increases the base chance of Stunning Strike up to 200%.</span><code>change_upgrade_data,18668,0<br>change_upgrade_data,18668,2</code></span>Pierce the Heavens
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the base chance of Stunning Strike up to 200%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Binwin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Extra Payout Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2556**Extra Payout (Binwin)**Talk to the other guy. I don't deal with that.<br><br><span style="color:var(--Flavescent)">Increases the effect of Binwin's specialization abilities by 80%.</span><code>buff_upgrades,80,18464,18465,18463</code></span>Extra Payout
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Binwin's specialization abilities by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Donaar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Misdirection Icon](images/featicons/misdirection.png)<span class="featTooltipContents">ID: 2499**Misdirection (Donaar)**Hey! Look over there! A distraction!<br><br><span style="color:var(--Flavescent)">Enemies that attempt to attack this Champion will instead attack a different Champion, if possible.</span><code>global_dps_multiplier_mult,100<br>reverse_taunt</code></span>Misdirection
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Enemies that attempt to attack this Champion will instead attack a different Champion, if possible.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Apr 2026</span>
         </span>
     </span>
 </span>
@@ -396,23 +481,6 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Kyre</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Pierce the Heavens Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2465**Pierce the Heavens (Kyre)**I've practiced this spiral thrust maneuver ten thousand times.<br><br><span style="color:var(--Flavescent)">Increases the base chance of Stunning Strike up to 200%.</span><code>change_upgrade_data,18668,0<br>change_upgrade_data,18668,2</code></span>Pierce the Heavens
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the base chance of Stunning Strike up to 200%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Nordom</span>
         </span>
         <span class="featTableIcon4">
@@ -464,13 +532,13 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Nordom</span>
+            <span class="featTableInner">Raistlin</span>
         </span>
         <span class="featTableIcon4">
-            ![Optimization Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2380**Optimization (Nordom)**Statement of core belief: bigger numbers are better numbers.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nordom's Core Competency Specialization by 1% for each max level Modron Core you own.</span><code>buff_upgrade_add_flat_amount,1,18168,0</code></span>Optimization
+            ![Consumptive Arcana Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2519**Consumptive Arcana (Raistlin)**Stand back. I have strength for one more spell. ~Raistlin<br><br><span style="color:var(--Flavescent)">Increases the health threshold of Debilitating Magic to trigger when Raistlin is above 80% health.</span><code>change_upgrade_data,18931</code></span>Consumptive Arcana
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Nordom's Core Competency Specialization by 1% for each max level Modron Core you own.</span>
+            <span class="featTableInner">Increases the health threshold of Debilitating Magic to trigger when Raistlin is above 80% health.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -481,13 +549,81 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Donaar</span>
+            <span class="featTableInner">Raistlin</span>
         </span>
         <span class="featTableIcon4">
-            ![Misdirection Icon](images/featicons/misdirection.png)<span class="featTooltipContents">ID: 2499**Misdirection (Donaar)**Hey! Look over there! A distraction!<br><br><span style="color:var(--Flavescent)">Enemies that attempt to attack this Champion will instead attack a different Champion, if possible.</span><code>global_dps_multiplier_mult,100<br>reverse_taunt</code></span>Misdirection
+            ![Ruinous Arcana Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2520**Ruinous Arcana (Raistlin)**The spell worked, but I did not believe it would drain me like this. ~Raistlin<br><br><span style="color:var(--Flavescent)">Decreases the damage amount of Debilitating Magic to 0.5%.</span><code>change_upgrade_data,18931</code></span>Ruinous Arcana
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Enemies that attempt to attack this Champion will instead attack a different Champion, if possible.</span>
+            <span class="featTableInner">Decreases the damage amount of Debilitating Magic to 0.5%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Raistlin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Natural Remedy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2521**Natural Remedy (Raistlin)**The staff will not heal me, Tanis. Do not waste it on me. ~Raistlin<br><br><span style="color:var(--Flavescent)">Increases the healing per ultimate of Herbalism to 4%.</span><code>change_upgrade_data,18932</code></span>Natural Remedy
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the healing per ultimate of Herbalism to 4%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Raistlin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Natural Panacea Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2522**Natural Panacea (Raistlin)**He's got to have that stuff he drinks! I've never seen him this bad. ~Caramon<br><br><span style="color:var(--Flavescent)">Decreases the heal reduction of Herbalism to 25%.</span><code>change_upgrade_data,18932,1</code></span>Natural Panacea
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Decreases the heal reduction of Herbalism to 25%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Raistlin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Old One's Flame Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2523**Old One's Flame (Raistlin)**Now is the time for the casting of the fireball, Old One. ~Raistlin<br><br><span style="color:var(--Flavescent)">Increases the damage per fireball of Flames of High Sorcery to 15% of the enemy's max health.</span><code>change_upgrade_data,18933</code></span>Old One's Flame
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage per fireball of Flames of High Sorcery to 15% of the enemy's max health.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Nordom</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Optimization Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2380**Optimization (Nordom)**Statement of core belief: bigger numbers are better numbers.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nordom's Core Competency Specialization by 1% for each max level Modron Core you own.</span><code>buff_upgrade_add_flat_amount,1,18168,0</code></span>Optimization
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Nordom's Core Competency Specialization by 1% for each max level Modron Core you own.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -1246,23 +1382,6 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Binwin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Slow and Steady Icon](images/featicons/slowandsteady.png)<span class="featTooltipContents">ID: 2412**Slow and Steady (Binwin)**Let's take our time. Really savor it, you know?<br><br><span style="color:var(--Flavescent)">Increases the damage of Binwin by 800%. Increases the cooldown on Binwin's Base Attack by 2 seconds.</span><code>hero_dps_multiplier_mult,800<br>increase_attack_cooldown,2</code></span>Slow and Steady
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of Binwin by 800%. Increases the cooldown on Binwin's Base Attack by 2 seconds.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Krux</span>
         </span>
         <span class="featTableIcon4">
@@ -1338,6 +1457,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the Charisma score of Alyndra by 2.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Binwin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Slow and Steady Icon](images/featicons/slowandsteady.png)<span class="featTooltipContents">ID: 2412**Slow and Steady (Binwin)**Let's take our time. Really savor it, you know?<br><br><span style="color:var(--Flavescent)">Increases the damage of Binwin by 800%. Increases the cooldown on Binwin's Base Attack by 2 seconds.</span><code>hero_dps_multiplier_mult,800<br>increase_attack_cooldown,2</code></span>Slow and Steady
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of Binwin by 800%. Increases the cooldown on Binwin's Base Attack by 2 seconds.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
