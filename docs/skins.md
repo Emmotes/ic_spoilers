@@ -179,7 +179,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 670**Dragonlance Karlach (Karlach)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragonlance Karlach Portrait](images/skin_portraits/dragonlancekarlach.png)<span class="featTooltipContents">ID: 670**Dragonlance Karlach (Karlach)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/dragonlancekarlach.webp" alt="Dragonlance Karlach Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/dragonlancekarlach-rage.webp" alt="Dragonlance Karlach Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Dragonlance Karlach
