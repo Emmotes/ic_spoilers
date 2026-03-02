@@ -59,7 +59,7 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Support (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -104,7 +104,138 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
 
 # Attacks
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Hoopak** (Ranged)
+> Tasslehoff fires a stone at the closest enemy, dealing one hit.  
+> Cooldown: 3.5s (Cap 0.875s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 960,
+    "name": "Hoopak",
+    "description": "Tasslehoff fires a stone at the closest enemy, dealing one hit.",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 3.5,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_offset_x": 48,
+            "shoot_offset_y": -115,
+            "shoot_frame": 31,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "hoopak",
+                "projectile_speed": 1500,
+                "rotation_speed": 467,
+                "percent_height_offset": 12,
+                "projectile_graphic_id": 28671,
+                "__projectile_hit_graphic_id": 750,
+                "trail": {
+                    "lifespan": 0.2,
+                    "spawn_rate": 367,
+                    "particle_graphic_ids": [
+                        12485
+                    ],
+                    "initial_velocity": {
+                        "x": "0",
+                        "y": "0"
+                    },
+                    "velocity_jitter": {
+                        "x": "50",
+                        "y": "50"
+                    },
+                    "alpha_lerp": {
+                        "0": 0,
+                        "0.1": 0.75,
+                        "1": 0
+                    },
+                    "scale_lerp": [
+                        {
+                            "x": 0.25,
+                            "y": 0.25
+                        },
+                        {
+                            "x": 0,
+                            "y": 0
+                        }
+                    ],
+                    "tint": {
+                        "r": 1,
+                        "g": 1,
+                        "b": 1,
+                        "a": 1
+                    }
+                }
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: I'm Not the Hero** (Guess)
+> Tasslehoff encourages the next Champion to use their ultimate to deal 400% more damage with that ultimate.  
+> Cooldown: 3.5s (Cap 0.875s)
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 961,
+    "name": "I'm Not the Hero",
+    "description": "Tasslehoff causes the next ultimate used to deal 400% more damage with that ultimate.",
+    "long_description": "Tasslehoff encourages the next Champion to use their ultimate to deal 400% more damage with that ultimate.",
+    "graphic_id": 28640,
+    "target": "none",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 3.5,
+    "animations": [
+        {
+            "content_set_id": 10,
+            "type": "ultimate_attack",
+            "ultimate": "dm",
+            "no_damage_display": true,
+            "no_cooldown_display": true,
+            "hero_reset_blacklist": [],
+            "shoot_offset_x": 50,
+            "shoot_offset_y": -25,
+            "shoot_frame": 8,
+            "bonus_half_time_effect": {
+                "effect_string": "global_dps_multiplier_mult,400"
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Abilities
 
@@ -354,16 +485,32 @@ Unknown.
 > Save the village from a foolish prank gone wrong.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: Variant 1** (Complete Area 75)
-> 
+![Did I Ever Tell You About...? Icon](images/tasslehoff/28625.png) **Variant 1: Did I Ever Tell You About...?** (Complete Area 75)
+> Tasslehoff starts in the formation. He can be moved, but not removed.  
+> Only Tasslehoff and Champions in the 3 rear-most columns can deal damage.  
+> Champions next to Tasslehoff attack slower due to his stories. Their base attack cooldowns are increased by 2 seconds.  
+> 1-2 Bozak Draconians spawn with each wave. They don't drop gold nor count towards quest progress.  
+> <b>Getting to Know Tasslehoff:</b> Tasslehoff's buff can be set to one of the three columns in the back of the formation. Place your damage dealers to take advantage of this!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: Variant 2** (Complete Area 125)
-> 
+![Fizban's Fabulous Friendship Icon](images/tasslehoff/28626.png) **Variant 2: Fizban's Fabulous Friendship** (Complete Area 125)
+> Tasslehoff starts in the formation. He can be moved, but not removed.  
+> Fizban joins the formation. Champions in Fizban's column deal 1000% additional damage. This bonus counts as a positional formation ability.  
+> You may only use Champions that have positional formation abilities.  
+> Only Tasslehoff and Champions not next to him can deal damage.  
+> 1-2 Baaz Draconians spawn with each wave. They don't drop gold nor count towards quest progress.  
+> In each boss area, a Sivak Draconian boss spawns as part of the first wave. (Monster ID 2335) It must also be defeated to progress.  
+> <b>Getting to Know Tasslehoff:</b> Tasslehoff's Diversion ability turns off positional formation buffs affecting his slot and neighboring slots, but his buff increases in power each time that happens. Place your damage dealer away from Tasslehoff to get the most of this!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: Variant 3** (Complete Area 175)
-> 
+![A Loyal Friend Icon](images/tasslehoff/28627.png) **Variant 3: A Loyal Friend** (Complete Area 175)
+> Tasslehoff starts in the formation. He can be moved, but not removed.  
+> You may only use Champions that count for any of Tasslehoff's second specialization choices.  
+> Only Tasslehoff and Champions not next to him can deal damage.  
+> The enemy/boss enrage bar starts out on the screen and begins to fill immediately. When one or more Monstrosity enemies are alive, the bar fills four times faster.  
+> 1-2 Kapak Draconians spawn with each wave. They don't drop gold nor count towards quest progress.  
+> In each boss area, an Aurak Draconian boss spawns as part of the first wave. It must also be defeated to progress.  
+> <b>Getting to Know Tasslehoff:</b> Tasslehoff's second specialization choice determines which Champions he works best with. Who will you choose?
 </div></div>
 
 # Other Champion Images
