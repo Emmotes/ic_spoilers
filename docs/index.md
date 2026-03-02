@@ -27,11 +27,11 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Raistlin Portrait Icon](images/raistlin/portrait.png)
+            ![Raistlin Majere Portrait Icon](images/raistlin/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Raistlin
+                Raistlin Majere
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Human Wizard of Heroes of the Lance</span>
@@ -67,6 +67,9 @@ These are the event champions that are upcoming and all the information we know 
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Festival of Fools - 1 April 2026</span>
             </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Ranged Attack Icon](images/general/icon_ranged.png)
         </span>
     </span>
 {::nomarkdown}
@@ -199,11 +202,11 @@ These are the upcoming new and reworked champions and where they'll be found.
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Raistlin Portrait Icon](images/raistlin/portrait.png)
+            ![Raistlin Majere Portrait Icon](images/raistlin/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Raistlin
+                Raistlin Majere
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Human Wizard of Heroes of the Lance</span>
@@ -269,6 +272,9 @@ These are the upcoming new and reworked champions and where they'll be found.
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Ranged Attack Icon](images/general/icon_ranged.png)
         </span>
     </span>
 {::nomarkdown}
