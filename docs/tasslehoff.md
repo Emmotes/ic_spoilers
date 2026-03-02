@@ -59,7 +59,7 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Support (Guess)</span>
+            <span style="margin-left:8px;">Support / Speed / Control (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -240,23 +240,29 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Borrower** (Guess)
-> Unknown effect.
+**Unknown** (Guess)
+> Tasslehoff is immune to being Stunned.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28631,
-    "graphic": "Icons/Events/2018FestivalofFools/FestivalofFools_Y9/Icon_Formation_Tasslehoff_Borrower",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
+    "id": 2642,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tasslehoff is immune to being Stunned."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_stun_immunity"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": true
     }
 }
 </pre>
@@ -266,22 +272,93 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Diversion** (Guess)
-> Unknown effect.
+> Tasslehoff prevents any Champion-sourced non-healing positional formation abilities from targeting his slot or adjacent slots. For each prevented ability per slot, he gains a Diversion stack. Tasslehoff increases the effect of his Map Collector specialization by 10% for each Diversion stack, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28632,
-    "graphic": "Icons/Events/2018FestivalofFools/FestivalofFools_Y9/Icon_Formation_Tasslehoff_Diversion",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
+    "id": 2643,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tasslehoff prevents any Champion-sourced non-healing positional formation abilities from targeting his slot or adjacent slots. For each prevented ability per slot, he gains a Diversion stack. Tasslehoff increases the effect of his Map Collector specialization by $amount% for each Diversion stack, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,10"
+        },
+        {
+            "effect_string": "buff_upgrades,0,19240,19241,19242",
+            "amount_expr": "upgrade_amount(19245,0)",
+            "stacks_on_trigger": "will_stack_manually",
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "off_when_benched": true,
+            "stack_title": "Blocked Abilities"
+        },
+        {
+            "effect_string": "tasslehoff_diversion",
+            "buff_effect_key_index": 1,
+            "overlay": {
+                "manual_graphic": "tasslehoff_diversion",
+                "y": -40
+            },
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 28632,
+    "large_graphic_id": 28629,
+    "properties": {
+        "is_formation_ability": true,
+        "is_positional_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Borrower** (Guess)
+> Each time the party completes an area and moves to the next one, Tasslehoff somehow comes into possession of some future quest items, setting his Found Item stacks to 7. When Tasslehoff attacks an enemy that can drop quest items, there is a 10% chance he spends a Found Item stack and adds a quest item to the party's quest progress.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2644,
+    "flavour_text": "",
+    "description": {
+        "desc": "Each time the party completes an area and moves to the next one, Tasslehoff somehow comes into possession of some future quest items, setting his Found Item stacks to 7. When Tasslehoff attacks an enemy that can drop quest items, there is a $amount% chance he spends a Found Item stack and adds a quest item to the party's quest progress."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "tasslehoff_borrower,10"
+        },
+        {
+            "effect_string": "do_nothing,0",
+            "manual_stacking": true,
+            "stack_title": "Found Items",
+            "show_stacks": true,
+            "show_bonus": false
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 28631,
+    "large_graphic_id": 28628,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -291,22 +368,40 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Wanderlust** (Guess)
-> Unknown effect.
+> Tasslehoff grows impatient if he remains in the same area for a long time. Tasslehoff increases the effect of his Map Collector specialization by 100% for every 10 seconds the party is in an area, stacking multiplicatively up to 12 times and resetting when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28633,
-    "graphic": "Icons/Events/2018FestivalofFools/FestivalofFools_Y9/Icon_Formation_Tasslehoff_Wanderlust",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
+    "id": 2645,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tasslehoff grows impatient if he remains in the same area for a long time. Tasslehoff increases the effect of his Map Collector specialization by $(not_buffed amount)% for every 10 seconds the party is in an area, stacking multiplicatively up to $max_stacks times and resetting when changing areas."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrades,100,19240,19241,19242",
+            "stacks_on_trigger": "on_timer,10",
+            "max_stacks": 12,
+            "area_change_resets_stacks": true,
+            "off_when_benched": true,
+            "clear_stacks_on_deactivate": false,
+            "show_bonus": true,
+            "stacks_multiply": true,
+            "time_per_stack": 10
+        },
+        {
+            "effect_string": "tasslehoff_wanderlust",
+            "buff_index": 0
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 28633,
+    "large_graphic_id": 28630,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": true
     }
 }
 </pre>
@@ -317,98 +412,37 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Fast Friends** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 28634,
-    "graphic": "Icons/Events/2018FestivalofFools/FestivalofFools_Y9/Icon_Specialization_Tasslehoff_FastFriends",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Old Friends** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 28638,
-    "graphic": "Icons/Events/2018FestivalofFools/FestivalofFools_Y9/Icon_Specialization_Tasslehoff_OldFriends",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Small Friends** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 28639,
-    "graphic": "Icons/Events/2018FestivalofFools/FestivalofFools_Y9/Icon_Specialization_Tasslehoff_SmallFriends",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Map Collector: Pre-Cataclysm** (Guess)
-> Unknown effect.
+> Tasslehoff increases the damage of Champions in the rear-most column by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28635,
-    "graphic": "Icons/Events/2018FestivalofFools/FestivalofFools_Y9/Icon_Specialization_Tasslehoff_MapCollector_PreCataclysm",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2646,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tasslehoff increases the damage of Champions in the rear-most column by $amount%."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                {
+                    "type": "col_num",
+                    "start_from_back": true,
+                    "column": 0
+                }
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 28635,
+    "large_graphic_id": 28635,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": true
     }
 }
 </pre>
@@ -418,22 +452,36 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Map Collector: Time of Darkness** (Guess)
-> Unknown effect.
+> Tasslehoff increases the damage of Champions in the second to rear-most column by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28636,
-    "graphic": "Icons/Events/2018FestivalofFools/FestivalofFools_Y9/Icon_Specialization_Tasslehoff_MapCollector_TimeOfDarkness",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2647,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tasslehoff increases the damage of Champions in the second to rear-most column by $amount%"
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                {
+                    "type": "col_num",
+                    "start_from_back": true,
+                    "column": 1
+                }
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 28636,
+    "large_graphic_id": 28636,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": true
     }
 }
 </pre>
@@ -443,22 +491,153 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Map Collector: War of the Lance** (Guess)
-> Unknown effect.
+> Tasslehoff increases the damage of Champions in the third to rear-most column by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28637,
-    "graphic": "Icons/Events/2018FestivalofFools/FestivalofFools_Y9/Icon_Specialization_Tasslehoff_MapCollector_WarOfTheLance",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2648,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tasslehoff increases the damage of Champions in the third to rear-most column by $amount%"
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                {
+                    "type": "col_num",
+                    "start_from_back": true,
+                    "column": 2
+                }
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 28637,
+    "large_graphic_id": 28637,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Old Friends** (Guess)
+> Tasslehoff increases the effect of his Map Collector specialization by 100% for each Hero of the Lance and Champions that are 38 years and older in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2649,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tasslehoff increases the effect of his Map Collector specialization by $(not_buffed amount)% for each Hero of the Lance and Champions that are 38 years and older in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrades,100,19240,19241,19242",
+            "amount_func": "mult",
+            "stacks_multiply": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "age>=38 || HasTag(`heroeslance`)",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "stack_title": "Old Friends",
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 28638,
+    "large_graphic_id": 28638,
+    "properties": {
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Fast Friends** (Guess)
+> Tasslehoff increases the effect of his Map Collector specialization by 100% for each Speed Champion and/or Champion with a Dexterity of 16 or higher in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2650,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tasslehoff increases the effect of his Map Collector specialization by $(not_buffed amount)% for each Speed Champion and/or Champion with a Dexterity of 16 or higher in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrades,100,19240,19241,19242",
+            "amount_func": "mult",
+            "stacks_multiply": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "GetStat(`dex`) >= 16 || HasTag(`speed`)",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "stack_title": "Fast Friends",
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 28634,
+    "large_graphic_id": 28634,
+    "properties": {
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Small Friends** (Guess)
+> Tasslehoff increases the effect of his Map Collector specialization by 100% for each dwarf, fairy, gnome, goblin, halfling, kender, kobold, and/or plasmoid Champion in the formation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2651,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tasslehoff increases the effect of his Map Collector specialization by $(not_buffed amount)% for each dwarf, fairy, gnome, goblin, halfling, kender, kobold, and/or plasmoid Champion in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrades,100,19240,19241,19242",
+            "amount_func": "mult",
+            "stacks_multiply": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`dwarf`) || HasTag(`fairy`) || HasTag(`gnome`) || HasTag(`goblin`) || HasTag(`halfling`) || HasTag(`kender`) || HasTag(`kobold`) || HasTag(`plasmoid`)",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
+            "stack_title": "Small Friends",
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 28639,
+    "large_graphic_id": 28639,
+    "properties": {
+        "is_formation_ability": true,
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks"
     }
 }
 </pre>
