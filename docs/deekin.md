@@ -128,7 +128,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Confidence in the Boss** (Guess)
-> When Deekin has 5 or fewer stacks of Story of Doom, he causes monsters to spawn 100% faster.
+> When Deekin has 5 or fewer stacks of Story of Doom, he causes enemies to spawn 100% faster.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -136,7 +136,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2611,
     "flavour_text": "",
     "description": {
-        "desc": "When Deekin has $ref_value___2 or fewer stacks of Story of Doom, he causes monsters to spawn $amount% faster.",
+        "desc": "When Deekin has $ref_value___2 or fewer stacks of Story of Doom, he causes enemies to spawn $amount% faster.",
         "post": {
             "conditions": [
                 {
