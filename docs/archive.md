@@ -19,6 +19,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Lark](archive/lark.md)
 * [Liars' Night Augments](archive/augments_2.md)
 * [Nordom](archive/nordom.md)
+* [Raistlin Majere](archive/raistlin.md)
 * [Skylla](archive/skylla.md)
 
 [Back to Top](#top)

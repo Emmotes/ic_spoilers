@@ -23,34 +23,6 @@ These are the event champions that are upcoming and all the information we know 
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="raistlin.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Raistlin Majere Portrait Icon](images/raistlin/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Raistlin Majere
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Wizard of Heroes of the Lance</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Fleetswake - 4 March 2026</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Roadmapped 🗺️
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="tasslehoff.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -197,31 +169,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Fleetswake - 4 March 2026
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="raistlin.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Raistlin Majere Portrait Icon](images/raistlin/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Raistlin Majere
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Wizard of Heroes of the Lance</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐<br>Roadmapped 🗺️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
 {::nomarkdown}
 <a href="deekin.html">
 {:/nomarkdown}
@@ -376,7 +323,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* Dragonlance Celebration - 4 March 2026
 * [Fleetswake Augments](augments_12.md) - 4 March 2026
 * EGS Giveaway - Raistlin's Renown Pack - 5 March 2026
 * Emergence 15 - 22 April 2026
