@@ -330,7 +330,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "show_bonus": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "!HasTag(`aasimar`) && !HasTag(`dragonborn`) && !HasTag(`dwarf`) && !HasTag(`elf`) && !HasTag(`gnome`) && !HasTag(`goliath`) && !HasTag(`halfling`) && !HasTag(`human`) && !HasTag(`orc`) && !HasTag(`tiefling`) && !HasTag(`half-orc`) && !HasTag(`half-elf`)",
+            "per_hero_expr": "!HasTag(`aasimar`) && !HasTag(`dragonborn`) && !HasTag(`dwarf`) && !HasTag(`elf`) && !HasTag(`gnome`) && !HasTag(`goliath`) && !HasTag(`halfling`) && (!HasTag(`human`) || hero_id==75) && !HasTag(`orc`) && !HasTag(`tiefling`) && !HasTag(`half-orc`) && !HasTag(`half-elf`)",
             "amount_updated_listeners": [
                 "slot_changed",
                 "hero_tags_changed"
