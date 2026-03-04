@@ -458,6 +458,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">25 May 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Gale</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2475**Prodigal Leader (Gale)**Mark my words well. My name will be counted among the greatest wizards of all worlds!<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +50%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Raistlin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Fate Foretold Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2527**Fate Foretold (Raistlin)**As was foretold, he is the master of both present and past. ~Fizban<br><br><span style="color:var(--Flavescent)">Increases the Base DPS of Raistlin by 400% and changes his alignment to Chaotic Evil.</span><code>hero_dps_multiplier_mult,400<br>change_hero_alignment_tag,chaotic,evil</code></span>Fate Foretold
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the Base DPS of Raistlin by 400% and changes his alignment to Chaotic Evil.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Jun 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -734,11 +768,11 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Knight of Solamnia Shandie Skin Icon](images/exclusivities/skin_28779.png)<span class="featTooltipContents">ID: 671**Knight of Solamnia Shandie (Shandie)**<img src="images/exclusivities/skin_28776.webp" alt="Knight of Solamnia Shandie Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                        <span class="tooltipHolder">![Knight of The Rose Shandie Skin Icon](images/exclusivities/skin_28779.png)<span class="featTooltipContents">ID: 671**Knight of The Rose Shandie (Shandie)**<img src="images/exclusivities/skin_28776.webp" alt="Knight of The Rose Shandie Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Knight of Solamnia Shandie</span>
+                        <span style="margin-left:15px">Knight of The Rose Shandie</span>
                     </span>
                 </span>
             </span>
