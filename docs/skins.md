@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Knight of Solamnia Shandie Portrait](images/skin_portraits/knightofsolamniashandie.png)<span class="featTooltipContents">ID: 671**Knight of Solamnia Shandie (Shandie)**<img src="images/skin_models/knightofsolamniashandie.webp" alt="Knight of Solamnia Shandie Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Knight of Solamnia Shandie
-        </span>
-        <span class="skinTableSource">
-            Dragonlance Giveaway - Dragonlance Celebration
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            04 Mar 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Order of the Red Robes Gale Portrait](images/skin_portraits/orderoftheredrobesgale.png)<span class="featTooltipContents">ID: 663**Order of the Red Robes Gale (Gale)**<img src="images/skin_models/orderoftheredrobesgale.webp" alt="Order of the Red Robes Gale Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Order of the Red Robes Gale
-        </span>
-        <span class="skinTableSource">
-            Order of the Red Robes Gale Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            04 Mar 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Raistlin, Master of Past and Present Portrait](images/skin_portraits/raistlinmasterofpastandpresent.png)<span class="featTooltipContents">ID: 662**Raistlin, Master of Past and Present (Raistlin)**<img src="images/skin_models/raistlinmasterofpastandpresent.webp" alt="Raistlin, Master of Past and Present Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Raistlin, Master of Past and Present
-        </span>
-        <span class="skinTableSource">
-            Raistlin, Master of Past and Present Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            04 Mar 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Bard of the Dragon Queen Deekin Portrait](images/skin_portraits/bardofthedragonqueendeekin.png)<span class="featTooltipContents">ID: 664**Bard of the Dragon Queen Deekin (Deekin)**<img src="images/skin_models/bardofthedragonqueendeekin.webp" alt="Bard of the Dragon Queen Deekin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -94,13 +43,13 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Knight of Solamnia Zorbu Portrait](images/skin_portraits/knightofsolamniazorbu.png)<span class="featTooltipContents">ID: 665**Knight of Solamnia Zorbu (Zorbu)**<img src="images/skin_models/knightofsolamniazorbu.webp" alt="Knight of Solamnia Zorbu Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Knight of The Rose Zorbu Portrait](images/skin_portraits/knightoftherosezorbu.png)<span class="featTooltipContents">ID: 665**Knight of The Rose Zorbu (Zorbu)**<img src="images/skin_models/knightoftherosezorbu.webp" alt="Knight of The Rose Zorbu Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
-            Knight of Solamnia Zorbu
+            Knight of The Rose Zorbu
         </span>
         <span class="skinTableSource">
-            Knight of Solamnia Zorbu Skin & Feat Pack
+            Knight of The Rose Zorbu Skin & Feat Pack
         </span>
         <span class="skinTableCost">
             1,680p
