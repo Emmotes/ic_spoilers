@@ -323,7 +323,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* EGS Giveaway - Raistlin's Renown Pack - 5 March 2026
 * Emergence 15 - 22 April 2026
 * [Bastion](bastion.md) - ???
 
