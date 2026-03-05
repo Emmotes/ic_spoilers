@@ -211,15 +211,7 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
     "cooldown": 3.5,
     "animations": [
         {
-            "content_set_id": 10,
-            "type": "ultimate_attack",
-            "ultimate": "dm",
-            "no_damage_display": true,
-            "no_cooldown_display": true,
-            "hero_reset_blacklist": [],
-            "shoot_offset_x": 50,
-            "shoot_offset_y": -25,
-            "shoot_frame": 8,
+            "type": "tasslehoff_ultimate",
             "bonus_half_time_effect": {
                 "effect_string": "global_dps_multiplier_mult,400"
             }
