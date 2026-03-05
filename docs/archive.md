@@ -12,6 +12,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Emergence 14](archive/emergence_14.md)
 * [Farideh](archive/farideh.md)
 * [Feast of the Moon Augments](archive/augments_3.md)
+* [Fleetswake Augments](archive/augments_12.md)
 * [Grand Revel Augments](archive/augments_10.md)
 * [Havilar](archive/havilar.md)
 * [King of Shadows](archive/kos.md)
