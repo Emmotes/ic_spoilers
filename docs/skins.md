@@ -94,13 +94,13 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 669**Mage of the White Robes Orkira (Orkira)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 669**Order of the White Robes Orkira (Orkira)**</span></span>
         </span>
         <span class="skinTableName">
-            Mage of the White Robes Orkira
+            Order of the White Robes Orkira
         </span>
         <span class="skinTableSource">
-            Mage of the White Robes Orkira Skin & Feat Pack
+            Order of the White Robes Orkira Skin & Feat Pack
         </span>
         <span class="skinTableCost">
             1,680p
@@ -111,10 +111,10 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragonlance Shadowheart Portrait](images/skin_portraits/dragonlanceshadowheart.png)<span class="featTooltipContents">ID: 673**Dragonlance Shadowheart (Shadowheart)**<img src="images/skin_models/dragonlanceshadowheart.webp" alt="Dragonlance Shadowheart Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Order of the Black Robes Shadowheart Portrait](images/skin_portraits/orderoftheblackrobesshadowheart.png)<span class="featTooltipContents">ID: 673**Order of the Black Robes Shadowheart (Shadowheart)**<img src="images/skin_models/orderoftheblackrobesshadowheart.webp" alt="Order of the Black Robes Shadowheart Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
-            Dragonlance Shadowheart
+            Order of the Black Robes Shadowheart
         </span>
         <span class="skinTableSource">
             ???
@@ -128,13 +128,13 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragonlance Karlach Portrait](images/skin_portraits/dragonlancekarlach.png)<span class="featTooltipContents">ID: 670**Dragonlance Karlach (Karlach)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/dragonlancekarlach.webp" alt="Dragonlance Karlach Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/dragonlancekarlach-rage.webp" alt="Dragonlance Karlach Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Knight of the Black Rose Karlach Portrait](images/skin_portraits/knightoftheblackrosekarlach.png)<span class="featTooltipContents">ID: 670**Knight of the Black Rose Karlach (Karlach)**<img src="images/skin_models/knightoftheblackrosekarlach.webp" alt="Knight of the Black Rose Karlach Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
-            Dragonlance Karlach
+            Knight of the Black Rose Karlach
         </span>
         <span class="skinTableSource">
-            Dragonlance Karlach Skin & Feat Pack
+            Knight of the Black Rose Karlach Skin & Feat Pack
         </span>
         <span class="skinTableCost">
             1,680p

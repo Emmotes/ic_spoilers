@@ -358,10 +358,10 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 690</div>
-### Mage of the White Robes Orkira Skin & Feat Pack - 1,680 Platinum  
+### Order of the White Robes Orkira Skin & Feat Pack - 1,680 Platinum  
 Date of release: 18 Mar 2026
 
-> Unlock Orkira along with her exclusive Mage of the White Robes Skin & Feat!
+> Unlock Orkira along with her exclusive Order of the White Robes Skin & Feat!
 
 Contents:
 
@@ -377,11 +377,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 669**Mage of the White Robes Orkira (Orkira)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 669**Order of the White Robes Orkira (Orkira)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Mage of the White Robes Orkira</span>
+            <span style="margin-left:15px">Order of the White Robes Orkira</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -429,10 +429,10 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 691</div>
-### Dragonlance Karlach Skin & Feat Pack - 1,680 Platinum  
+### Knight of the Black Rose Karlach Skin & Feat Pack - 1,680 Platinum  
 Date of release: 25 Mar 2026
 
-> Unlock Karlach along with her exclusive Dragonlance Skin & Feat!
+> Unlock Karlach along with her exclusive Knight of the Black Rose Skin & Feat!
 
 Contents:
 
@@ -448,11 +448,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Dragonlance Karlach Skin Portrait](images/premiums/skin_670.png)<span class="itemTooltipContents">ID: 670**Dragonlance Karlach (Karlach)**<img src="images/premiums/skin_670.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Knight of the Black Rose Karlach Skin Portrait](images/premiums/skin_670.png)<span class="itemTooltipContents">ID: 670**Knight of the Black Rose Karlach (Karlach)**<img src="images/premiums/skin_670.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Dragonlance Karlach</span>
+            <span style="margin-left:15px">Knight of the Black Rose Karlach</span>
         </span>
     </span>
     <span class="premiumsTableItem">
