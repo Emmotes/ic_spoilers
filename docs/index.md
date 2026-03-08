@@ -323,7 +323,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* Emergence 15 - 22 April 2026
+* [Emergence 15](emergence_15.md) - 22 April 2026
 * [Bastion](bastion.md) - ???
 
 # Misc
