@@ -621,7 +621,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="16,35,56,0,0,325,0,243">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="16,35,56,0,0,325,0,243">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2027-03-05</label>
+        <input type="checkbox" disabled checked><label class="cblabel">Until 2027-03-06</label>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="16,35,56,0,0,325,0,243">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="17,40,109,325,325,323,323,0">&nbsp;</span>
@@ -3921,7 +3921,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="116,96,0,0,325,0,323,211">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="116,96,0,0,325,0,323,211">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-05-01</label>
+        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-05-02</label>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="116,96,0,0,325,0,323,211">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="117,46,56,0,325,323,323,213">&nbsp;</span>
@@ -3954,7 +3954,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="117,46,56,0,325,323,323,213">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="117,46,56,0,325,323,323,213">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-05-22</label>
+        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-05-23</label>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="117,46,56,0,325,323,323,213">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="118,11,29,325,324,325,324,215">&nbsp;</span>
@@ -3987,7 +3987,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="118,11,29,325,324,325,324,215">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="118,11,29,325,324,325,324,215">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-06-05</label>
+        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-06-06</label>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="118,11,29,325,324,325,324,215">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="119,128,135,325,323,323,325,217">&nbsp;</span>
@@ -4020,7 +4020,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="119,128,135,325,323,323,325,217">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="119,128,135,325,323,323,325,217">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-06-26</label>
+        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-06-27</label>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="119,128,135,325,323,323,325,217">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="120,142,83,325,0,325,0,221">&nbsp;</span>
@@ -4053,7 +4053,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="120,142,83,325,0,325,0,221">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="120,142,83,325,0,325,0,221">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-07-24</label>
+        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-07-25</label>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="120,142,83,325,0,325,0,221">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="121,80,15,325,325,0,0,223">&nbsp;</span>
@@ -4185,7 +4185,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="124,28,56,325,323,325,325,227">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="124,28,56,325,323,325,325,227">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-09-25</label>
+        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-09-26</label>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="124,28,56,325,323,325,325,227">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="125,132,0,0,323,323,325,229">&nbsp;</span>
@@ -4218,7 +4218,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="125,132,0,0,323,323,325,229">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="125,132,0,0,323,323,325,229">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-10-16</label>
+        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-10-17</label>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="125,132,0,0,323,323,325,229">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="126,65,96,0,0,325,0,231">&nbsp;</span>
@@ -4251,7 +4251,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="126,65,96,0,0,325,0,231">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="126,65,96,0,0,325,0,231">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-11-06</label>
+        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-11-07</label>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="126,65,96,0,0,325,0,231">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="127,118,70,323,325,0,0,233">&nbsp;</span>
@@ -4284,7 +4284,7 @@ A list of all champions and their patron availability.
     </span>
     <span class="patronRosterItem" data-sort="127,118,70,323,325,0,0,233">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="127,118,70,323,325,0,0,233">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-11-27</label>
+        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-11-28</label>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="127,118,70,323,325,0,0,233">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="128,155,147,325,325,325,323,235">&nbsp;</span>
