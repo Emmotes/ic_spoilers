@@ -35,23 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Nordom</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Plumbing Wizardry Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2376**Plumbing Wizardry (Nordom)**It looks like you're attempting to achieve supercharged output. Would you like help?<br><br><span style="color:var(--Flavescent)">Increases the effect of Nordom's The Great Modron Puzzle ability by 80%.</span><code>buff_upgrade,80,18165</code></span>Plumbing Wizardry
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Nordom's The Great Modron Puzzle ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">10 Mar 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Regis</span>
         </span>
         <span class="featTableIcon4">
@@ -510,55 +493,10 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
-                ![XBox Giveaway Jang Sao's Champions of Renown Pack Icon](images/general/xbox.png)**XBox Giveaway** - Jang Sao's Champions of Renown Pack
-            </span>
-        </span>
-        <span id="g1" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Striker the Blood Hawk Familiar Icon](images/exclusivities/fam_300.png)<span class="featTooltipContents">ID: 300**Striker the Blood Hawk**Beware the screech of Striker!<br><img src="images/exclusivities/fam_300.webp" alt="Striker the Blood Hawk Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Familiar**</span>
-                        <span style="margin-left:15px">Striker the Blood Hawk</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>03 December 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>10 December 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>10 March 2026 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
                 ![Years End Giveaway Winterfest Celebration Icon](images/general/years end.png)**Years End Giveaway** - Winterfest Celebration
             </span>
         </span>
-        <span id="g2" class="postSeasonTableRowShowHide" hidden>
+        <span id="g1" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -597,13 +535,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
+                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![EGS Giveaway Cozy Dark Urge Party Pack Icon](images/general/egs.png)**EGS Giveaway** - Cozy Dark Urge Party Pack
             </span>
         </span>
-        <span id="g3" class="postSeasonTableRowShowHide" hidden>
+        <span id="g2" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -758,13 +696,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
+                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![Dragonlance Giveaway Dragonlance Celebration Icon](images/general/dragonlance.png)**Dragonlance Giveaway** - Dragonlance Celebration
             </span>
         </span>
-        <span id="g4" class="postSeasonTableRowShowHide" hidden>
+        <span id="g3" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -803,13 +741,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g5a" onclick="exclusiveToggleContent(`g5`)">
+                <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![EGS Giveaway Raistlin's Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Raistlin's Renown Pack
             </span>
         </span>
-        <span id="g5" class="postSeasonTableRowShowHide" hidden>
+        <span id="g4" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
