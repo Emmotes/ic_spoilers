@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Bard of the Dragon Queen Deekin Portrait](images/skin_portraits/bardofthedragonqueendeekin.png)<span class="featTooltipContents">ID: 664**Bard of the Dragon Queen Deekin (Deekin)**<img src="images/skin_models/bardofthedragonqueendeekin.webp" alt="Bard of the Dragon Queen Deekin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Bard of the Dragon Queen Deekin
-        </span>
-        <span class="skinTableSource">
-            Bard of the Dragon Queen Deekin Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            11 Mar 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Heroic Sheila Portrait](images/skin_portraits/heroicsheila.png)<span class="featTooltipContents">ID: 666**Heroic Sheila (Sheila)**<img src="images/skin_models/heroicsheila.webp" alt="Heroic Sheila Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Heroic Sheila
-        </span>
-        <span class="skinTableSource">
-            Heroic Sheila Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            11 Mar 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Knight of The Rose Zorbu Portrait](images/skin_portraits/knightoftherosezorbu.png)<span class="featTooltipContents">ID: 665**Knight of The Rose Zorbu (Zorbu)**<img src="images/skin_models/knightoftherosezorbu.webp" alt="Knight of The Rose Zorbu Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Knight of The Rose Zorbu
-        </span>
-        <span class="skinTableSource">
-            Knight of The Rose Zorbu Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            11 Mar 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Desmondlance Desmond Portrait](images/skin_portraits/desmondlancedesmond.png)<span class="featTooltipContents">ID: 668**Desmondlance Desmond (Desmond)**<img src="images/skin_models/desmondlancedesmond.webp" alt="Desmondlance Desmond Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -117,7 +66,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             Baeloth the Entertainer
         </span>
         <span class="skinTableSource">
-            ???
+            Tales of the Champions (Guess)
         </span>
         <span class="skinTableCost">
             ???
@@ -134,7 +83,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             Raven Queen Shadowheart
         </span>
         <span class="skinTableSource">
-            ???
+            Tales of the Champions (Guess)
         </span>
         <span class="skinTableCost">
             ???

@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Drone of Dooooom Portrait](images/familiars/droneofdooooom.png)<span class="featTooltipContents">ID: 312**Drone of Dooooom**Bards can't share their stories all alone…<img src="images/familiars/droneofdooooom.webp" alt="Drone of Dooooom Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Drone of Dooooom
-        </span>
-        <span class="skinTableSource">
-            Bard of the Dragon Queen Deekin Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            11 Mar 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Seeker the Star Angler Portrait](images/familiars/seekerthestarangler.png)<span class="featTooltipContents">ID: 314**Seeker the Star Angler**Just watch out when her teeth grow in!<img src="images/familiars/seekerthestarangler.webp" alt="Seeker the Star Angler Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
