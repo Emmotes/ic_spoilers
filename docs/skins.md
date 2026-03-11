@@ -162,7 +162,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Green Knight Briv Portrait](images/skin_portraits/greenknightbriv.png)<span class="featTooltipContents">ID: 675**Green Knight Briv (Briv)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Green Knight Briv Portrait](images/skin_portraits/greenknightbriv.png)<span class="featTooltipContents">ID: 675**Green Knight Briv (Briv)**<img src="images/skin_models/greenknightbriv.webp" alt="Green Knight Briv Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Green Knight Briv
