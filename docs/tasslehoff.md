@@ -127,7 +127,7 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
             "type": "ranged_attack",
             "projectile": "pd_generic_projectile",
             "shoot_offset_x": 48,
-            "shoot_offset_y": -115,
+            "shoot_offset_y": -65,
             "shoot_frame": 31,
             "shoot_sound": 149,
             "hit_sound": 133,
@@ -192,9 +192,7 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: I'm Not the Hero** (Guess)
 > Tasslehoff encourages the next Champion to use their ultimate to deal 400% more damage with that ultimate.  
-> Cooldown: 3.5s (Cap 0.875s)
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: Very short ultimate cooldowns are almost always for testing purposes and are likely to be increased later.*
+> Cooldown: 120s (Cap 30s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -208,20 +206,22 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 3.5,
+    "cooldown": 120,
     "animations": [
         {
             "type": "tasslehoff_ultimate",
-            "bonus_half_time_effect": {
-                "effect_string": "global_dps_multiplier_mult,400"
-            }
+            "no_damage_display": true,
+            "jump_pos": [
+                50,
+                680
+            ]
         }
     ],
     "tags": [
-        "ranged"
+        "ultimate"
     ],
     "damage_types": [
-        "ranged"
+        "magic"
     ]
 }
 </pre>
@@ -245,7 +245,8 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
     },
     "effect_keys": [
         {
-            "effect_string": "hero_stun_immunity"
+            "effect_string": "hero_stun_immunity",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -254,7 +255,7 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": true
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -319,7 +320,7 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Borrower** (Guess)
-> Each time the party completes an area and moves to the next one, Tasslehoff somehow comes into possession of some future quest items, setting his Found Item stacks to 7. When Tasslehoff attacks an enemy that can drop quest items, there is a 10% chance he spends a Found Item stack and adds a quest item to the party's quest progress.
+> Each time the party completes an area, Tasslehoff somehow comes into possession of some future quest items, setting his Found Item stacks to 7. When Tasslehoff attacks an enemy that can drop quest items, there is a 10% chance he spends a Found Item stack and adds a quest item to the party's quest progress.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -327,14 +328,16 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
     "id": 2644,
     "flavour_text": "",
     "description": {
-        "desc": "Each time the party completes an area and moves to the next one, Tasslehoff somehow comes into possession of some future quest items, setting his Found Item stacks to 7. When Tasslehoff attacks an enemy that can drop quest items, there is a $amount% chance he spends a Found Item stack and adds a quest item to the party's quest progress."
+        "desc": "Each time the party completes an area, Tasslehoff somehow comes into possession of some future quest items, setting his Found Item stacks to 7. When Tasslehoff attacks an enemy that can drop quest items, there is a $amount% chance he spends a Found Item stack and adds a quest item to the party's quest progress."
     },
     "effect_keys": [
         {
-            "effect_string": "tasslehoff_borrower,10"
+            "effect_string": "tasslehoff_borrower,10",
+            "off_when_benched": true
         },
         {
             "effect_string": "do_nothing,0",
+            "off_when_benched": true,
             "manual_stacking": true,
             "stack_title": "Found Items",
             "show_stacks": true,
@@ -543,7 +546,8 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
                 "slot_changed"
             ],
             "stack_title": "Old Friends",
-            "show_bonus": true
+            "show_bonus": true,
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -582,7 +586,8 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
                 "slot_changed"
             ],
             "stack_title": "Fast Friends",
-            "show_bonus": true
+            "show_bonus": true,
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -621,7 +626,8 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
                 "slot_changed"
             ],
             "stack_title": "Small Friends",
-            "show_bonus": true
+            "show_bonus": true,
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -670,7 +676,7 @@ Unknown.
 > You may only use Champions that have positional formation abilities.  
 > Only Tasslehoff and Champions not next to him can deal damage.  
 > 1-2 Baaz Draconians spawn with each wave. They don't drop gold nor count towards quest progress.  
-> In each boss area, a Sivak Draconian boss spawns as part of the first wave. (Monster ID 2335) It must also be defeated to progress.  
+> In each boss area, a Sivak Draconian boss spawns as part of the first wave. It must also be defeated to progress.  
 > <b>Getting to Know Tasslehoff:</b> Tasslehoff's Diversion ability turns off positional formation buffs affecting his slot and neighboring slots, but his buff increases in power each time that happens. Place your damage dealer away from Tasslehoff to get the most of this!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
