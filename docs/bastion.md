@@ -10,6 +10,18 @@ The assumption is that this will be some kind of new-player onboarding system.
 
 # Known Rooms
 
+## Extwalls
+
+Some graphics were found that had the format `Bastion/Rooms/Extwalls/...`:
+
+> [bastion_extwall_door.png](images/bastion/rooms/extwalls/bastion_extwall_door.png){:target="_blank"}  
+> [bastion_extwall_panel.png](images/bastion/rooms/extwalls/bastion_extwall_panel.png){:target="_blank"}  
+> [bastion_extwall_panelcorner.png](images/bastion/rooms/extwalls/bastion_extwall_panelcorner.png){:target="_blank"}  
+> [bastion_extwall_pillar.png](images/bastion/rooms/extwalls/bastion_extwall_pillar.png){:target="_blank"}  
+> [bastion_extwall_pillarcorner.png](images/bastion/rooms/extwalls/bastion_extwall_pillarcorner.png){:target="_blank"}  
+> [bastion_extwall_sidewall.png](images/bastion/rooms/extwalls/bastion_extwall_sidewall.png){:target="_blank"}  
+> [bastion_extwall_window.png](images/bastion/rooms/extwalls/bastion_extwall_window.png){:target="_blank"}  
+
 ## Guild
 
 Some graphics were found that had the format `Bastion/Rooms/Guild/...`:
