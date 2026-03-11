@@ -443,6 +443,23 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Deekin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Spotlight Performer Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2509**Spotlight Performer (Deekin)**Deekin ready for anything! All eyes on Deekin! DoOoOoOoM!<br><br><span style="color:var(--Flavescent)">Increases the effect of Deekin's Middle of the Action ability by 80%. (Prestack)</span><code>buff_upgrade,80,18859</code></span>Spotlight Performer
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Deekin's Middle of the Action ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Gale</span>
         </span>
         <span class="featTableIcon4">
@@ -475,6 +492,57 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">04 Jun 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Deekin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Story of DOOOOM Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2557**Story of DOOOOM (Deekin)**Doomy doomy doom doom<br><br><span style="color:var(--Flavescent)">Increases the base effect of Deekin's Story of Doom ability by 80%. (Prestack)</span><code>buff_upgrade,80,18855,0</code></span>Story of DOOOOM
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the base effect of Deekin's Story of Doom ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">11 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Sheila</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Old Tricks Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2477**Old Tricks (Sheila)**You'd think they would have learned by now.<br><br><span style="color:var(--Flavescent)">Increases the effect of Sheila's second set of Specializations by 80%.</span><code>buff_upgrades,80,16544,16545,16546</code></span>Old Tricks
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Sheila's second set of Specializations by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">11 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Zorbu</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Hunter's Oath Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2476**Hunter's Oath (Zorbu)**I vow to protect this world from those who would despoil it.<br><br><span style="color:var(--Flavescent)">Increases the effect of Zorbu's Focused Fury ability by 80%.</span><code>buff_upgrade,80,12990</code></span>Hunter's Oath
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Zorbu's Focused Fury ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">11 Jun 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -493,55 +561,10 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
-                ![Years End Giveaway Winterfest Celebration Icon](images/general/years end.png)**Years End Giveaway** - Winterfest Celebration
-            </span>
-        </span>
-        <span id="g1" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Cozy Tess Skin Icon](images/exclusivities/skin_28270.png)<span class="featTooltipContents">ID: 634**Cozy Tess (Tess)**<img src="images/exclusivities/skin_28273.webp" alt="Cozy Tess Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Cozy Tess</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>04 December 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>11 December 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>11 March 2026 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
                 ![EGS Giveaway Cozy Dark Urge Party Pack Icon](images/general/egs.png)**EGS Giveaway** - Cozy Dark Urge Party Pack
             </span>
         </span>
-        <span id="g2" class="postSeasonTableRowShowHide" hidden>
+        <span id="g1" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -696,13 +719,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
+                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![Dragonlance Giveaway Dragonlance Celebration Icon](images/general/dragonlance.png)**Dragonlance Giveaway** - Dragonlance Celebration
             </span>
         </span>
-        <span id="g3" class="postSeasonTableRowShowHide" hidden>
+        <span id="g2" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -741,13 +764,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
+                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![EGS Giveaway Raistlin's Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Raistlin's Renown Pack
             </span>
         </span>
-        <span id="g4" class="postSeasonTableRowShowHide" hidden>
+        <span id="g3" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
