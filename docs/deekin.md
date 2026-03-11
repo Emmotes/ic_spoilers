@@ -220,7 +220,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Epic Tale** (Guess)
-> When you complete an area with Deekin in the formation, he sets his Current Events stacks to the area number. The effect of Story of Doom is increased by 2.5% for each Current Events stack, stacking multiplicatively.
+> When you complete an area with Deekin in the formation, he sets his Current Events stacks to the area number. The effect of Story of Doom is increased by 2% for each Current Events stack, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -232,7 +232,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,2.5,18855",
+            "effect_string": "buff_upgrade,2,18855",
             "stack_title": "Current Event stacks",
             "show_bonus": true,
             "amount_func": "mult",
