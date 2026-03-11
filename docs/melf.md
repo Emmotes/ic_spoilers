@@ -26,23 +26,31 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Melf in the Middle** (Guess)
-> Unknown.
+**Melf's Custom Support spell** (Guess)
+> Melf creates a custom spell to assist the formation. It increases the damage of adjacent Champions by 100%, and will be augmented based on the specialization you pick for Melf.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28901,
-    "graphic": "Icons/Champions/Rebalance/Melf/Icon_Formation_Melf_MelfInTheMiddle",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
+    "id": 2682,
+    "flavour_text": "",
+    "description": {
+        "desc": "Melf creates a custom spell to assist the formation. It increases the damage of adjacent Champions by $amount%, and will be augmented based on the specialization you pick for Melf."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "adj"
+            ]
+        }
+    ],
+    "requirements": [],
+    "graphic_id": 28902,
+    "large_graphic_id": 28900,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -51,23 +59,75 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Melf's Custom Support spell** (Guess)
-> Unknown.
+**Melf in the Middle** (Guess)
+> Melf increases the range of Melf's Custom Support Spell by 2 and the effect of Melf's Custom Support Spell by 100% if Melf is in the column in the formation with the most Champions. In the event of a formation with multiple columns of the same size, Melf can be in any of them.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28902,
-    "graphic": "Icons/Champions/Rebalance/Melf/Icon_Formation_Melf_MelfsCustomSupportSpell",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
+    "id": 2683,
+    "flavour_text": "",
+    "description": {
+        "desc": "Melf increases the range of Melf's Custom Support Spell by 2 and the effect of Melf's Custom Support Spell by $amount% if Melf is in the column in the formation with the most Champions. In the event of a formation with multiple columns of the same size, Melf can be in any of them."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,19336"
+        },
+        {
+            "effect_string": "change_upgrade_targets,19336",
+            "new_targets": {
+                "type": "distance",
+                "distance": 3
+            },
+            "effect_index": 0
+        }
+    ],
+    "requirements": [],
+    "graphic_id": 28901,
+    "large_graphic_id": 28899,
+    "properties": {
+        "is_formation_ability": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "show_incoming": false,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Melf's Righteous Determination** (Guess)
+> Melf knows exactly what evil is. Whenever an enemy spawns, or is attacked by Melf, it has a 50% chance of being deemed "evil".  Enemies that are deemed evil take 400% more damage from all attacks that deal BUD-based damage (such as Ultimate Attacks).
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2696,
+    "flavour_text": "",
+    "description": {
+        "desc": "Melf knows exactly what evil is. Whenever an enemy spawns, or is attacked by Melf, it has a 50% chance of being deemed \"evil\".  Enemies that are deemed evil take 400% more damage from all attacks that deal BUD-based damage (such as Ultimate Attacks)."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "melf_righteous_determination,400",
+            "non_evil_invulnerable_adventures": [
+                486
+            ],
+            "all_vulnerable_marked": true,
+            "reworked": true,
+            "debuff_effect_id": 2697
+        }
+    ],
+    "requirements": [],
+    "graphic_id": 7475,
+    "large_graphic_id": 7470,
+    "properties": {
+        "is_formation_ability": true,
+        "use_outgoing_description": true
     }
 }
 </pre>
