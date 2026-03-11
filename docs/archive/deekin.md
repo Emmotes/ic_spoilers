@@ -17,7 +17,7 @@ A former member of the Dripping Fang clan, Deekin was once a Skald for a White D
 
 # Changes
 
-Deekin will be a reworked champion in the Fleetswake event and delayed until 11 March 2026.
+Deekin will be a reworked champion in the Festival of Fools event and delayed until 8 April 2026.
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 

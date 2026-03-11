@@ -6,6 +6,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 
 * [Anson Iro](archive/anson.md)
 * [Binwin](archive/binwin.md)
+* [Deekin](archive/deekin.md)
 * [Donaar](archive/donaar.md)
 * [Emergence 12](archive/emergence_12.md)
 * [Emergence 13](archive/emergence_13.md)
