@@ -65,6 +65,9 @@ These are the event champions that are upcoming and all the information we know 
                 <span class="indexChampionTableNoLink">The Great Modron March - 6 May 2026</span>
             </span>
         </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -277,6 +280,9 @@ These are the upcoming new and reworked champions and where they'll be found.
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
 {::nomarkdown}

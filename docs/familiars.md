@@ -56,6 +56,74 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             27 Mar 2026
         </span>
     </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 317**Dragon Orb of Palanthas**Those who try to wield an orb’s magic but lack sufficient force of personality might find themselves under the orb’s control.</span></span>
+        </span>
+        <span class="skinTableName">
+            Dragon Orb of Palanthas
+        </span>
+        <span class="skinTableSource">
+            Dragon Orb of Palanthas Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,140p
+        </span>
+        <span class="skinTableDate">
+            01 Apr 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Oops the Mouse Portrait](images/familiars/oopsthemouse.png)<span class="featTooltipContents">ID: 316**Oops the Mouse**Oops!<img src="images/familiars/oopsthemouse.webp" alt="Oops the Mouse Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Oops the Mouse
+        </span>
+        <span class="skinTableSource">
+            Wanderlust Tasslehoff Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            01 Apr 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Birdie the Peacock Portrait](images/familiars/birdiethepeacock.png)<span class="featTooltipContents">ID: 318**Birdie the Peacock**"I wish I were a birdie."<img src="images/familiars/birdiethepeacock.webp" alt="Birdie the Peacock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Birdie the Peacock
+        </span>
+        <span class="skinTableSource">
+            Strelitzia Lucius Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            08 Apr 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 319**Bloom the Dryad**Likes pretty songs and likes to sing along.</span></span>
+        </span>
+        <span class="skinTableName">
+            Bloom the Dryad
+        </span>
+        <span class="skinTableSource">
+            Bloom the Dryad Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            15 Apr 2026
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)

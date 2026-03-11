@@ -111,10 +111,10 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Order of the Black Robes Shadowheart Portrait](images/skin_portraits/orderoftheblackrobesshadowheart.png)<span class="featTooltipContents">ID: 673**Order of the Black Robes Shadowheart (Shadowheart)**<img src="images/skin_models/orderoftheblackrobesshadowheart.webp" alt="Order of the Black Robes Shadowheart Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Baeloth the Entertainer Portrait](images/skin_portraits/baeloththeentertainer.png)<span class="featTooltipContents">ID: 672**Baeloth the Entertainer (Baeloth)**<img src="images/skin_models/baeloththeentertainer.webp" alt="Baeloth the Entertainer Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
-            Order of the Black Robes Shadowheart
+            Baeloth the Entertainer
         </span>
         <span class="skinTableSource">
             ???
@@ -128,19 +128,206 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Knight of the Black Rose Karlach Portrait](images/skin_portraits/knightoftheblackrosekarlach.png)<span class="featTooltipContents">ID: 670**Knight of the Black Rose Karlach (Karlach)**<img src="images/skin_models/knightoftheblackrosekarlach.webp" alt="Knight of the Black Rose Karlach Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Raven Queen Shadowheart Portrait](images/skin_portraits/ravenqueenshadowheart.png)<span class="featTooltipContents">ID: 673**Raven Queen Shadowheart (Shadowheart)**<img src="images/skin_models/ravenqueenshadowheart.webp" alt="Raven Queen Shadowheart Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
-            Knight of the Black Rose Karlach
+            Raven Queen Shadowheart
         </span>
         <span class="skinTableSource">
-            Knight of the Black Rose Karlach Skin & Feat Pack
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            25 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Death Knight Karlach Portrait](images/skin_portraits/deathknightkarlach.png)<span class="featTooltipContents">ID: 670**Death Knight Karlach (Karlach)**<img src="images/skin_models/deathknightkarlach.webp" alt="Death Knight Karlach Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Death Knight Karlach
+        </span>
+        <span class="skinTableSource">
+            Death Knight Karlach Skin & Feat Pack
         </span>
         <span class="skinTableCost">
             1,680p
         </span>
         <span class="skinTableDate">
             25 Mar 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Green Knight Briv Portrait](images/skin_portraits/greenknightbriv.png)<span class="featTooltipContents">ID: 675**Green Knight Briv (Briv)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+        </span>
+        <span class="skinTableName">
+            Green Knight Briv
+        </span>
+        <span class="skinTableSource">
+            Green Knight Briv Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            01 Apr 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Wanderlust Tasslehoff Portrait](images/skin_portraits/wanderlusttasslehoff.png)<span class="featTooltipContents">ID: 674**Wanderlust Tasslehoff (Tasslehoff)**<img src="images/skin_models/wanderlusttasslehoff.webp" alt="Wanderlust Tasslehoff Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Wanderlust Tasslehoff
+        </span>
+        <span class="skinTableSource">
+            Wanderlust Tasslehoff Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            01 Apr 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 677**Scarlet Briar Miria (Miria)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Scarlet Briar Miria
+        </span>
+        <span class="skinTableSource">
+            Scarlet Briar Miria Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            08 Apr 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Strelitzia Lucius Portrait](images/skin_portraits/strelitzialucius.png)<span class="featTooltipContents">ID: 676**Strelitzia Lucius (Lucius)**<img src="images/skin_models/strelitzialucius.webp" alt="Strelitzia Lucius Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Strelitzia Lucius
+        </span>
+        <span class="skinTableSource">
+            Strelitzia Lucius Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            08 Apr 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 678**Wildflower Aila (Aila)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Wildflower Aila
+        </span>
+        <span class="skinTableSource">
+            Wildflower Aila Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            08 Apr 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 679**Cosmic Horror Grimm (Grimm)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Cosmic Horror Grimm
+        </span>
+        <span class="skinTableSource">
+            Cosmic Horror Grimm Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            15 Apr 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 680**Springtime Spurt (Spurt)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Springtime Spurt
+        </span>
+        <span class="skinTableSource">
+            Springtime Spurt Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            15 Apr 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 681**Cosmic Horror Beadle (Beadle)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Cosmic Horror Beadle
+        </span>
+        <span class="skinTableSource">
+            Cosmic Horror Beadle Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            22 Apr 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 682**Knight of the Crown Bobby (Bobby)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Knight of the Crown Bobby
+        </span>
+        <span class="skinTableSource">
+            Knight of the Crown Bobby Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            29 Apr 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 683**Raistlin Cosplay Farideh (Farideh)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Raistlin Cosplay Farideh
+        </span>
+        <span class="skinTableSource">
+            Raistlin Cosplay Farideh Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            29 Apr 2026
         </span>
     </span>
 </span>

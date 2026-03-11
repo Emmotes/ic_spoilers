@@ -64,6 +64,40 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Deekin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Spotlight Performer Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2509**Spotlight Performer (Deekin)**Deekin ready for anything! All eyes on Deekin! DoOoOoOoM!<br><br><span style="color:var(--Flavescent)">Increases the effect of Deekin's Middle of the Action ability by 80%. (Prestack)</span><code>buff_upgrade,80,18859</code></span>Spotlight Performer
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Deekin's Middle of the Action ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">11 Mar 2026<br>04 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Deekin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Story of DOOOOM Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2557**Story of DOOOOM (Deekin)**Doomy doomy doom doom<br><br><span style="color:var(--Flavescent)">Increases the base effect of Deekin's Story of Doom ability by 80%. (Prestack)</span><code>buff_upgrade,80,18855,0</code></span>Story of DOOOOM
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the base effect of Deekin's Story of Doom ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">11 Mar 2026<br>11 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Desmond</span>
         </span>
         <span class="featTableIcon4">
@@ -135,10 +169,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Baeloth</span>
         </span>
         <span class="featTableIcon4">
-            ![Resolute Icon](images/featicons/stunimmunity.png)<span class="featTooltipContents">ID: 2500**Resolute (Baeloth)**The show. MUST. Go on.<br><br><span style="color:var(--Flavescent)">Grants Strongheart immunity to stun effects.</span><code>hero_stun_immunity</code></span>Resolute
+            ![Resolute Icon](images/featicons/stunimmunity.png)<span class="featTooltipContents">ID: 2500**Resolute (Baeloth)**The show. MUST. Go on.<br><br><span style="color:var(--Flavescent)">Grants Baeloth immunity to stun effects.</span><code>hero_stun_immunity</code></span>Resolute
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Grants Strongheart immunity to stun effects.</span>
+            <span class="featTableInner">Grants Baeloth immunity to stun effects.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Tales of the Champions</span>
@@ -166,6 +200,91 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Briv</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Baatorian Bones Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2354**Baatorian Bones (Briv)**Mine durability rivaleth even Baatorian green steel!<br><br><span style="color:var(--Flavescent)">Every third stack of Steelbones earned by Briv adds an additional stack.</span><code>NEW_TECH</code></span>Baatorian Bones
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Every third stack of Steelbones earned by Briv adds an additional stack.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Apr 2026<br>01 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Aila</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Sentinel Icon](images/featicons/overhelm.png)<span class="featTooltipContents">ID: 2363**Sentinel (Aila)**Even flowers must endure the storm.<br><br><span style="color:var(--Flavescent)">Aila takes 20 more Enemies attacking to get overwhelmed.</span><code>overwhelm_start_increase,20</code></span>Sentinel
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Aila takes 20 more Enemies attacking to get overwhelmed.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">08 Apr 2026<br>08 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Miria</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2359**Prodigal Leader (Miria)**Be a good minion and obey.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +50%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">08 Apr 2026<br>08 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Grimm</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Buffed Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2347**Buffed Up (Grimm)**It'll all be over in just one swing. ~Grimm<br><br><span style="color:var(--Flavescent)">Increases the effect of Grimm's Get Buff ability by 80%. (Prestack)</span><code>buff_upgrade,80,16735</code></span>Buffed Up
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Grimm's Get Buff ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">15 Apr 2026<br>15 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Spurt</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2559**Corpse Stench (Spurt)**Bath? What's that?<br><br><span style="color:var(--Flavescent)">Spurt always counts as Undead, even when not in Spirit form.</span><code>add_hero_tags,0,undead<br>buff_upgrade_per_any_tagged_crusader,20,10678,undead</code></span>Corpse Stench
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Spurt always counts as Undead, even when not in Spirit form.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">15 Apr 2026<br>15 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Raistlin</span>
         </span>
         <span class="featTableIcon4">
@@ -175,10 +294,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Raistlin fires two additional magic missiles with his base attack.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Emergence 15</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">29 Apr 2026</span>
+            <span class="featTableInner">22 Apr 2026</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -192,10 +311,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Increases the base chance of Stunning Strike up to 200%.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Emergence 15</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">29 Apr 2026</span>
+            <span class="featTableInner">22 Apr 2026</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -209,10 +328,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Increases the effect of Binwin's specialization abilities by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Emergence 15</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">29 Apr 2026</span>
+            <span class="featTableInner">22 Apr 2026</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -226,10 +345,112 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Enemies that attempt to attack this Champion will instead attack a different Champion, if possible.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Emergence 15</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">29 Apr 2026</span>
+            <span class="featTableInner">22 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Barrowin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Wound Master Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 2555**Wound Master (Barrowin)**Don't go dying on me now. Plenty of work to do.<br><br><span style="color:var(--Flavescent)">Increases the effect of Barrowin's Healing Word ability by 60%.</span><code>buff_upgrade,60,10686</code></span>Wound Master
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Barrowin's Healing Word ability by 60%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Tales of the Champions</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Kalix</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Hunt the Monstrous Icon](images/featicons/favoredfoe.png)<span class="featTooltipContents">ID: 2553**Hunt the Monstrous (Kalix)**No matter their form, they all bleed the same.<br><br><span style="color:var(--Flavescent)">Add Monstrositity as a favored foe for Kalix.</span><code>favored_foe,monstrous</code></span>Hunt the Monstrous
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Add Monstrositity as a favored foe for Kalix.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Tales of the Champions</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Kalix</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Apex Predator Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2554**Apex Predator (Kalix)**Your end approaches. Bear witness.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kalix's The Deadliest Prey ability by 80%.</span><code>buff_upgrade,80,16520,1</code></span>Apex Predator
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Kalix's The Deadliest Prey ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Tales of the Champions</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Beadle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Buckle Down Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2560**Buckle Down (Beadle)**When the going gets tough, I make sure Grimm gets going. ~Beadle<br><br><span style="color:var(--Flavescent)">Increases the effect of Beadle's Share The Glory ability by 80%.</span><code>buff_upgrade,80,16724,1</code></span>Buckle Down
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Beadle's Share The Glory ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Apr 2026<br>22 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Bobby</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Playground Boss Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2561**Playground Boss (Bobby)**The best games are the ones where the rules are different every time you play!<br><br><span style="color:var(--Flavescent)">Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed specializations by 80%. (Prestack)</span><code>buff_upgrade,80,15449,0<br>buff_upgrade,80,15450,0<br>buff_upgrade,80,15451,0</code></span>Playground Boss
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Apr 2026<br>29 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Farideh</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Magius Infernus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2562**Magius Infernus (Farideh)**Cast enough fireballs, and most problems tend to go away.<br><br><span style="color:var(--Flavescent)">Increases the effect of Farideh's specializations by 80%.</span><code>buff_upgrades,80,17839,17840,17841</code></span>Magius Infernus
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Farideh's specializations by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Apr 2026<br>29 Jul 2026</span>
         </span>
     </span>
 </span>
