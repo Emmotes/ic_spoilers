@@ -800,7 +800,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stack_title": "Dichromancy Stacks",
             "manual_stacking": true,
             "stacks_multiply": true,
-            "stacks_on_trigger": "lucius_elemental_adept_triggered",
+            "stacks_on_trigger": "lucius_elemental_adept_explosion_triggered",
             "more_triggers": [
                 {
                     "trigger": "area_changed",
