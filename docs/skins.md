@@ -43,7 +43,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 669**Order of the White Robes Orkira (Orkira)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Order of the White Robes Orkira Portrait](images/skin_portraits/orderofthewhiterobesorkira.png)<span class="featTooltipContents">ID: 669**Order of the White Robes Orkira (Orkira)**<img src="images/skin_models/orderofthewhiterobesorkira.webp" alt="Order of the White Robes Orkira Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Order of the White Robes Orkira
