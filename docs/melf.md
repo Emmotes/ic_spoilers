@@ -23,10 +23,102 @@ Only abilities that have seen some changes will be displayed here - and be aware
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. That and we don't have access to any upgrade data prior to release. Making assumptions on how the champions will turn out based on this information would be premature.
 
+# Attacks
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Zagyg's Throwing Needle** (Guess)
+> Melf throws his magic spear at the nearest enemy. If Melf has any Minute Meteors active, he fires one at a random enemy as well.  
+> Cooldown: 5s (Cap 1.25s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 964,
+    "name": "Zagyg's Throwing Needle",
+    "description": "Melf throws his magic spear at the nearest enemy. If Melf has any Minute Meteors active, he fires one at a random enemy as well.",
+    "long_description": "Melf throws his magic spear at the nearest enemy. If Melf has any Minute Meteors active, he fires one at a random enemy as well.",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 5,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "animation_sequence_name": "attack_b",
+            "shoot_offset_y": -50,
+            "shoot_frame": 4,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "35c75d75b9a92abd8ea618bfdcb68198",
+                "target_offset_y": 0,
+                "projectile_speed": 2400,
+                "projectile_graphic_id": 28921,
+                "use_auto_rotation": true,
+                "percent_height_offset": 8
+            }
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "ranged"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Melf's Acid Arrow** (Guess)
+> Melf casts his most famous spell at the nearest enemy. If Melf has any Minute Meteors active, he fires one at a random enemy as well.  
+> Cooldown: 5s (Cap 1.25s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 965,
+    "name": "Melf's Acid Arrow",
+    "description": "Melf casts his most famous spell at the nearest enemy. If Melf has any Minute Meteors active, he fires one at a random enemy as well.",
+    "long_description": "Melf casts his most famous spell at the nearest enemy. If Melf has any Minute Meteors active, he fires one at a random enemy as well.",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 5,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "acid_arrow",
+            "animation_sequence_name": "attack_c",
+            "shoot_frame": 10,
+            "projectile_count": 1,
+            "shoot_offset_x": 140,
+            "shoot_offset_y": -70
+        }
+    ],
+    "tags": [
+        "magic"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Melf's Custom Support spell** (Guess)
+**Melf's Custom Support Spell** (Guess)
 > Melf creates a custom spell to assist the formation. It increases the damage of adjacent Champions by 100%, and will be augmented based on the specialization you pick for Melf.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -68,19 +160,32 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2683,
     "flavour_text": "",
     "description": {
-        "desc": "Melf increases the range of Melf's Custom Support Spell by 2 and the effect of Melf's Custom Support Spell by $amount% if Melf is in the column in the formation with the most Champions. In the event of a formation with multiple columns of the same size, Melf can be in any of them."
+        "desc": "Melf increases the range of Melf's Custom Support Spell by 2 and the effect of Melf's Custom Support Spell by $(amount___2)% if Melf is in the column in the formation with the most Champions. In the event of a formation with multiple columns of the same size, Melf can be in any of them."
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,100,19336"
+            "effect_string": "melf_in_the_middle",
+            "hero_id": 110,
+            "off_when_benched": true
         },
         {
-            "effect_string": "change_upgrade_targets,19336",
-            "new_targets": {
-                "type": "distance",
-                "distance": 3
+            "effect_string": "buff_upgrade,100,19336",
+            "apply_manually": true
+        },
+        {
+            "effect_string": "change_upgrade_data,19336",
+            "data": {
+                "targets": [
+                    {
+                        "type": "distance",
+                        "distance": 3,
+                        "comparison": "<=",
+                        "self": false
+                    }
+                ]
             },
-            "effect_index": 0
+            "effect_index": 0,
+            "apply_manually": true
         }
     ],
     "requirements": [],
@@ -91,7 +196,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "show_incoming": false,
-        "default_bonus_index": 0
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -109,17 +214,21 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2696,
     "flavour_text": "",
     "description": {
-        "desc": "Melf knows exactly what evil is. Whenever an enemy spawns, or is attacked by Melf, it has a 50% chance of being deemed \"evil\".  Enemies that are deemed evil take 400% more damage from all attacks that deal BUD-based damage (such as Ultimate Attacks)."
+        "desc": "Melf knows exactly what evil is. Whenever an enemy spawns, or is attacked by Melf, it has a $(amount___2)% chance of being deemed \"evil\".  Enemies that are deemed evil take $amount% more damage from all attacks that deal BUD-based damage (such as Ultimate Attacks)."
     },
     "effect_keys": [
         {
             "effect_string": "melf_righteous_determination,400",
             "non_evil_invulnerable_adventures": [
-                486
+                486,
+                1784
             ],
             "all_vulnerable_marked": true,
             "reworked": true,
             "debuff_effect_id": 2697
+        },
+        {
+            "effect_string": "melf_righteous_determination_chance,50"
         }
     ],
     "requirements": [],
@@ -127,7 +236,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 7470,
     "properties": {
         "is_formation_ability": true,
-        "use_outgoing_description": true
+        "use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -138,148 +250,102 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Melf's Abundant Allies** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 28903,
-    "graphic": "Icons/Champions/Rebalance/Melf/Icon_Specialization_Melf_MelfsAbundantAllies",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Melf's Adaptive Attacks** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 28904,
-    "graphic": "Icons/Champions/Rebalance/Melf/Icon_Specialization_Melf_MelfsAdaptiveAttacks",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Melf's Amorphous Alignment** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 28905,
-    "graphic": "Icons/Champions/Rebalance/Melf/Icon_Specialization_Melf_MelfsAmorphousAlignment",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Melf's Doubled Drops** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 28906,
-    "graphic": "Icons/Champions/Rebalance/Melf/Icon_Specialization_Melf_MelfsDoubledDrops",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Melf's Frequent Foes** (Guess)
-> Unknown.
+> Melf magically causes an additional enemy to spawn with each wave 25% of the time. If there are any Champions in the formation with a Favored Foe, the enemy spawned will be a random Champion's Favored Foe.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28907,
-    "graphic": "Icons/Champions/Rebalance/Melf/Icon_Specialization_Melf_MelfsFrequentFoes",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Melf's Ranked Roles** (Guess)
-> Unknown.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 28908,
-    "graphic": "Icons/Champions/Rebalance/Melf/Icon_Specialization_Melf_MelfsRankedRoles",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2699,
+    "flavour_text": "",
+    "description": {
+        "desc": "Melf magically causes an additional enemy to spawn with each wave $amount% of the time. If there are any Champions in the formation with a Favored Foe, the enemy spawned will be a random Champion's Favored Foe."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "melf_frequent_foes,25",
+            "off_when_benched": true,
+            "monster_ids_by_tag": {
+                "aberration": [
+                    151,
+                    152,
+                    153
+                ],
+                "beast": [
+                    118,
+                    119,
+                    120
+                ],
+                "celestial": [
+                    1846,
+                    1847,
+                    1848
+                ],
+                "construct": [
+                    202,
+                    203,
+                    204
+                ],
+                "dragon": [
+                    1450,
+                    1451,
+                    1452
+                ],
+                "elemental": [
+                    39,
+                    40,
+                    41
+                ],
+                "fey": [
+                    135,
+                    136,
+                    137
+                ],
+                "fiend": [
+                    1101,
+                    1102,
+                    1103
+                ],
+                "giant": [
+                    542,
+                    543,
+                    544
+                ],
+                "humanoid": [
+                    774,
+                    775,
+                    776
+                ],
+                "monstrosity": [
+                    125,
+                    126,
+                    127
+                ],
+                "ooze": [
+                    1993,
+                    1994,
+                    1995
+                ],
+                "plant": [
+                    756,
+                    757,
+                    758
+                ],
+                "undead": [
+                    69,
+                    70,
+                    71
+                ]
+            }
+        }
+    ],
+    "requirements": [],
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -289,22 +355,279 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Melf's Speedy Spawns** (Guess)
-> Unknown.
+> Melf magically increases enemy spawn speed by 25%, and Melf's Righteous Determination "evil" chance is increased by 25% additively (to a 75% chance).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 28909,
-    "graphic": "Icons/Champions/Rebalance/Melf/Icon_Specialization_Melf_MelfsSpeedySpawns",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2700,
+    "flavour_text": "",
+    "description": {
+        "desc": "Melf magically increases enemy spawn speed by $amount%, and Melf's Righteous Determination \"evil\" chance is increased by 25% additively (to a 75% chance)."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "monster_speed_increase,25"
+        },
+        {
+            "effect_string": "buff_upgrade,50,19338,1"
+        }
+    ],
+    "requirements": [],
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Melf's Doubled Drops** (Guess)
+> Melf magically increases the chance that an enemy will drop double quest items or count for two kills by 25%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2701,
+    "flavour_text": "",
+    "description": {
+        "desc": "Melf magically increases the chance that an enemy will drop double quest items or count for two kills by $chance%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "chance_multiply_monster_quest_rewards,25,2"
+        }
+    ],
+    "requirements": [],
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Melf's Abundant Allies** (Guess)
+> Melf takes note of the most populous species among the other Champions in the formation. His Custom Support Spell is increased by 100% for each Champion of that species in the formation (potentially including himself). In the event of a tie, Champions of all the tied species are counted.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2702,
+    "flavour_text": "",
+    "description": {
+        "desc": "Melf takes note of the most populous species among the other Champions in the formation. His Custom Support Spell is increased by $(amount)% for each Champion of that species in the formation (potentially including himself). In the event of a tie, Champions of all the tied species are counted."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,19336",
+            "amount_expr": "upgrade_amount(19342,0)",
+            "stacks_on_trigger": "will_stack_manually",
+            "stacks_multiply": false,
+            "show_stacks": true,
+            "show_bonus": false,
+            "off_when_benched": true,
+            "stack_title": "Potential Stacks"
+        },
+        {
+            "effect_string": "melf_abundant_allies",
+            "hero_id": 110
+        }
+    ],
+    "requirements": [],
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Melf's Adaptive Attacks** (Guess)
+> Melf takes note of the most popular attack type among the other Champions in the formation. His Custom Support Spell is increased by 100% for each Champion that uses that attack type in the formation. In the event of a tie, Champions with all of the tied attack types are counted. Melf also switches his base attack to match the most popular attack type.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2703,
+    "flavour_text": "",
+    "description": {
+        "desc": "Melf takes note of the most popular attack type among the other Champions in the formation. His Custom Support Spell is increased by $(amount)% for each Champion that uses that attack type in the formation. In the event of a tie, Champions with all of the tied attack types are counted. Melf also switches his base attack to match the most popular attack type."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,19336",
+            "amount_expr": "upgrade_amount(19343,0)",
+            "stacks_on_trigger": "will_stack_manually",
+            "stacks_multiply": false,
+            "show_stacks": true,
+            "show_bonus": false,
+            "off_when_benched": true,
+            "stack_title": "Potential Stacks"
+        },
+        {
+            "effect_string": "melf_adaptive_attacks",
+            "hero_id": 110
+        },
+        {
+            "effect_string": "change_base_attack,965",
+            "apply_manually": true,
+            "note": "magic"
+        },
+        {
+            "effect_string": "change_base_attack,964",
+            "apply_manually": true,
+            "note": "ranged"
+        }
+    ],
+    "requirements": [],
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Melf's Ranked Roles** (Guess)
+> Melf takes note of the most represented non-Support Role among the other Champions in the formation. His Custom Support Spell is increased by 100% for each Champion that has that Role in the formation. In the event of a tie, Champions with all of the tied Roles are counted. Melf himself also gains the most represented Role(s).
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2704,
+    "flavour_text": "",
+    "description": {
+        "desc": "Melf takes note of the most represented non-Support Role among the other Champions in the formation. His Custom Support Spell is increased by $(amount)% for each Champion that has that Role in the formation. In the event of a tie, Champions with all of the tied Roles are counted. Melf himself also gains the most represented Role(s)."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,19336",
+            "amount_expr": "upgrade_amount(19344,0)",
+            "stacks_on_trigger": "will_stack_manually",
+            "stacks_multiply": false,
+            "show_stacks": true,
+            "show_bonus": false,
+            "off_when_benched": true,
+            "stack_title": "Potential Stacks"
+        },
+        {
+            "effect_string": "melf_ranked_roles",
+            "hero_id": 110
+        }
+    ],
+    "requirements": [],
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Melf's Amorphous Alignment** (Guess)
+> Melf takes note of the most represented alignment on the Lawful/Chaotic axis among the other Champions in the formation (ie. Lawful, Neutral, or Chaotic). His Custom Support Spell is increased by 100% for each Champion with that alignment in the formation. In the event of a tie, Champions with all of the tied alignments are counted. Melf also gains the most represented alignment(s).
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2705,
+    "flavour_text": "",
+    "description": {
+        "desc": "Melf takes note of the most represented alignment on the Lawful/Chaotic axis among the other Champions in the formation (ie. Lawful, Neutral, or Chaotic). His Custom Support Spell is increased by $(amount)% for each Champion with that alignment in the formation. In the event of a tie, Champions with all of the tied alignments are counted. Melf also gains the most represented alignment(s)."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,19336",
+            "amount_expr": "upgrade_amount(19345,0)",
+            "stacks_on_trigger": "will_stack_manually",
+            "stacks_multiply": false,
+            "show_stacks": true,
+            "show_bonus": false,
+            "off_when_benched": true,
+            "stack_title": "Potential Stacks"
+        },
+        {
+            "effect_string": "melf_amorphous_alignment",
+            "hero_id": 110
+        }
+    ],
+    "requirements": [],
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
