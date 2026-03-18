@@ -41,7 +41,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 317**Dragon Orb of Palanthas**Those who try to wield an orb’s magic but lack sufficient force of personality might find themselves under the orb’s control.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon Orb of Palanthas Portrait](images/familiars/dragonorbofpalanthas.png)<span class="featTooltipContents">ID: 317**Dragon Orb of Palanthas**Those who try to wield an orb’s magic but lack sufficient force of personality might find themselves under the orb’s control.<img src="images/familiars/dragonorbofpalanthas.webp" alt="Dragon Orb of Palanthas Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dragon Orb of Palanthas
@@ -98,13 +98,81 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             Bloom the Dryad
         </span>
         <span class="skinTableSource">
-            Bloom the Dryad Familiar Pack
+            Valentine's Dryad Familiar & Feat Pack
         </span>
         <span class="skinTableCost">
             1,680p
         </span>
         <span class="skinTableDate">
             15 Apr 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Glimmerwyrm the Faerie Dragon Portrait](images/familiars/glimmerwyrmthefaeriedragon.png)<span class="featTooltipContents">ID: 320**Glimmerwyrm the Faerie Dragon**A loyal friend.<img src="images/familiars/glimmerwyrmthefaeriedragon.webp" alt="Glimmerwyrm the Faerie Dragon Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Glimmerwyrm the Faerie Dragon
+        </span>
+        <span class="skinTableSource">
+            Qualinesti Princess Laurana Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            06 May 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Clockwork the Faerie Dragon Portrait](images/familiars/clockworkthefaeriedragon.png)<span class="featTooltipContents">ID: 321**Clockwork the Faerie Dragon**<img src="images/familiars/clockworkthefaeriedragon.webp" alt="Clockwork the Faerie Dragon Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Clockwork the Faerie Dragon
+        </span>
+        <span class="skinTableSource">
+            Pretentious Prestidigitator Melf Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            13 May 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 322**Dragon Orb of Wayreth**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dragon Orb of Wayreth
+        </span>
+        <span class="skinTableSource">
+            Dragon Orb of Wayreth Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,140p
+        </span>
+        <span class="skinTableDate">
+            13 May 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 323**Baby Tyrannosaurus**Look out for those adorable chompers - he bites!</span></span>
+        </span>
+        <span class="skinTableName">
+            Baby Tyrannosaurus
+        </span>
+        <span class="skinTableSource">
+            Avatar of Ubtao Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            27 May 2026
         </span>
     </span>
 </span>

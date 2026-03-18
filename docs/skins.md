@@ -60,7 +60,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Baeloth the Entertainer Portrait](images/skin_portraits/baeloththeentertainer.png)<span class="featTooltipContents">ID: 672**Baeloth the Entertainer (Baeloth)**<img src="images/skin_models/baeloththeentertainer.webp" alt="Baeloth the Entertainer Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Baeloth the Entertainer Portrait](images/skin_portraits/baeloththeentertainer.png)<span class="featTooltipContents">ID: 672**Baeloth the Entertainer (Baeloth)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/baeloththeentertainer.webp" alt="Baeloth the Entertainer Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/baeloththeentertainer-djiin.webp" alt="Baeloth the Entertainer Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Baeloth the Entertainer
@@ -111,7 +111,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Green Knight Briv Portrait](images/skin_portraits/greenknightbriv.png)<span class="featTooltipContents">ID: 675**Green Knight Briv (Briv)**<img src="images/skin_models/greenknightbriv.webp" alt="Green Knight Briv Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Green Knight Briv Portrait](images/skin_portraits/greenknightbriv.png)<span class="featTooltipContents">ID: 675**Green Knight Briv (Briv)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/greenknightbriv.webp" alt="Green Knight Briv Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/greenknightbriv-1.webp" alt="Green Knight Briv Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/greenknightbriv-armored.webp" alt="Green Knight Briv Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Green Knight Briv
@@ -277,6 +277,142 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             29 Apr 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 688**Masterwork Nordom (Nordom)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Masterwork Nordom
+        </span>
+        <span class="skinTableSource">
+            Masterwork Nordom Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            06 May 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 686**Qualinesti Princess Laurana (Laurana)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Qualinesti Princess Laurana
+        </span>
+        <span class="skinTableSource">
+            Qualinesti Princess Laurana Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            06 May 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 687**Sovereign Diana (Diana)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Sovereign Diana
+        </span>
+        <span class="skinTableSource">
+            Sovereign Diana Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            06 May 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 690**Noble Mechanica Evelyn (Evelyn)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Noble Mechanica Evelyn
+        </span>
+        <span class="skinTableSource">
+            Noble Mechanica Evelyn Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            13 May 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 689**Pretentious Prestidigitator Melf (Melf)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Pretentious Prestidigitator Melf
+        </span>
+        <span class="skinTableSource">
+            Pretentious Prestidigitator Melf Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            13 May 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 691**Clockwork General Mehen (Mehen)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Clockwork General Mehen
+        </span>
+        <span class="skinTableSource">
+            Clockwork General Mehen Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            20 May 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 692**Noble Mechanica Nixie (Nixie)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Noble Mechanica Nixie
+        </span>
+        <span class="skinTableSource">
+            Noble Mechanica Nixie Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            20 May 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 693**Noble Mechanica Vlithryn (Vlithryn)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Noble Mechanica Vlithryn
+        </span>
+        <span class="skinTableSource">
+            Noble Mechanica Vlithryn Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            20 May 2026
         </span>
     </span>
 </span>

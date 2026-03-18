@@ -50,7 +50,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Orkira</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2480**Eager Martyr (Orkira)**I won't let them harm you, no matter what it takes!<br><br><span style="color:var(--Flavescent)">Reduces the cooldown of Self Sacrifice by 15 seconds.</span><code>change_upgrade_data,5575</code></span>Eager Martyr
+            ![Eager Martyr Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2480**Eager Martyr (Orkira)**I won't let them harm you, no matter what it takes!<br><br><span style="color:var(--Flavescent)">Reduces the cooldown of Self Sacrifice by 15 seconds.</span><code>change_upgrade_data,5575</code></span>Eager Martyr
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Reduces the cooldown of Self Sacrifice by 15 seconds.</span>
@@ -135,7 +135,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Briv</span>
         </span>
         <span class="featTableIcon4">
-            ![Baatorian Bones Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2354**Baatorian Bones (Briv)**Mine durability rivaleth even Baatorian green steel!<br><br><span style="color:var(--Flavescent)">Every third stack of Steelbones earned by Briv adds an additional stack.</span><code>NEW_TECH</code></span>Baatorian Bones
+            ![Baatorian Bones Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2354**Baatorian Bones (Briv)**Mine durability rivaleth even Baatorian green steel!<br><br><span style="color:var(--Flavescent)">Every third stack of Steelbones earned by Briv adds an additional stack.</span><code>additional_steelbones_stack_every,3</code></span>Baatorian Bones
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Every third stack of Steelbones earned by Briv adds an additional stack.</span>
@@ -196,6 +196,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">15 Apr 2026<br>15 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Valentine</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2581**Standard Affair (Valentine)**Yes, yes, gather around.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span>Standard Affair
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">15 Apr 2026<br>15 Jun 2026</span>
         </span>
     </span>
     <span class="featTableRow">
