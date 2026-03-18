@@ -509,6 +509,57 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">11 Jun 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Desmond</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2479**Multiversal Allies (Desmond)**All are welcome in this pack.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">18 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Orkira</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Eager Martyr Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2480**Eager Martyr (Orkira)**I won't let them harm you, no matter what it takes!<br><br><span style="color:var(--Flavescent)">Reduces the cooldown of Self Sacrifice by 15 seconds.</span><code>change_upgrade_data,5575</code></span>Eager Martyr
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Reduces the cooldown of Self Sacrifice by 15 seconds.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">18 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Volo</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Volo's Keen Knowledge Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2478**Volo's Keen Knowledge (Volo)**Why, I dare to posit that the noble owlbear is, in fact, a creation of the gods themselves!<br><br><span style="color:var(--Flavescent)">Increases the effect of Volo's Volo's Guide to Monsters ability by 80%. (Prestack)</span><code>buff_upgrade,80,16552,0</code></span>Volo's Keen Knowledge
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Volo's Volo's Guide to Monsters ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">18 Jun 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -521,52 +572,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
 
 <span class="postSeasonTableColumn">
 <span class="postSeasonTableRow postSeasonTableRowShowHideAll"><a id="showHideAll" onClick="exclusiveToggleAllContents()" style="cursor:pointer">[show all contents]</a></span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![EGS Giveaway Cozy Dark Urge Party Pack Icon](images/general/egs.png)**EGS Giveaway** - Cozy Dark Urge Party Pack
-            </span>
-        </span>
-        <span id="g1" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 2440**Vicious Damage (Dark Urge)**Ooh, that's sure to leave a nasty scar, milord. Bravo!<br><br><span style="color:var(--Flavescent)">Increases the damage of Dark Urge by 400%. Dark Urge's attacks prevent the target from healing for 10 seconds.</span><code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Vicious Damage</span>
-                        <span style="margin-left:15px">Dark Urge</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>11 December 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>18 December 2025</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>18 March 2026 (Guess)</span>
-            </span>
-        </span>
-    </span>
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
@@ -685,13 +690,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
+                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![Dragonlance Giveaway Dragonlance Celebration Icon](images/general/dragonlance.png)**Dragonlance Giveaway** - Dragonlance Celebration
             </span>
         </span>
-        <span id="g2" class="postSeasonTableRowShowHide" hidden>
+        <span id="g1" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -730,13 +735,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
+                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![EGS Giveaway Raistlin's Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Raistlin's Renown Pack
             </span>
         </span>
-        <span id="g3" class="postSeasonTableRowShowHide" hidden>
+        <span id="g2" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
