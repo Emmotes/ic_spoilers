@@ -23,7 +23,7 @@
 
 Tasslehoff Burrfoot was born the son of unknown parents, but does have a little sister. Tas grew up with his parents and sister until 341 AC, when at the age of sixteen, he got the Wanderlust itch. He had a cousin Latchlifter Furrfoot, Uncle Remo Lockpick, an Uncle Bertie, and an Uncle Wilfre. He may have had an Uncle Trapspringer Furrfoot, but many kender claim relation to Uncle Trapspringer so this might not be true.
 
-[Dragonlace Fandom Wiki](https://dragonlance.fandom.com/wiki/Tasslehoff_Burrfoot/){:target="_blank"}
+[Dragonlace Fandom Wiki](https://dragonlance.fandom.com/wiki/Tasslehoff_Burrfoot){:target="_blank"}
 
 # Basic Information
 
