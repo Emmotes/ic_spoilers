@@ -1272,7 +1272,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Glimmerwyrm the Faerie Dragon Familiar Portrait](images/premiums/familiar_320.png)<span class="itemTooltipContents">ID: 320**Glimmerwyrm the Faerie Dragon**A loyal friend.<img src="images/premiums/familiar_320.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 320**Glimmerwyrm the Faerie Dragon**A loyal friend.</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1483,7 +1483,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Clockwork the Faerie Dragon Familiar Portrait](images/premiums/familiar_321.png)<span class="itemTooltipContents">ID: 321**Clockwork the Faerie Dragon**<img src="images/premiums/familiar_321.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 321**Clockwork the Faerie Dragon**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

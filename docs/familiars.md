@@ -109,7 +109,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Glimmerwyrm the Faerie Dragon Portrait](images/familiars/glimmerwyrmthefaeriedragon.png)<span class="featTooltipContents">ID: 320**Glimmerwyrm the Faerie Dragon**A loyal friend.<img src="images/familiars/glimmerwyrmthefaeriedragon.webp" alt="Glimmerwyrm the Faerie Dragon Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 320**Glimmerwyrm the Faerie Dragon**A loyal friend.</span></span>
         </span>
         <span class="skinTableName">
             Glimmerwyrm the Faerie Dragon
@@ -126,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Clockwork the Faerie Dragon Portrait](images/familiars/clockworkthefaeriedragon.png)<span class="featTooltipContents">ID: 321**Clockwork the Faerie Dragon**<img src="images/familiars/clockworkthefaeriedragon.webp" alt="Clockwork the Faerie Dragon Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 321**Clockwork the Faerie Dragon**</span></span>
         </span>
         <span class="skinTableName">
             Clockwork the Faerie Dragon
