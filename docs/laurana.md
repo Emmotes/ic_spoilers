@@ -201,11 +201,73 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
     "id": 2684,
     "flavour_text": "",
     "description": {
-        "desc": "Laurana has 20 achievements. She gains one Campaign stack for each of her achievements that you have completed."
+        "desc": "Laurana has 20 achievements. She gains one Campaign stack for each of her achievements that you have completed.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "laurana_has_bonus_from_adventure",
+                    "desc": "^^Laurana has two extra stacks from the current adventure restrictions."
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing",
+            "effect_string": "laurana_achievement_handler",
+            "off_when_benched": true,
+            "stacks_on_trigger": "will_stack_manually",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "collection_and_guide_quest_changed"
+            ],
+            "stack_title": "Campaign Stacks",
+            "show_stacks": true,
+            "achievement_ids": [
+                942,
+                943,
+                944,
+                945,
+                946,
+                947,
+                948,
+                949,
+                950,
+                951,
+                952,
+                953,
+                954,
+                955,
+                956,
+                957,
+                958,
+                959,
+                960,
+                961
+            ],
+            "bonus_achievement_ids": [
+                947,
+                948,
+                949,
+                950,
+                951,
+                952,
+                953,
+                954,
+                955,
+                956,
+                957,
+                958,
+                959,
+                960,
+                961
+            ],
+            "bonus_adventure_ids": [
+                1965
+            ]
+        },
+        {
+            "effect_string": "expression_on_trigger,any_champion_crit",
+            "per_trigger_expr": "AppendToSaveStat(`laurana_decisive_blows`, false, trigger_count))",
             "off_when_benched": true
         }
     ],
@@ -239,11 +301,18 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack_amount,100"
+            "effect_string": "pre_stack_amount,100",
+            "skip_effect_key_desc": true
         },
         {
-            "effect_string": "do_nothing,0",
-            "off_when_benched": true
+            "effect_string": "buff_upgrades,0,19356,19355,19354",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "as_int(GetUpgradeStacks(19348, 0))",
+            "amount_func": "mult",
+            "amount_expr": "upgrade_amount(19350,0)",
+            "stack_title": "Campaign Stacks",
+            "off_when_benched": true,
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -279,10 +348,24 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack_amount,100"
+            "effect_string": "pre_stack_amount,100",
+            "skip_effect_key_desc": true
         },
         {
-            "effect_string": "do_nothing,0",
+            "effect_string": "buff_upgrades,0,19356,19355,19354",
+            "amount_func": "mult",
+            "amount_expr": "upgrade_amount(19351,0)",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`heroeslance`) || (GetUpgradeUnlocked(19357) && HasTag(`dps`)) || (GetUpgradeUnlocked(19358) && GetStat(`con`) <= 12) || (GetUpgradeUnlocked(19359) && HasTag(`hunter`)) || (GetFeatEquipped(2578) && (HasTag(`elf`) || HasTag(`halfelf`))) || (GetFeatEquipped(2579) && GetStat(`total_ability_score`) >= 85) || (GetFeatEquipped(2580) && HasAttackDamageType(`melee`))",
+            "post_process_expr": "min(as_int((GetUpgradeStacks(19348, 0) + 1)/2), input)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed",
+                "collection_and_guide_quest_changed"
+            ],
+            "stack_title": "Army Stacks",
+            "show_bonus": true,
+            "use_computed_amount_for_description": true,
             "off_when_benched": true
         }
     ],
@@ -317,8 +400,41 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
     },
     "effect_keys": [
         {
+            "off_when_benched": true,
+            "effect_string": "do_nothing,2",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "as_int(GetUpgradeStacks(19348, 0))",
+            "amount_func": "add",
+            "show_bonus": true,
+            "stack_title": "Campaign Stacks",
+            "total_title": "Campaign Stack Bonus",
+            "desc_forced_order": 2,
+            "listen_for_computed_changes": true,
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed",
+                "feat_changed",
+                "effect_key_changed"
+            ]
+        },
+        {
+            "off_when_benched": true,
             "effect_string": "do_nothing,10",
-            "off_when_benched": true
+            "skip_effect_key_desc": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "increase_health_by_source_percent,0",
+            "amount_expr": "upgrade_amount(19352,1)+max_upgrade_amount(19352,0)",
+            "percent_values": false,
+            "round_bonus_value": true,
+            "show_current_value_bonus_desc": false,
+            "use_computed_amount_for_description": true,
+            "override_key_desc": "Increases the Health of $target by $amount",
+            "targets": [
+                "other"
+            ],
+            "desc_forced_order": 3
         }
     ],
     "requirements": "",
@@ -349,8 +465,34 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing,20",
-            "off_when_benched": true
+            "effect_string": "buff_upgrades,20,19356,19355,19354",
+            "off_when_benched": true,
+            "stacks_on_trigger": "will_stack_manually",
+            "more_triggers": [
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reset"
+                    }
+                }
+            ],
+            "stacks_multiply": true,
+            "max_stacks": 70,
+            "show_bonus": true
+        },
+        {
+            "effect_string": "do_nothing,0",
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "as_int(GetUpgradeStacks(19348, 0))",
+            "stacks_multiply": true,
+            "show_bonus": false
+        },
+        {
+            "effect_string": "laurana_inner_strength_handler",
+            "off_when_benched": true,
+            "bonus_stack_index": 0,
+            "campaign_stack_index": 1
         }
     ],
     "requirements": "",
@@ -359,7 +501,10 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": true
+        "formation_circle_icon": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -497,11 +642,11 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing,100",
+            "effect_string": "global_buff_base_crit_damage_add,100",
             "off_when_benched": true
         },
         {
-            "effect_string": "do_nothing,20",
+            "effect_string": "global_buff_base_crit_chance_add,20",
             "off_when_benched": true
         }
     ],
@@ -536,7 +681,7 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing,100",
+            "effect_string": "health_mult,100",
             "off_when_benched": true
         },
         {
@@ -575,20 +720,33 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing,400",
-            "off_when_benched": true
+            "effect_string": "increase_damage_against_monster,400",
+            "monster_is_favored_foe_of_effect_owner": true,
+            "targets": [
+                "all"
+            ],
+            "off_when_benched": true,
+            "override_key_desc": "$target does $amount% more damage against Laurana's Favored Foes.",
+            "amount_func": "mult",
+            "stacks_multiply": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`hunter`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "show_bonus": true
         },
         {
-            "effect_string": "do_nothing",
-            "off_when_benched": true
+            "off_when_benched": true,
+            "effect_string": "favored_foe,dragon"
         },
         {
-            "effect_string": "do_nothing",
-            "off_when_benched": true
+            "off_when_benched": true,
+            "effect_string": "favored_foe,monstrosity"
         },
         {
-            "effect_string": "do_nothing",
-            "off_when_benched": true
+            "effect_string": "add_hero_tags,0,hunter"
         }
     ],
     "requirements": "",
