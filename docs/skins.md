@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Desmondlance Desmond Portrait](images/skin_portraits/desmondlancedesmond.png)<span class="featTooltipContents">ID: 668**Desmondlance Desmond (Desmond)**<img src="images/skin_models/desmondlancedesmond.webp" alt="Desmondlance Desmond Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Desmondlance Desmond
-        </span>
-        <span class="skinTableSource">
-            Desmondlance Desmond Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            18 Mar 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragon Chronicler Volo Portrait](images/skin_portraits/dragonchroniclervolo.png)<span class="featTooltipContents">ID: 667**Dragon Chronicler Volo (Volo)**<img src="images/skin_models/dragonchroniclervolo.webp" alt="Dragon Chronicler Volo Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dragon Chronicler Volo
-        </span>
-        <span class="skinTableSource">
-            Dragon Chronicler Volo Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            18 Mar 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Order of the White Robes Orkira Portrait](images/skin_portraits/orderofthewhiterobesorkira.png)<span class="featTooltipContents">ID: 669**Order of the White Robes Orkira (Orkira)**<img src="images/skin_models/orderofthewhiterobesorkira.webp" alt="Order of the White Robes Orkira Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Order of the White Robes Orkira
-        </span>
-        <span class="skinTableSource">
-            Order of the White Robes Orkira Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            18 Mar 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Baeloth the Entertainer Portrait](images/skin_portraits/baeloththeentertainer.png)<span class="featTooltipContents">ID: 672**Baeloth the Entertainer (Baeloth)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/baeloththeentertainer.webp" alt="Baeloth the Entertainer Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/baeloththeentertainer-djiin.webp" alt="Baeloth the Entertainer Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
