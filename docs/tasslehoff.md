@@ -623,7 +623,8 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`dwarf`) || HasTag(`fairy`) || HasTag(`gnome`) || HasTag(`goblin`) || HasTag(`halfling`) || HasTag(`kender`) || HasTag(`kobold`) || HasTag(`plasmoid`)",
             "amount_updated_listeners": [
-                "slot_changed"
+                "slot_changed",
+                "hero_tags_changed"
             ],
             "stack_title": "Small Friends",
             "show_bonus": true,
