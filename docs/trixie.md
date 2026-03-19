@@ -131,12 +131,23 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Trixie Console Portrait](images/trixie/console.png)Console Portrait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Trixie Gold Chest Icon](images/trixie/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Trixie Silver Chest Icon](images/trixie/chest_silver.png)Silver Chest Icon
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 [Back to Top](#top)
 
