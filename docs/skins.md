@@ -128,7 +128,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 678**Wildflower Aila (Aila)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Wildflower Aila Portrait](images/skin_portraits/wildfloweraila.png)<span class="featTooltipContents">ID: 678**Wildflower Aila (Aila)**<img src="images/skin_models/wildfloweraila.webp" alt="Wildflower Aila Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Wildflower Aila
@@ -162,7 +162,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 680**Springtime Spurt (Spurt)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Springtime Spurt Portrait](images/skin_portraits/springtimespurt.png)<span class="featTooltipContents">ID: 680**Springtime Spurt (Spurt)**<img src="images/skin_models/springtimespurt.webp" alt="Springtime Spurt Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Springtime Spurt
