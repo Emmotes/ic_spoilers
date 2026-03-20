@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/799.png">
-            <span class="weekendTooltipContents">ID: 799**Gold Commercial Chest**Loot for: Tyril, Arkhan, Hank, Diana and Sheila<code>"for_crusaders":[10,12,163,148,160]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **We'll Be Right Back**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    20 March 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Sheila
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tyril.png'">
-                        <span class="weekendTableChampionNameplate">Tyril</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/arkhan.png'">
-                        <span class="weekendTableChampionNameplate">Arkhan</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hank.png'">
-                        <span class="weekendTableChampionNameplate">Hank</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/diana.png'">
-                        <span class="weekendTableChampionNameplate">Diana</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/sheila.png'">
-                        <span class="weekendTableChampionNameplate">Sheila</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/800.png">
             <span class="weekendTooltipContents">ID: 800**Gold Glamerweave Chest**Loot for: Nayeli, Makos, Shadowheart, Widdle and Baeloth<code>"for_crusaders":[3,9,141,91,73]</code></span>
         </span>
