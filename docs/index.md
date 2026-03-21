@@ -319,6 +319,7 @@ Miscellaneous spoilers with due dates.
 
 * [Emergence 15](emergence_15.md) - 22 April 2026
 * [Bastion](bastion.md) - ???
+* [Trials & Legendaries](trialsLegs.md) - ???
 
 # Misc
 
