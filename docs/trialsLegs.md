@@ -1,6 +1,6 @@
 [Back to Main](index.md)
 
-# Trials/Legendaries Rework
+# Trials & Legendaries Reworks
 
 We've been told a rework to the Trials and Legendaries systems are in the works and that they will most likely release at the same time as the [Bastion](bastion.md){:target="_blank"} system.
 
