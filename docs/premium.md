@@ -695,7 +695,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 679**Cosmic Horror Grimm (Grimm)**</span></span>
+            <span class="tooltipHolder">![Cosmic Horror Grimm Skin Portrait](images/premiums/skin_679.png)<span class="itemTooltipContents">ID: 679**Cosmic Horror Grimm (Grimm)**<img src="images/premiums/skin_679.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
