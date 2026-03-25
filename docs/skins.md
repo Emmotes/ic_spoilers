@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Baeloth the Entertainer Portrait](images/skin_portraits/baeloththeentertainer.png)<span class="featTooltipContents">ID: 672**Baeloth the Entertainer (Baeloth)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/baeloththeentertainer.webp" alt="Baeloth the Entertainer Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/baeloththeentertainer-djiin.webp" alt="Baeloth the Entertainer Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Baeloth the Entertainer
-        </span>
-        <span class="skinTableSource">
-            Tales of the Champions (Guess)
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            25 Mar 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Raven Queen Shadowheart Portrait](images/skin_portraits/ravenqueenshadowheart.png)<span class="featTooltipContents">ID: 673**Raven Queen Shadowheart (Shadowheart)**<img src="images/skin_models/ravenqueenshadowheart.webp" alt="Raven Queen Shadowheart Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Raven Queen Shadowheart
-        </span>
-        <span class="skinTableSource">
-            Tales of the Champions (Guess)
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            25 Mar 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Death Knight Karlach Portrait](images/skin_portraits/deathknightkarlach.png)<span class="featTooltipContents">ID: 670**Death Knight Karlach (Karlach)**<img src="images/skin_models/deathknightkarlach.webp" alt="Death Knight Karlach Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -175,6 +141,23 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             15 Apr 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Hammer of the North Barrowin Portrait](images/skin_portraits/hammerofthenorthbarrowin.png)<span class="featTooltipContents">ID: 685**Hammer of the North Barrowin (Barrowin)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+        </span>
+        <span class="skinTableName">
+            Hammer of the North Barrowin
+        </span>
+        <span class="skinTableSource">
+            Tales of the Champions (Guess)
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            22 Apr 2026
         </span>
     </span>
     <span class="skinTableRow">

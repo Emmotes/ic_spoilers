@@ -351,6 +351,159 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">29 Apr 2026<br>29 Jul 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Diana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2582**Prodigal Leader (Diana)**I lead with wisdom and grace.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +50%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">06 May 2026<br>06 Aug 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Nordom</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Optimization Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2380**Optimization (Nordom)**Statement of core belief: bigger numbers are better numbers.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nordom's Core Competency Specialization by 1% for each max level Modron Core you own.</span><code>buff_upgrade_add_flat_amount,1,18168,0</code></span>Optimization
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Nordom's Core Competency Specialization by 1% for each max level Modron Core you own.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">06 May 2026<br>06 Aug 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Evelyn</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Focused Light Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2584**Focused Light (Evelyn)**Lathander guides my path, my sword, my heart.<br><br><span style="color:var(--Flavescent)">Increases the effect of Evelyn's Channel Divinity ability by 80%.</span><code>buff_upgrade,80,12206</code></span>Focused Light
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Evelyn's Channel Divinity ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">13 May 2026<br>13 Aug 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Vlithryn</span>
+        </span>
+        <span class="featTableIcon4">
+            ![External Screaming Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2169**External Screaming (Vlithryn)**You're literally dying! Of course I can spare the spell slot.<br><br><span style="color:var(--Flavescent)">Increases the effect of Vlithryn's Revivify ability by 80%. (Prestack)</span><code>buff_upgrade,80,16898,0</code></span>External Screaming
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Vlithryn's Revivify ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">20 May 2026<br>20 Aug 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Nixie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Embiggen Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2586**Embiggen (Nixie)**Look at me! I'm huge! I don't need a fireball anymore! I can just step on them!<br><br><span style="color:var(--Flavescent)">Increases the effect of Nixie's Gigantic Growth ability by 80%.</span><code>buff_upgrade,80,10889</code></span>Embiggen
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Nixie's Gigantic Growth ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">20 May 2026<br>20 Aug 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Mehen</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Guaranteed Grump Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2585**Guaranteed Grump (Mehen)**I'm certain of few things in this life. Disappointment is one of them.<br><br><span style="color:var(--Flavescent)">Increases the effect of Mehen's Grumpy ability by 80%. (Prestack)</span><code>buff_upgrade,80,16146,0</code></span>Guaranteed Grump
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Mehen's Grumpy ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">20 May 2026<br>20 Aug 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Birdsong</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Favorite Song Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2599**Favorite Song (Birdsong)**Once more for the people in the back!<code>todo<br>DevNote: Song of Battle Range +1</code></span>Favorite Song
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Tales of the Champions</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">27 May 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Birdsong</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Free Agent Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2600**Free Agent (Birdsong)**Agent Birdsong, ready. Time for the final act.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Unaffiliated Champion in the formation.</span><code>global_dps_multiplier_mult,20</code></span>Free Agent
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each Unaffiliated Champion in the formation.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Tales of the Champions</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">27 May 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Tess</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Cat Burglar Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2601**Cat Burglar (Tess)**My mask finds the traps. My hands do the rest.<br><br><span style="color:var(--Flavescent)">Increases the effect of Tess's Trap Expert ability by 80%.</span><code>buff_upgrade,80,17320</code></span>Cat Burglar
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Tess's Trap Expert ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Tales of the Champions</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">27 May 2026</span>
+        </span>
+    </span>
 </span>
 
 # Placeholder Date Feats
@@ -471,23 +624,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Donaar's Commanding Presence ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Vlithryn</span>
-        </span>
-        <span class="featTableIcon4">
-            ![External Screaming Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2169**External Screaming (Vlithryn)**You're literally dying! Of course I can spare the spell slot.<br><br><span style="color:var(--Flavescent)">Increases the effect of Vlithryn's Revivify ability by 80%. (Prestack)</span><code>buff_upgrade,80,16898,0</code></span>External Screaming
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Vlithryn's Revivify ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -692,23 +828,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the damage per fireball of Flames of High Sorcery to 15% of the enemy's max health.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Nordom</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Optimization Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2380**Optimization (Nordom)**Statement of core belief: bigger numbers are better numbers.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nordom's Core Competency Specialization by 1% for each max level Modron Core you own.</span><code>buff_upgrade_add_flat_amount,1,18168,0</code></span>Optimization
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Nordom's Core Competency Specialization by 1% for each max level Modron Core you own.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
