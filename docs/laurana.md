@@ -173,7 +173,24 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
     "cooldown": 300,
     "animations": [
         {
-            "type": "laurana_ultimate"
+            "type": "laurana_ultimate",
+            "dragon_sequences": {
+                "fly": 0,
+                "breathefire": 1
+            },
+            "projectile_data": {
+                "type": "ranged_attack",
+                "projectile": "fire_breath_simple",
+                "single_projectile": false,
+                "does_no_damage": true,
+                "shoot_offset_x": 166,
+                "shoot_offset_y": -98,
+                "auto_projectile_angle": false,
+                "projectile_angle": -135,
+                "hold_time": 2,
+                "particle_duration": 0.7,
+                "projectile_strength": 1200
+            }
         }
     ],
     "tags": [
@@ -207,6 +224,10 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
                 {
                     "condition": "laurana_has_bonus_from_adventure",
                     "desc": "^^Laurana has two extra stacks from the current adventure restrictions."
+                },
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Areas completed with Laurana this adventure: $(laurana_achievement_areas)."
                 }
             ]
         }
@@ -647,7 +668,17 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
         },
         {
             "effect_string": "global_buff_base_crit_chance_add,20",
-            "off_when_benched": true
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`dps`)",
+            "show_stacks": false
+        },
+        {
+            "effect_string": "do_nothing",
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`dps`)",
+            "show_stacks": false
         }
     ],
     "requirements": "",
@@ -659,7 +690,8 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
         "formation_circle_icon": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "DPS Champions: $num_stacks___3"
     }
 }
 </pre>
@@ -686,7 +718,10 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
         },
         {
             "effect_string": "do_nothing",
-            "off_when_benched": true
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "GetStat(`con`) <= 12",
+            "show_stacks": false
         }
     ],
     "requirements": "",
@@ -698,7 +733,8 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
         "formation_circle_icon": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -708,7 +744,7 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Wield the Dragonlance** (Guess)
-> Laurana gains the Hunter role and Dragon and Monstrosity enemies become her favored foes. All Champions deal 400% more damage against Dragon and/or Monstrosity enemies for each Hunter Champion in the formation, stacking multiplicatively. Additionally, Champions with the Hunter role also count as Laurana's Soldiers.
+> Laurana gains the Hunter role. Dragons and Monstrosities become her favored foes, allowing Champions to deal 400% more damage against them for each Hunter in the formation, stacking multiplicatively. Hunters also count as Laurana's Soldiers.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -716,7 +752,7 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
     "id": 2694,
     "flavour_text": "",
     "description": {
-        "desc": "Laurana gains the Hunter role and Dragon and Monstrosity enemies become her favored foes. All Champions deal $(not_buffed amount)% more damage against Dragon and/or Monstrosity enemies for each Hunter Champion in the formation, stacking multiplicatively. Additionally, Champions with the Hunter role also count as Laurana's Soldiers."
+        "desc": "Laurana gains the Hunter role. Dragons and Monstrosities become her favored foes, allowing Champions to deal $(not_buffed amount)% more damage against them for each Hunter in the formation, stacking multiplicatively. Hunters also count as Laurana's Soldiers. "
     },
     "effect_keys": [
         {
@@ -747,6 +783,13 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
         },
         {
             "effect_string": "add_hero_tags,0,hunter"
+        },
+        {
+            "effect_string": "do_nothing",
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`hunter`)",
+            "show_stacks": false
         }
     ],
     "requirements": "",
@@ -758,7 +801,8 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
         "formation_circle_icon": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Hunter Champions: $num_stacks___5"
     }
 }
 </pre>
