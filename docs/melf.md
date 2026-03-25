@@ -192,7 +192,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 28901,
     "large_graphic_id": 28899,
     "properties": {
-        "is_formation_ability": false,
+        "is_formation_ability": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "show_incoming": false,
@@ -225,7 +225,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             ],
             "all_vulnerable_marked": true,
             "reworked": true,
-            "debuff_effect_id": 2697
+            "debuff_effect_id": 2697,
+            "off_when_benched": true
         },
         {
             "effect_string": "melf_righteous_determination_chance,50"
@@ -433,7 +434,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2702,
     "flavour_text": "",
     "description": {
-        "desc": "Melf takes note of the most populous species among the other Champions in the formation. His Custom Support Spell is increased by $(amount)% for each Champion of that species in the formation (potentially including himself). In the event of a tie, Champions of all the tied species are counted."
+        "desc": "Melf takes note of the most populous species among the other Champions in the formation. His Custom Support Spell is increased by $(amount)% for each Champion of that species in the formation (potentially including himself). In the event of a tie, Champions of all the tied species are counted.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^$melf_abundant_allies_stacks"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -448,7 +457,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "show_stacks": true,
             "show_bonus": false,
             "off_when_benched": true,
-            "stack_title": "Potential Stacks"
+            "stack_title": "Current Stacks"
         },
         {
             "effect_string": "melf_abundant_allies",
@@ -464,7 +473,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Potential Stacks: $num_stacks___2"
     }
 }
 </pre>
@@ -484,7 +494,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2703,
     "flavour_text": "",
     "description": {
-        "desc": "Melf takes note of the most popular attack type among the other Champions in the formation. His Custom Support Spell is increased by $(amount)% for each Champion that uses that attack type in the formation. In the event of a tie, Champions with all of the tied attack types are counted. Melf also switches his base attack to match the most popular attack type."
+        "desc": "Melf takes note of the most popular attack type among the other Champions in the formation. His Custom Support Spell is increased by $(amount)% for each Champion that uses that attack type in the formation. In the event of a tie, Champions with all of the tied attack types are counted. Melf also switches his base attack to match the most popular attack type.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^$melf_adaptive_attacks_stacks"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -499,7 +517,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "show_stacks": true,
             "show_bonus": false,
             "off_when_benched": true,
-            "stack_title": "Potential Stacks"
+            "stack_title": "Current Stacks"
         },
         {
             "effect_string": "melf_adaptive_attacks",
@@ -525,7 +543,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Potential Stacks: $num_stacks___2"
     }
 }
 </pre>
@@ -545,7 +564,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2704,
     "flavour_text": "",
     "description": {
-        "desc": "Melf takes note of the most represented non-Support Role among the other Champions in the formation. His Custom Support Spell is increased by $(amount)% for each Champion that has that Role in the formation. In the event of a tie, Champions with all of the tied Roles are counted. Melf himself also gains the most represented Role(s)."
+        "desc": "Melf takes note of the most represented non-Support Role among the other Champions in the formation. His Custom Support Spell is increased by $(amount)% for each Champion that has that Role in the formation. In the event of a tie, Champions with all of the tied Roles are counted. Melf himself also gains the most represented Role(s).",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^$melf_ranked_roles_stacks"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -560,7 +587,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "show_stacks": true,
             "show_bonus": false,
             "off_when_benched": true,
-            "stack_title": "Potential Stacks"
+            "stack_title": "Current Stacks"
         },
         {
             "effect_string": "melf_ranked_roles",
@@ -576,7 +603,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Potential Stacks: $num_stacks___2"
     }
 }
 </pre>
@@ -596,7 +624,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2705,
     "flavour_text": "",
     "description": {
-        "desc": "Melf takes note of the most represented alignment on the Lawful/Chaotic axis among the other Champions in the formation (ie. Lawful, Neutral, or Chaotic). His Custom Support Spell is increased by $(amount)% for each Champion with that alignment in the formation. In the event of a tie, Champions with all of the tied alignments are counted. Melf also gains the most represented alignment(s)."
+        "desc": "Melf takes note of the most represented alignment on the Lawful/Chaotic axis among the other Champions in the formation (ie. Lawful, Neutral, or Chaotic). His Custom Support Spell is increased by $(amount)% for each Champion with that alignment in the formation. In the event of a tie, Champions with all of the tied alignments are counted. Melf also gains the most represented alignment(s).",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^$melf_amorphous_alignment_stacks"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -611,7 +647,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "show_stacks": true,
             "show_bonus": false,
             "off_when_benched": true,
-            "stack_title": "Potential Stacks"
+            "stack_title": "Current Stacks"
         },
         {
             "effect_string": "melf_amorphous_alignment",
@@ -627,7 +663,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Potential Stacks: $num_stacks___2"
     }
 }
 </pre>
