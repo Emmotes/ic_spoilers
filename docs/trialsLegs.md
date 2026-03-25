@@ -29,6 +29,12 @@ Below are all the data we have for these reworks.
 > "key": "disenchanting_arcana",  
 > "contents": "Disenchanting Arcana..."
 
+> "key": "trials_2_faq",  
+> "contents": ""
+
+> "key": "trials_2_faq_title",  
+> "contents": "Trials of Mount Tiamat FAQ"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
