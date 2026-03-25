@@ -128,7 +128,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Hammer of the North Barrowin Portrait](images/skin_portraits/hammerofthenorthbarrowin.png)<span class="featTooltipContents">ID: 685**Hammer of the North Barrowin (Barrowin)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Hammer of the North Barrowin Portrait](images/skin_portraits/hammerofthenorthbarrowin.png)<span class="featTooltipContents">ID: 685**Hammer of the North Barrowin (Barrowin)**<img src="images/skin_models/hammerofthenorthbarrowin.webp" alt="Hammer of the North Barrowin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Hammer of the North Barrowin
