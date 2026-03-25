@@ -151,6 +151,31 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="uriah.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Brother Uriah Portrait Icon](images/uriah/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Brother Uriah
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Human Cleric of Black Dice Society</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Dragondown - Delayed until 10 June 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 {::nomarkdown}
@@ -304,6 +329,34 @@ These are the upcoming new and reworked champions and where they'll be found.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="uriah.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Brother Uriah Portrait Icon](images/uriah/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Brother Uriah
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Human Cleric of Black Dice Society</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 10 June 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rework ♻️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 </div></div>
 
@@ -318,6 +371,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 Miscellaneous spoilers with due dates.
 
 * [Emergence 15](emergence_15.md) - 22 April 2026
+* [EGS (Guess) Exclusive Giveaway](platform_giveaway_716.md) - 14 May 2026
 * [Bastion](bastion.md) - ???
 * [Trials & Legendaries](trialsLegs.md) - ???
 
