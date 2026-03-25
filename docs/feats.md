@@ -30,57 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Shadowheart</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2501**Multiversal Allies (Shadowheart)**It's quite the menagerie of colorful companions I find myself surrounded with.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Tales of the Champions</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">25 Mar 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Baeloth</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Resolute Icon](images/featicons/stunimmunity.png)<span class="featTooltipContents">ID: 2500**Resolute (Baeloth)**The show. MUST. Go on.<br><br><span style="color:var(--Flavescent)">Grants Baeloth immunity to stun effects.</span><code>hero_stun_immunity</code></span>Resolute
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Grants Baeloth immunity to stun effects.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Tales of the Champions</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">25 Mar 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Karlach</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2481**Prodigal Leader (Karlach)**Always bet on Mama K!<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">25 Mar 2026<br>25 Jun 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Briv</span>
         </span>
         <span class="featTableIcon4">
