@@ -75,7 +75,7 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Male (Guess)</span>
+            <span style="margin-left:8px;">Male</span>
         </span>
     </span>
     <span class="champStatsTableRow">
