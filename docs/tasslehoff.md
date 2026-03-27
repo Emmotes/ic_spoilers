@@ -35,7 +35,7 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
             <span style="margin-right:4px;">**Seat**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">11</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -43,7 +43,7 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Kender (Guess)</span>
+            <span style="margin-left:8px;">Kender</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -51,7 +51,7 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Rogue (Guess)</span>
+            <span style="margin-left:8px;">Rogue</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -59,7 +59,7 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Support / Speed / Control (Guess)</span>
+            <span style="margin-left:8px;">Support / Speed</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -67,7 +67,7 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
             <span style="margin-right:4px;">**Age**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">38</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -83,7 +83,7 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Neutral Good</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -91,7 +91,7 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Heroes of the Lance (Guess)</span>
+            <span style="margin-left:8px;">Heroes of the Lance</span>
         </span>
     </span>
 </span>
@@ -646,7 +646,64 @@ Tasslehoff will be a new champion in the Festival of Fools event on 1 April 2026
 
 # Items
 
-Unknown.
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon" style="justify-content:flex-start">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableNameSmall">
+            **Name**
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Clothing Icon](images/tasslehoff/28678.png)</span><span class="itemTableIcon2">![Clothing Icon](images/tasslehoff/28678.png)</span><span class="itemTableIcon3">![Clothing Icon](images/tasslehoff/28679.png)</span><span class="itemTableIcon4">![Clothing Icon](images/tasslehoff/28680.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Clothing
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Hoopak Icon](images/tasslehoff/28681.png)</span><span class="itemTableIcon2">![Hoopak Icon](images/tasslehoff/28681.png)</span><span class="itemTableIcon3">![Hoopak Icon](images/tasslehoff/28682.png)</span><span class="itemTableIcon4">![Hoopak Icon](images/tasslehoff/28683.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Hoopak
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Magic Items Icon](images/tasslehoff/28684.png)</span><span class="itemTableIcon2">![Magic Items Icon](images/tasslehoff/28684.png)</span><span class="itemTableIcon3">![Magic Items Icon](images/tasslehoff/28685.png)</span><span class="itemTableIcon4">![Magic Items Icon](images/tasslehoff/28686.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Magic Items
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Map Icon](images/tasslehoff/28687.png)</span><span class="itemTableIcon2">![Map Icon](images/tasslehoff/28687.png)</span><span class="itemTableIcon3">![Map Icon](images/tasslehoff/28688.png)</span><span class="itemTableIcon4">![Map Icon](images/tasslehoff/28689.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Map
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Mementos Icon](images/tasslehoff/28690.png)</span><span class="itemTableIcon2">![Mementos Icon](images/tasslehoff/28690.png)</span><span class="itemTableIcon3">![Mementos Icon](images/tasslehoff/28691.png)</span><span class="itemTableIcon4">![Mementos Icon](images/tasslehoff/28692.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Mementos
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Weapons Icon](images/tasslehoff/28693.png)</span><span class="itemTableIcon2">![Weapons Icon](images/tasslehoff/28693.png)</span><span class="itemTableIcon3">![Weapons Icon](images/tasslehoff/28694.png)</span><span class="itemTableIcon4">![Weapons Icon](images/tasslehoff/28695.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Weapons
+        </span>
+    </span>
+</span>
 
 # Feats
 
