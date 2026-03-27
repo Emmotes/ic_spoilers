@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/800.png">
-            <span class="weekendTooltipContents">ID: 800**Gold Glamerweave Chest**Loot for: Nayeli, Makos, Shadowheart, Widdle and Baeloth<code>"for_crusaders":[3,9,141,91,73]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Glamerweave**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    27 March 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Baeloth
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/shadowheart.png'">
-                        <span class="weekendTableChampionNameplate">Shadowheart</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/widdle.png'">
-                        <span class="weekendTableChampionNameplate">Widdle</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/baeloth.png'">
-                        <span class="weekendTableChampionNameplate">Baeloth</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/802.png">
             <span class="weekendTooltipContents">ID: 802**Gold Misunderstood Chest**Loot for: Nayeli, Minsc, Raistlin, Diana and Tasslehoff<code>"for_crusaders":[3,7,173,148,174]</code></span>
         </span>
