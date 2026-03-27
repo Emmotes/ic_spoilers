@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Animated Armor of Collaboration Portrait](images/familiars/animatedarmorofcollaboration.png)<span class="featTooltipContents">ID: 315**Animated Armor of Collaboration**Forged from many disciplines and powered by a shared goal, this living armor stands as proof that games and communities are built better together.<img src="images/familiars/animatedarmorofcollaboration.webp" alt="Animated Armor of Collaboration Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Animated Armor of Collaboration
-        </span>
-        <span class="skinTableSource">
-            Animated Armor of Collaboration Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            27 Mar 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Dragon Orb of Palanthas Portrait](images/familiars/dragonorbofpalanthas.png)<span class="featTooltipContents">ID: 317**Dragon Orb of Palanthas**Those who try to wield an orb’s magic but lack sufficient force of personality might find themselves under the orb’s control.<img src="images/familiars/dragonorbofpalanthas.webp" alt="Dragon Orb of Palanthas Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
