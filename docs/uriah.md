@@ -82,20 +82,20 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 > Discover the fate of some merchants in the jungles of Chult.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: Perhaps I'd Be Safer in the Middle?** (Complete Area 75)
+![Perhaps I'd Be Safer in the Middle? Icon](images/uriah/17746.png) **Variant 1: Perhaps I'd Be Safer in the Middle?** (Complete Area 75)
 > Brother Uriah joins the formation. He can't be moved or removed.  
 > Only Champions in the middle two columns can deal damage.  
 > Getting to Know Brother Uriah: Uriah increases the damage of Champions in his column and the column behind him. Place your damage dealing Champions to take advantage of this!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: Perhaps an Escort is in Order?** (Complete Area 125)
+![Perhaps an Escort is in Order? Icon](images/uriah/17747.png) **Variant 2: Perhaps an Escort is in Order?** (Complete Area 125)
 > Brother Uriah joins the formation. He can be moved, but not removed. Uriah's Ezra's Embrace ability starts unlocked.  
 > Two Ravens join the formation.  
 > Every 10 seconds, a boulder falls on a random Champion dealing 25% of their total health in damage.  
 > Getting to Know Brother Uriah: Uriah can heal Champions within two slots of him. Place him to make the most of this!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: Perhaps We Should Make Haste?** (Complete Area 175)
+![Perhaps We Should Make Haste? Icon](images/uriah/17748.png) **Variant 3: Perhaps We Should Make Haste?** (Complete Area 175)
 > Brother Uriah joins the formation. He can be moved, but not removed.  
 > You may only use Champions from the Black Dice Society affiliation or Champions with a normal attack cooldown of 5 seconds or less.  
 > Getting to Know Azalin Rex: Azalin Rex has a mysterious tie to Brother Uriah. Increase the attack speed of your champions to spend more time with the darklord of Darkon!
