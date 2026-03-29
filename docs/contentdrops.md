@@ -333,13 +333,55 @@ This Tales drop will allow unlocking Birdsong and Tess.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Tales: Kindred Spirits Var1 (Adventure)](images/contentdrop_portraits/tales_kindredspiritsvar1_0.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Kindred Spirits (Variant 1)](images/contentdrop_portraits/tales_kindredspirits_1.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Kindred Spirits Var1</span>
+            <span style="margin-left: 8px;">Kindred Spirits</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #1</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Kindred Spirits (Variant 2)](images/contentdrop_portraits/tales_kindredspirits_2.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Tales</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Kindred Spirits</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #2</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Kindred Spirits (Variant 3)](images/contentdrop_portraits/tales_kindredspirits_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Tales</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Kindred Spirits</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Tales: Making it Work (Adventure)](images/contentdrop_portraits/tales_makingitwork_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Tales</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Making it Work</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Adventure</span>
@@ -347,86 +389,44 @@ This Tales drop will allow unlocking Birdsong and Tess.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Tales: Kindred Spirits Var2 (Adventure)](images/contentdrop_portraits/tales_kindredspiritsvar2_0.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Making it Work (Variant 1)](images/contentdrop_portraits/tales_makingitwork_1.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Kindred Spirits Var2</span>
+            <span style="margin-left: 8px;">Making it Work</span>
         </span>
         <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
+            <span style="margin-left: 8px;">Variant #1</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Tales: Kindred Spirits Var3 (Adventure)](images/contentdrop_portraits/tales_kindredspiritsvar3_0.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Making it Work (Variant 2)](images/contentdrop_portraits/tales_makingitwork_2.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Kindred Spirits Var3</span>
+            <span style="margin-left: 8px;">Making it Work</span>
         </span>
         <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
+            <span style="margin-left: 8px;">Variant #2</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Tales: Makingit Work (Adventure)](images/contentdrop_portraits/tales_makingitwork_0.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Making it Work (Variant 3)](images/contentdrop_portraits/tales_makingitwork_3.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Tales</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Makingit Work</span>
+            <span style="margin-left: 8px;">Making it Work</span>
         </span>
         <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Tales: Makingit Work Var1 (Adventure)](images/contentdrop_portraits/tales_makingitworkvar1_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Makingit Work Var1</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Tales: Makingit Work Var2 (Adventure)](images/contentdrop_portraits/tales_makingitworkvar2_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Makingit Work Var2</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Tales: Makingit Work Var3 (Adventure)](images/contentdrop_portraits/tales_makingitworkvar3_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Makingit Work Var3</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
+            <span style="margin-left: 8px;">Variant #3</span>
         </span>
     </span>
 </span>
