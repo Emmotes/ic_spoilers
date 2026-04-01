@@ -35,6 +35,9 @@ Below are all the data we have for these reworks.
 > "key": "trials_2_faq_title",  
 > "contents": "Trials of Mount Tiamat FAQ"
 
+> "key": "upgrading_arcana_chest",  
+> "contents": "Upgrading Arcana chest..."
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
