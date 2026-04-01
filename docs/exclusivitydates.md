@@ -543,6 +543,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">25 Jun 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Tasslehoff</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Acquisitive Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2546**Acquisitive (Tasslehoff)**I'm not going to take it! I just mentioned it, as an item of interest. ~Tas<br><br><span style="color:var(--Flavescent)">Increases the effect of Tasslehoff's Borrower ability by 80%.</span><code>buff_upgrade,80,19244</code></span>Acquisitive
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Tasslehoff's Borrower ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Briv</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Baatorian Bones Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2354**Baatorian Bones (Briv)**Mine durability rivaleth even Baatorian green steel!<br><br><span style="color:var(--Flavescent)">Every third stack of Steelbones earned by Briv adds an additional stack.</span><code>additional_steelbones_stack_every,3</code></span>Baatorian Bones
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Every third stack of Steelbones earned by Briv adds an additional stack.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jul 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
