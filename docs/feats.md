@@ -47,6 +47,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Tasslehoff</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Acquisitive Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2546**Acquisitive (Tasslehoff)**I'm not going to take it! I just mentioned it, as an item of interest. ~Tas<br><br><span style="color:var(--Flavescent)">Increases the effect of Tasslehoff's Borrower ability by 80%.</span><code>buff_upgrade,80,19244</code></span>Acquisitive
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Tasslehoff's Borrower ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Apr 2026<br>01 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Aila</span>
         </span>
         <span class="featTableIcon4">
@@ -305,7 +322,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Diana</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2582**Prodigal Leader (Diana)**I lead with wisdom and grace.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2582**Prodigal Leader (Diana)**I lead with wisdom and grace.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">All Champions damage +50%.</span>

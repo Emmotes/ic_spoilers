@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2546**Feat**???: 2546</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Acquisitive Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2546**Acquisitive**I'm not going to take it! I just mentioned it, as an item of interest. ~Tas<br><br><span style="color:var(--Flavescent)">Increases the effect of Tasslehoff's Borrower ability by 80%.</span><code>buff_upgrade,80,19244</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2546</span>
+            <span style="margin-left:15px">Acquisitive</span>
+            <span style="margin-left:15px">Tasslehoff</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1003,7 +1004,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2582**Prodigal Leader**I lead with wisdom and grace.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 2582**Prodigal Leader**I lead with wisdom and grace.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1154,12 +1155,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2598**Feat**???: 2598</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor</span>
+            <span style="margin-left:15px">???: 2598</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1552,12 +1552,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2587**TBD Future Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![External Screaming Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2169**External Screaming**You're literally dying! Of course I can spare the spell slot.<br><br><span style="color:var(--Flavescent)">Increases the effect of Vlithryn's Revivify ability by 80%. (Prestack)</span><code>buff_upgrade,80,16898,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Future Feat (Do not translate)</span>
-            <span style="margin-left:15px">Bruenor</span>
+            <span style="margin-left:15px">External Screaming</span>
+            <span style="margin-left:15px">Vlithryn</span>
         </span>
     </span>
     <span class="premiumsTableItem">
