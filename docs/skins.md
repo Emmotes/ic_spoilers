@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Green Knight Briv Portrait](images/skin_portraits/greenknightbriv.png)<span class="featTooltipContents">ID: 675**Green Knight Briv (Briv)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/greenknightbriv.webp" alt="Green Knight Briv Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/greenknightbriv-1.webp" alt="Green Knight Briv Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/greenknightbriv-armored.webp" alt="Green Knight Briv Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Green Knight Briv
-        </span>
-        <span class="skinTableSource">
-            Green Knight Briv Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            01 Apr 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Wanderlust Tasslehoff Portrait](images/skin_portraits/wanderlusttasslehoff.png)<span class="featTooltipContents">ID: 674**Wanderlust Tasslehoff (Tasslehoff)**<img src="images/skin_models/wanderlusttasslehoff.webp" alt="Wanderlust Tasslehoff Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Wanderlust Tasslehoff
-        </span>
-        <span class="skinTableSource">
-            Wanderlust Tasslehoff Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            01 Apr 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 677**Scarlet Briar Miria (Miria)**</span></span>
         </span>
         <span class="skinTableName">

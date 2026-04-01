@@ -7,40 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragon Orb of Palanthas Portrait](images/familiars/dragonorbofpalanthas.png)<span class="featTooltipContents">ID: 317**Dragon Orb of Palanthas**Those who try to wield an orb’s magic but lack sufficient force of personality might find themselves under the orb’s control.<img src="images/familiars/dragonorbofpalanthas.webp" alt="Dragon Orb of Palanthas Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dragon Orb of Palanthas
-        </span>
-        <span class="skinTableSource">
-            Dragon Orb of Palanthas Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,140p
-        </span>
-        <span class="skinTableDate">
-            01 Apr 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Oops the Mouse Portrait](images/familiars/oopsthemouse.png)<span class="featTooltipContents">ID: 316**Oops the Mouse**Oops!<img src="images/familiars/oopsthemouse.webp" alt="Oops the Mouse Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Oops the Mouse
-        </span>
-        <span class="skinTableSource">
-            Wanderlust Tasslehoff Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            01 Apr 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Birdie the Peacock Portrait](images/familiars/birdiethepeacock.png)<span class="featTooltipContents">ID: 318**Birdie the Peacock**"I wish I were a birdie."<img src="images/familiars/birdiethepeacock.webp" alt="Birdie the Peacock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
