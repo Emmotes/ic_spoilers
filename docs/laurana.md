@@ -298,7 +298,7 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": true
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -377,12 +377,14 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
             "amount_func": "mult",
             "amount_expr": "upgrade_amount(19351,0)",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "HasTag(`heroeslance`) || (GetUpgradeUnlocked(19357) && HasTag(`dps`)) || (GetUpgradeUnlocked(19358) && GetStat(`con`) <= 12) || (GetUpgradeUnlocked(19359) && HasTag(`hunter`)) || (GetFeatEquipped(2578) && (HasTag(`elf`) || HasTag(`halfelf`))) || (GetFeatEquipped(2579) && GetStat(`total_ability_score`) >= 85) || (GetFeatEquipped(2580) && HasAttackDamageType(`melee`))",
+            "per_hero_expr": "HasTag(`heroeslance`) || (GetUpgradeUnlocked(19357) && HasTag(`dps`)) || (GetUpgradeUnlocked(19358) && GetStat(`con`) <= 12) || (GetUpgradeUnlocked(19359) && HasTag(`hunter`)) || (GetFeatEquipped(2578) && (HasTag(`elf`) || HasTag(`half-elf`))) || (GetFeatEquipped(2579) && GetStat(`total_ability_score`) >= 85) || (GetFeatEquipped(2580) && HasAttackDamageType(`melee`))",
             "post_process_expr": "min(as_int((GetUpgradeStacks(19348, 0) + 1)/2), input)",
             "amount_updated_listeners": [
                 "slot_changed",
                 "hero_tags_changed",
-                "collection_and_guide_quest_changed"
+                "collection_and_guide_quest_changed",
+                "upgrade_unlocked",
+                "feat_changed"
             ],
             "stack_title": "Army Stacks",
             "show_bonus": true,
@@ -525,6 +527,7 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
         "formation_circle_icon": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
+        "retain_on_slot_changed": true,
         "default_bonus_index": 0
     }
 }
@@ -752,7 +755,7 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
     "id": 2694,
     "flavour_text": "",
     "description": {
-        "desc": "Laurana gains the Hunter role. Dragons and Monstrosities become her favored foes, allowing Champions to deal $(not_buffed amount)% more damage against them for each Hunter in the formation, stacking multiplicatively. Hunters also count as Laurana's Soldiers. "
+        "desc": "Laurana gains the Hunter role. Dragons and Monstrosities become her favored foes, allowing Champions to deal $(not_buffed amount)% more damage against them for each Hunter in the formation, stacking multiplicatively. Hunters also count as Laurana's Soldiers."
     },
     "effect_keys": [
         {
@@ -886,7 +889,7 @@ Unknown.
 > Stop the Modron March from crushing Waterdeep under its mechanical heel.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: Arrival of the Golden General** (Complete Area 75)
+![Arrival of the Golden General Icon](images/laurana/28951.png) **Variant 1: Arrival of the Golden General** (Complete Area 75)
 > Laurana starts in the formation. She can be moved, but not removed.  
 > After area 50, only Laurana and Champions targeted by her Battle Plan specialization choice can deal damage.  
 > 1-2 Baaz or Kapak Draconians spawn with each wave. They don't drop gold nor count towards quest progress.  
@@ -894,7 +897,7 @@ Unknown.
 > <b>Getting to Know Laurana:</b> Laurana's first specialization choice selects one column behind her for her primary buff. Put your main damage dealer in that column!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: Dragons of Winter Night** (Complete Area 125)
+![Dragons of Winter Night Icon](images/laurana/28952.png) **Variant 2: Dragons of Winter Night** (Complete Area 125)
 > Laurana starts in the formation. She can't be moved or removed.  
 > Laurana gains 2 bonus Campaign stacks while on this adventure.  
 > Fizban joins the formation. Champions in Fizban's column deal 1000% additional damage. This bonus counts as a positional formation ability.  
@@ -903,7 +906,7 @@ Unknown.
 > <b>Getting to Know Laurana:</b> Laurana has 15 bonus achievements, and her abilities improve as you complete these achievements. These achievements are listed in the Great Modron March section of the achievement dialog.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: Critical Soldiers** (Complete Area 175)
+![Critical Soldiers Icon](images/laurana/28953.png) **Variant 3: Critical Soldiers** (Complete Area 175)
 > Laurana starts in the formation. She can be moved, but not removed.  
 > You may only use Heroes of the Lance Champions, DPS Champions, Hunter Champions, or Champions with a Constitution of 12 or lower.  
 > After area 50, bosses spawn with a special shield which must be destroyed before their regular hit points appear. To destroy a special shield, an enemy must be hit with a critical hit. After area 500, this special shield takes 5 critical hits to destroy.  
