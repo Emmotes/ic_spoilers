@@ -194,7 +194,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "indexed_effect_properties": true,
+        "use_outgoing_description": true,
         "per_effect_index_bonuses": true,
+        "formation_circle_icon": false,
         "show_incoming": false,
         "default_bonus_index": 1
     }
@@ -368,10 +370,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "monster_speed_increase,25"
+            "effect_string": "increase_monster_spawn_time_mult,25",
+            "off_when_benched": true
         },
         {
-            "effect_string": "buff_upgrade,50,19338,1"
+            "effect_string": "buff_upgrade,50,19338,1",
+            "off_when_benched": true
         }
     ],
     "requirements": [],
@@ -405,7 +409,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "chance_multiply_monster_quest_rewards,25,2"
+            "effect_string": "chance_multiply_monster_quest_rewards,25,2",
+            "off_when_benched": true
         }
     ],
     "requirements": [],
@@ -424,7 +429,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Melf's Abundant Allies** (Guess)
-> Melf takes note of the most populous species among the other Champions in the formation. His Custom Support Spell is increased by 100% for each Champion of that species in the formation (potentially including himself). In the event of a tie, Champions of all the tied species are counted.
+> Melf counts the most populous species among other Champions in the formation. Melf's Custom Support Spell is increased by 100% for each Champion of that species in the formation. If tied, all tied species count.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -434,7 +439,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2702,
     "flavour_text": "",
     "description": {
-        "desc": "Melf takes note of the most populous species among the other Champions in the formation. His Custom Support Spell is increased by $(amount)% for each Champion of that species in the formation (potentially including himself). In the event of a tie, Champions of all the tied species are counted.",
+        "desc": "Melf counts the most populous species among other Champions in the formation. Melf's Custom Support Spell is increased by $(amount)% for each Champion of that species in the formation. If tied, all tied species count.",
         "post": {
             "conditions": [
                 {
@@ -484,7 +489,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Melf's Adaptive Attacks** (Guess)
-> Melf takes note of the most popular attack type among the other Champions in the formation. His Custom Support Spell is increased by 100% for each Champion that uses that attack type in the formation. In the event of a tie, Champions with all of the tied attack types are counted. Melf also switches his base attack to match the most popular attack type.
+> Melf counts the most popular attack type among other Champions in the formation. Melf's Custom Support Spell is increased by 100% for each Champion in the formation with that type and Melf changes his attack to match. If tied, all tied attack types count.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -494,7 +499,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2703,
     "flavour_text": "",
     "description": {
-        "desc": "Melf takes note of the most popular attack type among the other Champions in the formation. His Custom Support Spell is increased by $(amount)% for each Champion that uses that attack type in the formation. In the event of a tie, Champions with all of the tied attack types are counted. Melf also switches his base attack to match the most popular attack type.",
+        "desc": "Melf counts the most popular attack type among other Champions in the formation. Melf's Custom Support Spell is increased by $(amount)% for each Champion in the formation with that type and Melf changes his attack to match. If tied, all tied attack types count.",
         "post": {
             "conditions": [
                 {
@@ -554,7 +559,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Melf's Ranked Roles** (Guess)
-> Melf takes note of the most represented non-Support Role among the other Champions in the formation. His Custom Support Spell is increased by 100% for each Champion that has that Role in the formation. In the event of a tie, Champions with all of the tied Roles are counted. Melf himself also gains the most represented Role(s).
+> Melf counts the most represented non-Support Role among the other Champions in the formation. Melf's Custom Support Spell is increased by 100% for each Champion in the formation with that role and Melf gains the Role. If tied, all tied Roles count.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -564,7 +569,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2704,
     "flavour_text": "",
     "description": {
-        "desc": "Melf takes note of the most represented non-Support Role among the other Champions in the formation. His Custom Support Spell is increased by $(amount)% for each Champion that has that Role in the formation. In the event of a tie, Champions with all of the tied Roles are counted. Melf himself also gains the most represented Role(s).",
+        "desc": "Melf counts the most represented non-Support Role among the other Champions in the formation. Melf's Custom Support Spell is increased by $(amount)% for each Champion in the formation with that role and Melf gains the Role. If tied, all tied Roles count.",
         "post": {
             "conditions": [
                 {
@@ -614,7 +619,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Melf's Amorphous Alignment** (Guess)
-> Melf takes note of the most represented alignment on the Lawful/Chaotic axis among the other Champions in the formation (ie. Lawful, Neutral, or Chaotic). His Custom Support Spell is increased by 100% for each Champion with that alignment in the formation. In the event of a tie, Champions with all of the tied alignments are counted. Melf also gains the most represented alignment(s).
+> Melf counts the most represented alignment on the Lawful/Chaotic axis among the other Champions in the formation. Melf's Custom Support Spell is increased by 100% for each Champion in the formation with that alignment and Melf gains the alignment. If tied, all tied alignments count.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -624,7 +629,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2705,
     "flavour_text": "",
     "description": {
-        "desc": "Melf takes note of the most represented alignment on the Lawful/Chaotic axis among the other Champions in the formation (ie. Lawful, Neutral, or Chaotic). His Custom Support Spell is increased by $(amount)% for each Champion with that alignment in the formation. In the event of a tie, Champions with all of the tied alignments are counted. Melf also gains the most represented alignment(s).",
+        "desc": "Melf counts the most represented alignment on the Lawful/Chaotic axis among the other Champions in the formation. Melf's Custom Support Spell is increased by $(amount)% for each Champion in the formation with that alignment and Melf gains the alignment. If tied, all tied alignments count.",
         "post": {
             "conditions": [
                 {
