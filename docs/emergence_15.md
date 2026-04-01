@@ -44,11 +44,11 @@ We know the next Emergence event will be Draconians and that it will start on 22
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Golden Epic](images/general/unknown.png)
+            <span class="tooltipHolder">![Golden Epic Icon for Tasslehoff Slot 2](images/emergence_15/ge_4161.png)<span class="itemTooltipContents">ID: 4161**Rabbitslayer (Tasslehoff)**And Caramon told me it wouldn't be of any use unless I met a vicious rabbit!<br><br><span style="color:var(--Flavescent)">Increases the effect of Tasslehoff's second set of Specializations by 275%.</span><code>buff_upgrades,275,19237,19238,19239</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Golden Epic**</span>
-            <span style="margin-left:15px">slot 2</span>
+            <span style="margin-left:15px">Rabbitslayer</span>
             <span style="margin-left:15px">Tasslehoff (Slot 2)</span>
         </span>
     </span>
