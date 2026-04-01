@@ -18,6 +18,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Nordom](archive/nordom.md)
 * [Raistlin Majere](archive/raistlin.md)
 * [Skylla](archive/skylla.md)
+* [Tasslehoff Burrfoot](archive/tasslehoff.md)
 
 [Back to Top](#top)
 
