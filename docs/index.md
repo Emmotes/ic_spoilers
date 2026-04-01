@@ -27,11 +27,11 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Tasslehoff Portrait Icon](images/tasslehoff/portrait.png)
+            ![Tasslehoff Burrfoot Portrait Icon](images/tasslehoff/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Tasslehoff
+                Tasslehoff Burrfoot
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Kender Rogue of Heroes of the Lance</span>
@@ -196,11 +196,11 @@ These are the upcoming new and reworked champions and where they'll be found.
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Tasslehoff Portrait Icon](images/tasslehoff/portrait.png)
+            ![Tasslehoff Burrfoot Portrait Icon](images/tasslehoff/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Tasslehoff
+                Tasslehoff Burrfoot
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Kender Rogue of Heroes of the Lance</span>
@@ -370,7 +370,6 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* [Festival of Fools Augments](augments_16.md) - 1 April 2026
 * [Emergence 15](emergence_15.md) - 22 April 2026
 * [EGS (Guess) Exclusive Giveaway](platform_giveaway_716.md) - 14 May 2026
 * [Bastion](bastion.md) - ???
