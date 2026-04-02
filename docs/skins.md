@@ -111,7 +111,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 681**Cosmic Horror Beadle (Beadle)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Cosmic Horror Beadle Portrait](images/skin_portraits/cosmichorrorbeadle.png)<span class="featTooltipContents">ID: 681**Cosmic Horror Beadle (Beadle)**<img src="images/skin_models/cosmichorrorbeadle.webp" alt="Cosmic Horror Beadle Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Cosmic Horror Beadle
