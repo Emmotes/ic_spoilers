@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/802.png">
-            <span class="weekendTooltipContents">ID: 802**Gold Misunderstood Chest**Loot for: Nayeli, Minsc, Raistlin, Diana and Tasslehoff<code>"for_crusaders":[3,7,173,148,174]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Misunderstood Heroes**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    03 April 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Tasslehoff
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/minsc.png'">
-                        <span class="weekendTableChampionNameplate">Minsc</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/raistlin.png'">
-                        <span class="weekendTableChampionNameplate">Raistlin</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/diana.png'">
-                        <span class="weekendTableChampionNameplate">Diana</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tasslehoff.png'">
-                        <span class="weekendTableChampionNameplate">Tasslehoff</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/803.png">
             <span class="weekendTooltipContents">ID: 803**Gold Revelry Chest**Loot for: Bruenor, Hitch, Lae'zel, Shandie and Catti-brie<code>"for_crusaders":[1,13,128,47,25]</code></span>
         </span>
