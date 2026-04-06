@@ -93,7 +93,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 677**Scarlet Briar Miria (Miria)**</span></span>
+            <span class="tooltipHolder">![Scarlet Briar Miria Skin Portrait](images/premiums/skin_677.png)<span class="itemTooltipContents">ID: 677**Scarlet Briar Miria (Miria)**<img src="images/premiums/skin_677.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -601,7 +601,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 682**Knight of the Crown Bobby (Bobby)**</span></span>
+            <span class="tooltipHolder">![Knight of the Crown Bobby Skin Portrait](images/premiums/skin_682.png)<span class="itemTooltipContents">ID: 682**Knight of the Crown Bobby (Bobby)**<img src="images/premiums/skin_682.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

@@ -9,7 +9,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 677**Scarlet Briar Miria (Miria)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Scarlet Briar Miria Portrait](images/skin_portraits/scarletbriarmiria.png)<span class="featTooltipContents">ID: 677**Scarlet Briar Miria (Miria)**<img src="images/skin_models/scarletbriarmiria.webp" alt="Scarlet Briar Miria Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Scarlet Briar Miria
@@ -128,7 +128,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 682**Knight of the Crown Bobby (Bobby)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Knight of the Crown Bobby Portrait](images/skin_portraits/knightofthecrownbobby.png)<span class="featTooltipContents">ID: 682**Knight of the Crown Bobby (Bobby)**<img src="images/skin_models/knightofthecrownbobby.webp" alt="Knight of the Crown Bobby Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Knight of the Crown Bobby
