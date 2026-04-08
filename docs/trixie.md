@@ -57,7 +57,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Support / Debuff (Guess)</span>
+            <span style="margin-left:8px;">Support / Debuff / Control (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
