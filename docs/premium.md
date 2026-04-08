@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2378**Feat**???: 2378</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Caustic Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2378**Caustic**I can't be seen looking like this! Like you! I'm hideous!<br><br><span style="color:var(--Flavescent)">Increases the base effect of Lucius' Arcane Chromat - Acid ability by 80%. (Prestack)</span><code>buff_upgrade,80,19248,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2378</span>
+            <span style="margin-left:15px">Caustic</span>
+            <span style="margin-left:15px">Lucius</span>
         </span>
     </span>
     <span class="premiumsTableItem">

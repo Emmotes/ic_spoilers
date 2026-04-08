@@ -128,6 +128,23 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon Army Infiltrator Eric Portrait](images/skin_portraits/dragonarmyinfiltratoreric.png)<span class="featTooltipContents">ID: 684**Dragon Army Infiltrator Eric (Eric)**<img src="images/skin_models/dragonarmyinfiltratoreric.webp" alt="Dragon Army Infiltrator Eric Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Dragon Army Infiltrator Eric
+        </span>
+        <span class="skinTableSource">
+            Emergence 15
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            22 Apr 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Knight of the Crown Bobby Portrait](images/skin_portraits/knightofthecrownbobby.png)<span class="featTooltipContents">ID: 682**Knight of the Crown Bobby (Bobby)**<img src="images/skin_models/knightofthecrownbobby.webp" alt="Knight of the Crown Bobby Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

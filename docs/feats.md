@@ -64,6 +64,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Lucius</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Caustic Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2378**Caustic (Lucius)**I can't be seen looking like this! Like you! I'm hideous!<br><br><span style="color:var(--Flavescent)">Increases the base effect of Lucius' Arcane Chromat - Acid ability by 80%. (Prestack)</span><code>buff_upgrade,80,19248,0</code></span>Caustic
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the base effect of Lucius' Arcane Chromat - Acid ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">08 Apr 2026<br>08 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Grimm</span>
         </span>
         <span class="featTableIcon4">
@@ -139,6 +156,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the base chance of Stunning Strike up to 200%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Emergence 15</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Apr 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lucius</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Volatile Magic Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2530**Volatile Magic (Lucius)**Oh, dear! That was quite a strong reaction. Let's try that again.<br><br><span style="color:var(--Flavescent)">Increases the effect of Lucius's Elemental Adept ability by 80%.</span><code>buff_upgrade,80,19250</code></span>Volatile Magic
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Lucius's Elemental Adept ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Emergence 15</span>
@@ -390,10 +424,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Birdsong</span>
         </span>
         <span class="featTableIcon4">
-            ![Favorite Song Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2599**Favorite Song (Birdsong)**Once more for the people in the back!<code>todo<br>DevNote: Song of Battle Range +1</code></span>Favorite Song
+            ![Favorite Song Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2599**Favorite Song (Birdsong)**Once more for the people in the back!<br><br><span style="color:var(--Flavescent)">Increases the range of Birdsong's Song of Battle ability by 1.</span><code>change_upgrade_data,10774</code></span>Favorite Song
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the range of Birdsong's Song of Battle ability by 1.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Tales of the Champions</span>
@@ -828,6 +862,74 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Lazaapz's Contingency Plan ability by 100%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lucius</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Corrosive Magic Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2531**Corrosive Magic (Lucius)**Not to worry, that will simply wash off. What? It's not? Oh, dear.<br><br><span style="color:var(--Flavescent)">Increases the amount of Acid stacks applied by Elemental Adept by 1.</span><code>add_elemental_adept_acid_stacks,1</code></span>Corrosive Magic
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the amount of Acid stacks applied by Elemental Adept by 1.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lucius</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Abrasive Magic Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2534**Abrasive Magic (Lucius)**I do have a tendency to get under people's skin.<br><br><span style="color:var(--Flavescent)">Increases the amount of health segments broken by Armor Eating Acid by 1.</span><code>buff_upgrade,100,19252</code></span>Abrasive Magic
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the amount of health segments broken by Armor Eating Acid by 1.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lucius</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Glacial Pace Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2538**Glacial Pace (Lucius)**Please, please, please, just slow down.<br><br><span style="color:var(--Flavescent)">Increases the slow effect of Lucius' Lingering Chill ability by 100%.</span><code>buff_upgrade,100,19255,1</code></span>Glacial Pace
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the slow effect of Lucius' Lingering Chill ability by 100%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lucius</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Deep Freeze Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2539**Deep Freeze (Lucius)**I would prefer it if you were to just STOP.<br><br><span style="color:var(--Flavescent)">Increases the slow duration of Lucius' Lingering Chill ability by 100%.</span><code>change_upgrade_data,19255,1</code></span>Deep Freeze
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the slow duration of Lucius' Lingering Chill ability by 100%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
