@@ -54,11 +54,11 @@ We know the next Emergence event will be Draconians and that it will start on 22
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Skin Portrait](images/general/unknown.png)
+            <span class="tooltipHolder">![Dragon Army Infiltrator Eric Skin Portrait](images/emergence_15/skin_684.png)<span class="itemTooltipContents">ID: 684**Dragon Army Infiltrator Eric (Eric)**<img src="images/emergence_15/skin_684.webp" alt="Dragon Army Infiltrator Eric Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Dragon Army Infiltrator Eric Skin</span>
+            <span style="margin-left:15px">Dragon Army Infiltrator Eric</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
@@ -93,11 +93,12 @@ We know the next Emergence event will be Draconians and that it will start on 22
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Feat Icon](images/general/unknown.png)
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Volatile Magic Feat Icon](images/emergence_15/feat_2530.png)<span class="featTooltipContents">ID: 2530**Volatile Magic (Lucius)**Oh, dear! That was quite a strong reaction. Let's try that again.<br><br><span style="color:var(--Flavescent)">Increases the effect of Lucius's Elemental Adept ability by 80%.</span><code>buff_upgrade,80,19250</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Volatile Magic</span>
+            <span style="margin-left:15px">Lucius</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
