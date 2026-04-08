@@ -17,7 +17,7 @@ Lucius Virion-Elluin Elenasto was born to high nobility. He thought he knew what
 
 # Changes
 
-Lucius will be a reworked champion in the Festival of Fools event and delayed until 8 April 2026.
+Lucius will be a reworked champion in the The Great Modron March event and delayed until 13 May 2026.
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
