@@ -657,6 +657,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "effect_string": "melf_amorphous_alignment",
             "hero_id": 110
+        },
+        {
+            "effect_string": "add_hero_tags,0,lawful",
+            "apply_manually": true
+        },
+        {
+            "effect_string": "add_hero_tags,0,chaotic",
+            "apply_manually": true
         }
     ],
     "requirements": [],
