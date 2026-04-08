@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Birdie the Peacock Portrait](images/familiars/birdiethepeacock.png)<span class="featTooltipContents">ID: 318**Birdie the Peacock**"I wish I were a birdie."<img src="images/familiars/birdiethepeacock.webp" alt="Birdie the Peacock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Birdie the Peacock
-        </span>
-        <span class="skinTableSource">
-            Strelitzia Lucius Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            08 Apr 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Bloom the Dryad Portrait](images/familiars/bloomthedryad.png)<span class="featTooltipContents">ID: 319**Bloom the Dryad**Likes pretty songs and likes to sing along.<img src="images/familiars/bloomthedryad.webp" alt="Bloom the Dryad Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

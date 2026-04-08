@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Scarlet Briar Miria Portrait](images/skin_portraits/scarletbriarmiria.png)<span class="featTooltipContents">ID: 677**Scarlet Briar Miria (Miria)**<img src="images/skin_models/scarletbriarmiria.webp" alt="Scarlet Briar Miria Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Scarlet Briar Miria
-        </span>
-        <span class="skinTableSource">
-            Scarlet Briar Miria Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            08 Apr 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Strelitzia Lucius Portrait](images/skin_portraits/strelitzialucius.png)<span class="featTooltipContents">ID: 676**Strelitzia Lucius (Lucius)**<img src="images/skin_models/strelitzialucius.webp" alt="Strelitzia Lucius Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Strelitzia Lucius
-        </span>
-        <span class="skinTableSource">
-            Strelitzia Lucius Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            08 Apr 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Wildflower Aila Portrait](images/skin_portraits/wildfloweraila.png)<span class="featTooltipContents">ID: 678**Wildflower Aila (Aila)**<img src="images/skin_models/wildfloweraila.webp" alt="Wildflower Aila Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Wildflower Aila
-        </span>
-        <span class="skinTableSource">
-            Wildflower Aila Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            08 Apr 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Cosmic Horror Grimm Portrait](images/skin_portraits/cosmichorrorgrimm.png)<span class="featTooltipContents">ID: 679**Cosmic Horror Grimm (Grimm)**<img src="images/skin_models/cosmichorrorgrimm.webp" alt="Cosmic Horror Grimm Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

@@ -30,57 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Aila</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Sentinel Icon](images/featicons/overhelm.png)<span class="featTooltipContents">ID: 2363**Sentinel (Aila)**Even flowers must endure the storm.<br><br><span style="color:var(--Flavescent)">Aila takes 20 more Enemies attacking to get overwhelmed.</span><code>overwhelm_start_increase,20</code></span>Sentinel
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Aila takes 20 more Enemies attacking to get overwhelmed.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">08 Apr 2026<br>08 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Miria</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2359**Prodigal Leader (Miria)**Be a good minion and obey.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">08 Apr 2026<br>08 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Lucius</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Caustic Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2378**Caustic (Lucius)**I can't be seen looking like this! Like you! I'm hideous!<br><br><span style="color:var(--Flavescent)">Increases the base effect of Lucius' Arcane Chromat - Acid ability by 80%. (Prestack)</span><code>buff_upgrade,80,19248,0</code></span>Caustic
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the base effect of Lucius' Arcane Chromat - Acid ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">08 Apr 2026<br>08 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Grimm</span>
         </span>
         <span class="featTableIcon4">
