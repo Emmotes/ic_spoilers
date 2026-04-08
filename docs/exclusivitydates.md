@@ -967,7 +967,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Privileged Background Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 939**Privileged Background (Lucius)**Can we just solve this with coin?<br><br><span style="color:var(--Flavescent)">Increases the effect of Lucius's Aerois Synergy ability by 80%.</span><code>buff_upgrade,80,8730</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Privileged Background Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 939**Privileged Background (Lucius)**Can we just solve this with coin?<br><br><span style="color:var(--Flavescent)">Increases the effect of Lucius's Aerois Synergy ability by 80%.</span><code>buff_upgrade,80,19251</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
