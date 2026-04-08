@@ -26,23 +26,213 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Raven's Pact** (Guess)
-> Unknown.
+**Doomed in Darkon** (Guess)
+> Uriah increases the damage of all Champions in his column and the column behind him by 400%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 29125,
-    "graphic": "Icons/Events/2018 Dragondown/Dragondown_Y9/Icon_Formation_BrotherUriah_RavensPact",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2719,
+    "flavour_text": "",
+    "description": {
+        "desc": "Uriah increases the damage of all Champions in his column and the column behind him by $amount%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "hero_dps_multiplier_mult,400",
+            "targets": [
+                "col_and_prev_col"
+            ],
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 17756,
+    "large_graphic_id": 17753,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ezra's Embrace** (Guess)
+> Brother Uriah heals all Champions within two slots for 10 health per second. This effect is increased by 25% for each formation slot containing a dead or undead Champion or an escort, stacking additively and applying multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2720,
+    "flavour_text": "",
+    "description": {
+        "desc": "Brother Uriah heals all Champions within two slots for $(not_buffed amount) health per second. This effect is increased by $amount___2% for each formation slot containing a dead or undead Champion or an escort, stacking additively and applying multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "heal,10",
+            "targets": [
+                {
+                    "type": "distance",
+                    "distance": 2,
+                    "comparison": "<="
+                }
+            ],
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "buff_upgrade,25,19676",
+            "stack_title": "Escorts and Dead Champions",
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "!is_alive || is_undead || HasTag(`undead`)",
+            "post_process_expr": "input + num_escorts_in_formation",
+            "show_bonus": true,
+            "show_stats_on_receiver": false,
+            "use_computed_amount_for_description": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_appears_dead",
+                "hero_killed",
+                "area_changed",
+                "hero_tags_changed"
+            ],
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 17757,
+    "large_graphic_id": 17754,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Raven's Pact** (Guess)
+> Brother Uriah's Flock are Black Dice Society affiliation members. Brother Uriah increases the effect of Doomed in Darkon by 100% for each Flock in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2721,
+    "flavour_text": "",
+    "description": {
+        "desc": "Brother Uriah's Flock are Black Dice Society affiliation members. Brother Uriah increases the effect of Doomed in Darkon by $(not_buffed amount)% for each Flock in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,19675",
+            "amount_expr": "upgrade_amount(19677,0)",
+            "off_when_benched": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`blackdicesociety`) || (GetUpgradePurchased(19680) && HasTag(`good`)) || (GetUpgradePurchased(19681) && HasTag(`evil`))",
+            "stack_title": "Flock Members",
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "hero_tags_changed",
+                "slot_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 29125,
+    "large_graphic_id": 29117,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**In the Grip of Azalin Rex** (Guess)
+> After 100 normal attacks by Champions in the formation, Azalin Rex takes over Brother Uriah for 20 seconds. While controlled by Azalin Rex, Brother Uriah increases the damage dealt by Champions who are part of his Flock by 1000%. Additionally, Brother Uriah turns evil while under the control of Azalin Rex.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2722,
+    "flavour_text": "",
+    "description": {
+        "pre": "After $attack_count normal attacks by Champions in the formation, Azalin Rex takes over Brother Uriah for $amount seconds. While controlled by Azalin Rex, Brother Uriah increases the damage dealt by Champions who are part of his Flock by $amount___2%. Additionally, Brother Uriah turns evil while under the control of Azalin Rex.",
+        "conditions": [
+            {
+                "condition": "(not static_desc)^(uriah_azalin_rex_active)",
+                "desc": "^^Time Remaining: $(uriah_azalin_duration) second(s)"
+            },
+            {
+                "condition": "(not static_desc)",
+                "desc": "^^Attack Count: $(uriah_current_attack_count) / $(attack_count)"
+            }
+        ]
+    },
+    "effect_keys": [
+        {
+            "effect_string": "in_the_grip_of_azalin_rex,20,100",
+            "azalin_effect_key_indexes": [
+                1,
+                2
+            ],
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "hero_dps_multiplier_mult,1000",
+            "apply_manually": true,
+            "off_when_benched": true,
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasTag(`blackdicesociety`) || (GetUpgradePurchased(19680) && HasTag(`good`)) || (GetUpgradePurchased(19681) && HasTag(`evil`))"
+                }
+            ],
+            "formation_arrows_for_effected_only": true
+        },
+        {
+            "effect_string": "add_hero_tags,0,evil",
+            "off_when_benched": true,
+            "apply_manually": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 17758,
+    "large_graphic_id": 17755,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -52,22 +242,125 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **The Clutch of Evil** (Guess)
-> Unknown.
+> Every second that Brother Uriah is In The Grip of Azalin Rex, the effect of Doomed in Darkon is increased by 10%, stacking additively. These stacks persist between adventures.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 29126,
-    "graphic": "Icons/Events/2018 Dragondown/Dragondown_Y9/Icon_Formation_BrotherUriah_TheClutchofEvil",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 2723,
+    "flavour_text": "",
+    "description": {
+        "desc": "Every second that Brother Uriah is In The Grip of Azalin Rex, the effect of Doomed in Darkon is increased by $amount%, stacking additively. These stacks persist between adventures."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,10,19675",
+            "off_when_benched": true,
+            "amount_func": "add",
+            "stack_func": "get_stat",
+            "stat": "uriah_clutch_of_evil",
+            "amount_updated_listeners": [
+                "stat_changed,uriah_clutch_of_evil"
+            ],
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 29126,
+    "large_graphic_id": 29118,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+# Specialisations
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Book of Exalted Deeds** (Guess)
+> Uriah reads from the Book of Exalted Deeds and gains the Hunter role, making Undead and Fiends his Favored Foes and all Champions deal 200% more damage to them. Additionally, Good Champions also count as members of Brother Uriah's Flock.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2724,
+    "flavour_text": "",
+    "description": {
+        "desc": "Uriah reads from the Book of Exalted Deeds and gains the Hunter role, making Undead and Fiends his Favored Foes and all Champions deal $amount% more damage to them. Additionally, Good Champions also count as members of Brother Uriah's Flock."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "increase_monster_with_tags_damage,200,undead|fiend",
+            "off_when_benched": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "favored_foe,undead"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "favored_foe,fiend"
+        },
+        {
+            "effect_string": "animation_synced_overlay,17719",
+            "skin_property_prefix": "spec_1_overlay",
+            "sort_bottom": true,
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "add_hero_tags,0,hunter",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "do_nothing",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`good`) && !HasTag(`blackdicesociety`)",
+            "off_when_benched": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 17759,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "New Flock Members: $num_stacks___6"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Book of Vile Darkness** (Guess)
+> 
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2725,
+    "flavour_text": "",
+    "description": {
+        "desc": ""
+    },
+    "effect_keys": [],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 17760,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
