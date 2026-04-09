@@ -6,6 +6,10 @@ We've been told a rework to the Trials and Legendaries systems are in the works 
 
 Below are all the data we have for these reworks.
 
+# Missions
+
+We know from a leak that there is a new dialogue called "Missions of Tiamat". It was full of placeholder text and graphics though.
+
 # Text Defines
 
 > "key": "getting_trials_details",  
