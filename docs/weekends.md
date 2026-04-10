@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/803.png">
-            <span class="weekendTooltipContents">ID: 803**Gold Revelry Chest**Loot for: Bruenor, Hitch, Lae'zel, Shandie and Catti-brie<code>"for_crusaders":[1,13,128,47,25]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Heroes Parade**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    10 April 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Catti-brie
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hitch.png'">
-                        <span class="weekendTableChampionNameplate">Hitch</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/laezel.png'">
-                        <span class="weekendTableChampionNameplate">Lae'zel</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/shandie.png'">
-                        <span class="weekendTableChampionNameplate">Shandie</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/cattibrie.png'">
-                        <span class="weekendTableChampionNameplate">Catti-brie</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/804.png">
             <span class="weekendTooltipContents">ID: 804**Gold Durge Chest**Loot for: Tyril, Calliope, Hew Maan, Karlach and Dark Urge<code>"for_crusaders":[10,5,75,143,146]</code></span>
         </span>
