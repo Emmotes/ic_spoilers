@@ -3858,39 +3858,39 @@ A list of all champions and their patron availability.
         <input type="checkbox" disabled>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="114,90,148,327,327,327,325,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="115,4,43,327,325,0,327,207">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="115,4,43,327,325,0,327,207">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="115,4,43,327,325,0,327,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="115,4,43,327,325,0,327,0">
         122
     </span>
-    <span class="patronRosterItem" data-sort="115,4,43,327,325,0,327,207">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="115,4,43,327,325,0,327,207">
+    <span class="patronRosterItem" data-sort="115,4,43,327,325,0,327,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="115,4,43,327,325,0,327,0">
         Antrius
     </span>
-    <span class="patronRosterItem" data-sort="115,4,43,327,325,0,327,207">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="115,4,43,327,325,0,327,207">
+    <span class="patronRosterItem" data-sort="115,4,43,327,325,0,327,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="115,4,43,327,325,0,327,0">
         4
     </span>
-    <span class="patronRosterItem" data-sort="115,4,43,327,325,0,327,207">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="115,4,43,327,325,0,327,207">
+    <span class="patronRosterItem" data-sort="115,4,43,327,325,0,327,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="115,4,43,327,325,0,327,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="115,4,43,327,325,0,327,207">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="115,4,43,327,325,0,327,207">
+    <span class="patronRosterItem" data-sort="115,4,43,327,325,0,327,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="115,4,43,327,325,0,327,0">
         <input type="checkbox" disabled checked><label class="cblabel">w/ Feats</label>
     </span>
-    <span class="patronRosterItem" data-sort="115,4,43,327,325,0,327,207">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="115,4,43,327,325,0,327,207">
+    <span class="patronRosterItem" data-sort="115,4,43,327,325,0,327,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="115,4,43,327,325,0,327,0">
         <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="115,4,43,327,325,0,327,207">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="115,4,43,327,325,0,327,207">
+    <span class="patronRosterItem" data-sort="115,4,43,327,325,0,327,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="115,4,43,327,325,0,327,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="115,4,43,327,325,0,327,207">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="115,4,43,327,325,0,327,207">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-04-11</label>
+    <span class="patronRosterItem" data-sort="115,4,43,327,325,0,327,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="115,4,43,327,325,0,327,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="115,4,43,327,325,0,327,207">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="115,4,43,327,325,0,327,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="116,96,0,0,327,0,325,209">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="116,96,0,0,327,0,325,209">
         123
