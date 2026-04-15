@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cosmic Horror Grimm Portrait](images/skin_portraits/cosmichorrorgrimm.png)<span class="featTooltipContents">ID: 679**Cosmic Horror Grimm (Grimm)**<img src="images/skin_models/cosmichorrorgrimm.webp" alt="Cosmic Horror Grimm Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Cosmic Horror Grimm
-        </span>
-        <span class="skinTableSource">
-            Cosmic Horror Grimm Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            15 Apr 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Springtime Spurt Portrait](images/skin_portraits/springtimespurt.png)<span class="featTooltipContents">ID: 680**Springtime Spurt (Spurt)**<img src="images/skin_models/springtimespurt.webp" alt="Springtime Spurt Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Springtime Spurt
-        </span>
-        <span class="skinTableSource">
-            Springtime Spurt Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            15 Apr 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Hammer of the North Barrowin Portrait](images/skin_portraits/hammerofthenorthbarrowin.png)<span class="featTooltipContents">ID: 685**Hammer of the North Barrowin (Barrowin)**<img src="images/skin_models/hammerofthenorthbarrowin.webp" alt="Hammer of the North Barrowin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

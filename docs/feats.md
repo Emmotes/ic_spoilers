@@ -30,57 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Grimm</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Buffed Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2347**Buffed Up (Grimm)**It'll all be over in just one swing. ~Grimm<br><br><span style="color:var(--Flavescent)">Increases the effect of Grimm's Get Buff ability by 80%. (Prestack)</span><code>buff_upgrade,80,16735</code></span>Buffed Up
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Grimm's Get Buff ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">15 Apr 2026<br>15 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Valentine</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2581**Standard Affair (Valentine)**Yes, yes, gather around.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span>Standard Affair
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">15 Apr 2026<br>15 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Spurt</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Corpse Stench Icon](images/featicons/spurtult.png)<span class="featTooltipContents">ID: 2559**Corpse Stench (Spurt)**Bath? What's that?<br><br><span style="color:var(--Flavescent)">Spurt always counts as Undead, even when not in Spirit form.</span><code>add_hero_tags,0,undead<br>buff_upgrade_per_any_tagged_crusader,20,10678,undead</code></span>Corpse Stench
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Spurt always counts as Undead, even when not in Spirit form.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">15 Apr 2026<br>15 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Raistlin</span>
         </span>
         <span class="featTableIcon4">

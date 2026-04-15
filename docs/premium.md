@@ -4,210 +4,6 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 700</div>
-### Valentine's Dryad Familiar & Feat Pack - 1,680 Platinum  
-Date of release: 15 Apr 2026
-
-> Collect a Feat for Valentine along with an exclusive Dryad familiar!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Bloom the Dryad Familiar Portrait](images/premiums/familiar_319.png)<span class="itemTooltipContents">ID: 319**Bloom the Dryad**Likes pretty songs and likes to sing along.<img src="images/premiums/familiar_319.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">Bloom the Dryad</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2581**Standard Affair**Yes, yes, gather around.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Standard Affair</span>
-            <span style="margin-left:15px">Valentine</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of Polish Buff Portrait](images/premiums/buff_36.png)<span class="itemTooltipContents">ID: 36**Potion of Polish**This shiny, silver liquid clings to the edge of the bottle in an unusual way.<code>shiny_loot,1</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Potion of Polish</span>
-            <span style="margin-left:15px">x1</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Huge Potion of Speed</span>
-            <span style="margin-left:15px">x2</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of the Hunter Buff Portrait](images/premiums/buff_1712.png)<span class="itemTooltipContents">ID: 1712**Potion of the Hunter**Increase Global Damage by 100%<code>global_dps_multiplier_mult,100</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Potion of the Hunter</span>
-            <span style="margin-left:15px">x1</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 701</div>
-### Cosmic Horror Grimm Skin & Feat Pack - 1,680 Platinum  
-Date of release: 15 Apr 2026
-
-> Unlock Grimm along with his exclusive Cosmic Horror Skin & Feat!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Grimm Champion Unlock Portrait](images/premiums/unlock_champion_161.png)<span class="itemTooltipContents">ID: 161**Grimm (Seat 2)**<img src="images/premiums/unlock_champion_161.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Grimm</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Cosmic Horror Grimm Skin Portrait](images/premiums/skin_679.png)<span class="itemTooltipContents">ID: 679**Cosmic Horror Grimm (Grimm)**<img src="images/premiums/skin_679.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Cosmic Horror Grimm</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Buffed Up Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2347**Buffed Up**It'll all be over in just one swing. ~Grimm<br><br><span style="color:var(--Flavescent)">Increases the effect of Grimm's Get Buff ability by 80%. (Prestack)</span><code>buff_upgrade,80,16735</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Buffed Up</span>
-            <span style="margin-left:15px">Grimm</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Grimm Chest Chest Portrait](images/premiums/chests_655.png)<span class="itemTooltipContents">ID: 655**Platinum Grimm Chest**Loot for: Grimm<code>"for_crusaders":[161]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Grimm Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 702</div>
-### Springtime Spurt Skin & Feat Pack - 1,680 Platinum  
-Date of release: 15 Apr 2026
-
-> Unlock Spurt along with his exclusive Springtime Skin & Feat!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Spurt Champion Unlock Portrait](images/premiums/unlock_champion_43.png)<span class="itemTooltipContents">ID: 43**Spurt (Seat 3)**<img src="images/premiums/unlock_champion_43.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Spurt</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Springtime Spurt Skin Portrait](images/premiums/skin_680.png)<span class="itemTooltipContents">ID: 680**Springtime Spurt (Spurt)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_680.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_680-spirit_graphic.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Springtime Spurt</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Corpse Stench Feat Portrait](images/featicons/spurtult.png)<span class="itemTooltipContents">ID: 2559**Corpse Stench**Bath? What's that?<br><br><span style="color:var(--Flavescent)">Spurt always counts as Undead, even when not in Spirit form.</span><code>add_hero_tags,0,undead<br>buff_upgrade_per_any_tagged_crusader,20,10678,undead</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Corpse Stench</span>
-            <span style="margin-left:15px">Spurt</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Spurt Chest Chest Portrait](images/premiums/chests_96.png)<span class="itemTooltipContents">ID: 96**Platinum Spurt Chest**Loot for: Spurt<code>"for_crusaders":[43]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Spurt Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 692</div>
 ### Star Angler Familiar & Modron Pack - 2,380 Platinum  
 Date of release: 22 Apr 2026
@@ -247,7 +43,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Modron Pipe Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 128**Directed T Component (2 out)**</span></span>
+            <span class="tooltipHolder">![Directed T Component (2 out) Modron Pipe Portrait](images/premiums/modron_tile_128.svg)<span class="itemTooltipContents">ID: 128**Directed T Component (2 out)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Modron Pipe**</span>
@@ -256,7 +52,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Modron Pipe Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 158**Directed Cross Component (3 out)**</span></span>
+            <span class="tooltipHolder">![Directed Cross Component (3 out) Modron Pipe Portrait](images/premiums/modron_tile_158.svg)<span class="itemTooltipContents">ID: 158**Directed Cross Component (3 out)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Modron Pipe**</span>
@@ -265,7 +61,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Modron Pipe Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 168**Directed Cross Component (1 out)**</span></span>
+            <span class="tooltipHolder">![Directed Cross Component (1 out) Modron Pipe Portrait](images/premiums/modron_tile_168.svg)<span class="itemTooltipContents">ID: 168**Directed Cross Component (1 out)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Modron Pipe**</span>

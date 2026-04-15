@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Bloom the Dryad Portrait](images/familiars/bloomthedryad.png)<span class="featTooltipContents">ID: 319**Bloom the Dryad**Likes pretty songs and likes to sing along.<img src="images/familiars/bloomthedryad.webp" alt="Bloom the Dryad Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Bloom the Dryad
-        </span>
-        <span class="skinTableSource">
-            Valentine's Dryad Familiar & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            15 Apr 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Seeker the Star Angler Portrait](images/familiars/seekerthestarangler.png)<span class="featTooltipContents">ID: 314**Seeker the Star Angler**Just watch out when her teeth grow in!<img src="images/familiars/seekerthestarangler.webp" alt="Seeker the Star Angler Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
