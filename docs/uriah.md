@@ -144,7 +144,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "HasTag(`blackdicesociety`) || (GetUpgradePurchased(19680) && HasTag(`good`)) || (GetUpgradePurchased(19681) && HasTag(`evil`))",
+            "per_hero_expr": "HasTag(`blackdicesociety`) || (GetUpgradePurchased(19680) && HasTag(`good`)) || (GetUpgradePurchased(19681) && HasTag(`evil`)) || (GetFeatEquipped(2628) && GetStat(`int`)>=13) || (GetFeatEquipped(2629) && GetStat(`con`)>=14) || (GetFeatEquipped(2630) && GetStat(`str`)>=10 && GetStat(`cha`)>=13)",
             "stack_title": "Flock Members",
             "show_bonus": true,
             "amount_updated_listeners": [
@@ -211,7 +211,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "filter_targets": [
                 {
                     "type": "hero_expr",
-                    "hero_expr": "HasTag(`blackdicesociety`) || (GetUpgradePurchased(19680) && HasTag(`good`)) || (GetUpgradePurchased(19681) && HasTag(`evil`))"
+                    "hero_expr": "HasTag(`blackdicesociety`) || (GetUpgradePurchased(19680) && HasTag(`good`)) || (GetUpgradePurchased(19681) && HasTag(`evil`)) || (GetFeatEquipped(2628) && GetStat(`int`)>=13) || (GetFeatEquipped(2629) && GetStat(`con`)>=14) || (GetFeatEquipped(2630) && GetStat(`str`)>=10 && GetStat(`cha`)>=13)"
                 }
             ],
             "formation_arrows_for_effected_only": true
@@ -319,7 +319,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "effect_string": "do_nothing",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "HasTag(`good`) && !HasTag(`blackdicesociety`)",
+            "per_hero_expr": "HasTag(`good`) && !(HasTag(`blackdicesociety`) || (GetFeatEquipped(2628) && GetStat(`int`)>=13) || (GetFeatEquipped(2629) && GetStat(`con`)>=14) || (GetFeatEquipped(2630) && GetStat(`str`)>=10 && GetStat(`cha`)>=13))",
             "off_when_benched": true
         }
     ],
@@ -343,7 +343,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Book of Vile Darkness** (Guess)
-> 
+> Azalin reads from the Book of Vile Darkness, increasing the effect of In the Grip of Azalin Rex by 100% and increasing its base duration by 20 seconds. Additionally, Evil Champions also count as members of Brother Uriah's Flock.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -351,16 +351,42 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2725,
     "flavour_text": "",
     "description": {
-        "desc": ""
+        "desc": "Azalin reads from the Book of Vile Darkness, increasing the effect of In the Grip of Azalin Rex by $amount% and increasing its base duration by $duration_increase___2 seconds. Additionally, Evil Champions also count as members of Brother Uriah's Flock."
     },
-    "effect_keys": [],
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,100,19678",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "buff_upgrade,100,19678,0",
+            "duration_increase": 20,
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "animation_synced_overlay,17718",
+            "skin_property_prefix": "spec_2_overlay",
+            "sort_bottom": true,
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "do_nothing",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`evil`) && !(HasTag(`blackdicesociety`) || (GetFeatEquipped(2628) && GetStat(`int`)>=13) || (GetFeatEquipped(2629) && GetStat(`con`)>=14) || (GetFeatEquipped(2630) && GetStat(`str`)>=10 && GetStat(`cha`)>=13))",
+            "off_when_benched": true
+        }
+    ],
     "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 17760,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "New Flock Members: $num_stacks___4"
     }
 }
 </pre>
