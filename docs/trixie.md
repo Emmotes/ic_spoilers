@@ -123,22 +123,27 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "animations": [
         {
             "type": "ranged_attack",
-            "projectile": "generic",
-            "shoot_frame": 9,
-            "sound_frames": {
-                "1": 169
-            },
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 10,
+            "override_start_position": true,
+            "override_start_pos_x": -100,
+            "override_start_pos_y": 300,
+            "projectile_delay": 0.1,
+            "projectile_count": 1,
+            "shoot_sound": 149,
             "hit_sound": 133,
-            "shoot_offset_x": 95,
-            "shoot_offset_y": -40,
-            "update_base_attack_after": 959,
             "projectile_details": {
-                "projectile_graphic_id": 9304,
-                "projectile_hit_graphic_id": 9310,
+                "hash": "trixie_pixie",
+                "percent_height_offset": -12,
+                "percent_height_offset_variance": 30,
+                "tween_func": "quad_out",
+                "projectile_speed": 1200,
+                "projectile_graphic_id": 29061,
+                "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
-                "target_offset_x": -120
+                "fly_from_top_left": true
             },
-            "animation_sequence_name": "attack"
+            "hold_shoot_frame": true
         }
     ],
     "tags": [
@@ -174,22 +179,27 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "animations": [
         {
             "type": "ranged_attack",
-            "projectile": "generic",
-            "shoot_frame": 9,
-            "sound_frames": {
-                "1": 169
-            },
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 10,
+            "override_start_position": true,
+            "override_start_pos_x": -100,
+            "override_start_pos_y": 300,
+            "projectile_delay": 0.1,
+            "projectile_count": 1,
+            "shoot_sound": 149,
             "hit_sound": 133,
-            "shoot_offset_x": 95,
-            "shoot_offset_y": -40,
-            "update_base_attack_after": 959,
             "projectile_details": {
-                "projectile_graphic_id": 9304,
-                "projectile_hit_graphic_id": 9310,
+                "hash": "trixie_pixie",
+                "percent_height_offset": -12,
+                "percent_height_offset_variance": 30,
+                "tween_func": "quad_out",
+                "projectile_speed": 1200,
+                "projectile_graphic_id": 29061,
+                "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
-                "target_offset_x": -120
+                "fly_from_top_left": true
             },
-            "animation_sequence_name": "attack"
+            "hold_shoot_frame": true
         }
     ],
     "tags": [
@@ -225,22 +235,27 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "animations": [
         {
             "type": "ranged_attack",
-            "projectile": "generic",
-            "shoot_frame": 9,
-            "sound_frames": {
-                "1": 169
-            },
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 10,
+            "override_start_position": true,
+            "override_start_pos_x": -100,
+            "override_start_pos_y": 300,
+            "projectile_delay": 0.1,
+            "projectile_count": 2,
+            "shoot_sound": 149,
             "hit_sound": 133,
-            "shoot_offset_x": 95,
-            "shoot_offset_y": -40,
-            "update_base_attack_after": 959,
             "projectile_details": {
-                "projectile_graphic_id": 9304,
-                "projectile_hit_graphic_id": 9310,
+                "hash": "trixie_pixie",
+                "percent_height_offset": -12,
+                "percent_height_offset_variance": 30,
+                "tween_func": "quad_out",
+                "projectile_speed": 1200,
+                "projectile_graphic_id": 29061,
+                "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
-                "target_offset_x": -120
+                "fly_from_top_left": true
             },
-            "animation_sequence_name": "attack"
+            "hold_shoot_frame": true
         }
     ],
     "tags": [
@@ -276,22 +291,27 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "animations": [
         {
             "type": "ranged_attack",
-            "projectile": "generic",
-            "shoot_frame": 9,
-            "sound_frames": {
-                "1": 169
-            },
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 10,
+            "override_start_position": true,
+            "override_start_pos_x": -100,
+            "override_start_pos_y": 300,
+            "projectile_delay": 0.1,
+            "projectile_count": 3,
+            "shoot_sound": 149,
             "hit_sound": 133,
-            "shoot_offset_x": 95,
-            "shoot_offset_y": -40,
-            "update_base_attack_after": 959,
             "projectile_details": {
-                "projectile_graphic_id": 9304,
-                "projectile_hit_graphic_id": 9310,
+                "hash": "trixie_pixie",
+                "percent_height_offset": -12,
+                "percent_height_offset_variance": 30,
+                "tween_func": "quad_out",
+                "projectile_speed": 1200,
+                "projectile_graphic_id": 29061,
+                "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
-                "target_offset_x": -120
+                "fly_from_top_left": true
             },
-            "animation_sequence_name": "attack"
+            "hold_shoot_frame": true
         }
     ],
     "tags": [
@@ -327,22 +347,27 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "animations": [
         {
             "type": "ranged_attack",
-            "projectile": "generic",
-            "shoot_frame": 9,
-            "sound_frames": {
-                "1": 169
-            },
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 10,
+            "override_start_position": true,
+            "override_start_pos_x": -100,
+            "override_start_pos_y": 300,
+            "projectile_delay": 0.1,
+            "projectile_count": 4,
+            "shoot_sound": 149,
             "hit_sound": 133,
-            "shoot_offset_x": 95,
-            "shoot_offset_y": -40,
-            "update_base_attack_after": 959,
             "projectile_details": {
-                "projectile_graphic_id": 9304,
-                "projectile_hit_graphic_id": 9310,
+                "hash": "trixie_pixie",
+                "percent_height_offset": -12,
+                "percent_height_offset_variance": 30,
+                "tween_func": "quad_out",
+                "projectile_speed": 1200,
+                "projectile_graphic_id": 29061,
+                "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
-                "target_offset_x": -120
+                "fly_from_top_left": true
             },
-            "animation_sequence_name": "attack"
+            "hold_shoot_frame": true
         }
     ],
     "tags": [
@@ -378,22 +403,27 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "animations": [
         {
             "type": "ranged_attack",
-            "projectile": "generic",
-            "shoot_frame": 9,
-            "sound_frames": {
-                "1": 169
-            },
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 10,
+            "override_start_position": true,
+            "override_start_pos_x": -100,
+            "override_start_pos_y": 300,
+            "projectile_delay": 0.1,
+            "projectile_count": 5,
+            "shoot_sound": 149,
             "hit_sound": 133,
-            "shoot_offset_x": 95,
-            "shoot_offset_y": -40,
-            "update_base_attack_after": 959,
             "projectile_details": {
-                "projectile_graphic_id": 9304,
-                "projectile_hit_graphic_id": 9310,
+                "hash": "trixie_pixie",
+                "percent_height_offset": -12,
+                "percent_height_offset_variance": 30,
+                "tween_func": "quad_out",
+                "projectile_speed": 1200,
+                "projectile_graphic_id": 29061,
+                "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
-                "target_offset_x": -120
+                "fly_from_top_left": true
             },
-            "animation_sequence_name": "attack"
+            "hold_shoot_frame": true
         }
     ],
     "tags": [
@@ -429,22 +459,27 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "animations": [
         {
             "type": "ranged_attack",
-            "projectile": "generic",
-            "shoot_frame": 9,
-            "sound_frames": {
-                "1": 169
-            },
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 10,
+            "override_start_position": true,
+            "override_start_pos_x": -100,
+            "override_start_pos_y": 300,
+            "projectile_delay": 0.1,
+            "projectile_count": 6,
+            "shoot_sound": 149,
             "hit_sound": 133,
-            "shoot_offset_x": 95,
-            "shoot_offset_y": -40,
-            "update_base_attack_after": 959,
             "projectile_details": {
-                "projectile_graphic_id": 9304,
-                "projectile_hit_graphic_id": 9310,
+                "hash": "trixie_pixie",
+                "percent_height_offset": -12,
+                "percent_height_offset_variance": 30,
+                "tween_func": "quad_out",
+                "projectile_speed": 1200,
+                "projectile_graphic_id": 29061,
+                "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
-                "target_offset_x": -120
+                "fly_from_top_left": true
             },
-            "animation_sequence_name": "attack"
+            "hold_shoot_frame": true
         }
     ],
     "tags": [
@@ -480,22 +515,27 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "animations": [
         {
             "type": "ranged_attack",
-            "projectile": "generic",
-            "shoot_frame": 9,
-            "sound_frames": {
-                "1": 169
-            },
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 10,
+            "override_start_position": true,
+            "override_start_pos_x": -100,
+            "override_start_pos_y": 300,
+            "projectile_delay": 0.1,
+            "projectile_count": 7,
+            "shoot_sound": 149,
             "hit_sound": 133,
-            "shoot_offset_x": 95,
-            "shoot_offset_y": -40,
-            "update_base_attack_after": 959,
             "projectile_details": {
-                "projectile_graphic_id": 9304,
-                "projectile_hit_graphic_id": 9310,
+                "hash": "trixie_pixie",
+                "percent_height_offset": -12,
+                "percent_height_offset_variance": 30,
+                "tween_func": "quad_out",
+                "projectile_speed": 1200,
+                "projectile_graphic_id": 29061,
+                "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
-                "target_offset_x": -120
+                "fly_from_top_left": true
             },
-            "animation_sequence_name": "attack"
+            "hold_shoot_frame": true
         }
     ],
     "tags": [
@@ -531,22 +571,27 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "animations": [
         {
             "type": "ranged_attack",
-            "projectile": "generic",
-            "shoot_frame": 9,
-            "sound_frames": {
-                "1": 169
-            },
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 10,
+            "override_start_position": true,
+            "override_start_pos_x": -100,
+            "override_start_pos_y": 300,
+            "projectile_delay": 0.1,
+            "projectile_count": 8,
+            "shoot_sound": 149,
             "hit_sound": 133,
-            "shoot_offset_x": 95,
-            "shoot_offset_y": -40,
-            "update_base_attack_after": 959,
             "projectile_details": {
-                "projectile_graphic_id": 9304,
-                "projectile_hit_graphic_id": 9310,
+                "hash": "trixie_pixie",
+                "percent_height_offset": -12,
+                "percent_height_offset_variance": 30,
+                "tween_func": "quad_out",
+                "projectile_speed": 1200,
+                "projectile_graphic_id": 29061,
+                "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
-                "target_offset_x": -120
+                "fly_from_top_left": true
             },
-            "animation_sequence_name": "attack"
+            "hold_shoot_frame": true
         }
     ],
     "tags": [
@@ -582,22 +627,27 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "animations": [
         {
             "type": "ranged_attack",
-            "projectile": "generic",
-            "shoot_frame": 9,
-            "sound_frames": {
-                "1": 169
-            },
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 10,
+            "override_start_position": true,
+            "override_start_pos_x": -100,
+            "override_start_pos_y": 300,
+            "projectile_delay": 0.1,
+            "projectile_count": 9,
+            "shoot_sound": 149,
             "hit_sound": 133,
-            "shoot_offset_x": 95,
-            "shoot_offset_y": -40,
-            "update_base_attack_after": 959,
             "projectile_details": {
-                "projectile_graphic_id": 9304,
-                "projectile_hit_graphic_id": 9310,
+                "hash": "trixie_pixie",
+                "percent_height_offset": -12,
+                "percent_height_offset_variance": 30,
+                "tween_func": "quad_out",
+                "projectile_speed": 1200,
+                "projectile_graphic_id": 29061,
+                "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
-                "target_offset_x": -120
+                "fly_from_top_left": true
             },
-            "animation_sequence_name": "attack"
+            "hold_shoot_frame": true
         }
     ],
     "tags": [
@@ -633,22 +683,83 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "animations": [
         {
             "type": "ranged_attack",
-            "projectile": "generic",
-            "shoot_frame": 9,
-            "sound_frames": {
-                "1": 169
-            },
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 10,
+            "override_start_position": true,
+            "override_start_pos_x": -100,
+            "override_start_pos_y": 300,
+            "projectile_delay": 0.1,
+            "projectile_count": 10,
+            "shoot_sound": 149,
             "hit_sound": 133,
-            "shoot_offset_x": 95,
-            "shoot_offset_y": -40,
-            "update_base_attack_after": 959,
             "projectile_details": {
-                "projectile_graphic_id": 9304,
-                "projectile_hit_graphic_id": 9310,
+                "hash": "trixie_pixie",
+                "percent_height_offset": -12,
+                "percent_height_offset_variance": 30,
+                "tween_func": "quad_out",
+                "projectile_speed": 1200,
+                "projectile_graphic_id": 29061,
+                "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
-                "target_offset_x": -120
+                "fly_from_top_left": true
             },
-            "animation_sequence_name": "attack"
+            "hold_shoot_frame": true
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Pixie Swarm** (Melee)
+> A pixie subordinate dives in and stabs a random enemy for one hit. An additional pixie appears for every 5 Trick stacks she expends when attacking.  
+> Cooldown: 6s (Cap 1.5s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 980,
+    "name": "Pixie Swarm",
+    "description": "Several of Trixie's Pixie Subordinates stab random enemies for one hit each.",
+    "long_description": "A pixie subordinate dives in and stabs a random enemy for one hit. An additional pixie appears for every 5 Trick stacks she expends when attacking.",
+    "graphic_id": 0,
+    "target": "random",
+    "num_targets": 11,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 6,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile": "pd_generic_projectile",
+            "shoot_frame": 10,
+            "override_start_position": true,
+            "override_start_pos_x": -100,
+            "override_start_pos_y": 300,
+            "projectile_delay": 0.1,
+            "projectile_count": 11,
+            "shoot_sound": 149,
+            "hit_sound": 133,
+            "projectile_details": {
+                "hash": "trixie_pixie",
+                "percent_height_offset": -12,
+                "percent_height_offset_variance": 30,
+                "tween_func": "quad_out",
+                "projectile_speed": 1200,
+                "projectile_graphic_id": 29061,
+                "impact_graphic_id": 10923,
+                "impact_offset_y": -50,
+                "fly_from_top_left": true
+            },
+            "hold_shoot_frame": true
         }
     ],
     "tags": [
@@ -799,10 +910,44 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "trixie_tricksy_pixie,100",
-            "slow_amount": 50,
+            "effect_string": "trixie_tricksy_pixie",
+            "slow_duration": 10,
             "stun_duration": 3,
-            "max_stacks": 50
+            "slow_amount": 50,
+            "max_stacks": 50,
+            "stacks_on_trigger": "other_champion_attack",
+            "show_stacks": true,
+            "stack_title": "Trick Stacks",
+            "slow_effect": {
+                "effect_string": "monster_speed_reduce,0",
+                "active_graphic_id": 29059,
+                "active_graphic_y": 20,
+                "use_collection_source": false,
+                "for_time": 10
+            },
+            "debuff_effects": {
+                "effect_string": "increase_monster_damage,0",
+                "amount_expr": "upgrade_amount(19689,0)",
+                "stacks_on_reapply": true,
+                "manual_stacking": true,
+                "stacks_multiply": true,
+                "use_collection_source": true,
+                "stack_across_effects": true,
+                "for_time": 5
+            },
+            "attack_ids": [
+                969,
+                970,
+                971,
+                972,
+                973,
+                974,
+                975,
+                976,
+                977,
+                978,
+                980
+            ]
         }
     ],
     "requirements": "",
@@ -811,7 +956,8 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "per_effect_index_bonuses": true
     }
 }
 </pre>
@@ -872,21 +1018,23 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
             "effect_string": "buff_upgrade,0,19686",
             "amount_expr": "upgrade_amount(19690,0)",
             "max_stacks": 20,
-            "min_stacks": 5,
             "stacks_on_trigger": "will_stack_manually",
             "off_when_benched": true,
             "show_bonus": true,
-            "disabled____apply_manually": true,
+            "apply_manually": true,
             "stack_title": "Current Stacks",
             "stacks_multiply": true
         },
         {
             "effect_string": "trixie_ultimate_undoing",
             "max_stacks": 20,
-            "stacks_on_trigger": "will_stack_manually",
+            "stacks_on_trigger": "other_champion_ultimate_attack",
             "off_when_benched": true,
             "show_stacks": true,
-            "stack_title": "Scheming Stacks"
+            "stack_title": "Scheming Stacks",
+            "buff_indicies": [
+                1
+            ]
         }
     ],
     "requirements": "",
@@ -919,7 +1067,17 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing,100"
+            "effect_string": "trixie_shrinking_dust",
+            "shrinking_dust_effects": [
+                {
+                    "off_when_benched": true,
+                    "effect_string": "reduce_hero_scale,50"
+                },
+                {
+                    "off_when_benched": true,
+                    "effect_string": "add_hero_tags,0,small"
+                }
+            ]
         }
     ],
     "requirements": "",
