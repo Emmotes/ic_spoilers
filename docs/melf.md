@@ -119,7 +119,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Melf's Custom Support Spell** (Guess)
-> Melf creates a custom spell to assist the formation. It increases the damage of adjacent Champions by 100%, and will be augmented based on the specialization you pick for Melf.
+> Melf creates a custom spell to assist the formation. It increases the damage of adjacent Champions by 400%, and will be augmented based on the specialization you pick for Melf.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -131,7 +131,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "hero_dps_multiplier_mult,100",
+            "effect_string": "hero_dps_multiplier_mult,400",
             "targets": [
                 "adj"
             ]
@@ -152,7 +152,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Melf in the Middle** (Guess)
-> Melf increases the range of Melf's Custom Support Spell by 2 and the effect of Melf's Custom Support Spell by 100% if Melf is in the column in the formation with the most Champions. In the event of a formation with multiple columns of the same size, Melf can be in any of them.
+> Melf increases the range of Melf's Custom Support Spell by 2 and the effect of Melf's Custom Support Spell by 400% if Melf is in the column in the formation with the most Champions. In the event of a formation with multiple columns of the same size, Melf can be in any of them.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -169,7 +169,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true
         },
         {
-            "effect_string": "buff_upgrade,100,19336",
+            "effect_string": "buff_upgrade,400,19336",
             "apply_manually": true
         },
         {
@@ -208,7 +208,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Melf's Righteous Determination** (Guess)
-> Melf knows exactly what evil is. Whenever an enemy spawns, or is attacked by Melf, it has a 50% chance of being deemed "evil".  Enemies that are deemed evil take 400% more damage from all attacks that deal BUD-based damage (such as Ultimate Attacks).
+> Melf knows exactly what evil is. Whenever an enemy spawns, or is attacked by Melf, it has a 50% chance of being deemed "evil".  Enemies that are deemed evil take 1000% more damage from all attacks that deal BUD-based damage (such as Ultimate Attacks).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -220,7 +220,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "melf_righteous_determination,400",
+            "effect_string": "melf_righteous_determination,1000",
             "non_evil_invulnerable_adventures": [
                 486,
                 1784
@@ -429,7 +429,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Melf's Abundant Allies** (Guess)
-> Melf counts the most populous species among other Champions in the formation. Melf's Custom Support Spell is increased by 100% for each Champion of that species in the formation. If tied, all tied species count.
+> Melf counts the most populous species among other Champions in the formation. Melf's Custom Support Spell is increased by 400% for each Champion of that species in the formation, stacking multiplicatively. If tied, all tied species count.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -439,8 +439,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2702,
     "flavour_text": "",
     "description": {
-        "desc": "Melf counts the most populous species among other Champions in the formation. Melf's Custom Support Spell is increased by $(amount)% for each Champion of that species in the formation. If tied, all tied species count.",
-        "post": {
+        "desc": "Melf counts the most populous species among other Champions in the formation. Melf's Custom Support Spell is increased by $(amount)% for each Champion of that species in the formation, stacking multiplicatively. If tied, all tied species count.",
+        "_post": {
             "conditions": [
                 {
                     "condition": "not static_desc",
@@ -451,18 +451,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack,100",
+            "effect_string": "pre_stack,400",
             "skip_effect_key_desc": true
         },
         {
             "effect_string": "buff_upgrade,0,19336",
             "amount_expr": "upgrade_amount(19342,0)",
             "stacks_on_trigger": "will_stack_manually",
-            "stacks_multiply": false,
-            "show_stacks": true,
-            "show_bonus": false,
-            "off_when_benched": true,
-            "stack_title": "Current Stacks"
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "off_when_benched": true
         },
         {
             "effect_string": "melf_abundant_allies",
@@ -489,7 +487,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Melf's Adaptive Attacks** (Guess)
-> Melf counts the most popular attack type among other Champions in the formation. Melf's Custom Support Spell is increased by 100% for each Champion in the formation with that type and Melf changes his attack to match. If tied, all tied attack types count.
+> Melf counts the most popular attack type among other Champions in the formation. Melf's Custom Support Spell is increased by 400% for each Champion in the formation with that type, stacking multiplicatively, and Melf changes his attack to match. If tied, all tied attack types count.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -499,8 +497,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2703,
     "flavour_text": "",
     "description": {
-        "desc": "Melf counts the most popular attack type among other Champions in the formation. Melf's Custom Support Spell is increased by $(amount)% for each Champion in the formation with that type and Melf changes his attack to match. If tied, all tied attack types count.",
-        "post": {
+        "desc": "Melf counts the most popular attack type among other Champions in the formation. Melf's Custom Support Spell is increased by $(amount)% for each Champion in the formation with that type, stacking multiplicatively, and Melf changes his attack to match. If tied, all tied attack types count.",
+        "_post": {
             "conditions": [
                 {
                     "condition": "not static_desc",
@@ -511,18 +509,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack,100",
+            "effect_string": "pre_stack,400",
             "skip_effect_key_desc": true
         },
         {
             "effect_string": "buff_upgrade,0,19336",
             "amount_expr": "upgrade_amount(19343,0)",
             "stacks_on_trigger": "will_stack_manually",
-            "stacks_multiply": false,
-            "show_stacks": true,
-            "show_bonus": false,
-            "off_when_benched": true,
-            "stack_title": "Current Stacks"
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "off_when_benched": true
         },
         {
             "effect_string": "melf_adaptive_attacks",
@@ -559,7 +555,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Melf's Ranked Roles** (Guess)
-> Melf counts the most represented non-Support Role among the other Champions in the formation. Melf's Custom Support Spell is increased by 100% for each Champion in the formation with that role and Melf gains the Role. If tied, all tied Roles count.
+> Melf counts the most represented non-Support Role among the other Champions in the formation. Melf's Custom Support Spell is increased by 400% for each Champion in the formation with that role, stacking multiplicatively, and Melf gains the Role. If tied, all tied Roles count.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -569,8 +565,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2704,
     "flavour_text": "",
     "description": {
-        "desc": "Melf counts the most represented non-Support Role among the other Champions in the formation. Melf's Custom Support Spell is increased by $(amount)% for each Champion in the formation with that role and Melf gains the Role. If tied, all tied Roles count.",
-        "post": {
+        "desc": "Melf counts the most represented non-Support Role among the other Champions in the formation. Melf's Custom Support Spell is increased by $(amount)% for each Champion in the formation with that role, stacking multiplicatively, and Melf gains the Role. If tied, all tied Roles count.",
+        "_post": {
             "conditions": [
                 {
                     "condition": "not static_desc",
@@ -581,18 +577,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack,100",
+            "effect_string": "pre_stack,400",
             "skip_effect_key_desc": true
         },
         {
             "effect_string": "buff_upgrade,0,19336",
             "amount_expr": "upgrade_amount(19344,0)",
             "stacks_on_trigger": "will_stack_manually",
-            "stacks_multiply": false,
-            "show_stacks": true,
-            "show_bonus": false,
-            "off_when_benched": true,
-            "stack_title": "Current Stacks"
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "off_when_benched": true
         },
         {
             "effect_string": "melf_ranked_roles",
@@ -619,7 +613,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Melf's Amorphous Alignment** (Guess)
-> Melf counts the most represented alignment on the Lawful/Chaotic axis among the other Champions in the formation. Melf's Custom Support Spell is increased by 100% for each Champion in the formation with that alignment and Melf gains the alignment. If tied, all tied alignments count.
+> Melf counts the most represented alignment on the Lawful/Chaotic axis among the other Champions in the formation. Melf's Custom Support Spell is increased by 400% for each Champion in the formation with that alignment, stacking multiplicatively, and Melf gains the alignment. If tied, all tied alignments count.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -629,8 +623,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2705,
     "flavour_text": "",
     "description": {
-        "desc": "Melf counts the most represented alignment on the Lawful/Chaotic axis among the other Champions in the formation. Melf's Custom Support Spell is increased by $(amount)% for each Champion in the formation with that alignment and Melf gains the alignment. If tied, all tied alignments count.",
-        "post": {
+        "desc": "Melf counts the most represented alignment on the Lawful/Chaotic axis among the other Champions in the formation. Melf's Custom Support Spell is increased by $(amount)% for each Champion in the formation with that alignment, stacking multiplicatively, and Melf gains the alignment. If tied, all tied alignments count.",
+        "_post": {
             "conditions": [
                 {
                     "condition": "not static_desc",
@@ -641,18 +635,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack,100",
+            "effect_string": "pre_stack,400",
             "skip_effect_key_desc": true
         },
         {
             "effect_string": "buff_upgrade,0,19336",
             "amount_expr": "upgrade_amount(19345,0)",
             "stacks_on_trigger": "will_stack_manually",
-            "stacks_multiply": false,
-            "show_stacks": true,
-            "show_bonus": false,
-            "off_when_benched": true,
-            "stack_title": "Current Stacks"
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "off_when_benched": true
         },
         {
             "effect_string": "melf_amorphous_alignment",
