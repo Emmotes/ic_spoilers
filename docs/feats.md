@@ -368,6 +368,74 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">27 May 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Ezmerelda</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Hunter's Legacy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2607**Hunter's Legacy (Ezmerelda)**</span>Hunter's Legacy
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Tales of the Champions</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">24 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Ravengard</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Duty Above All Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2609**Duty Above All (Ravengard)**</span>Duty Above All
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Tales of the Champions</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">24 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Birdsong</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2610**Teller of Tales (Birdsong)**<code>todo<br>DevNote: NEW EFFECT Birdsong may be used in any The Tales of the Champions adventure or variant when a patron is enabled, even if the patron or variant restrictions would normally restrict her.</code></span>Teller of Tales
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Tales of the Champions</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">24 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Strongheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2608**Wings of Platinum (Strongheart)**</span>Wings of Platinum
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Tales of the Champions</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">24 Jun 2026</span>
+        </span>
+    </span>
 </span>
 
 # Placeholder Date Feats
