@@ -59,7 +59,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">15 Apr 2026<br>15 Jun 2026</span>
+            <span class="featTableInner">15 Apr 2026<br>15 Jul 2026</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -67,7 +67,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Spurt</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2559**Corpse Stench (Spurt)**Bath? What's that?<br><br><span style="color:var(--Flavescent)">Spurt always counts as Undead, even when not in Spirit form.</span><code>add_hero_tags,0,undead<br>buff_upgrade_per_any_tagged_crusader,20,10678,undead</code></span>Corpse Stench
+            ![Corpse Stench Icon](images/featicons/spurtult.png)<span class="featTooltipContents">ID: 2559**Corpse Stench (Spurt)**Bath? What's that?<br><br><span style="color:var(--Flavescent)">Spurt always counts as Undead, even when not in Spirit form.</span><code>add_hero_tags,0,undead<br>buff_upgrade_per_any_tagged_crusader,20,10678,undead</code></span>Corpse Stench
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Spurt always counts as Undead, even when not in Spirit form.</span>

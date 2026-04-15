@@ -30,7 +30,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             Seeker the Star Angler
         </span>
         <span class="skinTableSource">
-            Seeker the Star Angler Familiar Pack
+            Star Angler Familiar & Modron Pack
         </span>
         <span class="skinTableCost">
             2,380p
