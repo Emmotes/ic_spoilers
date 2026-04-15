@@ -72,6 +72,28 @@ These are the event champions that are upcoming and all the information we know 
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="vanrichten.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Van Richten
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">&nbsp;</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Founders' Day - 1 July 2026</span>
+            </span>
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 # Reworked Champions
@@ -250,6 +272,33 @@ These are the upcoming new and reworked champions and where they'll be found.
         </span>
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+</span>
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
+## Founders' Day - 1 July 2026
+<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
+{::nomarkdown}
+<a href="vanrichten.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Van Richten
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">&nbsp;</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐
         </span>
     </span>
 {::nomarkdown}
