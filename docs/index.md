@@ -84,7 +84,7 @@ These are the event champions that are upcoming and all the information we know 
                 Van Richten
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">&nbsp;</span>
+                <span class="indexChampionTableNoLink">Human (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Founders' Day - 1 July 2026</span>
@@ -294,7 +294,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Van Richten
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">&nbsp;</span>
+                <span class="indexChampionTableNoLink">Human (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">

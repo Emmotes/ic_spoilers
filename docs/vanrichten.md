@@ -29,7 +29,7 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Human (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -61,7 +61,7 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Male (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
