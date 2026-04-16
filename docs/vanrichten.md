@@ -1,9 +1,15 @@
 [Back to Main](index.md)
 
-{% comment %}
 <span class="championPortraitsRow">
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![PC Portrait for Van Richten](images/vanrichten/portrait.png)
+        </span>
+        <span>
+            Portrait
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 # Van Richten
 
