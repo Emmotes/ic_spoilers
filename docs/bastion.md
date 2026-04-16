@@ -126,6 +126,9 @@ Some graphics were found that had the format `Bastion/Rooms/Treasure/...`:
 > "key": "bastion_room_upg_hint",  
 > "contents": "Once you've met the requirements, click this icon to upgrade your $roomName"
 
+> "key": "adv_party_bastion_req",  
+> "contents": "Complete $adventureName and updgrade the Bastion's Tavern to Level $level"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
