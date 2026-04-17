@@ -15,6 +15,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Havilar](archive/havilar.md)
 * [Kyre](archive/kyre.md)
 * [Lark](archive/lark.md)
+* [Lawful Modron Core](archive/lawful_modron_core.md)
 * [Lucius](archive/lucius.md)
 * [Nordom](archive/nordom.md)
 * [Raistlin Majere](archive/raistlin.md)
