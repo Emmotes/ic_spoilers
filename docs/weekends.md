@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/804.png">
-            <span class="weekendTooltipContents">ID: 804**Gold Durge Chest**Loot for: Tyril, Calliope, Hew Maan, Karlach and Dark Urge<code>"for_crusaders":[10,5,75,143,146]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Durge Run**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    17 April 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Dark Urge
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tyril.png'">
-                        <span class="weekendTableChampionNameplate">Tyril</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hewmaan.png'">
-                        <span class="weekendTableChampionNameplate">Hew Maan</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/karlach.png'">
-                        <span class="weekendTableChampionNameplate">Karlach</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/darkurge.png'">
-                        <span class="weekendTableChampionNameplate">Dark Urge</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/805.png">
             <span class="weekendTooltipContents">ID: 805**Gold High Spy Chest**Loot for: Celeste, Makos, Sentry, Thellora and Kalix<code>"for_crusaders":[2,9,52,139,158]</code></span>
         </span>
