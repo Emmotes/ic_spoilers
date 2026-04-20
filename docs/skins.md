@@ -94,7 +94,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 688**Masterwork Nordom (Nordom)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Masterwork Nordom Portrait](images/skin_portraits/masterworknordom.png)<span class="featTooltipContents">ID: 688**Masterwork Nordom (Nordom)**<img src="images/skin_models/masterworknordom.webp" alt="Masterwork Nordom Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Masterwork Nordom
