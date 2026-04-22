@@ -317,7 +317,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
-* [Emergence 15](emergence_15.md) - 22 April 2026
+* [Emergence 15](emergence_15.md) - 29 April 2026
 * [EGS (Guess) Exclusive Giveaway](platform_giveaway_716.md) - 14 May 2026
 * [Bastion](bastion.md) - ???
 * [Trials & Legendaries](trialsLegs.md) - ???

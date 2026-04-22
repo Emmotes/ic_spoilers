@@ -6,7 +6,7 @@
 
 # Emergence 15
 
-We know the next Emergence event will be Draconians and that it will start on 22 April 2026.
+We know the next Emergence event will be Draconians and that it will start on 29 April 2026.
 
 ### Shop Contents
 
