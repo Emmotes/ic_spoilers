@@ -42,7 +42,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Emergence 15</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">22 Apr 2026</span>
+            <span class="featTableInner">29 Apr 2026</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -59,7 +59,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Emergence 15</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">22 Apr 2026</span>
+            <span class="featTableInner">29 Apr 2026</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -76,7 +76,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Emergence 15</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">22 Apr 2026</span>
+            <span class="featTableInner">29 Apr 2026</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -93,7 +93,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Emergence 15</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">22 Apr 2026</span>
+            <span class="featTableInner">29 Apr 2026</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -110,75 +110,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Emergence 15</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">22 Apr 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Barrowin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Wound Master Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 2555**Wound Master (Barrowin)**Don't go dying on me now. Plenty of work to do.<br><br><span style="color:var(--Flavescent)">Increases the effect of Barrowin's Healing Word ability by 60%.</span><code>buff_upgrade,60,10686</code></span>Wound Master
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Barrowin's Healing Word ability by 60%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Tales of the Champions</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">22 Apr 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Kalix</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Hunt the Monstrous Icon](images/featicons/favoredfoe.png)<span class="featTooltipContents">ID: 2553**Hunt the Monstrous (Kalix)**No matter their form, they all bleed the same.<br><br><span style="color:var(--Flavescent)">Add Monstrositity as a favored foe for Kalix.</span><code>favored_foe,monstrous</code></span>Hunt the Monstrous
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Add Monstrositity as a favored foe for Kalix.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Tales of the Champions</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">22 Apr 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Kalix</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Apex Predator Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2554**Apex Predator (Kalix)**Your end approaches. Bear witness.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kalix's The Deadliest Prey ability by 80%.</span><code>buff_upgrade,80,16520,1</code></span>Apex Predator
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Kalix's The Deadliest Prey ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Tales of the Champions</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">22 Apr 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Beadle</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Buckle Down Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2560**Buckle Down (Beadle)**When the going gets tough, I make sure Grimm gets going. ~Beadle<br><br><span style="color:var(--Flavescent)">Increases the effect of Beadle's Share The Glory ability by 80%.</span><code>buff_upgrade,80,16724,1</code></span>Buckle Down
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Beadle's Share The Glory ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">22 Apr 2026<br>22 Jul 2026</span>
+            <span class="featTableInner">29 Apr 2026</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -373,7 +305,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Ezmerelda</span>
         </span>
         <span class="featTableIcon4">
-            ![Hunter's Legacy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2607**Hunter's Legacy (Ezmerelda)**</span>Hunter's Legacy
+            ![Hunter's Legacy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2607**Hunter's Legacy (Ezmerelda)**Van Richten taught me well. Allow me to demonstrate.<code>todo<br>DevNote: All Specs Epic Feat</code></span>Hunter's Legacy
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -390,7 +322,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Ravengard</span>
         </span>
         <span class="featTableIcon4">
-            ![Duty Above All Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2609**Duty Above All (Ravengard)**</span>Duty Above All
+            ![Duty Above All Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2609**Duty Above All (Ravengard)**A good soldier serves by their actions. A great one serves with their heart.<code>todo<br>DevNote: FA3 - Critical Teamwork damage buff (E)</code></span>Duty Above All
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -407,7 +339,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Birdsong</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2610**Teller of Tales (Birdsong)**<code>todo<br>DevNote: NEW EFFECT Birdsong may be used in any The Tales of the Champions adventure or variant when a patron is enabled, even if the patron or variant restrictions would normally restrict her.</code></span>Teller of Tales
+            ![Teller of Tales Icon](images/featicons/redknight.png)<span class="featTooltipContents">ID: 2610**Teller of Tales (Birdsong)**I have seen much in my time with the Champions. Shall I tell you of our adventures?<code>todo<br>DevNote: NEW EFFECT Birdsong may be used in any The Tales of the Champions adventure or variant when a patron is enabled, even if the patron or variant restrictions would normally restrict her.</code></span>Teller of Tales
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -424,7 +356,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Strongheart</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2608**Wings of Platinum (Strongheart)**</span>Wings of Platinum
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2608**Wings of Platinum (Strongheart)**With valor in heart and Steel in hand, I give my all to protect this world and all things good!<code>todo<br>DevNote: All Specs Epic Feat</code></span>Wings of Platinum
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>

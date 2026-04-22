@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Hammer of the North Barrowin Portrait](images/skin_portraits/hammerofthenorthbarrowin.png)<span class="featTooltipContents">ID: 685**Hammer of the North Barrowin (Barrowin)**<img src="images/skin_models/hammerofthenorthbarrowin.webp" alt="Hammer of the North Barrowin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Hammer of the North Barrowin
-        </span>
-        <span class="skinTableSource">
-            Tales of the Champions (Guess)
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            22 Apr 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cosmic Horror Beadle Portrait](images/skin_portraits/cosmichorrorbeadle.png)<span class="featTooltipContents">ID: 681**Cosmic Horror Beadle (Beadle)**<img src="images/skin_models/cosmichorrorbeadle.webp" alt="Cosmic Horror Beadle Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Cosmic Horror Beadle
-        </span>
-        <span class="skinTableSource">
-            Cosmic Horror Beadle Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            22 Apr 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Dragon Army Infiltrator Eric Portrait](images/skin_portraits/dragonarmyinfiltratoreric.png)<span class="featTooltipContents">ID: 684**Dragon Army Infiltrator Eric (Eric)**<img src="images/skin_models/dragonarmyinfiltratoreric.webp" alt="Dragon Army Infiltrator Eric Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -55,7 +21,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ???
         </span>
         <span class="skinTableDate">
-            22 Apr 2026
+            29 Apr 2026
         </span>
     </span>
     <span class="skinTableRow">
@@ -226,6 +192,108 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             20 May 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 695**Summer Court Trixie (Trixie)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Summer Court Trixie
+        </span>
+        <span class="skinTableSource">
+            Summer Court Trixie Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            03 Jun 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 696**Viscount Ravengard (Ravengard)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Viscount Ravengard
+        </span>
+        <span class="skinTableSource">
+            Viscount Ravengard Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            03 Jun 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 697**Fey Touched Brother Uriah (Y4E15)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Fey Touched Brother Uriah
+        </span>
+        <span class="skinTableSource">
+            Fey Touched Brother Uriah Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            10 Jun 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 698**Summer Court Antrius (Antrius)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Summer Court Antrius
+        </span>
+        <span class="skinTableSource">
+            Summer Court Antrius Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            10 Jun 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 699**Buzzwin (Binwin)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Buzzwin
+        </span>
+        <span class="skinTableSource">
+            Buzzwin Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            17 Jun 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 700**Summer Court Dungeon Master (DM)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Summer Court Dungeon Master
+        </span>
+        <span class="skinTableSource">
+            Summer Court Dungeon Master Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            17 Jun 2026
         </span>
     </span>
 </span>
