@@ -560,6 +560,23 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">15 Jul 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Beadle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Buckle Down Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2560**Buckle Down (Beadle)**When the going gets tough, I make sure Grimm gets going. ~Beadle<br><br><span style="color:var(--Flavescent)">Increases the effect of Beadle's Share The Glory ability by 80%.</span><code>buff_upgrade,80,16724,1</code></span>Buckle Down
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Beadle's Share The Glory ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Jul 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -922,7 +939,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
         </span>
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableDate">
-                <span>22 April 2026</span>
+                <span>29 April 2026</span>
             </span>
             <span class="postSeasonTableDate">
                 <span>Unknown</span>
