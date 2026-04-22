@@ -9,6 +9,22 @@
             Portrait
         </span>
     </span>
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Model WebP of Van Richten](images/vanrichten/model.webp)
+        </span>
+        <span>
+            Base Model
+        </span>
+    </span>
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Alternate Model WebP of Van Richten: Erasmus](images/vanrichten/model-erasmus.webp)
+        </span>
+        <span>
+            Erasmus Model
+        </span>
+    </span>
 </span>
 
 # Van Richten
