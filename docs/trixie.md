@@ -137,7 +137,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
                 "percent_height_offset": -12,
                 "percent_height_offset_variance": 30,
                 "tween_func": "quad_out",
-                "projectile_speed": 1200,
+                "projectile_speed": 1400,
                 "projectile_graphic_id": 29061,
                 "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
@@ -193,7 +193,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
                 "percent_height_offset": -12,
                 "percent_height_offset_variance": 30,
                 "tween_func": "quad_out",
-                "projectile_speed": 1200,
+                "projectile_speed": 1400,
                 "projectile_graphic_id": 29061,
                 "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
@@ -249,7 +249,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
                 "percent_height_offset": -12,
                 "percent_height_offset_variance": 30,
                 "tween_func": "quad_out",
-                "projectile_speed": 1200,
+                "projectile_speed": 1400,
                 "projectile_graphic_id": 29061,
                 "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
@@ -305,7 +305,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
                 "percent_height_offset": -12,
                 "percent_height_offset_variance": 30,
                 "tween_func": "quad_out",
-                "projectile_speed": 1200,
+                "projectile_speed": 1400,
                 "projectile_graphic_id": 29061,
                 "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
@@ -361,7 +361,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
                 "percent_height_offset": -12,
                 "percent_height_offset_variance": 30,
                 "tween_func": "quad_out",
-                "projectile_speed": 1200,
+                "projectile_speed": 1400,
                 "projectile_graphic_id": 29061,
                 "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
@@ -417,7 +417,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
                 "percent_height_offset": -12,
                 "percent_height_offset_variance": 30,
                 "tween_func": "quad_out",
-                "projectile_speed": 1200,
+                "projectile_speed": 1400,
                 "projectile_graphic_id": 29061,
                 "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
@@ -473,7 +473,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
                 "percent_height_offset": -12,
                 "percent_height_offset_variance": 30,
                 "tween_func": "quad_out",
-                "projectile_speed": 1200,
+                "projectile_speed": 1400,
                 "projectile_graphic_id": 29061,
                 "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
@@ -529,7 +529,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
                 "percent_height_offset": -12,
                 "percent_height_offset_variance": 30,
                 "tween_func": "quad_out",
-                "projectile_speed": 1200,
+                "projectile_speed": 1400,
                 "projectile_graphic_id": 29061,
                 "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
@@ -585,7 +585,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
                 "percent_height_offset": -12,
                 "percent_height_offset_variance": 30,
                 "tween_func": "quad_out",
-                "projectile_speed": 1200,
+                "projectile_speed": 1400,
                 "projectile_graphic_id": 29061,
                 "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
@@ -641,7 +641,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
                 "percent_height_offset": -12,
                 "percent_height_offset_variance": 30,
                 "tween_func": "quad_out",
-                "projectile_speed": 1200,
+                "projectile_speed": 1400,
                 "projectile_graphic_id": 29061,
                 "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
@@ -697,7 +697,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
                 "percent_height_offset": -12,
                 "percent_height_offset_variance": 30,
                 "tween_func": "quad_out",
-                "projectile_speed": 1200,
+                "projectile_speed": 1400,
                 "projectile_graphic_id": 29061,
                 "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
@@ -753,7 +753,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
                 "percent_height_offset": -12,
                 "percent_height_offset_variance": 30,
                 "tween_func": "quad_out",
-                "projectile_speed": 1200,
+                "projectile_speed": 1400,
                 "projectile_graphic_id": 29061,
                 "impact_graphic_id": 10923,
                 "impact_offset_y": -50,
@@ -794,7 +794,9 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "cooldown": 140,
     "animations": [
         {
-            "type": "trixie_ultimate"
+            "type": "trixie_ultimate",
+            "devourers": 1,
+            "devourer_speed": 6
         }
     ],
     "tags": [
@@ -1068,6 +1070,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "effect_keys": [
         {
             "effect_string": "trixie_shrinking_dust",
+            "off_when_benched": true,
             "shrinking_dust_effects": [
                 {
                     "off_when_benched": true,
@@ -1098,7 +1101,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Faster Friends** (Guess)
-> The damage of all Champions is increased by 100%. When a Familiar clicks on an enemy, it also reduces the Base Attack Cooldown of a random Champion other than Trixie by 0.2 seconds.
+> The damage of all Champions is increased by 100%. When a Familiar clicks on an enemy, it also reduces the Base Attack Cooldown of a random Champion other than Trixie by 100 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1110,7 +1113,12 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing,100",
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "trixie_faster_friends",
             "cooldown_reduction": 0.2
         }
     ],
@@ -1130,7 +1138,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Friends** (Guess)
-> The ultimate damage of all Champions is increased by 400%. When a Familiar clicks on a boss enemy, it also reduces the current Ultimate Attack Cooldown of a random Champion other than Trixie whose ultimate is on cooldown by 0.2 seconds.
+> The ultimate damage of all Champions is increased by 400%. When a Familiar clicks on a boss enemy, it also reduces the current Ultimate Attack Cooldown of a random Champion other than Trixie whose ultimate is on cooldown by 400 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -1142,7 +1150,15 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing,400",
+            "off_when_benched": true,
+            "effect_string": "buff_ultimate,400",
+            "targets": [
+                "all"
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "trixie_ultimate_friends",
             "ult_reduction": 0.2
         }
     ],
