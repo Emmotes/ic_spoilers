@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/805.png">
-            <span class="weekendTooltipContents">ID: 805**Gold High Spy Chest**Loot for: Celeste, Makos, Sentry, Thellora and Kalix<code>"for_crusaders":[2,9,52,139,158]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **High Spy**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    24 April 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Kalix
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/sentry.png'">
-                        <span class="weekendTableChampionNameplate">Sentry</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/thellora.png'">
-                        <span class="weekendTableChampionNameplate">Thellora</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/kalix.png'">
-                        <span class="weekendTableChampionNameplate">Kalix</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/806.png">
             <span class="weekendTooltipContents">ID: 806**Gold Heirloom Chest**Loot for: Bruenor, Asharra, Artemis, Valentine and Barrowin<code>"for_crusaders":[1,6,54,103,19]</code></span>
         </span>
