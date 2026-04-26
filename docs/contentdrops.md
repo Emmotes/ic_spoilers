@@ -300,6 +300,8 @@ This Tales drop will allow unlocking Birdsong and Tess.
 
 ## Tales 10 - 24 June 2026
 
+Tales 10 will not unlock any champions.
+
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
         <span class="contentDropsTableIcons">
