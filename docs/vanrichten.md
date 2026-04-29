@@ -67,7 +67,7 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Support / Healing / Speed / Debuff / Hunter / Control (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -106,12 +106,9 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/vanrichten/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Van Richten" fill="#aaa" data-formationName="Van Richten" data-campaignName="Founders' Day" width="354" height="160"><circle cx="175" cy="25" r="15"/><circle cx="175" cy="65" r="15"/><circle cx="175" cy="105" r="15"/><circle cx="135" cy="45" r="15"/><circle cx="135" cy="85" r="15"/><circle cx="135" cy="125" r="15"/><circle cx="95" cy="105" r="15"/><circle cx="95" cy="145" r="15"/><circle cx="55" cy="125" r="15"/><circle cx="15" cy="145" r="15"/><text x="205" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Van Richten</text><text x="205" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Founders' Day</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
@@ -120,23 +117,29 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Beyond the Grave** (Guess)
-> Unknown effect.
+**Unknown** (Guess)
+> As a sworn enemy of Strahd, Van Richten can be used in any Strahd Patron adventure or variant, even if he would not normally be available to be used due to variant or patron restrictions.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 29195,
-    "graphic": "Icons/Events/2018FoundersDay/Y9 VanRichten/Icon_Formation_VanRichten_BeyondTheGrave",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
+    "id": 2739,
+    "flavour_text": "",
+    "description": {
+        "desc": "As a sworn enemy of Strahd, Van Richten can be used in any Strahd Patron adventure or variant, even if he would not normally be available to be used due to variant or patron restrictions."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "use_outgoing_description": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -146,22 +149,75 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Slayer Training** (Guess)
-> Unknown effect.
+> Van Richten increases the damage of Champions in the column in front of him by 100%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 29196,
-    "graphic": "Icons/Events/2018FoundersDay/Y9 VanRichten/Icon_Formation_VanRichten_SlayerTraining",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
+    "id": 2738,
+    "flavour_text": "",
+    "description": {
+        "desc": "Van Richten increases the damage of Champions in the column in front of him by $amount%."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "next_col"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 29196,
+    "large_graphic_id": 29192,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Beyond the Grave** (Guess)
+> When a non-Undead non-Boss enemy is killed, there is a 25% chance that Strahd will resurrect it as an Undead version of the same enemy. The enemy reappears where it died after 1 second and can drop an additional quest item or count as a second kill for quest progress when killed. Does not trigger in Boss areas.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2740,
+    "flavour_text": "",
+    "description": {
+        "desc": "When a non-Undead non-Boss enemy is killed, there is a 25% chance that Strahd will resurrect it as an Undead version of the same enemy. The enemy reappears where it died after 1 second and can drop an additional quest item or count as a second kill for quest progress when killed. Does not trigger in Boss areas."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "chance_resurrect_enemy_handler,25",
+            "add_tag": true,
+            "tag": "undead",
+            "graphic_id": 29293,
+            "resurrected_key": "richten_resurrected",
+            "resurrect_effect": {
+                "effect_string": "monster_undead_respawn,1"
+            },
+            "post_resurrect_effects": [
+                {
+                    "effect_string": "richten_resurrected"
+                }
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 29195,
+    "large_graphic_id": 29191,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -171,22 +227,45 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Triumph** (Guess)
-> Unknown effect.
+> Undead enemies are Van Richten's favored foe. When one of his favored foes is killed, Van Richten gains a Triumph stack. Slayer Training is increased by undead% for each Triumph stack he has, stacking multiplicatively. Triumph stacks cap at 100 and reset when a boss area is completed.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 29197,
-    "graphic": "Icons/Events/2018FoundersDay/Y9 VanRichten/Icon_Formation_VanRichten_Triumph",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
+    "id": 2741,
+    "flavour_text": "",
+    "description": {
+        "desc": "Undead enemies are Van Richten's favored foe. When one of his favored foes is killed, Van Richten gains a Triumph stack. Slayer Training is increased by $amount% for each Triumph stack he has, stacking multiplicatively. Triumph stacks cap at 100 and reset when a boss area is completed."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "favored_foe,undead"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,20,19696",
+            "stacks_on_trigger": "favored_foe_killed",
+            "more_triggers": [
+                {
+                    "trigger": "boss_area_complete",
+                    "action": {
+                        "type": "reset"
+                    }
+                }
+            ],
+            "max_stacks": 100,
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "stack_title": "Triumph Stacks"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 29197,
+    "large_graphic_id": 29193,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -196,22 +275,59 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Watched by Erasmus** (Guess)
-> Unknown effect.
+> If no enemies have been defeated for 3 seconds, Van Richten's ghost son Erasmus appears. Whenever Van Richten attacks, Erasmus quickly moves to the target he will attack and curses all enemies in a small area, causing all attacks against them to deal 100% more damage. This is increased by 20% for each Triumph stack Van Richten has, stacking multiplicatively. Erasmus disappears when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 29198,
-    "graphic": "Icons/Events/2018FoundersDay/Y9 VanRichten/Icon_Formation_VanRichten_WatchedByErasmus",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
+    "id": 2742,
+    "flavour_text": "",
+    "description": {
+        "desc": "If no enemies have been defeated for 3 seconds, Van Richten's ghost son Erasmus appears. Whenever Van Richten attacks, Erasmus quickly moves to the target he will attack and curses all enemies in a small area, causing all attacks against them to deal 100% more damage. This is increased by 20% for each Triumph stack Van Richten has, stacking multiplicatively. Erasmus disappears when changing areas."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 29198,
+    "large_graphic_id": 29194,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unlock Ultimate** (Guess)
+> Van Richten raises his hand, which projects radiant light towards the enemies. All enemies take an ultimate hit, are knocked back a short distance, and slowed by 50% for 5 seconds. Enemies that are his favored foe take 400% more damage from this ultimate.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2749,
+    "flavour_text": "",
+    "description": {
+        "desc": "Van Richten raises his hand, which projects radiant light towards the enemies. All enemies take an ultimate hit, are knocked back a short distance, and slowed by 50% for 5 seconds. Enemies that are his favored foe take 400% more damage from this ultimate."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 29205,
+    "large_graphic_id": 29205,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -222,48 +338,43 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Endless Hunt** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 29199,
-    "graphic": "Icons/Events/2018FoundersDay/Y9 VanRichten/Icon_Specialization_VanRichten_EndlessHunt",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Occult Allies** (Guess)
-> Unknown effect.
+> Van Richten increases the effect of Slayer Training by 100% for each Cleric, Wizard, Sorcerer, or Warlock in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 29203,
-    "graphic": "Icons/Events/2018FoundersDay/Y9 VanRichten/Icon_Specialization_VanRichten_OccultAllies",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2743,
+    "flavour_text": "",
+    "description": {
+        "desc": "Van Richten increases the effect of Slayer Training by $amount% for each Cleric, Wizard, Sorcerer, or Warlock in the formation, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,0,19696",
+            "amount_expr": "upgrade_amount(19690,0)",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`cleric`) || HasTag(`wizard`) || HasTag(`sorcerer`) || HasTag(`warlock`)",
+            "stacks_multiply": true,
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 29203,
+    "large_graphic_id": 29203,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -273,22 +384,85 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Scholar of Dread** (Guess)
-> Unknown effect.
+> Van Richten increases the effect of Slayer Training by 100% for each Champion in the formation with an Intelligence score of 14 or higher, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 29204,
-    "graphic": "Icons/Events/2018FoundersDay/Y9 VanRichten/Icon_Specialization_VanRichten_ScholarOfDread",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2744,
+    "flavour_text": "",
+    "description": {
+        "desc": "Van Richten increases the effect of Slayer Training by $amount% for each Champion in the formation with an Intelligence score of 14 or higher, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,100,19696",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "GetStat(`int`)>=14",
+            "stacks_multiply": true,
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 29204,
+    "large_graphic_id": 29204,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Endless Hunt** (Guess)
+> Van Richten increases the effect of Slayer Training by 100% for each Hunter Champion and each Debuff Champion in the formation, stacking multiplicatively. Champions with both roles count twice.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2745,
+    "flavour_text": "",
+    "description": {
+        "desc": "Van Richten increases the effect of Slayer Training by $amount% for each Hunter Champion and each Debuff Champion in the formation, stacking multiplicatively. Champions with both roles count twice."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100"
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,100,19696",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "as_int(HasTag(`hunter`)) + as_int(HasTag(`debuff`))",
+            "stacks_multiply": true,
+            "show_bonus": true
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 29199,
+    "large_graphic_id": 29199,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -298,22 +472,41 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Occult Aid: Cure Wounds** (Guess)
-> Unknown effect.
+> Van Richten gains the Healing role. Every second, Van Richten heals the most damaged Champion in the formation for 20% of his own max health.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 29200,
-    "graphic": "Icons/Events/2018FoundersDay/Y9 VanRichten/Icon_Specialization_VanRichten_OccultAidCureWounds",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2746,
+    "flavour_text": "",
+    "description": {
+        "desc": "Van Richten gains the Healing role. Every second, Van Richten heals the most damaged Champion in the formation for 20% of his own max health."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "add_hero_tags,0,healing"
+        },
+        {
+            "effect_string": "heal_most_damaged,20",
+            "off_when_benched": true,
+            "on_trigger": "on_timer,1",
+            "targets": [
+                "all_slots"
+            ],
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "5"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 29200,
+    "large_graphic_id": 29200,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -323,22 +516,28 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Occult Aid: Dispel Evil** (Guess)
-> Unknown effect.
+> In non-boss areas, when Van Richten attacks one of his favored foes and does not defeat it, he Dismisses it to its home plane and he gains 2 Triumph stacks. Enemies dismissed in this way do not drop gold nor count toward quest progress.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 29201,
-    "graphic": "Icons/Events/2018FoundersDay/Y9 VanRichten/Icon_Specialization_VanRichten_OccultAidDispelEvil",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2747,
+    "flavour_text": "",
+    "description": {
+        "desc": "In non-boss areas, when Van Richten attacks one of his favored foes and does not defeat it, he Dismisses it to its home plane and he gains 2 Triumph stacks. Enemies dismissed in this way do not drop gold nor count toward quest progress."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 29201,
+    "large_graphic_id": 29201,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -348,22 +547,28 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Occult Aid: Sanctuary** (Guess)
-> Unknown effect.
+> Van Richten casts Sanctuary on all Champions in the front column of the formation that do not have the Tanking role. Monsters prefer to attack Champions that aren't under the effect of Sanctuary first when possible.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 29202,
-    "graphic": "Icons/Events/2018FoundersDay/Y9 VanRichten/Icon_Specialization_VanRichten_OccultAidSanctuary",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2748,
+    "flavour_text": "",
+    "description": {
+        "desc": "Van Richten casts Sanctuary on all Champions in the front column of the formation that do not have the Tanking role. Monsters prefer to attack Champions that aren't under the effect of Sanctuary first when possible."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 29202,
+    "large_graphic_id": 29202,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false
     }
 }
 </pre>
@@ -442,7 +647,22 @@ Unknown.
 
 # Adventures and Variants
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Unlock Adventure: Party Crashers (Van Richten)** (Complete Area 50)
+> Save Waterdeep from the chaos of a Founders' Day gone awry.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 1: Variant 1** (Complete Area 75)
+> 
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 2: Variant 2** (Complete Area 125)
+> 
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 3: Variant 3** (Complete Area 175)
+> 
+</div></div>
 
 # Other Champion Images
 
