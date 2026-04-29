@@ -317,6 +317,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 
 Miscellaneous spoilers with due dates.
 
+* [The Great Modron March Augments](augments_26.md) - 6 May 2026
 * [EGS (Guess) Exclusive Giveaway](platform_giveaway_716.md) - 14 May 2026
 * Emergence 16 - 22 July 2026
 * [Bastion](bastion.md) - ???
