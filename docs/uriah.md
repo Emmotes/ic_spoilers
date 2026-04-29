@@ -69,7 +69,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2720,
     "flavour_text": "",
     "description": {
-        "desc": "Brother Uriah heals all Champions within two slots for $(not_buffed amount) health per second. This effect is increased by $amount___2% for each formation slot containing a dead or undead Champion or an escort, stacking additively and applying multiplicatively."
+        "pre": "Brother Uriah heals all Champions within two slots for $amount___2 health per second. This effect is increased by $amount___3% for each formation slot containing a dead or undead Champion or an escort, stacking additively and applying multiplicatively.",
+        "conditions": [
+            {
+                "condition": "not static_desc",
+                "desc": "^^Total Heal Amount: $amount"
+            }
+        ]
     },
     "effect_keys": [
         {
@@ -81,6 +87,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "comparison": "<="
                 }
             ],
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "intermediate_amount,10",
             "off_when_benched": true
         },
         {
@@ -121,7 +131,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Raven's Pact** (Guess)
-> Brother Uriah's Flock are Black Dice Society affiliation members. Brother Uriah increases the effect of Doomed in Darkon by 100% for each Flock in the formation, stacking multiplicatively.
+> Brother Uriah's Flock are Black Dice Society affiliation members. Brother Uriah increases the effect of Doomed in Darkon by 100% for each Flock member in the formation, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -131,7 +141,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2721,
     "flavour_text": "",
     "description": {
-        "desc": "Brother Uriah's Flock are Black Dice Society affiliation members. Brother Uriah increases the effect of Doomed in Darkon by $(not_buffed amount)% for each Flock in the formation, stacking multiplicatively."
+        "desc": "Brother Uriah's Flock are Black Dice Society affiliation members. Brother Uriah increases the effect of Doomed in Darkon by $(amount)% for each Flock member in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
