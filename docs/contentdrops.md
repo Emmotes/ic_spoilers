@@ -272,7 +272,82 @@ Tales 10 will not unlock any champions.
     </span>
 </span>
 
-## Mixed 7 Variants - 22 July 2026
+## Mastery 1 - 22 July 2026
+
+<span class="contentDropsTableColumn">
+    <span class="contentDropsTableRowHeader">
+        <span class="contentDropsTableIcons">
+            <span style="margin-left:8px;">**Icon**</span>
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">**Campaign**</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">**Adventure Name**</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">**Type**</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: No Good Deed (Adventure)](images/contentdrop_portraits/mastery_nogooddeed_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">No Good Deed</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Adventure</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Out of Time (Adventure)](images/contentdrop_portraits/mastery_outoftime_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Out of Time</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Adventure</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Rocket Elves (Adventure)](images/contentdrop_portraits/mastery_rocketelves_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Rocket Elves</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Adventure</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: The Real Power of Three (Adventure)](images/contentdrop_portraits/mastery_therealpowerofthree_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">The Real Power of Three</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Adventure</span>
+        </span>
+    </span>
+</span>
+
+## Mixed 7 Variants - 29 July 2026
 
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
