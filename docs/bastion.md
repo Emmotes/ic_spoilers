@@ -8,6 +8,18 @@ We know it will let players unlock rooms to gain access to some game systems - s
 
 The assumption is that this will be some kind of new-player onboarding system.
 
+# Trophies
+
+Five new Patron shop items were added - one for each patron.
+
+| Name | Currency | Influence | Trophy ID |
+|---|---|---|---|
+| Bastion Trophy - Mirt | 1.00e05 | 1.00e13 | 6 |
+| Bastion Trophy - Vajra | 1.00e05 | 1.00e12 | 7 |
+| Bastion Trophy - Strahd | 1.00e05 | 1.50e10 | 8 |
+| Bastion Trophy - Zariel | 1.00e05 | 2.80e10 | 9 |
+| Bastion Trophy - Elminster | 1.00e05 | 1.00e15 | 10 |
+
 # Known Rooms
 
 ## Extwalls
@@ -128,6 +140,36 @@ Some graphics were found that had the format `Bastion/Rooms/Treasure/...`:
 
 > "key": "adv_party_bastion_req",  
 > "contents": "Complete $adventureName and updgrade the Bastion's Tavern to Level $level"
+
+> "key": "trophies_faq_title",  
+> "contents": "Trophies FAQ"
+
+> "key": "trophies_faq",  
+> "contents": ""
+
+> "key": "clear_all_trophies",  
+> "contents": "Clear All Trophies"
+
+> "key": "show_placed_trophies",  
+> "contents": "Show Placed Trophies"
+
+> "key": "clear_all_trophies_confirmation",  
+> "contents": "Are you sure you want to remove all trophies from the Bastion and return them to your inventory?"
+
+> "key": "trophy_card_text",  
+> "contents": "Place in your Bastion"
+
+> "key": "trophy_shop",  
+> "contents": "Trophy Shop"
+
+> "key": "trophy_inventory_empty_message",  
+> "contents": "You have no trophies in your inventory!"
+
+> "key": "trophy_shop_empty_message",  
+> "contents": "You have purchased all available trophies in the Trophy Shop!"
+
+> "key": "trophy_search_empty_message",  
+> "contents": "No trophies match the search term"
 
 [Back to Top](#top)
 
