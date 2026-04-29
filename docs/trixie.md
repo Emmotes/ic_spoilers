@@ -787,7 +787,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "description": "Trixie calls for Dev the Devourer to consume the healthiest non-boss enemy.",
     "long_description": "Trixie flies off to get Dev the Devourer to consume the healthiest non-boss enemy, or otherwise deal an ultimate hit to a boss.",
     "graphic_id": 29135,
-    "target": "random_nonboss_nonstatic_normal_hp",
+    "target": "highest_health_deprio_bosses_exclude_blockers",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 0.03,
@@ -883,8 +883,8 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
         }
     ],
     "requirements": "",
-    "graphic_id": 29128,
-    "large_graphic_id": 29120,
+    "graphic_id": 29130,
+    "large_graphic_id": 29122,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -908,11 +908,12 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "id": 2728,
     "flavour_text": "",
     "description": {
-        "desc": "Every time a Champion other than Trixie attacks, Trixie gains a Trick stack. When Trixie attacks, she expends all her Trick stacks to slow up to that number of random enemies by $(slow_amount)% for 10 seconds. If she has more Trick stacks than there are enemies, then she can use the extra stacks to stun that number of random enemies for $(stun_duration) seconds. Additionally, one extra Pixie Subordinate attacks for every 5 Trick stacks expended. Trixie can not have more than $(max_stacks) Trick stacks at once."
+        "desc": "Every time a Champion other than Trixie attacks, Trixie gains a Trick stack. When Trixie attacks, she expends all her Trick stacks to slow up to that number of random enemies by $(slow_amount)% for $(slow_duration) seconds. If she has more Trick stacks than there are enemies, then she can use the extra stacks to stun that number of random enemies for $(stun_duration) seconds. Additionally, one extra Pixie Subordinate attacks for every 5 Trick stacks expended. Trixie can not have more than $(max_stacks) Trick stacks at once."
     },
     "effect_keys": [
         {
             "effect_string": "trixie_tricksy_pixie",
+            "off_when_benched": true,
             "slow_duration": 10,
             "stun_duration": 3,
             "slow_amount": 50,
@@ -953,8 +954,8 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
         }
     ],
     "requirements": "",
-    "graphic_id": 29129,
-    "large_graphic_id": 29121,
+    "graphic_id": 29131,
+    "large_graphic_id": 29123,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -977,16 +978,18 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "id": 2729,
     "flavour_text": "",
     "description": {
-        "desc": "If Trixie still has Trick stacks left after stunning all enemies on the screen, she uses the extra stacks to increase the damage a random enemy takes by $amount% for 5 seconds. These debuffs can apply to the same enemy multiple times and stack multiplicatively."
+        "desc": "If Trixie still has Trick stacks left after stunning all enemies on the screen, she uses the extra stacks to increase the damage a random enemy takes by $amount% for $(debilitate_time) seconds. These debuffs can apply to the same enemy multiple times and stack multiplicatively."
     },
     "effect_keys": [
         {
-            "effect_string": "trixie_debilitating_dust,100"
+            "effect_string": "trixie_debilitating_dust,100",
+            "off_when_benched": true,
+            "debilitate_time": 5
         }
     ],
     "requirements": "",
-    "graphic_id": 29130,
-    "large_graphic_id": 29122,
+    "graphic_id": 29128,
+    "large_graphic_id": 29120,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -1030,7 +1033,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
         {
             "effect_string": "trixie_ultimate_undoing",
             "max_stacks": 20,
-            "stacks_on_trigger": "other_champion_ultimate_attack",
+            "stacks_on_trigger": "will_stack_manually",
             "off_when_benched": true,
             "show_stacks": true,
             "stack_title": "Scheming Stacks",
@@ -1040,14 +1043,15 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
         }
     ],
     "requirements": "",
-    "graphic_id": 29131,
-    "large_graphic_id": 29123,
+    "graphic_id": 29132,
+    "large_graphic_id": 29124,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -1071,24 +1075,50 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
         {
             "effect_string": "trixie_shrinking_dust",
             "off_when_benched": true,
-            "shrinking_dust_effects": [
-                {
-                    "off_when_benched": true,
-                    "effect_string": "reduce_hero_scale,50"
-                },
-                {
-                    "off_when_benched": true,
-                    "effect_string": "add_hero_tags,0,small"
-                }
-            ]
+            "overlay_graphic_id": 29058,
+            "underlay_graphic_id": 29059,
+            "targets": [
+                "adj_behind_propagate_species"
+            ],
+            "retarget_when_any_hero_slot_changed": true,
+            "retarget_when_hero_tags_changed": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "reduce_hero_scale,50",
+            "targets": [
+                "adj_behind_propagate_species"
+            ],
+            "skip_effect_key_desc": true,
+            "retarget_when_any_hero_slot_changed": true,
+            "retarget_when_hero_tags_changed": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "add_hero_tags,0,small",
+            "targets": [
+                "adj_behind_propagate_species"
+            ],
+            "skip_effect_key_desc": true,
+            "retarget_when_any_hero_slot_changed": true,
+            "retarget_when_hero_tags_changed": true
+        },
+        {
+            "effect_string": "do_nothing",
+            "off_when_benched": true,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasEffect(`trixie_shrinking_dust`)",
+            "show_stacks": true,
+            "stack_title": "Affected Champions",
+            "retarget_when_any_hero_slot_changed": true,
+            "retarget_when_hero_tags_changed": true
         }
     ],
     "requirements": "",
-    "graphic_id": 29132,
-    "large_graphic_id": 29124,
+    "graphic_id": 29129,
+    "large_graphic_id": 29121,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
         "formation_circle_icon": false
     }
 }
@@ -1114,7 +1144,10 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "hero_dps_multiplier_mult,100"
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "targets": [
+                "all"
+            ]
         },
         {
             "off_when_benched": true,
@@ -1271,8 +1304,7 @@ Unknown.
 > After area 50, enemies that aren't slowed, stunned, or rooted only take 1 damage from normal attacks.  
 > Click damage only deals damage (including fire breath effects) for the first 25 areas.  
 > Fire breath potions can't be used during the adventure.  
-> <b>Getting to Know Trixie the Pixie:</b> Some variants turn off click damage, so familiars don't deal damage. You can still use familiars with Trixie's specialization choices to increase the attack rate of your other Champions!  
-> 
+> <b>Getting to Know Trixie the Pixie:</b> Some variants turn off click damage, so familiars don't deal damage. You can still use familiars with Trixie's specialization choices to increase the attack rate of your other Champions!
 </div></div>
 
 # Other Champion Images
