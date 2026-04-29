@@ -33,7 +33,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Playground Boss Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2561**Playground Boss**The best games are the ones where the rules are different every time you play!<br><br><span style="color:var(--Flavescent)">Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed specializations by 80%. (Prestack)</span><code>buff_upgrade,80,15449,0<br>buff_upgrade,80,15450,0<br>buff_upgrade,80,15451,0</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Playground Boss Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2561**Playground Boss**The best games are the ones where the rules are different every time you play!<br><br><span style="color:var(--Flavescent)">Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed Specializations by 80%. (Prestack)</span><code>buff_upgrade,80,15449,0<br>buff_upgrade,80,15450,0<br>buff_upgrade,80,15451,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -95,7 +95,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Raistlin Cosplay Farideh Skin Portrait](images/premiums/skin_683.png)<span class="itemTooltipContents">ID: 683**Raistlin Cosplay Farideh (Farideh)**<img src="images/premiums/skin_683.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Raistlin Cosplay Farideh Skin Portrait](images/premiums/skin_683.png)<span class="itemTooltipContents">ID: 683**Raistlin Cosplay Farideh (Farideh)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_683.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_683-flames.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -104,7 +104,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Magius Infernus Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2562**Magius Infernus**Cast enough fireballs, and most problems tend to go away.<br><br><span style="color:var(--Flavescent)">Increases the effect of Farideh's specializations by 80%.</span><code>buff_upgrades,80,17839,17840,17841</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Magius Infernus Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2562**Magius Infernus**Cast enough fireballs, and most problems tend to go away.<br><br><span style="color:var(--Flavescent)">Increases the effect of Farideh's Specializations by 80%.</span><code>buff_upgrades,80,17839,17840,17841</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>

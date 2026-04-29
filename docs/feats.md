@@ -118,10 +118,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Bobby</span>
         </span>
         <span class="featTableIcon4">
-            ![Playground Boss Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2561**Playground Boss (Bobby)**The best games are the ones where the rules are different every time you play!<br><br><span style="color:var(--Flavescent)">Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed specializations by 80%. (Prestack)</span><code>buff_upgrade,80,15449,0<br>buff_upgrade,80,15450,0<br>buff_upgrade,80,15451,0</code></span>Playground Boss
+            ![Playground Boss Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2561**Playground Boss (Bobby)**The best games are the ones where the rules are different every time you play!<br><br><span style="color:var(--Flavescent)">Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed Specializations by 80%. (Prestack)</span><code>buff_upgrade,80,15449,0<br>buff_upgrade,80,15450,0<br>buff_upgrade,80,15451,0</code></span>Playground Boss
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed specializations by 80%. (Prestack)</span>
+            <span class="featTableInner">Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed Specializations by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -135,10 +135,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Farideh</span>
         </span>
         <span class="featTableIcon4">
-            ![Magius Infernus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2562**Magius Infernus (Farideh)**Cast enough fireballs, and most problems tend to go away.<br><br><span style="color:var(--Flavescent)">Increases the effect of Farideh's specializations by 80%.</span><code>buff_upgrades,80,17839,17840,17841</code></span>Magius Infernus
+            ![Magius Infernus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2562**Magius Infernus (Farideh)**Cast enough fireballs, and most problems tend to go away.<br><br><span style="color:var(--Flavescent)">Increases the effect of Farideh's Specializations by 80%.</span><code>buff_upgrades,80,17839,17840,17841</code></span>Magius Infernus
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Farideh's specializations by 80%.</span>
+            <span class="featTableInner">Increases the effect of Farideh's Specializations by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -298,6 +298,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">27 May 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lazaapz</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Emergency Protocol Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1947**Emergency Protocol (Lazaapz)**If I'm going down, I'm taking all of you with me!<br><br><span style="color:var(--Flavescent)">Increases the effect of Lazaapz's Contingency Plan ability by 100%.</span><code>buff_upgrade,100,17481</code></span>Emergency Protocol
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Lazaapz's Contingency Plan ability by 100%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">03 Jun 2026</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -743,23 +760,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Windfall's Dragon's Pride ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Lazaapz</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Emergency Protocol Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1947**Emergency Protocol (Lazaapz)**If I'm going down, I'm taking all of you with me!<br><br><span style="color:var(--Flavescent)">Increases the effect of Lazaapz's Contingency Plan ability by 100%.</span><code>buff_upgrade,100,17481</code></span>Emergency Protocol
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Lazaapz's Contingency Plan ability by 100%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>

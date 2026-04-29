@@ -43,7 +43,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Raistlin Cosplay Farideh Portrait](images/skin_portraits/raistlincosplayfarideh.png)<span class="featTooltipContents">ID: 683**Raistlin Cosplay Farideh (Farideh)**<img src="images/skin_models/raistlincosplayfarideh.webp" alt="Raistlin Cosplay Farideh Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Raistlin Cosplay Farideh Portrait](images/skin_portraits/raistlincosplayfarideh.png)<span class="featTooltipContents">ID: 683**Raistlin Cosplay Farideh (Farideh)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/raistlincosplayfarideh.webp" alt="Raistlin Cosplay Farideh Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/raistlincosplayfarideh-flames.webp" alt="Raistlin Cosplay Farideh Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Raistlin Cosplay Farideh
