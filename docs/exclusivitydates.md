@@ -526,6 +526,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">22 Jul 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Bobby</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Playground Boss Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2561**Playground Boss (Bobby)**The best games are the ones where the rules are different every time you play!<br><br><span style="color:var(--Flavescent)">Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed Specializations by 80%. (Prestack)</span><code>buff_upgrade,80,15449,0<br>buff_upgrade,80,15450,0<br>buff_upgrade,80,15451,0</code></span>Playground Boss
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed Specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Farideh</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Magius Infernus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2562**Magius Infernus (Farideh)**Cast enough fireballs, and most problems tend to go away.<br><br><span style="color:var(--Flavescent)">Increases the effect of Farideh's Specializations by 80%.</span><code>buff_upgrades,80,17839,17840,17841</code></span>Magius Infernus
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Farideh's Specializations by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Jul 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -766,10 +800,10 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 <span>23 December 2025</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>01 May 2026</span>
+                <span>08 May 2026</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>01 August 2026 (Guess)</span>
+                <span>08 August 2026 (Guess)</span>
             </span>
         </span>
     </span>
@@ -891,10 +925,10 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 <span>29 April 2026</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>Unknown</span>
+                <span>31 July 2026</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>Unknown</span>
+                <span>31 October 2026 (Guess)</span>
             </span>
         </span>
     </span>
