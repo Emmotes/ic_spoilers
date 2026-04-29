@@ -272,6 +272,123 @@ Tales 10 will not unlock any champions.
     </span>
 </span>
 
+## Mixed 7 Variants - 22 July 2026
+
+<span class="contentDropsTableColumn">
+    <span class="contentDropsTableRowHeader">
+        <span class="contentDropsTableIcons">
+            <span style="margin-left:8px;">**Icon**</span>
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">**Campaign**</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">**Adventure Name**</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">**Type**</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Grand Tour: Neutral No More (Variant 3)](images/contentdrop_portraits/grandtour_neutralnomore_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Grand Tour</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Neutral No More</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Sword  Coast: Leemooggoogoon Rises (Variant 3)](images/contentdrop_portraits/swordcoast_leemooggoogoonrises_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Sword  Coast</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Leemooggoogoon Rises</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Sword  Coast: Lost in the Underdark (Variant 3)](images/contentdrop_portraits/swordcoast_lostintheunderdark_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Sword  Coast</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Lost in the Underdark</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Sword  Coast: The Prison of Velkynvelve (Variant 3)](images/contentdrop_portraits/swordcoast_theprisonofvelkynvelve_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Sword  Coast</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">The Prison of Velkynvelve</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Realmspace Restored (Variant 2)](images/contentdrop_portraits/xaryxis_realmspacerestored_2.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Xaryxis</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Realmspace Restored</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #2</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: Realmspace Restored (Variant 3)](images/contentdrop_portraits/xaryxis_realmspacerestored_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Xaryxis</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Realmspace Restored</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Xaryxis: The Last Light of Xaryxis (Variant 3)](images/contentdrop_portraits/xaryxis_thelastlightofxaryxis_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Xaryxis</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">The Last Light of Xaryxis</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+</span>
+
 
 [Back to Top](#top)
 
