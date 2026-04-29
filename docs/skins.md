@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dragon Army Infiltrator Eric Portrait](images/skin_portraits/dragonarmyinfiltratoreric.png)<span class="featTooltipContents">ID: 684**Dragon Army Infiltrator Eric (Eric)**<img src="images/skin_models/dragonarmyinfiltratoreric.webp" alt="Dragon Army Infiltrator Eric Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dragon Army Infiltrator Eric
-        </span>
-        <span class="skinTableSource">
-            Emergence 15
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            29 Apr 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Knight of the Crown Bobby Portrait](images/skin_portraits/knightofthecrownbobby.png)<span class="featTooltipContents">ID: 682**Knight of the Crown Bobby (Bobby)**<img src="images/skin_models/knightofthecrownbobby.webp" alt="Knight of the Crown Bobby Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Knight of the Crown Bobby
-        </span>
-        <span class="skinTableSource">
-            Knight of the Crown Bobby Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            29 Apr 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Raistlin Cosplay Farideh Portrait](images/skin_portraits/raistlincosplayfarideh.png)<span class="featTooltipContents">ID: 683**Raistlin Cosplay Farideh (Farideh)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/raistlincosplayfarideh.webp" alt="Raistlin Cosplay Farideh Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/raistlincosplayfarideh-flames.webp" alt="Raistlin Cosplay Farideh Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Raistlin Cosplay Farideh
-        </span>
-        <span class="skinTableSource">
-            Raistlin Cosplay Farideh Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            29 Apr 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Masterwork Nordom Portrait](images/skin_portraits/masterworknordom.png)<span class="featTooltipContents">ID: 688**Masterwork Nordom (Nordom)**<img src="images/skin_models/masterworknordom.webp" alt="Masterwork Nordom Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
