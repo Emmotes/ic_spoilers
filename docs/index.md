@@ -27,14 +27,14 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Laurana Portrait Icon](images/laurana/portrait.png)
+            ![Laurana Kanan Portrait Icon](images/laurana/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Laurana
+                Laurana Kanan
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Elf Fighter of Heroes of the Lance (Guess)</span>
+                <span class="indexChampionTableNoLink">Elf (Qualinesti) Fighter of Heroes of the Lance</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">The Great Modron March - 6 May 2026</span>
@@ -196,14 +196,14 @@ These are the upcoming new and reworked champions and where they'll be found.
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Laurana Portrait Icon](images/laurana/portrait.png)
+            ![Laurana Kanan Portrait Icon](images/laurana/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Laurana
+                Laurana Kanan
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Elf Fighter of Heroes of the Lance (Guess)</span>
+                <span class="indexChampionTableNoLink">Elf (Qualinesti) Fighter of Heroes of the Lance</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">

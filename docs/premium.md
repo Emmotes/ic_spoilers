@@ -15,7 +15,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Laurana Champion Unlock Portrait](images/premiums/unlock_champion_175.png)<span class="itemTooltipContents">ID: 175**Laurana**<img src="images/premiums/unlock_champion_175.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Laurana Champion Unlock Portrait](images/premiums/unlock_champion_175.png)<span class="itemTooltipContents">ID: 175**Laurana (Seat 7)**<img src="images/premiums/unlock_champion_175.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -428,7 +428,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Laurana Champion Unlock Portrait](images/premiums/unlock_champion_175.png)<span class="itemTooltipContents">ID: 175**Laurana**<img src="images/premiums/unlock_champion_175.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Laurana Champion Unlock Portrait](images/premiums/unlock_champion_175.png)<span class="itemTooltipContents">ID: 175**Laurana (Seat 7)**<img src="images/premiums/unlock_champion_175.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>

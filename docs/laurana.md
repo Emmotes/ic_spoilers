@@ -27,7 +27,7 @@
     </span>
 </span>
 
-# Laurana
+# Laurana Kanan
 
 Lauralanthalasa Kanan, commonly known as Laurana, was a princess of the Qualinesti Elves and a Hero of the Lance. She was a brave fighter, a brilliant tactician, and an inspirational leader who became the Golden General of the Whitestone Army during the War of the Lance, leading them to victory.
 
@@ -35,7 +35,7 @@ Lauralanthalasa Kanan, commonly known as Laurana, was a princess of the Qualines
 
 # Basic Information
 
-Laurana will be a new champion in the The Great Modron March event on 6 May 2026.
+Laurana Kanan will be a new champion in the The Great Modron March event on 6 May 2026.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
@@ -43,7 +43,7 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
             <span style="margin-right:4px;">**Seat**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">7</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -51,7 +51,7 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Elf (Guess)</span>
+            <span style="margin-left:8px;">Elf (Qualinesti)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -59,7 +59,7 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Fighter (Guess)</span>
+            <span style="margin-left:8px;">Fighter</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -67,7 +67,7 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Tanking / Support / Hunter (Guess)</span>
+            <span style="margin-left:8px;">Tanking / Support</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -75,7 +75,7 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
             <span style="margin-right:4px;">**Age**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">80</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -83,7 +83,7 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Female (Guess)</span>
+            <span style="margin-left:8px;">Female</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -91,7 +91,7 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Neutral Good</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -99,7 +99,7 @@ Laurana will be a new champion in the The Great Modron March event on 6 May 2026
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Heroes of the Lance (Guess)</span>
+            <span style="margin-left:8px;">Heroes of the Lance</span>
         </span>
     </span>
 </span>
@@ -920,15 +920,15 @@ Unknown.
 <span class="championImagesColumn">
     <span class="championImagesRow">
         <span class="championImagesPortrait">
-            ![Laurana Console Portrait](images/laurana/console.png)Console Portrait
+            ![Laurana Kanan Console Portrait](images/laurana/console.png)Console Portrait
         </span>
     </span>
     <span class="championImagesRow">
         <span class="championImagesChests">
-            ![Laurana Gold Chest Icon](images/laurana/chest_gold.png)Gold Chest Icon
+            ![Laurana Kanan Gold Chest Icon](images/laurana/chest_gold.png)Gold Chest Icon
         </span>
         <span class="championImagesChests">
-            ![Laurana Silver Chest Icon](images/laurana/chest_silver.png)Silver Chest Icon
+            ![Laurana Kanan Silver Chest Icon](images/laurana/chest_silver.png)Silver Chest Icon
         </span>
     </span>
 </span>
