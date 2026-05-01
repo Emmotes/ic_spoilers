@@ -26,7 +26,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 686**Qualinesti Princess Laurana (Laurana)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Qualinesti Princess Laurana Portrait](images/skin_portraits/qualinestiprincesslaurana.png)<span class="featTooltipContents">ID: 686**Qualinesti Princess Laurana (Laurana)**<img src="images/skin_models/qualinestiprincesslaurana.webp" alt="Qualinesti Princess Laurana Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Qualinesti Princess Laurana
