@@ -171,6 +171,15 @@ Some graphics were found that had the format `Bastion/Rooms/Treasure/...`:
 > "key": "trophy_search_empty_message",  
 > "contents": "No trophies match the search term"
 
+> "key": "trophy",  
+> "contents": "Trophy"
+
+> "key": "enter_trophy_mode",  
+> "contents": "Enter Trophy Mode"
+
+> "key": "exit_trophy_mode",  
+> "contents": "Exit Trophy Mode"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
