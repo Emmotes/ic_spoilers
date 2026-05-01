@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/806.png">
-            <span class="weekendTooltipContents">ID: 806**Gold Heirloom Chest**Loot for: Bruenor, Asharra, Artemis, Valentine and Barrowin<code>"for_crusaders":[1,6,54,103,19]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Ancestral**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    01 May 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Barrowin
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/asharra.png'">
-                        <span class="weekendTableChampionNameplate">Asharra</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/artemis.png'">
-                        <span class="weekendTableChampionNameplate">Artemis</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/valentine.png'">
-                        <span class="weekendTableChampionNameplate">Valentine</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/barrowin.png'">
-                        <span class="weekendTableChampionNameplate">Barrowin</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/809.png">
             <span class="weekendTooltipContents">ID: 809**Gold Marching Chest**Loot for: Jarlaxle, Tyril, Tasslehoff, Raistlin and Laurana<code>"for_crusaders":[4,10,174,173,175]</code></span>
         </span>
