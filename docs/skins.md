@@ -77,7 +77,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 689**Pretentious Prestidigitator Melf (Melf)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Pretentious Prestidigitator Melf Portrait](images/skin_portraits/pretentiousprestidigitatormelf.png)<span class="featTooltipContents">ID: 689**Pretentious Prestidigitator Melf (Melf)**<img src="images/skin_models/pretentiousprestidigitatormelf.webp" alt="Pretentious Prestidigitator Melf Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Pretentious Prestidigitator Melf
