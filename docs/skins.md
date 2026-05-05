@@ -60,7 +60,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 690**Noble Mechanica Evelyn (Evelyn)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Noble Mechanica Evelyn Portrait](images/skin_portraits/noblemechanicaevelyn.png)<span class="featTooltipContents">ID: 690**Noble Mechanica Evelyn (Evelyn)**<img src="images/skin_models/noblemechanicaevelyn.webp" alt="Noble Mechanica Evelyn Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Noble Mechanica Evelyn
@@ -94,7 +94,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 691**Clockwork General Mehen (Mehen)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 691**Clockwork General Mehen (Mehen)**<img src="images/skin_models/clockworkgeneralmehen.webp" alt="Clockwork General Mehen Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
         </span>
         <span class="skinTableName">
             Clockwork General Mehen
@@ -111,7 +111,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 692**Noble Mechanica Nixie (Nixie)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Noble Mechanica Nixie Portrait](images/skin_portraits/noblemechanicanixie.png)<span class="featTooltipContents">ID: 692**Noble Mechanica Nixie (Nixie)**<img src="images/skin_models/noblemechanicanixie.webp" alt="Noble Mechanica Nixie Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Noble Mechanica Nixie
@@ -128,7 +128,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 693**Noble Mechanica Vlithryn (Vlithryn)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Noble Mechanica Vlithryn Portrait](images/skin_portraits/noblemechanicavlithryn.png)<span class="featTooltipContents">ID: 693**Noble Mechanica Vlithryn (Vlithryn)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
         </span>
         <span class="skinTableName">
             Noble Mechanica Vlithryn
