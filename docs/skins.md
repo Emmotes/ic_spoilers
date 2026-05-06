@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Masterwork Nordom Portrait](images/skin_portraits/masterworknordom.png)<span class="featTooltipContents">ID: 688**Masterwork Nordom (Nordom)**<img src="images/skin_models/masterworknordom.webp" alt="Masterwork Nordom Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Masterwork Nordom
-        </span>
-        <span class="skinTableSource">
-            Masterwork Nordom Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            06 May 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Qualinesti Princess Laurana Portrait](images/skin_portraits/qualinestiprincesslaurana.png)<span class="featTooltipContents">ID: 686**Qualinesti Princess Laurana (Laurana)**<img src="images/skin_models/qualinestiprincesslaurana.webp" alt="Qualinesti Princess Laurana Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Qualinesti Princess Laurana
-        </span>
-        <span class="skinTableSource">
-            Qualinesti Princess Laurana Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            06 May 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Sovereign Diana Portrait](images/skin_portraits/sovereigndiana.png)<span class="featTooltipContents">ID: 687**Sovereign Diana (Diana)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/sovereigndiana.webp" alt="Sovereign Diana Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/sovereigndiana-staff.webp" alt="Sovereign Diana Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Sovereign Diana
-        </span>
-        <span class="skinTableSource">
-            Sovereign Diana Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            06 May 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Noble Mechanica Evelyn Portrait](images/skin_portraits/noblemechanicaevelyn.png)<span class="featTooltipContents">ID: 690**Noble Mechanica Evelyn (Evelyn)**<img src="images/skin_models/noblemechanicaevelyn.webp" alt="Noble Mechanica Evelyn Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

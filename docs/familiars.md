@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Glimmerwyrm the Faerie Dragon Portrait](images/familiars/glimmerwyrmthefaeriedragon.png)<span class="featTooltipContents">ID: 320**Glimmerwyrm the Faerie Dragon**A loyal friend.<img src="images/familiars/glimmerwyrmthefaeriedragon.webp" alt="Glimmerwyrm the Faerie Dragon Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Glimmerwyrm the Faerie Dragon
-        </span>
-        <span class="skinTableSource">
-            Qualinesti Princess Laurana Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            06 May 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 321**Clockwork the Faerie Dragon**I may be small but my mischief is huge!  Watch out!</span></span>
         </span>
         <span class="skinTableName">
