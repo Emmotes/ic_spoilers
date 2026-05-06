@@ -112,7 +112,141 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
 
 # Attacks
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Silver Sword Cane** (Melee)
+> Van Richten leaps out and slashes the nearest enemy with his Silver Sword Cane, dealing one hit. Deals an additional 5 seconds of BUD-based damage to Van Richten's Favored Foes.  
+> Cooldown: 5.5s (Cap 1.375s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 981,
+    "name": "Silver Sword Cane",
+    "description": "Van Richten slashes the nearest enemy with his Silver Sword Cane.",
+    "long_description": "Van Richten leaps out and slashes the nearest enemy with his Silver Sword Cane, dealing one hit. Deals an additional 5 seconds of BUD-based damage to Van Richten's Favored Foes.",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 5.5,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "damage_frame": 3,
+            "effects_on_monsters": [
+                {
+                    "effect_string": "damage_monster_target_by_bud",
+                    "hit_monsters": true,
+                    "only_src_favored_foes": true,
+                    "damage_mult": 5,
+                    "after_damage": true
+                }
+            ]
+        }
+    ],
+    "tags": [
+        "melee"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Erasmus Attack** (Melee)
+> Unknown effect.  
+> Cooldown: 0s (Cap 0s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 983,
+    "name": "Erasmus Attack",
+    "description": "",
+    "long_description": "",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 1,
+    "aoe_radius": 0,
+    "damage_modifier": 0,
+    "cooldown": 0,
+    "animations": [
+        {
+            "type": "melee_attack",
+            "damage_frame": 3
+        }
+    ],
+    "tags": [
+        "melee",
+        "ignore_cooldown_override"
+    ],
+    "damage_types": [
+        "melee"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Ultimate Attack: Repel Evil** (Guess)
+> Van Richten repels all foes a short distance, dealing 1 ultimate hit and slowing them. Damage is greater against his favored foes.  
+> Cooldown: 260s (Cap 65s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 982,
+    "name": "Repel Evil",
+    "description": "Van Richten repels all foes a short distance, dealing 1 ultimate hit and slowing them.",
+    "long_description": "Van Richten repels all foes a short distance, dealing 1 ultimate hit and slowing them. Damage is greater against his favored foes.",
+    "graphic_id": 29205,
+    "target": "all",
+    "num_targets": 0,
+    "aoe_radius": 0,
+    "damage_modifier": 0.03,
+    "cooldown": 260,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "shoot_frame": 20,
+            "projectile": "empty",
+            "projectile_hit_graphic_id": 29292,
+            "effects_on_monsters": [
+                {
+                    "effect_string": "push_back_monster,5",
+                    "after_damage": true
+                },
+                {
+                    "effect_string": "monster_speed_reduce,50",
+                    "for_time": 5,
+                    "after_damage": true
+                }
+            ],
+            "monster_bonus_damage": {
+                "only_src_favored_foes": true,
+                "amount": 4
+            }
+        }
+    ],
+    "tags": [
+        "magic",
+        "ultimate"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Abilities
 
@@ -174,7 +308,10 @@ Unknown.
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -192,7 +329,7 @@ Unknown.
     "id": 2740,
     "flavour_text": "",
     "description": {
-        "desc": "When a non-Undead non-Boss enemy is killed, there is a 25% chance that Strahd will resurrect it as an Undead version of the same enemy. The enemy reappears where it died after 1 second and can drop an additional quest item or count as a second kill for quest progress when killed. Does not trigger in Boss areas."
+        "desc": "When a non-Undead non-Boss enemy is killed, there is a $amount% chance that Strahd will resurrect it as an Undead version of the same enemy. The enemy reappears where it died after $time second and can drop an additional quest item or count as a second kill for quest progress when killed. Does not trigger in Boss areas."
     },
     "effect_keys": [
         {
@@ -201,6 +338,7 @@ Unknown.
             "tag": "undead",
             "graphic_id": 29293,
             "resurrected_key": "richten_resurrected",
+            "time": 1,
             "resurrect_effect": {
                 "effect_string": "monster_undead_respawn,1"
             },
@@ -208,7 +346,8 @@ Unknown.
                 {
                     "effect_string": "richten_resurrected"
                 }
-            ]
+            ],
+            "achievement_stat_name": "richten_always_among_monsters"
         }
     ],
     "requirements": "",
@@ -216,8 +355,12 @@ Unknown.
     "large_graphic_id": 29191,
     "properties": {
         "is_formation_ability": true,
+        "show_incoming": false,
         "formation_circle_icon": false,
-        "retain_on_slot_changed": true
+        "retain_on_slot_changed": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -227,7 +370,7 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Triumph** (Guess)
-> Undead enemies are Van Richten's favored foe. When one of his favored foes is killed, Van Richten gains a Triumph stack. Slayer Training is increased by undead% for each Triumph stack he has, stacking multiplicatively. Triumph stacks cap at 100 and reset when a boss area is completed.
+> Undead enemies are Van Richten's favored foe. When one of his favored foes is killed, Van Richten gains a Triumph stack. Slayer Training is increased by 20% for each Triumph stack he has, stacking multiplicatively. Triumph stacks cap at 100 and reset when a boss area is completed.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -235,7 +378,7 @@ Unknown.
     "id": 2741,
     "flavour_text": "",
     "description": {
-        "desc": "Undead enemies are Van Richten's favored foe. When one of his favored foes is killed, Van Richten gains a Triumph stack. Slayer Training is increased by $amount% for each Triumph stack he has, stacking multiplicatively. Triumph stacks cap at 100 and reset when a boss area is completed."
+        "desc": "Undead enemies are Van Richten's favored foe. When one of his favored foes is killed, Van Richten gains a Triumph stack. Slayer Training is increased by $amount___2% for each Triumph stack he has, stacking multiplicatively. Triumph stacks cap at $max_stacks___2 and reset when a boss area is completed."
     },
     "effect_keys": [
         {
@@ -265,7 +408,10 @@ Unknown.
     "large_graphic_id": 29193,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -283,12 +429,43 @@ Unknown.
     "id": 2742,
     "flavour_text": "",
     "description": {
-        "desc": "If no enemies have been defeated for 3 seconds, Van Richten's ghost son Erasmus appears. Whenever Van Richten attacks, Erasmus quickly moves to the target he will attack and curses all enemies in a small area, causing all attacks against them to deal 100% more damage. This is increased by 20% for each Triumph stack Van Richten has, stacking multiplicatively. Erasmus disappears when changing areas."
+        "desc": "If no enemies have been defeated for $time seconds, Van Richten's ghost son Erasmus appears. Whenever Van Richten attacks, Erasmus quickly moves to the target he will attack and curses all enemies in a small area, causing all attacks against them to deal $amount% more damage. This is increased by $amount___2% for each Triumph stack Van Richten has, stacking multiplicatively. Erasmus disappears when changing areas."
     },
     "effect_keys": [
         {
+            "effect_string": "richten_watched_by_erasmus,100",
+            "debuff_effects": [
+                {
+                    "effect_string": "increase_monster_damage,100"
+                }
+            ],
+            "erasmus_sequences": {
+                "idle": 0,
+                "walk": 1,
+                "attack": 2,
+                "koed": 1
+            },
+            "time": 3,
+            "show_bonus": true
+        },
+        {
+            "effect_string": "pre_stack,20"
+        },
+        {
             "off_when_benched": true,
-            "effect_string": "do_nothing"
+            "effect_string": "buff_upgrade,0,19699",
+            "amount_expr": "upgrade_amount(19699,1)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "listen_for_computed_changes": true,
+            "post_process_expr": "GetUpgradeStacks(19698,1)",
+            "max_stacks": 100,
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "stack_title": "Triumph Stacks",
+            "amount_updated_listeners": [
+                "favored_foe_killed"
+            ]
         }
     ],
     "requirements": "",
@@ -296,7 +473,12 @@ Unknown.
     "large_graphic_id": 29194,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false
+        "show_incoming": false,
+        "retain_on_slot_changed": true,
+        "formation_circle_icon": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -318,8 +500,14 @@ Unknown.
     },
     "effect_keys": [
         {
-            "off_when_benched": true,
-            "effect_string": "do_nothing"
+            "effect_string": "set_ultimate_attack,982"
+        },
+        {
+            "effect_string": "richten_repel_evil",
+            "graphic_id": 29295,
+            "x_offset": 33,
+            "y_offset": -174,
+            "delay_time": 0.72
         }
     ],
     "requirements": "",
@@ -327,7 +515,11 @@ Unknown.
     "large_graphic_id": 29205,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false
+        "show_incoming": false,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -358,7 +550,7 @@ Unknown.
         {
             "off_when_benched": true,
             "effect_string": "buff_upgrade,0,19696",
-            "amount_expr": "upgrade_amount(19690,0)",
+            "amount_expr": "upgrade_amount(19700,0)",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`cleric`) || HasTag(`wizard`) || HasTag(`sorcerer`) || HasTag(`warlock`)",
             "stacks_multiply": true,
@@ -403,6 +595,7 @@ Unknown.
         {
             "off_when_benched": true,
             "effect_string": "buff_upgrade,100,19696",
+            "amount_expr": "upgrade_amount(19700,0)",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "GetStat(`int`)>=14",
             "stacks_multiply": true,
@@ -447,6 +640,7 @@ Unknown.
         {
             "off_when_benched": true,
             "effect_string": "buff_upgrade,100,19696",
+            "amount_expr": "upgrade_amount(19700,0)",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "as_int(HasTag(`hunter`)) + as_int(HasTag(`debuff`))",
             "stacks_multiply": true,
@@ -480,22 +674,32 @@ Unknown.
     "id": 2746,
     "flavour_text": "",
     "description": {
-        "desc": "Van Richten gains the Healing role. Every second, Van Richten heals the most damaged Champion in the formation for 20% of his own max health."
+        "desc": "Van Richten gains the Healing role. Every second, Van Richten heals the most damaged Champion in the formation for $amount% of his own max health."
     },
     "effect_keys": [
         {
-            "effect_string": "add_hero_tags,0,healing"
+            "effect_string": "add_hero_tags,20,healing"
         },
         {
-            "effect_string": "heal_most_damaged,20",
+            "effect_string": "do_nothing,1",
             "off_when_benched": true,
+            "amount_func": "add",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "round(GetHeroHP(177))/(100/GetUpgradeAmount(19703,0))",
+            "listen_for_computed_changes": true,
+            "amount_updated_listeners": [
+                "max_health_changed,177"
+            ]
+        },
+        {
+            "effect_string": "heal_most_damaged,1",
+            "off_when_benched": true,
+            "amount_expr": "upgrade_amount(19703,1)",
             "on_trigger": "on_timer,1",
             "targets": [
                 "all_slots"
             ],
-            "amount_func": "mult",
-            "stack_func": "per_hero_attribute",
-            "post_process_expr": "5"
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -524,12 +728,13 @@ Unknown.
     "id": 2747,
     "flavour_text": "",
     "description": {
-        "desc": "In non-boss areas, when Van Richten attacks one of his favored foes and does not defeat it, he Dismisses it to its home plane and he gains 2 Triumph stacks. Enemies dismissed in this way do not drop gold nor count toward quest progress."
+        "desc": "In non-boss areas, when Van Richten attacks one of his favored foes and does not defeat it, he Dismisses it to its home plane and he gains $stack_increase Triumph stacks. Enemies dismissed in this way do not drop gold nor count toward quest progress."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing"
+            "effect_string": "richten_dispel_evil,100",
+            "stack_increase": 2
         }
     ],
     "requirements": "",
@@ -537,7 +742,11 @@ Unknown.
     "large_graphic_id": 29201,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false
+        "show_incoming": false,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -560,7 +769,17 @@ Unknown.
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing"
+            "effect_string": "reverse_taunt",
+            "override_key_desc": "Enemies that attempt to choose $target as a target instead choose to attack another Champion, assuming another valid target exists.",
+            "targets": [
+                "next_col"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "!HasTag(`tanking`)"
+                }
+            ]
         }
     ],
     "requirements": "",
@@ -568,7 +787,10 @@ Unknown.
     "large_graphic_id": 29202,
     "properties": {
         "is_formation_ability": true,
-        "formation_circle_icon": false
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -652,16 +874,29 @@ Unknown.
 > Save Waterdeep from the chaos of a Founders' Day gone awry.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: Variant 1** (Complete Area 75)
-> 
+**Variant 1: On the Trail** (Complete Area 75)
+> Rudolph Van Richten starts in the formation. He can't be moved or removed.  
+> Only Van Richten and the Champions in the column in front of him can deal damage.  
+> 1-2 Strahd Zombies spawn with each wave. They don't drop gold nor count towards quest progress.  
+> Champions don't recover health when moving to a new area.   
+> Champions resurrect at half health when changing areas instead of full health.  
+> <b>Getting to Know Van Richten:</b> Van Richten increases the damage of Champions in the column in front of him. Place your damage dealer there to make the most of his buff!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: Variant 2** (Complete Area 125)
-> 
+**Variant 2: Pen is Mightier than a Cane Sword** (Complete Area 125)
+> Rudolph Van Richten starts in the formation. He can be moved, but not removed.  
+> You may only add one Tanking Champion to the formation.  
+> Most quest requirements are doubled in non-boss areas.  
+> Only double those areas that drop quest items or count enemy kills. Area 18 and 47 may not be doubled from a quick look in the Adventure Area Set.  
+> Favored Foe enemies drop 200% more quest items and count for 200% more quest progress.  
+> <b>Getting to Know Van Richten:</b> Van Richten's favored foes are Undead. Use him and other monster hunters to quickly get through this variant!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: Variant 3** (Complete Area 175)
-> 
+**Variant 3: Hunters and Scholars** (Complete Area 175)
+> Rudolph Van Richten starts in the formation. He can be moved, but not removed.  
+> You may only use Champions that count for any of Van Richten's first specialization choices.  
+> 1-2 Relentless Undead spawn with each wave. When they are killed, Relentless Undead don't disappear. Instead, after 3 seconds, they get back up and start attacking again.  
+> <b>Getting to Know Van Richten:</b> Van Richten's first specialization choice determines which type of Champions he works best with. Which one will you choose?
 </div></div>
 
 # Other Champion Images
