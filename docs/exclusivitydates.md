@@ -509,6 +509,57 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">29 Jul 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Laurana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Golden Glory Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2572**Golden Glory (Laurana)**You see, Tanis? I’m not the love-sick child you knew. ~Laurana<br><br><span style="color:var(--Flavescent)">Increases the effect of Laurana's Golden General ability by 80%. (Prestack)</span><code>buff_upgrade,80,19350</code></span>Golden Glory
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Laurana's Golden General ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">06 Aug 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Diana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2582**Prodigal Leader (Diana)**I lead with wisdom and grace.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +50%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">06 Aug 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Nordom</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Optimization Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2380**Optimization (Nordom)**Statement of core belief: bigger numbers are better numbers.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nordom's Core Competency Specialization by 1% for each max level Modron Core you own.</span><code>buff_upgrade_add_flat_amount,1,18168,0</code></span>Optimization
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Nordom's Core Competency Specialization by 1% for each max level Modron Core you own.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">06 Aug 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
