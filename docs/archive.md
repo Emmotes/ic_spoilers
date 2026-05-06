@@ -20,6 +20,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Nordom](archive/nordom.md)
 * [Raistlin Majere](archive/raistlin.md)
 * [Tasslehoff Burrfoot](archive/tasslehoff.md)
+* [The Great Modron March Augments](archive/augments_26.md)
 
 [Back to Top](#top)
 
