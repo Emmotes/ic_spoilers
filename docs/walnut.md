@@ -38,27 +38,41 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "conditions": [
             {
                 "condition": "upgrade_purchased 2393",
-                "desc": "Increases the damage of all Champions by $(not_buffed amount)% for each enemy killed in this area. Resets when changing areas."
+                "desc": "Increases the damage of all Champions by $(amount)% for each enemy killed in this area. Resets when changing areas."
             },
             {
                 "condition": "upgrade_purchased 2392",
-                "desc": "Increases the damage of adjacent champions and champions in the top or bottom of their column by $(not_buffed amount)% for each enemy killed in this area. Resets when changing areas."
+                "desc": "Increases the damage of adjacent champions and champions in the top or bottom of their column by $(amount)% for each enemy killed in this area. Resets when changing areas."
             },
             {
                 "condition": "upgrade_purchased 2391",
-                "desc": "Increases the damage of champions up to two slots away by $(not_buffed amount)% for each enemy killed in this area. Resets when changing areas."
+                "desc": "Increases the damage of champions up to two slots away by $(amount)% for each enemy killed in this area. Resets when changing areas."
             },
             {
-                "desc": "Increases the damage of adjacent champions by $(not_buffed amount)% for each enemy killed in this area. Resets when changing areas."
+                "desc": "Increases the damage of adjacent champions by $(amount)% for each enemy killed in this area. Resets when changing areas."
             }
         ]
     },
     "effect_keys": [
         {
-            "effect_string": "hero_dps_multiplier_mult,10",
+            "effect_string": "pre_stack,10",
+            "off_when_benched": true,
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "amount_expr": "upgrade_amount(19707,0)",
             "stacks_on_trigger": "monster_killed",
+            "more_triggers": [
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reduce_percent_down",
+                        "percent": 50
+                    }
+                }
+            ],
             "max_stacks": 50,
-            "area_change_resets_stacks": true,
             "show_bonus": true,
             "show_stats_on_owner": true,
             "stacks_multiply": true,
@@ -73,7 +87,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -83,7 +100,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Job's Done** (Guess)
-> Adds a 200% bonus to Documancer for 30 seconds when completing a quest or entering a completed area. Killing enemies in completed areas resets the duration to 30 seconds.
+> Adds a 1000% bonus to $(upgrade_name id) for 60 seconds when completing a quest or entering a completed area. Killing enemies in completed areas resets the duration to 60 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -91,17 +108,27 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2757,
     "flavour_text": "",
     "description": {
-        "desc": "Adds a $amount% bonus to $(upgrade_name id) for $(duration) seconds when completing a quest or entering a completed area. Killing enemies in completed areas resets the duration to $duration seconds."
+        "desc": "Adds a $amount% bonus to $(upgrade_name id) for $(duration) seconds when completing a quest or entering a completed area. Killing enemies in completed areas resets the duration to $duration seconds.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "",
+                    "post": "^^$walnut_job_done_timer"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
-            "effect_string": "walnut_jobs_done,200,2386,30"
+            "effect_string": "walnut_jobs_done,1000,19707,60"
         }
     ],
     "requirements": [],
     "graphic_id": 5820,
     "large_graphic_id": 0,
     "properties": {
+        "is_formation_ability": true,
         "use_outgoing_description": true
     }
 }
@@ -124,8 +151,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "wolfnut,10,215,5784",
-            "penpaws_id": 2390,
+            "effect_string": "wolfnut,50,215,5784",
+            "penpaws_id": 19711,
             "penpaws_inc": 2,
             "penpaws_dec": 4
         }
@@ -178,7 +205,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Pen-Paws** (Guess)
-> Increases the effect of Documancer by 200% for every 2 seconds that Walnut is in wolf form. The buff decreases every 4 seconds while Walnut is not in wolf form.
+> Increases the effect of $(upgrade_name id) by 200% for every 2 seconds that Walnut is in wolf form. The buff decreases every 4 seconds while Walnut is not in wolf form.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -190,9 +217,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,200,2386",
+            "effect_string": "buff_upgrade,200,19707",
             "stacks_on_trigger": "will_manually_stack",
             "show_bonus": true,
+            "stacks_multiply": true,
             "max_stacks": 50
         }
     ],
@@ -213,7 +241,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Extended Warranty** (Guess)
-> Documancer now also applies to all Champions within 2 slots of Walnut and is buffed by %.
+> $(upgrade_name id) now also applies to all Champions within 2 slots of Walnut and is buffed by %.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -225,7 +253,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "add_target_to_upgrade,,2386",
+            "effect_string": "add_target_to_upgrade,,19707",
             "add_targets": [
                 {
                     "type": "distance",
@@ -236,7 +264,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "optional_effect_index": 0
         },
         {
-            "effect_string": "buff_upgrade,100,2386",
+            "effect_string": "buff_upgrade,100,19707",
             "off_when_benched": true
         }
     ],
@@ -254,7 +282,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Sign and Date** (Guess)
-> Documancer now also applies to all Champions in the top or bottom slots of each column and is buffed by %.
+> $(upgrade_name id) now also applies to all Champions in the top or bottom slots of each column and is buffed by %.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -266,7 +294,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "add_target_to_upgrade,,2386",
+            "effect_string": "add_target_to_upgrade,,19707",
             "add_targets": [
                 {
                     "type": "col_top"
@@ -278,7 +306,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "optional_effect_index": 0
         },
         {
-            "effect_string": "buff_upgrade,200,2386",
+            "effect_string": "buff_upgrade,200,19707",
             "off_when_benched": true
         }
     ],
@@ -296,7 +324,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Ah, Screw It** (Guess)
-> Documancer now applies to all Champions but is not buffed.
+> $(upgrade_name id) now applies to all Champions but is not buffed.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -308,7 +336,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "add_target_to_upgrade,all,2386",
+            "effect_string": "add_target_to_upgrade,all,19707",
             "off_when_benched": true,
             "optional_effect_index": 0
         }
@@ -327,7 +355,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Co-Signers** (Guess)
-> Each target of Documancer is buffed +500% for each of these buffs also affecting the target: K'Thriss' Unseen Encouragement, Donaar's Lead By Example, Rosie's Deflect Missiles.
+> Each target of $(upgrade_name id) is buffed +1000% for each of these buffs also affecting the target: K'Thriss' Unseen Encouragement, Donaar's Lead By Example, Rosie's Deflect Missiles.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -339,7 +367,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "walnut_cosigners,500,2386,1982,1593,15605"
+            "effect_string": "walnut_cosigners,1000,19707,17324,18654,15605"
         }
     ],
     "requirements": [],
@@ -357,7 +385,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Temporary Alliance** (Guess)
-> The effect of Documancer is increased by 100% for each Champion in the formation with an affiliation other than the "C" Team.
+> The effect of $(upgrade_name id) is increased by 100% for each Champion in the formation with an affiliation other than the "C" Team.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -369,7 +397,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade_per_any_tagged_crusader,100,2386,!cteam"
+            "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,100,19707,!cteam"
         }
     ],
     "requirements": [],
