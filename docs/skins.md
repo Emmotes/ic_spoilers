@@ -77,7 +77,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Noble Mechanica Vlithryn Portrait](images/skin_portraits/noblemechanicavlithryn.png)<span class="featTooltipContents">ID: 693**Noble Mechanica Vlithryn (Vlithryn)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Noble Mechanica Vlithryn Portrait](images/skin_portraits/noblemechanicavlithryn.png)<span class="featTooltipContents">ID: 693**Noble Mechanica Vlithryn (Vlithryn)**<img src="images/skin_models/noblemechanicavlithryn.webp" alt="Noble Mechanica Vlithryn Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Noble Mechanica Vlithryn
@@ -192,6 +192,23 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             17 Jun 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Thayan Knight Tess Portrait](images/skin_portraits/thayanknighttess.png)<span class="featTooltipContents">ID: 701**Thayan Knight Tess (Tess)**<img src="images/skin_models/thayanknighttess.webp" alt="Thayan Knight Tess Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Thayan Knight Tess
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
         </span>
     </span>
 </span>

@@ -430,7 +430,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Noble Mechanica Vlithryn Skin Portrait](images/premiums/skin_693.png)<span class="itemTooltipContents">ID: 693**Noble Mechanica Vlithryn (Vlithryn)**</span></span>
+            <span class="tooltipHolder">![Noble Mechanica Vlithryn Skin Portrait](images/premiums/skin_693.png)<span class="itemTooltipContents">ID: 693**Noble Mechanica Vlithryn (Vlithryn)**<img src="images/premiums/skin_693.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
