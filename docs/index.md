@@ -27,11 +27,11 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Laurana Kanan Portrait Icon](images/laurana/portrait.png)
+            ![Lauralanthalasa Kanan Portrait Icon](images/laurana/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Laurana Kanan
+                Lauralanthalasa Kanan
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Elf (Qualinesti) Fighter of Heroes of the Lance</span>
@@ -89,6 +89,9 @@ These are the event champions that are upcoming and all the information we know 
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Founders' Day - 1 July 2026</span>
             </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
 {::nomarkdown}
@@ -196,11 +199,11 @@ These are the upcoming new and reworked champions and where they'll be found.
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Laurana Kanan Portrait Icon](images/laurana/portrait.png)
+            ![Lauralanthalasa Kanan Portrait Icon](images/laurana/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Laurana Kanan
+                Lauralanthalasa Kanan
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Elf (Qualinesti) Fighter of Heroes of the Lance</span>
@@ -324,6 +327,9 @@ These are the upcoming new and reworked champions and where they'll be found.
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
 {::nomarkdown}
