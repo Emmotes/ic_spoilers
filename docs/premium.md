@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2572**Feat**???: 2572</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Golden Glory Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2572**Golden Glory**You see, Tanis? I’m not the love-sick child you knew. ~Laurana<br><br><span style="color:var(--Flavescent)">Increases the effect of Laurana's Golden General ability by 80%. (Prestack)</span><code>buff_upgrade,80,19350</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2572</span>
+            <span style="margin-left:15px">Golden Glory</span>
+            <span style="margin-left:15px">Laurana</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -93,7 +94,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Sovereign Diana Skin Portrait](images/premiums/skin_687.png)<span class="itemTooltipContents">ID: 687**Sovereign Diana (Diana)**<img src="images/premiums/skin_687.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Sovereign Diana Skin Portrait](images/premiums/skin_687.png)<span class="itemTooltipContents">ID: 687**Sovereign Diana (Diana)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_687.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_687-staff.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

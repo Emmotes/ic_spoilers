@@ -64,6 +64,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Laurana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Golden Glory Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2572**Golden Glory (Laurana)**You see, Tanis? I’m not the love-sick child you knew. ~Laurana<br><br><span style="color:var(--Flavescent)">Increases the effect of Laurana's Golden General ability by 80%. (Prestack)</span><code>buff_upgrade,80,19350</code></span>Golden Glory
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Laurana's Golden General ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">06 May 2026<br>06 Aug 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Evelyn</span>
         </span>
         <span class="featTableIcon4">
@@ -264,6 +281,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">24 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Krux</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1375**Entertainer (Krux)**Ho oh! I'm a fiend with a bagpipe!<br><br><span style="color:var(--Flavescent)">Increases the Charisma score of Krux by 2.</span><code>increase_ability_score,cha,2</code></span>Entertainer
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the Charisma score of Krux by 2.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Jul 2026</span>
         </span>
     </span>
 </span>
@@ -1389,23 +1423,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases In The Shadows Miss Chance by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Krux</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Entertainer Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1375**Entertainer (Krux)**Ho oh! I'm a fiend with a bagpipe!<br><br><span style="color:var(--Flavescent)">Increases the Charisma score of Krux by 2.</span><code>increase_ability_score,cha,2</code></span>Entertainer
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the Charisma score of Krux by 2.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
