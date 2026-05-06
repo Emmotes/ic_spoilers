@@ -651,6 +651,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Laurana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 2576**Taunt (Laurana)**Soliasi Arath! ~Laurana<br><br><span style="color:var(--Flavescent)">All Champions damage +100%. Laurana's attacks have a 50% chance to taunt enemies.</span><code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +100%. Laurana's attacks have a 50% chance to taunt enemies.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Lucius</span>
         </span>
         <span class="featTableIcon4">
@@ -658,6 +675,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the amount of health segments broken by Armor Eating Acid by 1.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Laurana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Misdirection Icon](images/featicons/misdirection.png)<span class="featTooltipContents">ID: 2577**Misdirection (Laurana)**I don't want to think logically! I'm sick of being sensible! ~Laurana<br><br><span style="color:var(--Flavescent)">Enemies that attempt to attack this Champion will instead attack a different Champion, if possible.</span><code>global_dps_multiplier_mult,100<br>reverse_taunt</code></span>Misdirection
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Enemies that attempt to attack this Champion will instead attack a different Champion, if possible.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>

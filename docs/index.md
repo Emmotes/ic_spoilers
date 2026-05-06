@@ -130,6 +130,56 @@ A list of champions that will be seeing reworks in upcoming events.
 </a>
 {:/nomarkdown}
 {::nomarkdown}
+<a href="nahara.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Nahara Portrait Icon](images/nahara/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Nahara
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Aasimar (Reborn) Warlock / Bard of Black Dice Society</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Founders' Day - Delayed until 08 July 2026 (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="strongheart.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Strongheart Portrait Icon](images/strongheart/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Strongheart
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Human Paladin</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Founders' Day - Delayed until 08 July 2026 (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
 <a href="walnut.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -142,6 +192,31 @@ A list of champions that will be seeing reworks in upcoming events.
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Elf (Wood) Druid of Acq Inc "C" Team</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Founders' Day - Delayed until 08 July 2026 (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="grimm.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Grimm Portrait Icon](images/grimm/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Grimm
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Human Barbarian</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Founders' Day - Delayed until 08 July 2026 (Guess)</span>
@@ -305,6 +380,90 @@ These are the upcoming new and reworked champions and where they'll be found.
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             Rework ♻️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="nahara.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Nahara Portrait Icon](images/nahara/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Nahara (Guess)
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Aasimar (Reborn) Warlock / Bard of Black Dice Society</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 08 July 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Small Tweak 🛠️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="strongheart.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Strongheart Portrait Icon](images/strongheart/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Strongheart (Guess)
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Human Paladin</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 08 July 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Small Tweak 🛠️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="grimm.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Grimm Portrait Icon](images/grimm/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Grimm (Guess)
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Human Barbarian</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 08 July 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Small Tweak 🛠️
         </span>
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
