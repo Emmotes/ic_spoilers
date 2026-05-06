@@ -24,7 +24,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 322**Dragon Orb of Wayreth**An orb is an etched crystal globe about 10 inches in diameter. When used, it grows to about 20 inches in diameter, and mist swirls inside it.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon Orb of Wayreth Portrait](images/familiars/dragonorbofwayreth.png)<span class="featTooltipContents">ID: 322**Dragon Orb of Wayreth**An orb is an etched crystal globe about 10 inches in diameter. When used, it grows to about 20 inches in diameter, and mist swirls inside it.<img src="images/familiars/dragonorbofwayreth.webp" alt="Dragon Orb of Wayreth Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dragon Orb of Wayreth
