@@ -14,6 +14,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Grand Revel Augments](archive/augments_10.md)
 * [Kyre](archive/kyre.md)
 * [Lark](archive/lark.md)
+* [Lauralanthalasa Kanan](archive/laurana.md)
 * [Lawful Modron Core](archive/lawful_modron_core.md)
 * [Lucius](archive/lucius.md)
 * [Nordom](archive/nordom.md)
