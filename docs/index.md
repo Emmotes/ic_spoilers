@@ -379,7 +379,7 @@ These are the upcoming new and reworked champions and where they'll be found.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Small Tweak 🛠️
+            Rebalance 🛠️
         </span>
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
@@ -407,7 +407,7 @@ These are the upcoming new and reworked champions and where they'll be found.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Small Tweak 🛠️
+            Rebalance 🛠️
         </span>
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
@@ -435,7 +435,7 @@ These are the upcoming new and reworked champions and where they'll be found.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Small Tweak 🛠️
+            Rebalance 🛠️
         </span>
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
@@ -463,7 +463,7 @@ These are the upcoming new and reworked champions and where they'll be found.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Small Tweak 🛠️
+            Rebalance 🛠️
         </span>
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
