@@ -7,7 +7,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 321**Clockwork the Faerie Dragon**I may be small but my mischief is huge!  Watch out!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Clockwork the Faerie Dragon Portrait](images/familiars/clockworkthefaeriedragon.png)<span class="featTooltipContents">ID: 321**Clockwork the Faerie Dragon**I may be small but my mischief is huge!  Watch out!<img src="images/familiars/clockworkthefaeriedragon.webp" alt="Clockwork the Faerie Dragon Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Clockwork the Faerie Dragon

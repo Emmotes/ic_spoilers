@@ -33,7 +33,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 321**Clockwork the Faerie Dragon**I may be small but my mischief is huge!  Watch out!</span></span>
+            <span class="tooltipHolder">![Clockwork the Faerie Dragon Familiar Portrait](images/premiums/familiar_321.png)<span class="itemTooltipContents">ID: 321**Clockwork the Faerie Dragon**I may be small but my mischief is huge!  Watch out!<img src="images/premiums/familiar_321.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
