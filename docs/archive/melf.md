@@ -17,7 +17,7 @@ Born into the royal family of Celene, he assumed the simple name of Melf eschewi
 
 # Changes
 
-Melf will be a reworked champion in the The Great Modron March event and delayed until 13 May 2026.
+Melf will be a reworked champion in the Dragondown event and delayed until 10 June 2026.
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
@@ -166,7 +166,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "melf_in_the_middle",
-            "hero_id": 110,
+            "hero_id": 59,
             "off_when_benched": true
         },
         {
@@ -465,7 +465,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "melf_abundant_allies",
-            "hero_id": 110
+            "hero_id": 59
         }
     ],
     "requirements": [],
@@ -523,7 +523,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "melf_adaptive_attacks",
-            "hero_id": 110
+            "hero_id": 59
         },
         {
             "effect_string": "change_base_attack,965",
@@ -591,7 +591,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "melf_ranked_roles",
-            "hero_id": 110
+            "hero_id": 59
         }
     ],
     "requirements": [],
@@ -649,7 +649,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "melf_amorphous_alignment",
-            "hero_id": 110
+            "hero_id": 59
         },
         {
             "effect_string": "add_hero_tags,0,lawful",

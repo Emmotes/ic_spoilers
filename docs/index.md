@@ -80,31 +80,6 @@ A list of champions that will be seeing reworks in upcoming events.
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="melf.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Melf Portrait Icon](images/melf/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Melf
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Elf (High) Fighter / Wizard</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">The Great Modron March - Delayed until 13 May 2026</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="uriah.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -216,39 +191,6 @@ A list of champions that will be seeing reworks in upcoming events.
 
 These are the upcoming new and reworked champions and where they'll be found.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
-## The Great Modron March - 6 May 2026
-<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="melf.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Melf Portrait Icon](images/melf/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Melf
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Elf (High) Fighter / Wizard</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 13 May 2026</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rework ♻️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-</span>
-</div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Dragondown - 3 June 2026
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">

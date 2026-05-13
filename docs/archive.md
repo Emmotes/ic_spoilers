@@ -17,6 +17,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Lauralanthalasa Kanan](archive/laurana.md)
 * [Lawful Modron Core](archive/lawful_modron_core.md)
 * [Lucius](archive/lucius.md)
+* [Melf](archive/melf.md)
 * [Nordom](archive/nordom.md)
 * [Raistlin Majere](archive/raistlin.md)
 * [Tasslehoff Burrfoot](archive/tasslehoff.md)
