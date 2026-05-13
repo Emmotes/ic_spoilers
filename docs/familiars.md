@@ -58,7 +58,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 325**Root the Korred**Jeweler of the Queen, Queen of the Jewelers.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Root the Korred Portrait](images/familiars/rootthekorred.png)<span class="featTooltipContents">ID: 325**Root the Korred**Jeweler of the Queen, Queen of the Jewelers.<img src="images/familiars/rootthekorred.webp" alt="Root the Korred Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Root the Korred

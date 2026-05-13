@@ -24,7 +24,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Pretentious Prestidigitator Melf Skin Portrait](images/premiums/skin_689.png)<span class="itemTooltipContents">ID: 689**Pretentious Prestidigitator Melf (Melf)**<img src="images/premiums/skin_689.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Pretentious Prestidigitator Melf Skin Portrait](images/premiums/skin_689.png)<span class="itemTooltipContents">ID: 689**Pretentious Prestidigitator Melf (Melf)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_689.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_689-meteor_hit.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_689-meteor_summon.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2598**Feat**???: 2598</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Multiversal Allies Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2598**Multiversal Allies**You're either with me, or you oppose all that is right and good. Which shall it be?<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2598</span>
+            <span style="margin-left:15px">Multiversal Allies</span>
+            <span style="margin-left:15px">Melf</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -684,7 +685,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 325**Root the Korred**Jeweler of the Queen, Queen of the Jewelers.</span></span>
+            <span class="tooltipHolder">![Root the Korred Familiar Portrait](images/premiums/familiar_325.png)<span class="itemTooltipContents">ID: 325**Root the Korred**Jeweler of the Queen, Queen of the Jewelers.<img src="images/premiums/familiar_325.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
