@@ -308,7 +308,7 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "formation_circle_icon": false,
+        "formation_circle_icon": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -504,6 +504,7 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
         },
         {
             "effect_string": "richten_repel_evil",
+            "off_when_benched": true,
             "graphic_id": 29295,
             "x_offset": 33,
             "y_offset": -174,
@@ -567,7 +568,7 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "spec_option_post_apply_info": "Affected Champions: $num_stacks___2"
+        "spec_option_post_apply_info": "Qualified Champions: $num_stacks___2"
     }
 }
 </pre>
