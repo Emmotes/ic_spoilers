@@ -51,7 +51,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "max_stacks": 30,
             "stacks_multiply": false,
             "show_stacks": true,
-            "desc_forced_order": 0
+            "desc_forced_order": 0,
+            "damage_buff_index": 2,
+            "quest_buff_index": 3
         },
         {
             "off_when_benched": true,
@@ -82,7 +84,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 14614,
     "properties": {
         "is_formation_ability": true,
-        "show_incoming": false,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
