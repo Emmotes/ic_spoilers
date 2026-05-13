@@ -58,7 +58,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "projectile_speed": 2400,
                 "projectile_graphic_id": 28921,
                 "use_auto_rotation": true,
-                "percent_height_offset": 8
+                "percent_height_offset": 8,
+                "projectile_graphic_skin_property": "projectile_graphic_id"
             }
         }
     ],
