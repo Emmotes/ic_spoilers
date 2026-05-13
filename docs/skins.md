@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Noble Mechanica Evelyn Portrait](images/skin_portraits/noblemechanicaevelyn.png)<span class="featTooltipContents">ID: 690**Noble Mechanica Evelyn (Evelyn)**<img src="images/skin_models/noblemechanicaevelyn.webp" alt="Noble Mechanica Evelyn Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Noble Mechanica Evelyn
-        </span>
-        <span class="skinTableSource">
-            Noble Mechanica Evelyn Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            13 May 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Pretentious Prestidigitator Melf Portrait](images/skin_portraits/pretentiousprestidigitatormelf.png)<span class="featTooltipContents">ID: 689**Pretentious Prestidigitator Melf (Melf)**<img src="images/skin_models/pretentiousprestidigitatormelf.webp" alt="Pretentious Prestidigitator Melf Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Pretentious Prestidigitator Melf
-        </span>
-        <span class="skinTableSource">
-            Pretentious Prestidigitator Melf Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            13 May 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 691**Clockwork General Mehen (Mehen)**<img src="images/skin_models/clockworkgeneralmehen.webp" alt="Clockwork General Mehen Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
         </span>
         <span class="skinTableName">
