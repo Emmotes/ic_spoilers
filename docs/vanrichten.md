@@ -566,7 +566,8 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Affected Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -611,7 +612,8 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Affected Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -656,7 +658,8 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Affected Champions: $num_stacks___2"
     }
 }
 </pre>
