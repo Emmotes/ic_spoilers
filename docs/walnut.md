@@ -27,7 +27,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Documancer** (Guess)
-> Increases the damage of adjacent champions by 10% for each enemy killed in this area. Resets when changing areas.
+> Increases the damage of adjacent champions by 10% for each enemy killed in this area. Stacks are reduced by 50% when changing areas, rounding down.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -38,18 +38,18 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "conditions": [
             {
                 "condition": "upgrade_purchased 2393",
-                "desc": "Increases the damage of all Champions by $(amount)% for each enemy killed in this area. Resets when changing areas."
+                "desc": "Increases the damage of all Champions by $(amount)% for each enemy killed in this area. Stacks are reduced by 50% when changing areas, rounding down."
             },
             {
                 "condition": "upgrade_purchased 2392",
-                "desc": "Increases the damage of adjacent champions and champions in the top or bottom of their column by $(amount)% for each enemy killed in this area. Resets when changing areas."
+                "desc": "Increases the damage of adjacent champions and champions in the top or bottom of their column by $(amount)% for each enemy killed in this area. Stacks are reduced by 50% when changing areas, rounding down."
             },
             {
                 "condition": "upgrade_purchased 2391",
-                "desc": "Increases the damage of champions up to two slots away by $(amount)% for each enemy killed in this area. Resets when changing areas."
+                "desc": "Increases the damage of champions up to two slots away by $(amount)% for each enemy killed in this area. Stacks are reduced by 50% when changing areas, rounding down."
             },
             {
-                "desc": "Increases the damage of adjacent champions by $(amount)% for each enemy killed in this area. Resets when changing areas."
+                "desc": "Increases the damage of adjacent champions by $(amount)% for each enemy killed in this area. Stacks are reduced by 50% when changing areas, rounding down."
             }
         ]
     },
@@ -355,7 +355,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Co-Signers** (Guess)
-> Each target of $(upgrade_name id) is buffed +1000% for each of these buffs also affecting the target: K'Thriss' Unseen Encouragement, Donaar's Lead By Example, Rosie's Deflect Missiles.
+> The effect of Documancer is increased separately on each Champion by 1000% for each of the following "C" Team abilities affecting them, stacking multiplicatively:  
+> K'Thriss' Unseen Encouragement  
+> Donaar's Lead By Example  
+> Rosie's Deflect Missiles.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -363,7 +366,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2764,
     "flavour_text": "",
     "description": {
-        "desc": "Each target of $(upgrade_name id) is buffed +$amount% for each of these buffs also affecting the target: K'Thriss' Unseen Encouragement, Donaar's Lead By Example, Rosie's Deflect Missiles."
+        "desc": "The effect of Documancer is increased separately on each Champion by $amount% for each of the following \"C\" Team abilities affecting them, stacking multiplicatively:^K'Thriss' Unseen Encouragement^Donaar's Lead By Example^Rosie's Deflect Missiles."
     },
     "effect_keys": [
         {
@@ -385,7 +388,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Temporary Alliance** (Guess)
-> The effect of $(upgrade_name id) is increased by 100% for each Champion in the formation with an affiliation other than the "C" Team.
+> Increases the effect of Documancer by 100% for each Champion with an affiliation other than the "C" Team, stacking multiplicatively. Unaffiliated champions do not count.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -393,11 +396,20 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2765,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of $(upgrade_name id) is increased by $amount% for each Champion in the formation with an affiliation other than the \"C\" Team."
+        "desc": "Increases the effect of Documancer by $amount% for each Champion with an affiliation other than the \"C\" Team, stacking multiplicatively. Unaffiliated champions do not count."
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,100,19707,!cteam"
+            "effect_string": "buff_upgrade,100,19707",
+            "off_when_benched": true,
+            "show_bonus": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "!HasTag(`cteam`) && !HasTag(`Unaffiliated`)",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": [],
