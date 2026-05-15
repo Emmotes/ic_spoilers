@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/810.png">
-            <span class="weekendTooltipContents">ID: 810**Gold Commercial Chest**Loot for: Celeste, Asharra, Briv, Hank and Diana<code>"for_crusaders":[2,6,58,163,148]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **We'll Be Right Back**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    15 May 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Diana
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/asharra.png'">
-                        <span class="weekendTableChampionNameplate">Asharra</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/briv.png'">
-                        <span class="weekendTableChampionNameplate">Briv</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hank.png'">
-                        <span class="weekendTableChampionNameplate">Hank</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/diana.png'">
-                        <span class="weekendTableChampionNameplate">Diana</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/811.png">
             <span class="weekendTooltipContents">ID: 811**Gold Rainbow Chest**Loot for: Nayeli, Makos, Ellywick, Gale and Evelyn<code>"for_crusaders":[3,9,83,147,26]</code></span>
         </span>
