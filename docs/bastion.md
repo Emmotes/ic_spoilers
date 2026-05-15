@@ -262,6 +262,18 @@ Some graphics were found that had the format `Bastion/Rooms/Treasure/...`:
 > "key": "exit_trophy_mode",  
 > "contents": "Exit Trophy Mode"
 
+> "key": "place_trophy",  
+> "contents": "Place Trophy"
+
+> "key": "remove_trophy",  
+> "contents": "Remove Trophy"
+
+> "key": "return_trophy_to_inv",  
+> "contents": "Return Trophy to inventory"
+
+> "key": "select_trophy",  
+> "contents": "Select Trophy"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
