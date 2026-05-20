@@ -9,53 +9,19 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 691**Clockwork General Mehen (Mehen)**<img src="images/skin_models/clockworkgeneralmehen.webp" alt="Clockwork General Mehen Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Thayan Knight Tess Portrait](images/skin_portraits/thayanknighttess.png)<span class="featTooltipContents">ID: 694**Thayan Knight Tess (Tess)**<img src="images/skin_models/thayanknighttess.webp" alt="Thayan Knight Tess Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
-            Clockwork General Mehen
+            Thayan Knight Tess
         </span>
         <span class="skinTableSource">
-            Clockwork General Mehen Skin & Feat Pack
+            Adventure: Team Up
         </span>
         <span class="skinTableCost">
-            1,680p
+            Free
         </span>
         <span class="skinTableDate">
-            20 May 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Noble Mechanica Nixie Portrait](images/skin_portraits/noblemechanicanixie.png)<span class="featTooltipContents">ID: 692**Noble Mechanica Nixie (Nixie)**<img src="images/skin_models/noblemechanicanixie.webp" alt="Noble Mechanica Nixie Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Noble Mechanica Nixie
-        </span>
-        <span class="skinTableSource">
-            Noble Mechanica Nixie Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            20 May 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Noble Mechanica Vlithryn Portrait](images/skin_portraits/noblemechanicavlithryn.png)<span class="featTooltipContents">ID: 693**Noble Mechanica Vlithryn (Vlithryn)**<img src="images/skin_models/noblemechanicavlithryn.webp" alt="Noble Mechanica Vlithryn Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Noble Mechanica Vlithryn
-        </span>
-        <span class="skinTableSource">
-            Noble Mechanica Vlithryn Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            20 May 2026
+            27 May 2026
         </span>
     </span>
     <span class="skinTableRow">
@@ -162,19 +128,104 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Thayan Knight Tess Portrait](images/skin_portraits/thayanknighttess.png)<span class="featTooltipContents">ID: 701**Thayan Knight Tess (Tess)**<img src="images/skin_models/thayanknighttess.webp" alt="Thayan Knight Tess Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 702**Rictavio Van Richten (Van Richten)**</span></span>
         </span>
         <span class="skinTableName">
-            Thayan Knight Tess
+            Rictavio Van Richten
         </span>
         <span class="skinTableSource">
-            ???
+            Rictavio Van Richten Theme Pack
         </span>
         <span class="skinTableCost">
-            ???
+            3,830p
         </span>
         <span class="skinTableDate">
-            ???
+            01 Jul 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 705**Ravenloft's Champion Strongheart (Strongheart)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Ravenloft's Champion Strongheart
+        </span>
+        <span class="skinTableSource">
+            Ravenloft's Champion Strongheart Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            08 Jul 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 704**Vampire Slayer Tess (Tess)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Vampire Slayer Tess
+        </span>
+        <span class="skinTableSource">
+            Vampire Slayer Tess Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            08 Jul 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 533**Disciple of Cthulhu Deekin (Deekin)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Disciple of Cthulhu Deekin
+        </span>
+        <span class="skinTableSource">
+            Disciple of Cthulhu Deekin Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            15 Jul 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 534**Nechricor Vin Ursa (Vin Ursa)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Nechricor Vin Ursa
+        </span>
+        <span class="skinTableSource">
+            Nechricor Vin Ursa Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            15 Jul 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 536**Sly One Raistlin (Raistlin)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Sly One Raistlin
+        </span>
+        <span class="skinTableSource">
+            Sly One Raistlin Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            29 Jul 2026
         </span>
     </span>
 </span>
