@@ -178,7 +178,9 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
     "animations": [
         {
             "type": "melee_attack",
-            "damage_frame": 3
+            "damage_frame": 3,
+            "target_offset_x": -35,
+            "target_offset_y": -75
         }
     ],
     "tags": [
@@ -217,7 +219,10 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
             "type": "ranged_attack",
             "shoot_frame": 20,
             "projectile": "empty",
-            "projectile_hit_graphic_id": 29292,
+            "projectile_details": {
+                "projectile_hit_graphic_id": 29292,
+                "impact_offset_y": -50
+            },
             "effects_on_monsters": [
                 {
                     "effect_string": "push_back_monster,5",
@@ -378,7 +383,7 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
     "id": 2741,
     "flavour_text": "",
     "description": {
-        "desc": "Undead enemies are Van Richten's favored foe. When one of his favored foes is killed, Van Richten gains a Triumph stack. Slayer Training is increased by $amount___2% for each Triumph stack he has, stacking multiplicatively. Triumph stacks cap at $max_stacks___2 and reset when a boss area is completed."
+        "desc": "Undead enemies are Van Richten's favored foe. When one of his favored foes is killed, Van Richten gains a Triumph stack. Slayer Training is increased by $(not_buffed amount___2)% for each Triumph stack he has, stacking multiplicatively. Triumph stacks cap at $max_stacks___2 and reset when a boss area is completed."
     },
     "effect_keys": [
         {
@@ -388,8 +393,14 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
         {
             "off_when_benched": true,
             "effect_string": "buff_upgrade,20,19696",
-            "stacks_on_trigger": "favored_foe_killed",
             "more_triggers": [
+                {
+                    "trigger": "favored_foe_killed",
+                    "is_source_favored_foe": true,
+                    "action": {
+                        "type": "add_stack"
+                    }
+                },
                 {
                     "trigger": "boss_area_complete",
                     "action": {
@@ -446,7 +457,8 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
                 "koed": 1
             },
             "time": 3,
-            "show_bonus": true
+            "wave_x_offset": 15,
+            "wave_y_offset": -65
         },
         {
             "effect_string": "pre_stack,20"
@@ -457,14 +469,15 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
             "amount_expr": "upgrade_amount(19699,1)",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "listen_for_computed_changes": true,
             "post_process_expr": "GetUpgradeStacks(19698,1)",
+            "listen_for_computed_changes": true,
             "max_stacks": 100,
             "stacks_multiply": true,
             "show_bonus": true,
             "stack_title": "Triumph Stacks",
             "amount_updated_listeners": [
-                "favored_foe_killed"
+                "favored_foe_killed",
+                "stacks_changed"
             ]
         }
     ],
@@ -475,7 +488,7 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
         "is_formation_ability": true,
         "show_incoming": false,
         "retain_on_slot_changed": true,
-        "formation_circle_icon": true,
+        "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -501,14 +514,6 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
     "effect_keys": [
         {
             "effect_string": "set_ultimate_attack,982"
-        },
-        {
-            "effect_string": "richten_repel_evil",
-            "off_when_benched": true,
-            "graphic_id": 29295,
-            "x_offset": 33,
-            "y_offset": -174,
-            "delay_time": 0.72
         }
     ],
     "requirements": "",
@@ -552,9 +557,14 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
             "off_when_benched": true,
             "effect_string": "buff_upgrade,0,19696",
             "amount_expr": "upgrade_amount(19700,0)",
+            "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`cleric`) || HasTag(`wizard`) || HasTag(`sorcerer`) || HasTag(`warlock`)",
             "stacks_multiply": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
             "show_bonus": true
         }
     ],
@@ -596,11 +606,16 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
         },
         {
             "off_when_benched": true,
-            "effect_string": "buff_upgrade,100,19696",
-            "amount_expr": "upgrade_amount(19700,0)",
+            "effect_string": "buff_upgrade,0,19696",
+            "amount_expr": "upgrade_amount(19701,0)",
+            "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "GetStat(`int`)>=14",
             "stacks_multiply": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
             "show_bonus": true
         }
     ],
@@ -614,7 +629,7 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "spec_option_post_apply_info": "Affected Champions: $num_stacks___2"
+        "spec_option_post_apply_info": "INT 14+ Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -642,11 +657,16 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
         },
         {
             "off_when_benched": true,
-            "effect_string": "buff_upgrade,100,19696",
-            "amount_expr": "upgrade_amount(19700,0)",
+            "effect_string": "buff_upgrade,0,19696",
+            "amount_expr": "upgrade_amount(19702,0)",
+            "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "as_int(HasTag(`hunter`)) + as_int(HasTag(`debuff`))",
             "stacks_multiply": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
             "show_bonus": true
         }
     ],
@@ -660,7 +680,7 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "spec_option_post_apply_info": "Affected Champions: $num_stacks___2"
+        "spec_option_post_apply_info": "Potential Stacks: $num_stacks___2"
     }
 }
 </pre>
@@ -776,7 +796,7 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
             "effect_string": "reverse_taunt",
             "override_key_desc": "Enemies that attempt to choose $target as a target instead choose to attack another Champion, assuming another valid target exists.",
             "targets": [
-                "next_col"
+                "front_column"
             ],
             "filter_targets": [
                 {
@@ -878,7 +898,7 @@ Unknown.
 > Save Waterdeep from the chaos of a Founders' Day gone awry.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: On the Trail** (Complete Area 75)
+![On the Trail Icon](images/vanrichten/29188.png) **Variant 1: On the Trail** (Complete Area 75)
 > Rudolph Van Richten starts in the formation. He can't be moved or removed.  
 > Only Van Richten and the Champions in the column in front of him can deal damage.  
 > 1-2 Strahd Zombies spawn with each wave. They don't drop gold nor count towards quest progress.  
@@ -887,7 +907,7 @@ Unknown.
 > <b>Getting to Know Van Richten:</b> Van Richten increases the damage of Champions in the column in front of him. Place your damage dealer there to make the most of his buff!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: Pen is Mightier than a Cane Sword** (Complete Area 125)
+![Pen is Mightier than a Cane Sword Icon](images/vanrichten/29189.png) **Variant 2: Pen is Mightier than a Cane Sword** (Complete Area 125)
 > Rudolph Van Richten starts in the formation. He can be moved, but not removed.  
 > You may only add one Tanking Champion to the formation.  
 > Most quest requirements are doubled in non-boss areas.  
@@ -896,7 +916,7 @@ Unknown.
 > <b>Getting to Know Van Richten:</b> Van Richten's favored foes are Undead. Use him and other monster hunters to quickly get through this variant!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: Hunters and Scholars** (Complete Area 175)
+![Hunters and Scholars Icon](images/vanrichten/29190.png) **Variant 3: Hunters and Scholars** (Complete Area 175)
 > Rudolph Van Richten starts in the formation. He can be moved, but not removed.  
 > You may only use Champions that count for any of Van Richten's first specialization choices.  
 > 1-2 Relentless Undead spawn with each wave. When they are killed, Relentless Undead don't disappear. Instead, after 3 seconds, they get back up and start attacking again.  
