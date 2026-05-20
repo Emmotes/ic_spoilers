@@ -509,6 +509,57 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">13 Aug 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Vlithryn</span>
+        </span>
+        <span class="featTableIcon4">
+            ![External Screaming Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2169**External Screaming (Vlithryn)**You're literally dying! Of course I can spare the spell slot.<br><br><span style="color:var(--Flavescent)">Increases the effect of Vlithryn's Revivify ability by 80%. (Prestack)</span><code>buff_upgrade,80,16898,0</code></span>External Screaming
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Vlithryn's Revivify ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">20 Aug 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Nixie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Embiggen Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2586**Embiggen (Nixie)**Look at me! I'm huge! I don't need a fireball anymore! I can just step on them!<br><br><span style="color:var(--Flavescent)">Increases the effect of Nixie's Gigantic Growth ability by 80%.</span><code>buff_upgrade,80,10889</code></span>Embiggen
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Nixie's Gigantic Growth ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">20 Aug 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Mehen</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Guaranteed Grump Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2585**Guaranteed Grump (Mehen)**I'm certain of few things in this life. Disappointment is one of them.<br><br><span style="color:var(--Flavescent)">Increases the effect of Mehen's Grumpy ability by 80%. (Prestack)</span><code>buff_upgrade,80,16146,0</code></span>Guaranteed Grump
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Mehen's Grumpy ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">20 Aug 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
