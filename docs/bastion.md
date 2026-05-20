@@ -166,6 +166,31 @@ Some graphics were found that had the format `Bastion/Rooms/Tradehall/...`:
 > [bastion_tradehall_wall_sidewallfront.png](images/bastion/rooms/tradehall/bastion_tradehall_wall_sidewallfront.png){:target="_blank"}  
 > [bastion_tradehall_wall_sidewalltop.png](images/bastion/rooms/tradehall/bastion_tradehall_wall_sidewalltop.png){:target="_blank"}  
 
+## Trainingyard
+
+Some graphics were found that had the format `Bastion/Rooms/Trainingyard/...`:
+
+> [bastion_trainingyard_doodad_arrowbucket.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_arrowbucket.png){:target="_blank"}  
+> [bastion_trainingyard_doodad_doodadpile01.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_doodadpile01.png){:target="_blank"}  
+> [bastion_trainingyard_doodad_doodadpile02.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_doodadpile02.png){:target="_blank"}  
+> [bastion_trainingyard_doodad_door.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_door.png){:target="_blank"}  
+> [bastion_trainingyard_doodad_fightpitgrass.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_fightpitgrass.png){:target="_blank"}  
+> [bastion_trainingyard_doodad_fightpittargetbig.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_fightpittargetbig.png){:target="_blank"}  
+> [bastion_trainingyard_doodad_fightpittargetsmall.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_fightpittargetsmall.png){:target="_blank"}  
+> [bastion_trainingyard_doodad_flag.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_flag.png){:target="_blank"}  
+> [bastion_trainingyard_doodad_targetdummy.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_targetdummy.png){:target="_blank"}  
+> [bastion_trainingyard_floor_panel.png](images/bastion/rooms/trainingyard/bastion_trainingyard_floor_panel.png){:target="_blank"}  
+> [bastion_trainingyard_floor_shadow.png](images/bastion/rooms/trainingyard/bastion_trainingyard_floor_shadow.png){:target="_blank"}  
+> [bastion_trainingyard_wall_corner.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_corner.png){:target="_blank"}  
+> [bastion_trainingyard_wall_frontwallpanel.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_frontwallpanel.png){:target="_blank"}  
+> [bastion_trainingyard_wall_panel01.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_panel01.png){:target="_blank"}  
+> [bastion_trainingyard_wall_panel02.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_panel02.png){:target="_blank"}  
+> [bastion_trainingyard_wall_railing.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_railing.png){:target="_blank"}  
+> [bastion_trainingyard_wall_shadow.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_shadow.png){:target="_blank"}  
+> [bastion_trainingyard_wall_sidewallfront.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_sidewallfront.png){:target="_blank"}  
+> [bastion_trainingyard_wall_sidewalltop.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_sidewalltop.png){:target="_blank"}  
+> [bastion_trainingyard_wall_stairs.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_stairs.png){:target="_blank"}  
+
 ## Treasure
 
 Some graphics were found that had the format `Bastion/Rooms/Treasure/...`:
@@ -273,6 +298,15 @@ Some graphics were found that had the format `Bastion/Rooms/Treasure/...`:
 
 > "key": "select_trophy",  
 > "contents": "Select Trophy"
+
+> "key": "room_unlock_available",  
+> "contents": "Room unlock available!"
+
+> "key": "room_upgrade_available",  
+> "contents": "Room upgrade available!"
+
+> "key": "back_to_your_bastion",  
+> "contents": "Back to your Bastion"
 
 [Back to Top](#top)
 
