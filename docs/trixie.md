@@ -1091,7 +1091,8 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
             ],
             "skip_effect_key_desc": true,
             "retarget_when_any_hero_slot_changed": true,
-            "retarget_when_any_hero_tags_changed": true
+            "retarget_when_any_hero_tags_changed": true,
+            "retarget_when_any_feat_changed": true
         },
         {
             "off_when_benched": true,
@@ -1101,7 +1102,8 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
             ],
             "skip_effect_key_desc": true,
             "retarget_when_any_hero_slot_changed": true,
-            "retarget_when_any_hero_tags_changed": true
+            "retarget_when_any_hero_tags_changed": true,
+            "retarget_when_any_feat_changed": true
         },
         {
             "effect_string": "do_nothing",
