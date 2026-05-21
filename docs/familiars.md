@@ -41,7 +41,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 324**Vex the Tressym**That is not your chair; that is my throne.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Vex the Tressym Portrait](images/familiars/vexthetressym.png)<span class="featTooltipContents">ID: 324**Vex the Tressym**That is not your chair; that is my throne.<img src="images/familiars/vexthetressym.webp" alt="Vex the Tressym Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Vex the Tressym
@@ -58,7 +58,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 326**Iridescent Wynling**Playful and mischievous, wynlings defend mountain heights, alpine vales, and sometimes even summer courts against trespassers.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Iridescent Wynling Portrait](images/familiars/iridescentwynling.png)<span class="featTooltipContents">ID: 326**Iridescent Wynling**Playful and mischievous, wynlings defend mountain heights, alpine vales, and sometimes even summer courts against trespassers.<img src="images/familiars/iridescentwynling.webp" alt="Iridescent Wynling Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Iridescent Wynling
@@ -75,7 +75,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 327**Atchoo the Dahlia**Leaf it to me!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Atchoo the Dahlia Portrait](images/familiars/atchoothedahlia.png)<span class="featTooltipContents">ID: 327**Atchoo the Dahlia**Leaf it to me!<img src="images/familiars/atchoothedahlia.webp" alt="Atchoo the Dahlia Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Atchoo the Dahlia

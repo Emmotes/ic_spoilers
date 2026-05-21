@@ -26,7 +26,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 695**Summer Court Trixie (Trixie)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Summer Court Trixie Portrait](images/skin_portraits/summercourttrixie.png)<span class="featTooltipContents">ID: 695**Summer Court Trixie (Trixie)**<img src="images/skin_models/summercourttrixie.webp" alt="Summer Court Trixie Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Summer Court Trixie
@@ -43,7 +43,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 696**Viscount Ravengard (Ravengard)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Viscount Ravengard Portrait](images/skin_portraits/viscountravengard.png)<span class="featTooltipContents">ID: 696**Viscount Ravengard (Ravengard)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
         </span>
         <span class="skinTableName">
             Viscount Ravengard
@@ -77,7 +77,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 698**Summer Court Antrius (Antrius)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Summer Court Antrius Portrait](images/skin_portraits/summercourtantrius.png)<span class="featTooltipContents">ID: 698**Summer Court Antrius (Antrius)**<img src="images/skin_models/summercourtantrius.webp" alt="Summer Court Antrius Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Summer Court Antrius

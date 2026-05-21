@@ -76,7 +76,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 695**Summer Court Trixie (Trixie)**</span></span>
+            <span class="tooltipHolder">![Summer Court Trixie Skin Portrait](images/premiums/skin_695.png)<span class="itemTooltipContents">ID: 695**Summer Court Trixie (Trixie)**<img src="images/premiums/skin_695.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -85,7 +85,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 324**Vex the Tressym**That is not your chair; that is my throne.</span></span>
+            <span class="tooltipHolder">![Vex the Tressym Familiar Portrait](images/premiums/familiar_324.png)<span class="itemTooltipContents">ID: 324**Vex the Tressym**That is not your chair; that is my throne.<img src="images/premiums/familiar_324.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -145,7 +145,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 696**Viscount Ravengard (Ravengard)**</span></span>
+            <span class="tooltipHolder">![Viscount Ravengard Skin Portrait](images/premiums/skin_696.png)<span class="itemTooltipContents">ID: 696**Viscount Ravengard (Ravengard)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -416,7 +416,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 326**Iridescent Wynling**Playful and mischievous, wynlings defend mountain heights, alpine vales, and sometimes even summer courts against trespassers.</span></span>
+            <span class="tooltipHolder">![Iridescent Wynling Familiar Portrait](images/premiums/familiar_326.png)<span class="itemTooltipContents">ID: 326**Iridescent Wynling**Playful and mischievous, wynlings defend mountain heights, alpine vales, and sometimes even summer courts against trespassers.<img src="images/premiums/familiar_326.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -486,7 +486,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 327**Atchoo the Dahlia**Leaf it to me!</span></span>
+            <span class="tooltipHolder">![Atchoo the Dahlia Familiar Portrait](images/premiums/familiar_327.png)<span class="itemTooltipContents">ID: 327**Atchoo the Dahlia**Leaf it to me!<img src="images/premiums/familiar_327.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -547,7 +547,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 698**Summer Court Antrius (Antrius)**</span></span>
+            <span class="tooltipHolder">![Summer Court Antrius Skin Portrait](images/premiums/skin_698.png)<span class="itemTooltipContents">ID: 698**Summer Court Antrius (Antrius)**<img src="images/premiums/skin_698.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
