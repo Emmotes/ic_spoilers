@@ -26,6 +26,23 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Summer Court Lazaapz Portrait](images/skin_portraits/summercourtlazaapz.png)<span class="featTooltipContents">ID: 706**Summer Court Lazaapz (Lazaapz)**<img src="images/skin_models/summercourtlazaapz.webp" alt="Summer Court Lazaapz Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Summer Court Lazaapz
+        </span>
+        <span class="skinTableSource">
+            Summer Celebration (Guess)
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            03 Jun 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Summer Court Trixie Portrait](images/skin_portraits/summercourttrixie.png)<span class="featTooltipContents">ID: 695**Summer Court Trixie (Trixie)**<img src="images/skin_models/summercourttrixie.webp" alt="Summer Court Trixie Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -226,23 +243,6 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             29 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Summer Court Lazaapz Portrait](images/skin_portraits/summercourtlazaapz.png)<span class="featTooltipContents">ID: 706**Summer Court Lazaapz (Lazaapz)**<img src="images/skin_models/summercourtlazaapz.webp" alt="Summer Court Lazaapz Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Summer Court Lazaapz
-        </span>
-        <span class="skinTableSource">
-            Summer Celebration (Guess)
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            ???
         </span>
     </span>
 </span>
