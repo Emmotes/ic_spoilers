@@ -386,6 +386,7 @@ Miscellaneous spoilers with due dates.
 * [XBox Exclusive Giveaway](platform_giveaway_736.md) - 3 June 2026
 * Emergence 16 - 22 July 2026
 * [Bastion](bastion.md) - ???
+* Court of the Summer Queen (Seasonal Celebration) - ???
 * [Trials & Legendaries](trialsLegs.md) - ???
 
 # Misc
