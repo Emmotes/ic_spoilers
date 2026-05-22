@@ -291,7 +291,7 @@ Tales 10 will not unlock any champions.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: No Good Deed (Adventure)](images/contentdrop_portraits/mastery_nogooddeed_0.png)
+            ![Mastery: No Good Deed (Variant)](images/contentdrop_portraits/mastery_nogooddeed_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
@@ -305,7 +305,7 @@ Tales 10 will not unlock any champions.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Out of Time (Adventure)](images/contentdrop_portraits/mastery_outoftime_0.png)
+            ![Mastery: Out of Time (Variant)](images/contentdrop_portraits/mastery_outoftime_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
@@ -319,7 +319,7 @@ Tales 10 will not unlock any champions.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Rocket Elves (Adventure)](images/contentdrop_portraits/mastery_rocketelves_0.png)
+            ![Mastery: Rocket Elves (Variant)](images/contentdrop_portraits/mastery_rocketelves_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
@@ -333,7 +333,7 @@ Tales 10 will not unlock any champions.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: The Real Power of Three (Adventure)](images/contentdrop_portraits/mastery_therealpowerofthree_0.png)
+            ![Mastery: The Real Power of Three (Variant)](images/contentdrop_portraits/mastery_therealpowerofthree_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
@@ -483,7 +483,7 @@ Tales 10 will not unlock any champions.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Absolute Entourage (Adventure)](images/contentdrop_portraits/mastery_absoluteentourage_0.png)
+            ![Mastery: Absolute Entourage (Variant)](images/contentdrop_portraits/mastery_absoluteentourage_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
@@ -497,7 +497,7 @@ Tales 10 will not unlock any champions.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Formation is Cursed (Adventure)](images/contentdrop_portraits/mastery_formationiscursed_0.png)
+            ![Mastery: Formation is Cursed (Variant)](images/contentdrop_portraits/mastery_formationiscursed_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
@@ -511,7 +511,7 @@ Tales 10 will not unlock any champions.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Four Pillars (Adventure)](images/contentdrop_portraits/mastery_fourpillars_0.png)
+            ![Mastery: Four Pillars (Variant)](images/contentdrop_portraits/mastery_fourpillars_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
@@ -525,7 +525,7 @@ Tales 10 will not unlock any champions.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Hallucinations of Mithral (Adventure)](images/contentdrop_portraits/mastery_hallucinationsofmithral_0.png)
+            ![Mastery: Hallucinations of Mithral (Variant)](images/contentdrop_portraits/mastery_hallucinationsofmithral_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
@@ -539,7 +539,7 @@ Tales 10 will not unlock any champions.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Space Clowns (Adventure)](images/contentdrop_portraits/mastery_spaceclowns_0.png)
+            ![Mastery: Space Clowns (Variant)](images/contentdrop_portraits/mastery_spaceclowns_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
@@ -553,7 +553,7 @@ Tales 10 will not unlock any champions.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Thayit Aint (Adventure)](images/contentdrop_portraits/mastery_thayitaint_0.png)
+            ![Mastery: Thayit Aint (Variant)](images/contentdrop_portraits/mastery_thayitaint_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
@@ -567,7 +567,7 @@ Tales 10 will not unlock any champions.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Very Familiar (Adventure)](images/contentdrop_portraits/mastery_veryfamiliar_0.png)
+            ![Mastery: Very Familiar (Variant)](images/contentdrop_portraits/mastery_veryfamiliar_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
@@ -581,7 +581,7 @@ Tales 10 will not unlock any champions.
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Wizened Waterdeep (Adventure)](images/contentdrop_portraits/mastery_wizenedwaterdeep_0.png)
+            ![Mastery: Wizened Waterdeep (Variant)](images/contentdrop_portraits/mastery_wizenedwaterdeep_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
