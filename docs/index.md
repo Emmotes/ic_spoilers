@@ -43,6 +43,9 @@ These are the event champions that are upcoming and all the information we know 
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -67,6 +70,9 @@ These are the event champions that are upcoming and all the information we know 
         </span>
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐
         </span>
     </span>
 {::nomarkdown}
@@ -100,6 +106,9 @@ A list of champions that will be seeing reworks in upcoming events.
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rework ♻️
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -124,6 +133,9 @@ A list of champions that will be seeing reworks in upcoming events.
         </span>
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️
         </span>
     </span>
 {::nomarkdown}
@@ -150,6 +162,9 @@ A list of champions that will be seeing reworks in upcoming events.
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -174,6 +189,9 @@ A list of champions that will be seeing reworks in upcoming events.
         </span>
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️
         </span>
     </span>
 {::nomarkdown}
