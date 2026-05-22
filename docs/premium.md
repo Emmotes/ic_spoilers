@@ -145,7 +145,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Viscount Ravengard Skin Portrait](images/premiums/skin_696.png)<span class="itemTooltipContents">ID: 696**Viscount Ravengard (Ravengard)**</span></span>
+            <span class="tooltipHolder">![Viscount Ravengard Skin Portrait](images/premiums/skin_696.png)<span class="itemTooltipContents">ID: 696**Viscount Ravengard (Ravengard)**<img src="images/premiums/skin_696.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

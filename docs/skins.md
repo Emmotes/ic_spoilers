@@ -43,7 +43,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Viscount Ravengard Portrait](images/skin_portraits/viscountravengard.png)<span class="featTooltipContents">ID: 696**Viscount Ravengard (Ravengard)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Viscount Ravengard Portrait](images/skin_portraits/viscountravengard.png)<span class="featTooltipContents">ID: 696**Viscount Ravengard (Ravengard)**<img src="images/skin_models/viscountravengard.webp" alt="Viscount Ravengard Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Viscount Ravengard
@@ -226,6 +226,23 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             29 Jul 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Summer Court Lazaapz Portrait](images/skin_portraits/summercourtlazaapz.png)<span class="featTooltipContents">ID: 706**Summer Court Lazaapz (Lazaapz)**<img src="images/skin_models/summercourtlazaapz.webp" alt="Summer Court Lazaapz Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Summer Court Lazaapz
+        </span>
+        <span class="skinTableSource">
+            Summer Celebration (Guess)
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
         </span>
     </span>
 </span>
