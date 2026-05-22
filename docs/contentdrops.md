@@ -300,7 +300,7 @@ Tales 10 will not unlock any champions.
             <span style="margin-left: 8px;">No Good Deed</span>
         </span>
         <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
+            <span style="margin-left: 8px;">Variant</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
@@ -314,7 +314,7 @@ Tales 10 will not unlock any champions.
             <span style="margin-left: 8px;">Out of Time</span>
         </span>
         <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
+            <span style="margin-left: 8px;">Variant</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
@@ -328,7 +328,7 @@ Tales 10 will not unlock any champions.
             <span style="margin-left: 8px;">Rocket Elves</span>
         </span>
         <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
+            <span style="margin-left: 8px;">Variant</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
@@ -342,7 +342,7 @@ Tales 10 will not unlock any champions.
             <span style="margin-left: 8px;">The Real Power of Three</span>
         </span>
         <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
+            <span style="margin-left: 8px;">Variant</span>
         </span>
     </span>
 </span>
@@ -492,7 +492,7 @@ Tales 10 will not unlock any champions.
             <span style="margin-left: 8px;">Absolute Entourage</span>
         </span>
         <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
+            <span style="margin-left: 8px;">Variant</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
@@ -506,7 +506,7 @@ Tales 10 will not unlock any champions.
             <span style="margin-left: 8px;">Formation is Cursed</span>
         </span>
         <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
+            <span style="margin-left: 8px;">Variant</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
@@ -520,7 +520,7 @@ Tales 10 will not unlock any champions.
             <span style="margin-left: 8px;">Four Pillars</span>
         </span>
         <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
+            <span style="margin-left: 8px;">Variant</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
@@ -534,7 +534,7 @@ Tales 10 will not unlock any champions.
             <span style="margin-left: 8px;">Hallucinations of Mithral</span>
         </span>
         <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
+            <span style="margin-left: 8px;">Variant</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
@@ -548,7 +548,7 @@ Tales 10 will not unlock any champions.
             <span style="margin-left: 8px;">Space Clowns</span>
         </span>
         <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
+            <span style="margin-left: 8px;">Variant</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
@@ -562,7 +562,7 @@ Tales 10 will not unlock any champions.
             <span style="margin-left: 8px;">Thayit Aint</span>
         </span>
         <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
+            <span style="margin-left: 8px;">Variant</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
@@ -576,7 +576,7 @@ Tales 10 will not unlock any champions.
             <span style="margin-left: 8px;">Very Familiar</span>
         </span>
         <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
+            <span style="margin-left: 8px;">Variant</span>
         </span>
     </span>
     <span class="contentDropsTableRow">
@@ -590,7 +590,7 @@ Tales 10 will not unlock any champions.
             <span style="margin-left: 8px;">Wizened Waterdeep</span>
         </span>
         <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
+            <span style="margin-left: 8px;">Variant</span>
         </span>
     </span>
 </span>
