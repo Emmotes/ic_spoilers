@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/811.png">
-            <span class="weekendTooltipContents">ID: 811**Gold Rainbow Chest**Loot for: Nayeli, Makos, Ellywick, Gale and Evelyn<code>"for_crusaders":[3,9,83,147,26]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Rainbow Awareness**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    22 May 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Evelyn
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/makos.png'">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/ellywick.png'">
-                        <span class="weekendTableChampionNameplate">Ellywick</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/gale.png'">
-                        <span class="weekendTableChampionNameplate">Gale</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/evelyn.png'">
-                        <span class="weekendTableChampionNameplate">Evelyn</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/812.png">
             <span class="weekendTooltipContents">ID: 812**Gold FIREBALL Chest**Loot for: Bruenor, Calliope, Tasslehoff, Laurana and Raistlin<code>"for_crusaders":[1,5,174,175,173]</code></span>
         </span>
