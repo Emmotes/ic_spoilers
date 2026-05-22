@@ -128,7 +128,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Elf (Wood) Druid of Acq Inc "C" Team</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Founders' Day - Delayed until 08 July 2026 (Guess)</span>
+                <span class="indexChampionTableNoLink">Founders' Day - 1 July 2026</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -156,7 +156,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Aasimar (Reborn) Warlock / Bard of Black Dice Society</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Founders' Day - Delayed until 08 July 2026 (Guess)</span>
+                <span class="indexChampionTableNoLink">Founders' Day - 1 July 2026</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -184,7 +184,7 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Human Paladin</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Founders' Day - Delayed until 08 July 2026 (Guess)</span>
+                <span class="indexChampionTableNoLink">Founders' Day - 1 July 2026</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -304,13 +304,10 @@ These are the upcoming new and reworked champions and where they'll be found.
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Walnut Dankgrass (Guess)
+                Walnut Dankgrass
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Elf (Wood) Druid of Acq Inc "C" Team</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 08 July 2026</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
@@ -332,13 +329,10 @@ These are the upcoming new and reworked champions and where they'll be found.
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Nahara (Guess)
+                Nahara
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Aasimar (Reborn) Warlock / Bard of Black Dice Society</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 08 July 2026</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
@@ -360,13 +354,10 @@ These are the upcoming new and reworked champions and where they'll be found.
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Strongheart (Guess)
+                Strongheart
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Human Paladin</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 08 July 2026</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">

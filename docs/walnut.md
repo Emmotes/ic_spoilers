@@ -17,7 +17,7 @@ Walnut is a child of the Enclave Panax Anima, an all-female clan of woodland def
 
 # Changes
 
-Walnut is potentially a reworked champion in the Founders' Day event and delayed until 8 July 2026.
+Walnut will be a reworked champion in the Founders' Day event on 1 July 2026.
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
