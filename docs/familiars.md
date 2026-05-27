@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Baby Tyrannosaurus Portrait](images/familiars/babytyrannosaurus.png)<span class="featTooltipContents">ID: 323**Baby Tyrannosaurus**Look out for those adorable chompers - he bites!<img src="images/familiars/babytyrannosaurus.webp" alt="Baby Tyrannosaurus Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Baby Tyrannosaurus
-        </span>
-        <span class="skinTableSource">
-            Avatar of Ubtao Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            27 May 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Root the Korred Portrait](images/familiars/rootthekorred.png)<span class="featTooltipContents">ID: 325**Root the Korred**Jeweler of the Queen, Queen of the Jewelers.<img src="images/familiars/rootthekorred.webp" alt="Root the Korred Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

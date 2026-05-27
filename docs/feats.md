@@ -30,57 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Birdsong</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Favorite Song Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2599**Favorite Song (Birdsong)**Once more for the people in the back!<br><br><span style="color:var(--Flavescent)">Increases the range of Birdsong's Song of Battle ability by 1.</span><code>change_upgrade_data,10774</code></span>Favorite Song
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the range of Birdsong's Song of Battle ability by 1.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Tales of the Champions</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">27 May 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Birdsong</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Free Agent Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2600**Free Agent (Birdsong)**Agent Birdsong, ready. Time for the final act.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Unaffiliated Champion in the formation.</span><code>global_dps_multiplier_mult,20</code></span>Free Agent
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each Unaffiliated Champion in the formation.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Tales of the Champions</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">27 May 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Tess</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Cat Burglar Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2601**Cat Burglar (Tess)**My mask finds the traps. My hands do the rest.<br><br><span style="color:var(--Flavescent)">Increases the effect of Tess's Trap Expert ability by 80%.</span><code>buff_upgrade,80,17320</code></span>Cat Burglar
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Tess's Trap Expert ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Tales of the Champions</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">27 May 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Lazaapz</span>
         </span>
         <span class="featTableIcon4">
