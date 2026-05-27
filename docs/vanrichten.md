@@ -341,6 +341,8 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
             "effect_string": "chance_resurrect_enemy_handler,25",
             "add_tag": true,
             "tag": "undead",
+            "ignore_tag": false,
+            "ignore_favored_foe": true,
             "graphic_id": 29293,
             "resurrected_key": "richten_resurrected",
             "time": 1,
@@ -352,7 +354,10 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
                     "effect_string": "richten_resurrected"
                 }
             ],
-            "achievement_stat_name": "richten_always_among_monsters"
+            "achievement_stat_name": "richten_always_among_monsters",
+            "ignored_death_animations": [
+                "run"
+            ]
         }
     ],
     "requirements": "",
@@ -432,7 +437,7 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Watched by Erasmus** (Guess)
-> If no enemies have been defeated for 3 seconds, Van Richten's ghost son Erasmus appears. Whenever Van Richten attacks, Erasmus quickly moves to the target he will attack and curses all enemies in a small area, causing all attacks against them to deal 100% more damage. This is increased by 20% for each Triumph stack Van Richten has, stacking multiplicatively. Erasmus disappears when changing areas.
+> If no enemies have been defeated for 100 seconds, Van Richten's ghost son Erasmus appears. Whenever Van Richten attacks, Erasmus quickly moves to the target he will attack and curses all enemies in a small area, causing all attacks against them to deal 100% more damage. This is increased by 20% for each Triumph stack Van Richten has, stacking multiplicatively. Erasmus disappears when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -440,11 +445,15 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
     "id": 2742,
     "flavour_text": "",
     "description": {
-        "desc": "If no enemies have been defeated for $time seconds, Van Richten's ghost son Erasmus appears. Whenever Van Richten attacks, Erasmus quickly moves to the target he will attack and curses all enemies in a small area, causing all attacks against them to deal $amount% more damage. This is increased by $amount___2% for each Triumph stack Van Richten has, stacking multiplicatively. Erasmus disappears when changing areas."
+        "desc": "If no enemies have been defeated for $time seconds, Van Richten's ghost son Erasmus appears. Whenever Van Richten attacks, Erasmus quickly moves to the target he will attack and curses all enemies in a small area, causing all attacks against them to deal $(amount)% more damage. This is increased by $amount___3% for each Triumph stack Van Richten has, stacking multiplicatively. Erasmus disappears when changing areas."
     },
     "effect_keys": [
         {
-            "effect_string": "richten_watched_by_erasmus,100",
+            "effect_string": "base_amount,100"
+        },
+        {
+            "effect_string": "richten_watched_by_erasmus,0",
+            "amount_expr": "upgrade_amount(19699,0)",
             "debuff_effects": [
                 {
                     "effect_string": "increase_monster_damage,100"
@@ -458,23 +467,25 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
             },
             "time": 3,
             "wave_x_offset": 15,
-            "wave_y_offset": -65
+            "wave_y_offset": -65,
+            "show_bonus": true
         },
         {
             "effect_string": "pre_stack,20"
         },
         {
             "off_when_benched": true,
-            "effect_string": "buff_upgrade,0,19699",
-            "amount_expr": "upgrade_amount(19699,1)",
+            "effect_string": "buff_upgrade,1,19699,1",
+            "amount_expr": "upgrade_amount(19699,2)",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "post_process_expr": "GetUpgradeStacks(19698,1)",
             "listen_for_computed_changes": true,
             "max_stacks": 100,
             "stacks_multiply": true,
-            "show_bonus": true,
             "stack_title": "Triumph Stacks",
+            "total_title": "Triumph Bonus",
+            "show_bonus": true,
             "amount_updated_listeners": [
                 "favored_foe_killed",
                 "stacks_changed"
@@ -520,12 +531,8 @@ Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
     "graphic_id": 29205,
     "large_graphic_id": 29205,
     "properties": {
-        "is_formation_ability": true,
         "show_incoming": false,
-        "formation_circle_icon": false,
-        "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "formation_circle_icon": false
     }
 }
 </pre>
