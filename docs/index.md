@@ -237,14 +237,14 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Tiefling Warlock of Oxventurers Guild</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Ahghairon's Day - 5 August 2026</span>
+                <span class="indexChampionTableNoLink">Ahghairon's Day - Delayed until 12 August 2026</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️
+            Rework ♻️
         </span>
     </span>
 {::nomarkdown}
@@ -464,9 +464,12 @@ These are the upcoming new and reworked champions and where they'll be found.
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Tiefling Warlock of Oxventurers Guild</span>
             </span>
+            <span class="indexChampionTableEvent">
+                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 12 August 2026</span>
+            </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️
+            Rework ♻️
         </span>
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)

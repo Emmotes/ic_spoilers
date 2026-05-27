@@ -17,7 +17,7 @@ The least ethical of the Oxventure crew, Prudence is a grumpy, power-hungry Tief
 
 # Changes
 
-Prudence will be a reworked champion in the Ahghairon's Day event on 5 August 2026.
+Prudence will be a reworked champion in the Ahghairon's Day event and delayed until 12 August 2026.
 
 Only abilities that have seen some changes will be displayed here - and be aware that there's a lot of guesswork involved. Some abilities may not have names - some may have the *wrong* names - or specialisations might not be marked as such - etc.. Focus on the effect data itself.
 
