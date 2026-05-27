@@ -8,6 +8,26 @@ We know it will let players unlock rooms to gain access to some game systems - s
 
 The assumption is that this will be some kind of new-player onboarding system.
 
+# Tutorial Texts
+
+## State #1
+> The Innkeeper was so grateful that we saved his Inn that he's given us use of his old family Bastion. This will be a good base of operations for our adventures together in the future.
+
+## State #2
+> You can explore the rooms in the Bastion by selecting them. Right now we've got the Guild Hall, Tavern, and Treasure Room unlocked. Existing rooms can be upgraded and new rooms can be unlocked over time. Look here, the Shop can be unlocked right now.
+
+## State #3
+> Great. Ye can now access the shop anytime ye want to. Other rooms will become available as you play, but you can explore them now to see what you'll need to do to unlock them, and what they do for you once they're unlocked.
+
+## State #4
+> Let's check out the upgrades for the Guild Hall.
+
+## State #5
+> Ah! You need to complete four unique adventures, and then you'll be able to upgrade the Guild Hall and unlock a new Campaign or two! Sounds easy enough.
+
+## State #6
+> You can look around a bit, but once you're ready to get back to smashing things, click on the Campaign Map on the table here to pick your next adventure.
+
 # Trophies
 
 Five new Patron shop items were added - one for each patron.
@@ -136,6 +156,22 @@ Some graphics were found that had the format `Bastion/Rooms/Tavern/...`:
 
 Some graphics were found that had the format `Bastion/Rooms/Tradehall/...`:
 
+> [bastion_tradehall_doodad_arrows.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_arrows.png){:target="_blank"}  
+> [bastion_tradehall_doodad_banner.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_banner.png){:target="_blank"}  
+> [bastion_tradehall_doodad_boxes1.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_boxes1.png){:target="_blank"}  
+> [bastion_tradehall_doodad_boxes2.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_boxes2.png){:target="_blank"}  
+> [bastion_tradehall_doodad_boxes3.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_boxes3.png){:target="_blank"}  
+> [bastion_tradehall_doodad_candellamp.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_candellamp.png){:target="_blank"}  
+> [bastion_tradehall_doodad_carpet.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_carpet.png){:target="_blank"}  
+> [bastion_tradehall_doodad_changerooms.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_changerooms.png){:target="_blank"}  
+> [bastion_tradehall_doodad_chest1.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_chest1.png){:target="_blank"}  
+> [bastion_tradehall_doodad_chest2.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_chest2.png){:target="_blank"}  
+> [bastion_tradehall_doodad_chest3.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_chest3.png){:target="_blank"}  
+> [bastion_tradehall_doodad_clothingrack.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_clothingrack.png){:target="_blank"}  
+> [bastion_tradehall_doodad_crates.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_crates.png){:target="_blank"}  
+> [bastion_tradehall_doodad_masktable.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_masktable.png){:target="_blank"}  
+> [bastion_tradehall_doodad_mirror.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_mirror.png){:target="_blank"}  
+> [bastion_tradehall_doodad_petpodiums.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_petpodiums.png){:target="_blank"}  
 > [bastion_tradehall_doodad_pillow.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_pillow.png){:target="_blank"}  
 > [bastion_tradehall_doodad_scrolls.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_scrolls.png){:target="_blank"}  
 > [bastion_tradehall_doodad_shelf1.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shelf1.png){:target="_blank"}  
@@ -161,6 +197,7 @@ Some graphics were found that had the format `Bastion/Rooms/Tradehall/...`:
 > [bastion_tradehall_floor_door.png](images/bastion/rooms/tradehall/bastion_tradehall_floor_door.png){:target="_blank"}  
 > [bastion_tradehall_floor_floortile.png](images/bastion/rooms/tradehall/bastion_tradehall_floor_floortile.png){:target="_blank"}  
 > [bastion_tradehall_floor_stonecircle.png](images/bastion/rooms/tradehall/bastion_tradehall_floor_stonecircle.png){:target="_blank"}  
+> [bastion_tradehall_general_backwallgradient.png](images/bastion/rooms/tradehall/bastion_tradehall_general_backwallgradient.png){:target="_blank"}  
 > [bastion_tradehall_wall_frontwallpanel.png](images/bastion/rooms/tradehall/bastion_tradehall_wall_frontwallpanel.png){:target="_blank"}  
 > [bastion_tradehall_wall_panel.png](images/bastion/rooms/tradehall/bastion_tradehall_wall_panel.png){:target="_blank"}  
 > [bastion_tradehall_wall_sidewallfront.png](images/bastion/rooms/tradehall/bastion_tradehall_wall_sidewallfront.png){:target="_blank"}  
