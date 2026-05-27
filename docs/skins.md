@@ -9,7 +9,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Summer Court Lazaapz Portrait](images/skin_portraits/summercourtlazaapz.png)<span class="featTooltipContents">ID: 706**Summer Court Lazaapz (Lazaapz)**<img src="images/skin_models/summercourtlazaapz.webp" alt="Summer Court Lazaapz Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Summer Court Lazaapz Portrait](images/skin_portraits/summercourtlazaapz.png)<span class="featTooltipContents">ID: 701**Summer Court Lazaapz (Lazaapz)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/summercourtlazaapz.webp" alt="Summer Court Lazaapz Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/summercourtlazaapz-drone_graphic.webp" alt="Summer Court Lazaapz Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Summer Court Lazaapz

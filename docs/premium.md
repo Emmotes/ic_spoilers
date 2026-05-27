@@ -244,20 +244,20 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Directed T Component (1 out) Modron Pipe Portrait](images/premiums/modron_tile_126.svg)<span class="itemTooltipContents">ID: 126**Directed T Component (1 out)**</span></span>
+            <span class="tooltipHolder">![Directed T Component (2 out) Modron Pipe Portrait](images/premiums/modron_tile_128.svg)<span class="itemTooltipContents">ID: 128**Directed T Component (2 out)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Modron Pipe**</span>
-            <span style="margin-left:15px">Directed T Component (1 out)</span>
+            <span style="margin-left:15px">Directed T Component (2 out)</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Directed Cross Component (1 out) Modron Pipe Portrait](images/premiums/modron_tile_168.svg)<span class="itemTooltipContents">ID: 168**Directed Cross Component (1 out)**</span></span>
+            <span class="tooltipHolder">![Directed Cross Component (2 out) Modron Pipe Portrait](images/premiums/modron_tile_163.svg)<span class="itemTooltipContents">ID: 163**Directed Cross Component (2 out)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Modron Pipe**</span>
-            <span style="margin-left:15px">Directed Cross Component (1 out)</span>
+            <span style="margin-left:15px">Directed Cross Component (2 out)</span>
         </span>
     </span>
 </span>
@@ -495,12 +495,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2632**Feat**???: 2632</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor</span>
+            <span style="margin-left:15px">???: 2632</span>
         </span>
     </span>
     <span class="premiumsTableItem">

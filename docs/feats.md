@@ -152,7 +152,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Strongheart</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2608**Wings of Platinum (Strongheart)**With valor in heart and Steel in hand, I give my all to protect this world and all things good!<code>todo<br>DevNote: All Specs Epic Feat</code></span>Wings of Platinum
+            ![Wings of Platinum Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2608**Wings of Platinum (Strongheart)**With valor in heart and Steel in hand, I give my all to protect this world and all things good!<code>todo<br>DevNote: All Specs Epic Feat</code></span>Wings of Platinum
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -162,6 +162,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">24 Jun 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lae'zel</span>
+        </span>
+        <span class="featTableIcon5">
+            ![LF Icon](images/featicons/laezel.png)<span class="featTooltipContents">ID: 2699**LF (Lae'zel)**LF<br><br><span style="color:var(--Flavescent)">DMG Boast 60%.</span><code>effect_def,2791</code></span>LF
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">DMG Boast 60%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">$0.00</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Jul 2026</span>
         </span>
     </span>
     <span class="featTableRow">
