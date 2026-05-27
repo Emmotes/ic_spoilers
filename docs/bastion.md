@@ -10,22 +10,22 @@ The assumption is that this will be some kind of new-player onboarding system.
 
 # Tutorial Texts
 
-## State #1
+### State #1
 > The Innkeeper was so grateful that we saved his Inn that he's given us use of his old family Bastion. This will be a good base of operations for our adventures together in the future.
 
-## State #2
+### State #2
 > You can explore the rooms in the Bastion by selecting them. Right now we've got the Guild Hall, Tavern, and Treasure Room unlocked. Existing rooms can be upgraded and new rooms can be unlocked over time. Look here, the Shop can be unlocked right now.
 
-## State #3
+### State #3
 > Great. Ye can now access the shop anytime ye want to. Other rooms will become available as you play, but you can explore them now to see what you'll need to do to unlock them, and what they do for you once they're unlocked.
 
-## State #4
+### State #4
 > Let's check out the upgrades for the Guild Hall.
 
-## State #5
+### State #5
 > Ah! You need to complete four unique adventures, and then you'll be able to upgrade the Guild Hall and unlock a new Campaign or two! Sounds easy enough.
 
-## State #6
+### State #6
 > You can look around a bit, but once you're ready to get back to smashing things, click on the Campaign Map on the table here to pick your next adventure.
 
 # Trophies
