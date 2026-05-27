@@ -9,23 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Thayan Knight Tess Portrait](images/skin_portraits/thayanknighttess.png)<span class="featTooltipContents">ID: 694**Thayan Knight Tess (Tess)**<img src="images/skin_models/thayanknighttess.webp" alt="Thayan Knight Tess Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Thayan Knight Tess
-        </span>
-        <span class="skinTableSource">
-            Adventure: Team Up
-        </span>
-        <span class="skinTableCost">
-            Free
-        </span>
-        <span class="skinTableDate">
-            27 May 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Summer Court Lazaapz Portrait](images/skin_portraits/summercourtlazaapz.png)<span class="featTooltipContents">ID: 706**Summer Court Lazaapz (Lazaapz)**<img src="images/skin_models/summercourtlazaapz.webp" alt="Summer Court Lazaapz Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -77,7 +60,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 697**Fey Touched Brother Uriah (Y4E15)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 697**Fey Touched Brother Uriah (Y4E15)**<img src="images/skin_models/feytouchedbrotheruriah.webp" alt="Fey Touched Brother Uriah Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
         </span>
         <span class="skinTableName">
             Fey Touched Brother Uriah
