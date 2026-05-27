@@ -1815,7 +1815,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Very Important Person Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1424**Very Important Person (Valentine)**I had to put in an appearance.<br><br><span style="color:var(--Flavescent)">Increases the effect of Valentine's Socialite ability by 80%.</span><code>buff_upgrade,80,8147</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Very Important Person Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1424**Very Important Person (Valentine)**I had to put in an appearance.<br><br><span style="color:var(--Flavescent)">Increases the effect of Valentine's Socialite ability by 80%. (Prestack)</span><code>buff_upgrade,80,8147</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
