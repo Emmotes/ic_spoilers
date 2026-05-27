@@ -222,6 +222,34 @@ A list of champions that will be seeing reworks in upcoming events.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="prudence.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Prudence Portrait Icon](images/prudence/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Prudence
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Tiefling Warlock of Oxventurers Guild</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Ahghairon's Day - 5 August 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 {::nomarkdown}
@@ -417,6 +445,31 @@ These are the upcoming new and reworked champions and where they'll be found.
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="prudence.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Prudence Portrait Icon](images/prudence/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Prudence
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Tiefling Warlock of Oxventurers Guild</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
     </span>
 {::nomarkdown}
