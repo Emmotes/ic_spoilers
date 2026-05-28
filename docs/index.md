@@ -494,7 +494,7 @@ Miscellaneous spoilers with due dates.
 * Court of the Summer Queen (Seasonal Celebration) - 3 June 2026
 * [Dragondown Augments](augments_30.md) - 3 June 2026
 * [XBox Exclusive Giveaway](platform_giveaway_736.md) - 3 June 2026
-* Emergence 16 - 22 July 2026
+* Emergence 16 - 29 July 2026
 * [Bastion](bastion.md) - ???
 * [Trials & Legendaries](trialsLegs.md) - ???
 
