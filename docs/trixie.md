@@ -849,7 +849,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Debilitating Dust** (Guess)
+**Small Pranks** (Guess)
 > Trixie increases the effect of Dancing Lights by 100% for each Small Champion in the formation, stacking multiplicatively. Small Champions are fairy, gnome, goblin, halfling, kender, kobold, and plasmoid Champions.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
@@ -899,7 +899,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Shrinking Dust** (Guess)
+**Tricksy Pixie** (Guess)
 > Every time a Champion other than Trixie attacks, Trixie gains a Trick stack. When Trixie attacks, she expends all her Trick stacks to slow up to that number of random enemies by 50% for 10 seconds. If she has more Trick stacks than there are enemies, then she can use the extra stacks to stun that number of random enemies for 3 seconds. Additionally, one extra Pixie Subordinate attacks for every 5 Trick stacks expended. Trixie can not have more than 50 Trick stacks at once.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -969,7 +969,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Small Pranks** (Guess)
+**Debilitating Dust** (Guess)
 > If Trixie still has Trick stacks left after stunning all enemies on the screen, she uses the extra stacks to increase the damage a random enemy takes by 100% for 5 seconds. These debuffs can apply to the same enemy multiple times and stack multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -1002,7 +1002,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Tricksy Pixie** (Guess)
+**Ultimate Undoing** (Guess)
 > Every time a Champion other than Trixie uses their ultimate ability, Trixie gains a Scheming stack, up to a maximum of 20 stacks. When Trixie uses her ultimate ability, she expends her Scheming stacks to increase the effect of Dancing Lights by 100% per stack, stacking multiplicatively. This buff lasts until the area is changed or until Trixie uses her ultimate again, whichever comes first.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
@@ -1060,7 +1060,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate Undoing** (Guess)
+**Shrinking Dust** (Guess)
 > Champions in the formation slots directly behind Trixie are sprinkled with Shrinking Dust, which reduces them in size by 50% and makes them count as Small for abilities and variant restrictions that care about size. Additionally, all Champions that share a species with any Champion affected by Shrinking Dust are also sprinkled with Shrinking Dust.
 <details><summary><em>Raw Data</em></summary>
 <p>
