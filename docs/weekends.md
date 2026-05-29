@@ -7,49 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/812.png">
-            <span class="weekendTooltipContents">ID: 812**Gold FIREBALL Chest**Loot for: Bruenor, Calliope, Tasslehoff, Laurana and Raistlin<code>"for_crusaders":[1,5,174,175,173]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **FIREBALL**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    29 May 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Raistlin
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tasslehoff.png'">
-                        <span class="weekendTableChampionNameplate">Tasslehoff</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/laurana.png'">
-                        <span class="weekendTableChampionNameplate">Laurana</span>
-                    </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/raistlin.png'">
-                        <span class="weekendTableChampionNameplate">Raistlin</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/815.png">
             <span class="weekendTooltipContents">ID: 815**Gold Fanciful Chest**Loot for: Nayeli, Asharra, Widdle, Ellywick and Trixie<code>"for_crusaders":[3,6,91,83,176]</code></span>
         </span>
