@@ -33,7 +33,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
             <span style="margin-right:4px;">**Seat**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">8</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -41,7 +41,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Fairy (Guess)</span>
+            <span style="margin-left:8px;">Fairy</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -49,7 +49,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Druid</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -57,7 +57,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Support / Debuff / Control (Guess)</span>
+            <span style="margin-left:8px;">Support / Debuff / Control</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -65,7 +65,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
             <span style="margin-right:4px;">**Age**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">19</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -73,7 +73,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Female (Guess)</span>
+            <span style="margin-left:8px;">Female</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -81,7 +81,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Chaotic Neutral</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -89,7 +89,7 @@ Trixie will be a new champion in the Dragondown event on 3 June 2026.
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">-</span>
         </span>
     </span>
 </span>

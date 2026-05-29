@@ -15,7 +15,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Trixie Champion Unlock Portrait](images/premiums/unlock_champion_176.png)<span class="itemTooltipContents">ID: 176**Trixie**<img src="images/premiums/unlock_champion_176.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Trixie Champion Unlock Portrait](images/premiums/unlock_champion_176.png)<span class="itemTooltipContents">ID: 176**Trixie (Seat 8)**<img src="images/premiums/unlock_champion_176.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>

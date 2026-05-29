@@ -34,7 +34,7 @@ These are the event champions that are upcoming and all the information we know 
                 Trixie
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Fairy (Guess)</span>
+                <span class="indexChampionTableNoLink">Fairy Druid</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Dragondown - 3 June 2026</span>
@@ -277,7 +277,7 @@ These are the upcoming new and reworked champions and where they'll be found.
                 Trixie
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Fairy (Guess)</span>
+                <span class="indexChampionTableNoLink">Fairy Druid</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
