@@ -345,6 +345,9 @@ Some graphics were found that had the format `Bastion/Rooms/Treasure/...`:
 > "key": "back_to_your_bastion",  
 > "contents": "Back to your Bastion"
 
+> "key": "bastion_loading_message",  
+> "contents": "Loading your Bastion..."
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
