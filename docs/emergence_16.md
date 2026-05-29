@@ -6,7 +6,7 @@
 
 # Emergence 16
 
-We know the next Emergence event will be Strahd & Zombies and that it will start on 29 July 2026.
+We know the next Emergence event will be Strahd Zombies and that it will start on 29 July 2026.
 
 ### Shop Contents
 
