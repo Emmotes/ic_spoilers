@@ -3002,7 +3002,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heart of Battle Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1814**Heart of Battle (Ravengard)**Let hope strengthen your blades and deliver us victory!<br><br><span style="color:var(--Flavescent)">Ulder Ravengard's Critical Teamwork keeps 40% of its stacks when they would be reset.</span><code>persist_effect_stacks,40,15030</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heart of Battle Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1814**Heart of Battle (Ravengard)**Let hope strengthen your blades and deliver us victory!<br><br><span style="color:var(--Flavescent)">Ravengard's Critical Teamwork keeps 40% of its stacks when they would be reset.</span><code>persist_effect_stacks,40,15030</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
