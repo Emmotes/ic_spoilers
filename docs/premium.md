@@ -84,11 +84,11 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Ulder Ravengard Champion Unlock Portrait](images/premiums/unlock_champion_149.png)<span class="itemTooltipContents">ID: 149**Ulder Ravengard (Seat 8)**<img src="images/premiums/unlock_champion_149.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Ravengard Champion Unlock Portrait](images/premiums/unlock_champion_149.png)<span class="itemTooltipContents">ID: 149**Ravengard (Seat 8)**<img src="images/premiums/unlock_champion_149.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Ulder Ravengard</span>
+            <span style="margin-left:15px">Ravengard</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -132,7 +132,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Duke Ravengard Chest Chest Portrait](images/premiums/chests_569.png)<span class="itemTooltipContents">ID: 569**Platinum Duke Ravengard Chest**Loot for: Ulder Ravengard<code>"for_crusaders":[149]</code></span></span>
+            <span class="tooltipHolder">![Platinum Duke Ravengard Chest Chest Portrait](images/premiums/chests_569.png)<span class="itemTooltipContents">ID: 569**Platinum Duke Ravengard Chest**Loot for: Ravengard<code>"for_crusaders":[149]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
@@ -425,7 +425,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 697**Fey Touched Brother Uriah (Y4E15)**<img src="images/premiums/skin_697.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Fey Touched Brother Uriah Skin Portrait](images/premiums/skin_697.png)<span class="itemTooltipContents">ID: 697**Fey Touched Brother Uriah (Y4E15)**<img src="images/premiums/skin_697.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

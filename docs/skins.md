@@ -60,7 +60,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 697**Fey Touched Brother Uriah (Y4E15)**<img src="images/skin_models/feytouchedbrotheruriah.webp" alt="Fey Touched Brother Uriah Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Fey Touched Brother Uriah Portrait](images/skin_portraits/feytouchedbrotheruriah.png)<span class="featTooltipContents">ID: 697**Fey Touched Brother Uriah (Y4E15)**<img src="images/skin_models/feytouchedbrotheruriah.webp" alt="Fey Touched Brother Uriah Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Fey Touched Brother Uriah

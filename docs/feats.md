@@ -943,10 +943,10 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">Ravengard</span>
         </span>
         <span class="featTableIcon3">
-            ![Spirit of Confidence Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1813**Spirit of Confidence (Ravengard)**One person can change the entire battle.<br><br><span style="color:var(--Flavescent)">Ulder Ravengard's Critical Teamwork keeps 20% of its stacks when they would be reset.</span><code>persist_effect_stacks,20,15030</code></span>Spirit of Confidence
+            ![Spirit of Confidence Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1813**Spirit of Confidence (Ravengard)**One person can change the entire battle.<br><br><span style="color:var(--Flavescent)">Ravengard's Critical Teamwork keeps 20% of its stacks when they would be reset.</span><code>persist_effect_stacks,20,15030</code></span>Spirit of Confidence
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Ulder Ravengard's Critical Teamwork keeps 20% of its stacks when they would be reset.</span>
+            <span class="featTableInner">Ravengard's Critical Teamwork keeps 20% of its stacks when they would be reset.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
