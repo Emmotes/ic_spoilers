@@ -7,40 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Root the Korred Portrait](images/familiars/rootthekorred.png)<span class="featTooltipContents">ID: 325**Root the Korred**Jeweler of the Queen, Queen of the Jewelers.<img src="images/familiars/rootthekorred.webp" alt="Root the Korred Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Root the Korred
-        </span>
-        <span class="skinTableSource">
-            Root the Korred Familiar & Modron Pack
-        </span>
-        <span class="skinTableCost">
-            2,380p
-        </span>
-        <span class="skinTableDate">
-            03 Jun 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Vex the Tressym Portrait](images/familiars/vexthetressym.png)<span class="featTooltipContents">ID: 324**Vex the Tressym**That is not your chair; that is my throne.<img src="images/familiars/vexthetressym.webp" alt="Vex the Tressym Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Vex the Tressym
-        </span>
-        <span class="skinTableSource">
-            Summer Court Trixie Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            03 Jun 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Iridescent Wynling Portrait](images/familiars/iridescentwynling.png)<span class="featTooltipContents">ID: 326**Iridescent Wynling**Playful and mischievous, wynlings defend mountain heights, alpine vales, and sometimes even summer courts against trespassers.<img src="images/familiars/iridescentwynling.webp" alt="Iridescent Wynling Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

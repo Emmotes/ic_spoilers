@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Summer Court Lazaapz Portrait](images/skin_portraits/summercourtlazaapz.png)<span class="featTooltipContents">ID: 701**Summer Court Lazaapz (Lazaapz)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/summercourtlazaapz.webp" alt="Summer Court Lazaapz Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/summercourtlazaapz-drone_graphic.webp" alt="Summer Court Lazaapz Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Summer Court Lazaapz
-        </span>
-        <span class="skinTableSource">
-            Court of the Summer Queen Giveaway - Summer Celebration
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            03 Jun 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Summer Court Trixie Portrait](images/skin_portraits/summercourttrixie.png)<span class="featTooltipContents">ID: 695**Summer Court Trixie (Trixie)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/summercourttrixie.webp" alt="Summer Court Trixie Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/summercourttrixie-projectile.webp" alt="Summer Court Trixie Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Summer Court Trixie
-        </span>
-        <span class="skinTableSource">
-            Summer Court Trixie Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            03 Jun 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Viscount Ravengard Portrait](images/skin_portraits/viscountravengard.png)<span class="featTooltipContents">ID: 696**Viscount Ravengard (Ravengard)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/viscountravengard.webp" alt="Viscount Ravengard Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/viscountravengard-enflamed.webp" alt="Viscount Ravengard Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Viscount Ravengard
-        </span>
-        <span class="skinTableSource">
-            Viscount Ravengard Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            03 Jun 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Fey Touched Brother Uriah Portrait](images/skin_portraits/feytouchedbrotheruriah.png)<span class="featTooltipContents">ID: 697**Fey Touched Brother Uriah (Uriah)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/feytouchedbrotheruriah.webp" alt="Fey Touched Brother Uriah Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/feytouchedbrotheruriah-azalin.webp" alt="Fey Touched Brother Uriah Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">

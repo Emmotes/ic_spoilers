@@ -30,57 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Lazaapz</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Emergency Protocol Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1947**Emergency Protocol (Lazaapz)**If I'm going down, I'm taking all of you with me!<br><br><span style="color:var(--Flavescent)">Increases the effect of Lazaapz's Contingency Plan ability by 100%.</span><code>buff_upgrade,100,17481</code></span>Emergency Protocol
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Lazaapz's Contingency Plan ability by 100%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Court of the Summer Queen</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">03 Jun 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Ravengard</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Edge of Hope Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2633**Edge of Hope (Ravengard)**We are canceling the apocalypse!<br><br><span style="color:var(--Flavescent)">Increases the effect of Ravengard's Marshal of the Flaming Fist ability by 80%. (Prestack)</span><code>buff_upgrade,80,15028,0</code></span>Edge of Hope
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Ravengard's Marshal of the Flaming Fist ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">03 Jun 2026<br>03 Sept 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Trixie</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Too Far Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2616**Too Far (Trixie)**It's not my fault that you can't take a joke.<br><br><span style="color:var(--Flavescent)">Increases the effect of Trixie's Small Pranks ability by 80%. (Prestack)</span><code>buff_upgrade,80,19687</code></span>Too Far
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Trixie's Small Pranks ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">03 Jun 2026<br>03 Sept 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Antrius</span>
         </span>
         <span class="featTableIcon4">
