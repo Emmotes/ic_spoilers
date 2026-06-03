@@ -42,6 +42,12 @@ We know from a leak that there is a new dialogue called "Missions of Tiamat". It
 > "key": "upgrading_arcana_chest",  
 > "contents": "Upgrading Arcana chest..."
 
+> "key": "start_mission",  
+> "contents": "Start Mission"
+
+> "key": "arcana",  
+> "contents": "Arcana"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
