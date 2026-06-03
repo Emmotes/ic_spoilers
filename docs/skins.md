@@ -15,7 +15,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             Summer Court Lazaapz
         </span>
         <span class="skinTableSource">
-            Summer Celebration (Guess)
+            Court of the Summer Queen Giveaway - Summer Celebration
         </span>
         <span class="skinTableCost">
             ???
@@ -26,7 +26,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Summer Court Trixie Portrait](images/skin_portraits/summercourttrixie.png)<span class="featTooltipContents">ID: 695**Summer Court Trixie (Trixie)**<img src="images/skin_models/summercourttrixie.webp" alt="Summer Court Trixie Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Summer Court Trixie Portrait](images/skin_portraits/summercourttrixie.png)<span class="featTooltipContents">ID: 695**Summer Court Trixie (Trixie)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/summercourttrixie.webp" alt="Summer Court Trixie Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/summercourttrixie-projectile.webp" alt="Summer Court Trixie Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Summer Court Trixie
@@ -43,7 +43,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Viscount Ravengard Portrait](images/skin_portraits/viscountravengard.png)<span class="featTooltipContents">ID: 696**Viscount Ravengard (Ravengard)**<img src="images/skin_models/viscountravengard.webp" alt="Viscount Ravengard Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Viscount Ravengard Portrait](images/skin_portraits/viscountravengard.png)<span class="featTooltipContents">ID: 696**Viscount Ravengard (Ravengard)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/viscountravengard.webp" alt="Viscount Ravengard Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/viscountravengard-enflamed.webp" alt="Viscount Ravengard Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Viscount Ravengard
@@ -60,7 +60,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Fey Touched Brother Uriah Portrait](images/skin_portraits/feytouchedbrotheruriah.png)<span class="featTooltipContents">ID: 697**Fey Touched Brother Uriah (Y4E15)**<img src="images/skin_models/feytouchedbrotheruriah.webp" alt="Fey Touched Brother Uriah Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Fey Touched Brother Uriah Portrait](images/skin_portraits/feytouchedbrotheruriah.png)<span class="featTooltipContents">ID: 697**Fey Touched Brother Uriah (Uriah)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/feytouchedbrotheruriah.webp" alt="Fey Touched Brother Uriah Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/feytouchedbrotheruriah-azalin.webp" alt="Fey Touched Brother Uriah Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Fey Touched Brother Uriah

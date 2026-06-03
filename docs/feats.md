@@ -39,7 +39,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Increases the effect of Lazaapz's Contingency Plan ability by 100%.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Court of the Summer Queen</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">03 Jun 2026</span>
@@ -50,10 +50,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Ravengard</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2633**Edge of Hope (Ravengard)**</span>Edge of Hope
+            ![Edge of Hope Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2633**Edge of Hope (Ravengard)**We are canceling the apocalypse!<br><br><span style="color:var(--Flavescent)">Increases the effect of Ravengard's Marshal of the Flaming Fist ability by 80%. (Prestack)</span><code>buff_upgrade,80,15028,0</code></span>Edge of Hope
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Ravengard's Marshal of the Flaming Fist ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -64,13 +64,30 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Trixie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Too Far Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2616**Too Far (Trixie)**It's not my fault that you can't take a joke.<br><br><span style="color:var(--Flavescent)">Increases the effect of Trixie's Small Pranks ability by 80%. (Prestack)</span><code>buff_upgrade,80,19687</code></span>Too Far
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Trixie's Small Pranks ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">03 Jun 2026<br>03 Sept 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Antrius</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2634**Prodigal Leader (Antrius)**</span>Prodigal Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2634**Prodigal Leader (Antrius)**There is also a 'T' in both 'Team' and 'Antrius,' and I think that's terrific!<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">All Champions damage +50%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -84,10 +101,27 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">DM</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2636**Standard Affair (DM)**</span>Standard Affair
+            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2636**Standard Affair (DM)**In this fantastical world, you could be anything! ...And yet, so many humans. Hm.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span>Standard Affair
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">17 Jun 2026<br>17 Sept 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Binwin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Slow and Steady Icon](images/featicons/slowandsteady.png)<span class="featTooltipContents">ID: 2412**Slow and Steady (Binwin)**Let's take our time. Really savor it, you know?<br><br><span style="color:var(--Flavescent)">Increases the damage of Binwin by 800%. Increases the cooldown on Binwin's Base Attack by 2 seconds.</span><code>hero_dps_multiplier_mult,800<br>increase_attack_cooldown,2</code></span>Slow and Steady
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of Binwin by 800%. Increases the cooldown on Binwin's Base Attack by 2 seconds.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -101,10 +135,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Ezmerelda</span>
         </span>
         <span class="featTableIcon4">
-            ![Hunter's Legacy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2607**Hunter's Legacy (Ezmerelda)**Van Richten taught me well. Allow me to demonstrate.<code>todo<br>DevNote: All Specs Epic Feat</code></span>Hunter's Legacy
+            ![Hunter's Legacy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2607**Hunter's Legacy (Ezmerelda)**Van Richten taught me well. Allow me to demonstrate.<br><br><span style="color:var(--Flavescent)">Increases the effect of Ezmerelda's Specializations by 80%.</span><code>buff_upgrades,80,15041,15042,15043</code></span>Hunter's Legacy
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Ezmerelda's Specializations by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Tales of the Champions</span>
@@ -118,10 +152,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Ravengard</span>
         </span>
         <span class="featTableIcon4">
-            ![Duty Above All Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2609**Duty Above All (Ravengard)**A good soldier serves by their actions. A great one serves with their heart.<code>todo<br>DevNote: FA3 - Critical Teamwork damage buff (E)</code></span>Duty Above All
+            ![Duty Above All Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2609**Duty Above All (Ravengard)**A good soldier serves by their actions. A great one serves with their heart.<br><br><span style="color:var(--Flavescent)">Increases the effect of Ravengard's Critical Teamwork ability by 80%.</span><code>buff_upgrade,80,15030,0</code></span>Duty Above All
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Ravengard's Critical Teamwork ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Tales of the Champions</span>
@@ -135,10 +169,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Birdsong</span>
         </span>
         <span class="featTableIcon4">
-            ![Teller of Tales Icon](images/featicons/redknight.png)<span class="featTooltipContents">ID: 2610**Teller of Tales (Birdsong)**I have seen much in my time with the Champions. Shall I tell you of our adventures?<code>todo<br>DevNote: NEW EFFECT Birdsong may be used in any The Tales of the Champions adventure or variant when a patron is enabled, even if the patron or variant restrictions would normally restrict her.</code></span>Teller of Tales
+            ![Teller of Tales Icon](images/featicons/redknight.png)<span class="featTooltipContents">ID: 2610**Teller of Tales (Birdsong)**I have seen much in my time with the Champions. Shall I tell you of our adventures?<br><br><span style="color:var(--Flavescent)">Birdsong may be used in any Tales of the Champions campaign adventure when a patron is enabled, regardless of any restrictions.</span><code>force_allow_hero</code></span>Teller of Tales
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Birdsong may be used in any Tales of the Champions campaign adventure when a patron is enabled, regardless of any restrictions.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Tales of the Champions</span>
@@ -166,13 +200,13 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Tess</span>
+            <span class="featTableInner">Nahara</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2583**Tactical Adaptation (Tess)**</span>Tactical Adaptation
+            ![Everlasting Bonds Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2587**Everlasting Bonds (Nahara)**Stand with me now, as I stand with all of you.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nahara's Strong Society ability by 20% for each Black Dice Society affiliation member in the formation, stacking additively.</span><code>effect_def,2795<br>DevNote: blah blah blah</code></span>Everlasting Bonds
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Nahara's Strong Society ability by 20% for each Black Dice Society affiliation member in the formation, stacking additively.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -183,13 +217,64 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Tess</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tactical Adaptation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2583**Tactical Adaptation (Tess)**I've got a plan for that.<br><br><span style="color:var(--Flavescent)">Increases the effect of all of Tess's Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,17321,17322,17323</code></span>Tactical Adaptation
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of all of Tess's Specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jul 2026<br>01 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Strongheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Guided Strike Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 982**Guided Strike (Strongheart)**Altogether now! May our blades strike true!<br><br><span style="color:var(--Flavescent)">Strongheart increases his crit chance by 5% for each adjacent Champion.</span><code>effect_def,2793<br>DevNote: blah blah blah</code></span>Guided Strike
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Strongheart increases his crit chance by 5% for each adjacent Champion.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">08 Jul 2026<br>08 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Vin Ursa</span>
         </span>
         <span class="featTableIcon0">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2697**Guided Strike (Vin Ursa)**Kalix! Get me an opening!</span>Guided Strike
+            ![Guided Strike Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2697**Guided Strike (Vin Ursa)**Kalix! Get me an opening!<br><br><span style="color:var(--Flavescent)">Vin Ursa increases her crit chance by 5% for each adjacent Champion.</span><code>effect_def,2794<br>DevNote: blah blah blah</code></span>Guided Strike
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Vin Ursa increases her crit chance by 5% for each adjacent Champion.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">15 Jul 2026<br>15 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Deekin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Non-Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2696**Non-Standard Affair (Deekin)**Deekin find comfort in others like Deekin.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2608</code></span>Non-Standard Affair
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -203,16 +288,84 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Lae'zel</span>
         </span>
         <span class="featTableIcon5">
-            ![LF Icon](images/featicons/laezel.png)<span class="featTooltipContents">ID: 2699**LF (Lae'zel)**LF<br><br><span style="color:var(--Flavescent)">DMG Boast 60%.</span><code>effect_def,2791</code></span>LF
+            ![Astral-Touched Tadpole Icon](images/featicons/laezel.png)<span class="featTooltipContents">ID: 2699**Astral-Touched Tadpole (Lae'zel)**I can feel them - the might, the vigour, the possibilities...<br><br><span style="color:var(--Flavescent)">DMG Boost 100%.</span><code>effect_def,2791</code></span>Astral-Touched Tadpole
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">DMG Boast 60%.</span>
+            <span class="featTableInner">DMG Boost 100%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">$0.00</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">22 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Kyre</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Blinding Force Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2466**Blinding Force (Kyre)**Know yourself. Know what needs to be done. Know to never hesitate.<br><br><span style="color:var(--Flavescent)">Increases the stun duration to 20 seconds for Stunning Strike.</span><code>change_upgrade_data,18668,0</code></span>Blinding Force
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the stun duration to 20 seconds for Stunning Strike.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Emergence 16</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lucius</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Abrasive Magic Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2534**Abrasive Magic (Lucius)**I do have a tendency to get under people's skin.<br><br><span style="color:var(--Flavescent)">Increases the amount of health segments broken by Armor Eating Acid by 1.</span><code>buff_upgrade,100,19252</code></span>Abrasive Magic
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the amount of health segments broken by Armor Eating Acid by 1.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Emergence 16</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Laurana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2701**Prodigal Leader (Laurana)**I'm not discussing anything. I'm the general. It's my decision. ~Laurana<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +50%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Emergence 16</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Raistlin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Devastating Arcana Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2702**Devastating Arcana (Raistlin)**I don't need you now. I won't need you anymore... ever. Watch! ~Raistlin<br><br><span style="color:var(--Flavescent)">Increases the effect of Raistlin's Debilitating Magic ability by 80%.</span><code>buff_upgrade,80,18931</code></span>Devastating Arcana
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Raistlin's Debilitating Magic ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Emergence 16</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Jul 2026</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -230,6 +383,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">29 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Raistlin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Into Darkness Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2698**Into Darkness (Raistlin)**No, my brother, where I go, you cannot follow. ~Raistlin<br><br><span style="color:var(--Flavescent)">Increases the effect of Raistlin's Savant ability by 80%. (Prestack)</span><code>buff_upgrade,80,18930</code></span>Into Darkness
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Raistlin's Savant ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Jul 2026<br>29 Oct 2026</span>
         </span>
     </span>
 </span>
@@ -447,23 +617,6 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Kyre</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Blinding Force Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2466**Blinding Force (Kyre)**Know yourself. Know what needs to be done. Know to never hesitate.<br><br><span style="color:var(--Flavescent)">Increases the stun duration to 20 seconds for Stunning Strike.</span><code>change_upgrade_data,18668,0</code></span>Blinding Force
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the stun duration to 20 seconds for Stunning Strike.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Eric</span>
         </span>
         <span class="featTableIcon4">
@@ -641,23 +794,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">All Champions damage +100%. Laurana's attacks have a 50% chance to taunt enemies.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Lucius</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Abrasive Magic Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2534**Abrasive Magic (Lucius)**I do have a tendency to get under people's skin.<br><br><span style="color:var(--Flavescent)">Increases the amount of health segments broken by Armor Eating Acid by 1.</span><code>buff_upgrade,100,19252</code></span>Abrasive Magic
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the amount of health segments broken by Armor Eating Acid by 1.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -1457,23 +1593,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the Charisma score of Alyndra by 2.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Binwin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Slow and Steady Icon](images/featicons/slowandsteady.png)<span class="featTooltipContents">ID: 2412**Slow and Steady (Binwin)**Let's take our time. Really savor it, you know?<br><br><span style="color:var(--Flavescent)">Increases the damage of Binwin by 800%. Increases the cooldown on Binwin's Base Attack by 2 seconds.</span><code>hero_dps_multiplier_mult,800<br>increase_attack_cooldown,2</code></span>Slow and Steady
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of Binwin by 800%. Increases the cooldown on Binwin's Base Attack by 2 seconds.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
