@@ -29,20 +29,25 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                 </span>
                 <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nayeli.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/nayeli.png')">
                         <span class="weekendTableChampionNameplate">Nayeli</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 3**Nayeli Goldflower**</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/asharra.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/asharra.png')">
                         <span class="weekendTableChampionNameplate">Asharra</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 6**Asharra**</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/widdle.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/widdle.png')">
                         <span class="weekendTableChampionNameplate">Widdle</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 91**Widdle**</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/ellywick.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/ellywick.png')">
                         <span class="weekendTableChampionNameplate">Ellywick</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 83**Ellywick Tumblestrum**</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/trixie.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/trixie.png')">
                         <span class="weekendTableChampionNameplate">Trixie</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 176**Trixie**</span>
                     </span>
                 </span>
             </span>
@@ -72,20 +77,25 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                 </span>
                 <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/minsc.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/minsc.png')">
                         <span class="weekendTableChampionNameplate">Minsc</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 7**Minsc**</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tyril.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/tyril.png')">
                         <span class="weekendTableChampionNameplate">Tyril</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 10**Tyril Tallguy**</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/nahara.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/nahara.png')">
                         <span class="weekendTableChampionNameplate">Nahara</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 102**Nahara**</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/valentine.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/valentine.png')">
                         <span class="weekendTableChampionNameplate">Valentine</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 103**Valentine**</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/general/unknown.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/general/unknown.png')">
                         <span class="weekendTableChampionNameplate">Y4E15</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 112**???**</span>
                     </span>
                 </span>
             </span>
@@ -115,20 +125,25 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                 </span>
                 <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/celeste.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/celeste.png')">
                         <span class="weekendTableChampionNameplate">Celeste</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 2**Celeste**</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/calliope.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/calliope.png')">
                         <span class="weekendTableChampionNameplate">Calliope</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 5**Calliope**</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/hewmaan.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/hewmaan.png')">
                         <span class="weekendTableChampionNameplate">Hew Maan</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 75**Hew Maan**</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/darkurge.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/darkurge.png')">
                         <span class="weekendTableChampionNameplate">Dark Urge</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 146**The Dark Urge**</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bbeg.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/bbeg.png')">
                         <span class="weekendTableChampionNameplate">BBEG</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 125**Bartholemew Beelzebub Ezekiel Grubbe**</span>
                     </span>
                 </span>
             </span>
@@ -158,20 +173,25 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                 </span>
                 <span class="weekendTableChampions">
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/jarlaxle.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/jarlaxle.png')">
                         <span class="weekendTableChampionNameplate">Jarlaxle</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 4**Jarlaxle Baenre**</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/bruenor.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/bruenor.png')">
                         <span class="weekendTableChampionNameplate">Bruenor</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 1**Bruenor Battlehammer**</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/tasslehoff.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/tasslehoff.png')">
                         <span class="weekendTableChampionNameplate">Tasslehoff</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 174**Tasslehoff Burrfoot**</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/raistlin.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/raistlin.png')">
                         <span class="weekendTableChampionNameplate">Raistlin</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 173**Raistlin Majere**</span>
                     </span>
-                    <span class="weekendTableChampion" style="background-image:url('images/portraits/laurana.png'">
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/laurana.png')">
                         <span class="weekendTableChampionNameplate">Laurana</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 175**Lauralanthalasa Kanan**</span>
                     </span>
                 </span>
             </span>
