@@ -6,7 +6,7 @@ Contents of an upcoming XBox exclusive platform giveaway have been spoiled.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 736</div>
 ### Raistlin's Champions of Renown Pack - $69.99  
-Date of release: 03 June 2026
+Date of release: 24 June 2026
 
 > Xbox Exclusive (Do Not Translate)
 

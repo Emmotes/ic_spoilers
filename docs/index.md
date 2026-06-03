@@ -27,11 +27,11 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Trixie Portrait Icon](images/trixie/portrait.png)
+            ![Trixie the Pixie Portrait Icon](images/trixie/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Trixie
+                Trixie the Pixie
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Fairy Druid</span>
@@ -95,6 +95,9 @@ These are the event champions that are upcoming and all the information we know 
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Ahghairon's Day - 5 August 2026</span>
             </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
@@ -270,11 +273,11 @@ These are the upcoming new and reworked champions and where they'll be found.
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Trixie Portrait Icon](images/trixie/portrait.png)
+            ![Trixie the Pixie Portrait Icon](images/trixie/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Trixie
+                Trixie the Pixie
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Fairy Druid</span>
@@ -446,6 +449,9 @@ These are the upcoming new and reworked champions and where they'll be found.
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
         </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
     </span>
 {::nomarkdown}
 </a>
@@ -493,7 +499,7 @@ Miscellaneous spoilers with due dates.
 
 * Court of the Summer Queen (Seasonal Celebration) - 3 June 2026
 * [Dragondown Augments](augments_30.md) - 3 June 2026
-* [XBox Exclusive Giveaway](platform_giveaway_736.md) - 3 June 2026
+* [XBox Exclusive Giveaway](platform_giveaway_736.md) - 24 June 2026
 * [Emergence 16](emergence_16.md) - 29 July 2026
 * [Bastion](bastion.md) - ???
 * [Trials & Legendaries](trialsLegs.md) - ???
