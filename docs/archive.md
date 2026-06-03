@@ -8,6 +8,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Binwin](archive/binwin.md)
 * [Deekin](archive/deekin.md)
 * [Donaar](archive/donaar.md)
+* [Dragondown Augments](archive/augments_30.md)
 * [Emergence 15](archive/emergence_15.md)
 * [Fleetswake Augments](archive/augments_12.md)
 * [Grand Revel Augments](archive/augments_10.md)
