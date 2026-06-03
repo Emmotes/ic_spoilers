@@ -37,15 +37,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {
         "conditions": [
             {
-                "condition": "upgrade_purchased 2393",
+                "condition": "upgrade_purchased 19714",
                 "desc": "Increases the damage of all Champions by $(amount)% for each enemy killed in this area. Stacks are reduced by 50% when changing areas, rounding down."
             },
             {
-                "condition": "upgrade_purchased 2392",
+                "condition": "upgrade_purchased 19713",
                 "desc": "Increases the damage of adjacent champions and champions in the top or bottom of their column by $(amount)% for each enemy killed in this area. Stacks are reduced by 50% when changing areas, rounding down."
             },
             {
-                "condition": "upgrade_purchased 2391",
+                "condition": "upgrade_purchased 19712",
                 "desc": "Increases the damage of champions up to two slots away by $(amount)% for each enemy killed in this area. Stacks are reduced by 50% when changing areas, rounding down."
             },
             {
@@ -152,6 +152,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "wolfnut,50,215,5784",
+            "contractual_obligations_id": 19710,
             "penpaws_id": 19711,
             "penpaws_inc": 2,
             "penpaws_dec": 4
@@ -378,6 +379,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "is_positional_ability": false,
         "use_outgoing_description": true
     }
 }
