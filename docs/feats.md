@@ -202,7 +202,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
         <span class="featTableChampion">
             <span class="featTableInner">Vin Ursa</span>
         </span>
-        <span class="featTableIcon0">
+        <span class="featTableIcon4">
             ![Guided Strike Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2697**Guided Strike (Vin Ursa)**Kalix! Get me an opening!<br><br><span style="color:var(--Flavescent)">Vin Ursa increases her crit chance by 5% for each adjacent Champion.</span><code>effect_def,2794<br>DevNote: blah blah blah</code></span>Guided Strike
         </span>
         <span class="featTableEffect">

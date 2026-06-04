@@ -910,7 +910,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Guided Strike Feat Portrait](images/featicons/critchanceincrease.png)<span class="itemTooltipContents">ID: 2697**Guided Strike**Kalix! Get me an opening!<br><br><span style="color:var(--Flavescent)">Vin Ursa increases her crit chance by 5% for each adjacent Champion.</span><code>effect_def,2794<br>DevNote: blah blah blah</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Guided Strike Feat Portrait](images/featicons/critchanceincrease.png)<span class="itemTooltipContents">ID: 2697**Guided Strike**Kalix! Get me an opening!<br><br><span style="color:var(--Flavescent)">Vin Ursa increases her crit chance by 5% for each adjacent Champion.</span><code>effect_def,2794<br>DevNote: blah blah blah</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
