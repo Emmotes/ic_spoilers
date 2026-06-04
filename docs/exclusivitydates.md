@@ -38,57 +38,6 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">Deekin</span>
         </span>
         <span class="featTableIcon4">
-            ![Spotlight Performer Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2509**Spotlight Performer (Deekin)**Deekin ready for anything! All eyes on Deekin! DoOoOoOoM!<br><br><span style="color:var(--Flavescent)">Increases the effect of Deekin's Middle of the Action ability by 80%. (Prestack)</span><code>buff_upgrade,80,18859</code></span>Spotlight Performer
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Deekin's Middle of the Action ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">04 Jun 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Gale</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2475**Prodigal Leader (Gale)**Mark my words well. My name will be counted among the greatest wizards of all worlds!<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">04 Jun 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Raistlin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Fate Foretold Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2527**Fate Foretold (Raistlin)**As was foretold, he is the master of both present and past. ~Fizban<br><br><span style="color:var(--Flavescent)">Increases the Base DPS of Raistlin by 400% and changes his alignment to Chaotic Evil.</span><code>hero_dps_multiplier_mult,400<br>change_hero_alignment_tag,chaotic,evil</code></span>Fate Foretold
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the Base DPS of Raistlin by 400% and changes his alignment to Chaotic Evil.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">04 Jun 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Deekin</span>
-        </span>
-        <span class="featTableIcon4">
             ![Story of DOOOOM Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2557**Story of DOOOOM (Deekin)**Doomy doomy doom doom<br><br><span style="color:var(--Flavescent)">Increases the base effect of Deekin's Story of Doom ability by 80%. (Prestack)</span><code>buff_upgrade,80,18855,0</code></span>Story of DOOOOM
         </span>
         <span class="featTableEffect">
