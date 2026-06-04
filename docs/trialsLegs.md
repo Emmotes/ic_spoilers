@@ -42,11 +42,23 @@ We know from a leak that there is a new dialogue called "Missions of Tiamat". It
 > "key": "upgrading_arcana_chest",  
 > "contents": "Upgrading Arcana chest..."
 
+> "key": "missions",  
+> "contents": "Missions"
+
 > "key": "start_mission",  
 > "contents": "Start Mission"
 
 > "key": "arcana",  
 > "contents": "Arcana"
+
+> "key": "no_heroes_for_mission",  
+> "contents": "No Champions available"
+
+> "key": "no_items_for_mission",  
+> "contents": "No Items available"
+
+> "key": "no_arcana_for_mission",  
+> "contents": "No Arcana available"
 
 [Back to Top](#top)
 
