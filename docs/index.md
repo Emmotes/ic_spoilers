@@ -44,7 +44,7 @@ These are the event champions that are upcoming and all the information we know 
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
+            New ⭐<br>Roadmapped 🗺️
         </span>
     </span>
 {::nomarkdown}
@@ -72,7 +72,32 @@ These are the event champions that are upcoming and all the information we know 
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
+            New ⭐<br>Roadmapped 🗺️
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="caramonmajere.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Caramon Majere
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Human Fighter of Heroes of the Lance (Guess)</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Highharvestide - 2 September 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐<br>Roadmapped 🗺️
         </span>
     </span>
 {::nomarkdown}
@@ -135,7 +160,7 @@ A list of champions that will be seeing reworks in upcoming events.
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️
+            Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
     </span>
 {::nomarkdown}
@@ -163,7 +188,7 @@ A list of champions that will be seeing reworks in upcoming events.
             ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️
+            Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
     </span>
 {::nomarkdown}
@@ -191,12 +216,56 @@ A list of champions that will be seeing reworks in upcoming events.
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️
+            Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
     </span>
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![James (Jim) Winifred Darkmagic III Portrait Icon](images/jim/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                James (Jim) Winifred Darkmagic III
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Human Wizard of Acquisitions Incorporated</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Ahghairon's Day - 5 August 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Omin Dran Portrait Icon](images/omin/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Omin Dran
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Half-Elf Cleric of Acquisitions Incorporated</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Ahghairon's Day - 5 August 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+    </span>
 {::nomarkdown}
 <a href="prudence.html">
 {:/nomarkdown}
@@ -212,19 +281,85 @@ A list of champions that will be seeing reworks in upcoming events.
                 <span class="indexChampionTableNoLink">Tiefling Warlock of Oxventurers Guild</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Ahghairon's Day - Delayed until 12 August 2026</span>
+                <span class="indexChampionTableNoLink">Ahghairon's Day - 5 August 2026</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rework ♻️
+            Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
     </span>
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Stoki Portrait Icon](images/stoki/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Stoki
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Gnome Monk</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Highharvestide - 2 September 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Thibbledorf Pwent Portrait Icon](images/pwent/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Thibbledorf Pwent
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Dwarf Barbarian</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Highharvestide - 2 September 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Corazón de Ballena Portrait Icon](images/corazon/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Corazón de Ballena
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Human Rogue of Oxventurers Guild</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Highharvestide - 2 September 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+    </span>
 </span>
 
 {::nomarkdown}
@@ -289,7 +424,7 @@ These are the upcoming new and reworked champions and where they'll be found.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
+            New ⭐<br>Roadmapped 🗺️
         </span>
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
@@ -314,7 +449,7 @@ These are the upcoming new and reworked champions and where they'll be found.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️
+            Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
@@ -339,7 +474,7 @@ These are the upcoming new and reworked champions and where they'll be found.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️
+            Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
@@ -364,7 +499,7 @@ These are the upcoming new and reworked champions and where they'll be found.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️
+            Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
@@ -394,7 +529,7 @@ These are the upcoming new and reworked champions and where they'll be found.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
+            New ⭐<br>Roadmapped 🗺️
         </span>
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
@@ -403,6 +538,44 @@ These are the upcoming new and reworked champions and where they'll be found.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![James (Jim) Winifred Darkmagic III Portrait Icon](images/jim/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                James (Jim) Winifred Darkmagic III
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Human Wizard of Acquisitions Incorporated</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Omin Dran Portrait Icon](images/omin/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Omin Dran
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Half-Elf Cleric of Acquisitions Incorporated</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
 {::nomarkdown}
 <a href="prudence.html">
 {:/nomarkdown}
@@ -417,12 +590,9 @@ These are the upcoming new and reworked champions and where they'll be found.
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Tiefling Warlock of Oxventurers Guild</span>
             </span>
-            <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 12 August 2026</span>
-            </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rework ♻️
+            Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
@@ -431,6 +601,90 @@ These are the upcoming new and reworked champions and where they'll be found.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+</span>
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
+## Highharvestide - 2 September 2026
+<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
+{::nomarkdown}
+<a href="caramonmajere.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Caramon Majere
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Human Fighter of Heroes of the Lance (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐<br>Roadmapped 🗺️
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Stoki Portrait Icon](images/stoki/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Stoki
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Gnome Monk</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Thibbledorf Pwent Portrait Icon](images/pwent/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Thibbledorf Pwent
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Dwarf Barbarian</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Corazón de Ballena Portrait Icon](images/corazon/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Corazón de Ballena
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Human Rogue of Oxventurers Guild</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
 </span>
 </div></div>
 
@@ -445,8 +699,9 @@ These are the upcoming new and reworked champions and where they'll be found.
 Miscellaneous spoilers with due dates.
 
 * [XBox Exclusive Giveaway](platform_giveaway_736.md) - 24 June 2026
+* Legendary Feats - 22 July 2026
 * [Emergence 16](emergence_16.md) - 29 July 2026
-* [Bastion](bastion.md) - ???
+* [Bastion (July TBD)](bastion.md) - ???
 * [Trials & Legendaries](trialsLegs.md) - ???
 
 # Misc
