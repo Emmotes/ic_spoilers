@@ -132,7 +132,7 @@ A list of champions that will be seeing reworks in upcoming events.
             ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rework ♻️
+            Rework ♻️<br>Roadmapped 🗺️
         </span>
     </span>
 {::nomarkdown}
@@ -394,7 +394,7 @@ These are the upcoming new and reworked champions and where they'll be found.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rework ♻️
+            Rework ♻️<br>Roadmapped 🗺️
         </span>
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
