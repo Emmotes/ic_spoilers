@@ -162,7 +162,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 911**Black Chromatic Hew Maan (Hew Maan)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 920**Black Chromatic Hew Maan (Hew Maan)**</span></span>
         </span>
         <span class="skinTableName">
             Black Chromatic Hew Maan
@@ -179,7 +179,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 913**Blue Chromatic Hew Maan (Hew Maan)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 922**Blue Chromatic Hew Maan (Hew Maan)**</span></span>
         </span>
         <span class="skinTableName">
             Blue Chromatic Hew Maan
@@ -196,7 +196,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 910**Green Chromatic Hew Maan (Hew Maan)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 919**Green Chromatic Hew Maan (Hew Maan)**</span></span>
         </span>
         <span class="skinTableName">
             Green Chromatic Hew Maan
@@ -213,7 +213,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 912**Red Chromatic Hew Maan (Hew Maan)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 921**Red Chromatic Hew Maan (Hew Maan)**</span></span>
         </span>
         <span class="skinTableName">
             Red Chromatic Hew Maan
@@ -230,7 +230,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 914**White Chromatic Hew Maan (Hew Maan)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 923**White Chromatic Hew Maan (Hew Maan)**</span></span>
         </span>
         <span class="skinTableName">
             White Chromatic Hew Maan
@@ -247,7 +247,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 906**Black Chromatic Jarlaxle (Jarlaxle)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 915**Black Chromatic Jarlaxle (Jarlaxle)**</span></span>
         </span>
         <span class="skinTableName">
             Black Chromatic Jarlaxle
@@ -264,7 +264,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 908**Blue Chromatic Jarlaxle (Jarlaxle)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 917**Blue Chromatic Jarlaxle (Jarlaxle)**</span></span>
         </span>
         <span class="skinTableName">
             Blue Chromatic Jarlaxle
@@ -281,7 +281,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 905**Green Chromatic Jarlaxle (Jarlaxle)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 914**Green Chromatic Jarlaxle (Jarlaxle)**</span></span>
         </span>
         <span class="skinTableName">
             Green Chromatic Jarlaxle
@@ -298,7 +298,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 907**Red Chromatic Jarlaxle (Jarlaxle)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 916**Red Chromatic Jarlaxle (Jarlaxle)**</span></span>
         </span>
         <span class="skinTableName">
             Red Chromatic Jarlaxle
@@ -315,7 +315,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 909**White Chromatic Jarlaxle (Jarlaxle)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 918**White Chromatic Jarlaxle (Jarlaxle)**</span></span>
         </span>
         <span class="skinTableName">
             White Chromatic Jarlaxle
@@ -328,6 +328,23 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             22 Jul 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 714**Zombie Hunter Drizzt (Drizzt)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Zombie Hunter Drizzt
+        </span>
+        <span class="skinTableSource">
+            Emergence 16
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            29 Jul 2026
         </span>
     </span>
     <span class="skinTableRow">
