@@ -8,6 +8,25 @@ We know it will let players unlock rooms to gain access to some game systems - s
 
 The assumption is that this will be some kind of new-player onboarding system.
 
+# Roadmap Information
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: The roadmap information is taken directly from the [roadmap stream](https://www.twitch.tv/videos/2788712278?t=0h41m30s){:target="_blank"}. Double 'the's and all.*
+
+> A Bastion is a location that belongs to a player character: a home, a stronghold, and a place of power that the character develops over the course of a campaign. ~2025 DMG
+
+* Bastions are a central hub for various systems
+* Includes rooms that you can unlock and upgrade over time.
+  * These rooms path & grant access to the various features and systems of the game in a more explicit manner than currently available.
+* Allows players to immediately get an idea about the the scope/depth of the game without overwhelming them with buttons and dialogs.
+
+### Roadmap Preview Image 1
+
+![Bastion Roadmap Preview Image 1](images/bastion/roadmap1.png)
+
+### Roadmap Preview Image 2
+
+![Bastion Roadmap Preview Image 2](images/bastion/roadmap2.png)
+
 # Tutorial Texts
 
 ### State #1
