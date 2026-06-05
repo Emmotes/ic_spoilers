@@ -289,7 +289,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 700**Summer Court Dungeon Master (DM)**<img src="images/premiums/skin_700.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Summer Court Dungeon Master Skin Portrait](images/premiums/skin_700.png)<span class="itemTooltipContents">ID: 700**Summer Court Dungeon Master (DM)**<img src="images/premiums/skin_700.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -620,7 +620,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 704**Vampire Slayer Tess (Tess)**<img src="images/premiums/skin_704.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Vampire Slayer Tess Skin Portrait](images/premiums/skin_704.png)<span class="itemTooltipContents">ID: 704**Vampire Slayer Tess (Tess)**<img src="images/premiums/skin_704.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -830,7 +830,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 533**Disciple of Cthulhu Deekin (Deekin)**<img src="images/premiums/skin_533.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Disciple of Cthulhu Deekin Skin Portrait](images/premiums/skin_533.png)<span class="itemTooltipContents">ID: 533**Disciple of Cthulhu Deekin (Deekin)**<img src="images/premiums/skin_533.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

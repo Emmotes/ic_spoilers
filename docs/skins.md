@@ -60,7 +60,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 700**Summer Court Dungeon Master (DM)**<img src="images/skin_models/summercourtdungeonmaster.webp" alt="Summer Court Dungeon Master Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Summer Court Dungeon Master Portrait](images/skin_portraits/summercourtdungeonmaster.png)<span class="featTooltipContents">ID: 700**Summer Court Dungeon Master (DM)**<img src="images/skin_models/summercourtdungeonmaster.webp" alt="Summer Court Dungeon Master Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Summer Court Dungeon Master
@@ -111,7 +111,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 704**Vampire Slayer Tess (Tess)**<img src="images/skin_models/vampireslayertess.webp" alt="Vampire Slayer Tess Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Vampire Slayer Tess Portrait](images/skin_portraits/vampireslayertess.png)<span class="featTooltipContents">ID: 704**Vampire Slayer Tess (Tess)**<img src="images/skin_models/vampireslayertess.webp" alt="Vampire Slayer Tess Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Vampire Slayer Tess
@@ -128,7 +128,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 533**Disciple of Cthulhu Deekin (Deekin)**<img src="images/skin_models/discipleofcthulhudeekin.webp" alt="Disciple of Cthulhu Deekin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Disciple of Cthulhu Deekin Portrait](images/skin_portraits/discipleofcthulhudeekin.png)<span class="featTooltipContents">ID: 533**Disciple of Cthulhu Deekin (Deekin)**<img src="images/skin_models/discipleofcthulhudeekin.webp" alt="Disciple of Cthulhu Deekin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Disciple of Cthulhu Deekin
