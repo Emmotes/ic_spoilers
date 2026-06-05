@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/815.png">
-            <span class="weekendTooltipContents">ID: 815**Gold Fanciful Chest**Loot for: Nayeli, Asharra, Widdle, Ellywick and Trixie<code>"for_crusaders":[3,6,91,83,176]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Fanciful**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    05 June 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Trixie
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/nayeli.png')">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 3**Nayeli Goldflower**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/asharra.png')">
-                        <span class="weekendTableChampionNameplate">Asharra</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 6**Asharra**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/widdle.png')">
-                        <span class="weekendTableChampionNameplate">Widdle</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 91**Widdle**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/ellywick.png')">
-                        <span class="weekendTableChampionNameplate">Ellywick</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 83**Ellywick Tumblestrum**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/trixie.png')">
-                        <span class="weekendTableChampionNameplate">Trixie</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 176**Trixie the Pixie**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/816.png">
             <span class="weekendTooltipContents">ID: 816**Gold Rising Darkness Chest**Loot for: Minsc, Tyril, Nahara, Valentine and Y4E15<code>"for_crusaders":[7,10,102,103,112]</code></span>
         </span>
