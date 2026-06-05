@@ -139,6 +139,8 @@ Tales 10 will not unlock any champions.
 
 ## Mastery 1 - 22 July 2026
 
+For Mastery Variants information see the [roadmap twitch stream](https://www.twitch.tv/videos/2788712278?t=0h44m48s).
+
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
         <span class="contentDropsTableIcons">
