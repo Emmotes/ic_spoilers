@@ -5,13 +5,13 @@
 </span>
 {% endcomment %}
 
-# Caramon Majere
+# Caramon
 
 [Caramon Majere - Dragonlace Fandom Wiki](https://dragonlance.fandom.com/wiki/Caramon_Majere){:target="_blank"}
 
 # Basic Information
 
-Caramon Majere will be a new champion in the Highharvestide event on 2 September 2026.
+Caramon will be a new champion in the Highharvestide event on 2 September 2026.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
@@ -85,7 +85,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
 Unknown.
 {% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/caramonmajere/formation.png)
+    ![Formation Layout](images/caramon/formation.png)
 </span>
 {% endcomment %}
 

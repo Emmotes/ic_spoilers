@@ -79,7 +79,7 @@ These are the event champions that are upcoming and all the information we know 
 </a>
 {:/nomarkdown}
 {::nomarkdown}
-<a href="caramonmajere.html">
+<a href="caramon.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
@@ -87,7 +87,7 @@ These are the event champions that are upcoming and all the information we know 
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Caramon Majere
+                Caramon
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Human Fighter of Heroes of the Lance (Guess)</span>
@@ -607,7 +607,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 ## Highharvestide - 2 September 2026
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
 {::nomarkdown}
-<a href="caramonmajere.html">
+<a href="caramon.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
@@ -615,7 +615,7 @@ These are the upcoming new and reworked champions and where they'll be found.
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Caramon Majere
+                Caramon
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Human Fighter of Heroes of the Lance (Guess)</span>
