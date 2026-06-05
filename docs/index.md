@@ -699,7 +699,7 @@ These are the upcoming new and reworked champions and where they'll be found.
 Miscellaneous spoilers with due dates.
 
 * [XBox Exclusive Giveaway](platform_giveaway_736.md) - 24 June 2026
-* Legendary Feats - 22 July 2026
+* [Legendary Feats](legendaryFeats.md) - 22 July 2026
 * [Emergence 16](emergence_16.md) - 29 July 2026
 * [Bastion (July TBD)](bastion.md) - ???
 * [Trials & Legendaries](trialsLegs.md) - ???
