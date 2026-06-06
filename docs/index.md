@@ -19,7 +19,7 @@ Just a collection of most of the currently-known spoilers. It is by no means exh
 
 # New Event Champions
 
-These are the event champions that are upcoming and all the information we know about them.
+These are the new event champions that are upcoming and all the information we know about them.
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
@@ -105,9 +105,10 @@ These are the event champions that are upcoming and all the information we know 
 {:/nomarkdown}
 </span>
 
-# Reworked Champions
+# Reworked & Rebalanced Champions
 
-A list of champions that will be seeing reworks in upcoming events.
+A list of champions that will be seeing reworks or rebalances in upcoming events.  
+Events will have either one rework OR three rebalances.
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
@@ -370,7 +371,8 @@ A list of champions that will be seeing reworks in upcoming events.
 
 # Champions
 
-These are the upcoming new and reworked champions and where they'll be found.
+These are the upcoming new and reworked/rebalanced champions and where they'll be found.  
+Events will have either one rework OR three rebalances.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Dragondown - 3 June 2026
