@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Iridescent Wynling Portrait](images/familiars/iridescentwynling.png)<span class="featTooltipContents">ID: 326**Iridescent Wynling**Playful and mischievous, wynlings defend mountain heights, alpine vales, and sometimes even summer courts against trespassers.<img src="images/familiars/iridescentwynling.webp" alt="Iridescent Wynling Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Iridescent Wynling
-        </span>
-        <span class="skinTableSource">
-            Iridescent Wynling Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            0p
-        </span>
-        <span class="skinTableDate">
-            08 Jun 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Atchoo the Dahlia Portrait](images/familiars/atchoothedahlia.png)<span class="featTooltipContents">ID: 327**Atchoo the Dahlia**Leaf it to me!<img src="images/familiars/atchoothedahlia.webp" alt="Atchoo the Dahlia Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
