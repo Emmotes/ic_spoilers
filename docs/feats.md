@@ -47,6 +47,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Uriah</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Ominous Flock Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2632**Ominous Flock (Uriah)**Do you know what a group of ravens is called? Why do you think that is?<br><br><span style="color:var(--Flavescent)">Increases the effect of Uriah's Raven's Pact ability by 80%. (Prestack)</span><code>buff_upgrade,80,19677</code></span>Ominous Flock
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Uriah's Raven's Pact ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">10 Jun 2026<br>10 Sept 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">DM</span>
         </span>
         <span class="featTableIcon4">
@@ -135,10 +152,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Strongheart</span>
         </span>
         <span class="featTableIcon4">
-            ![Wings of Platinum Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2608**Wings of Platinum (Strongheart)**With valor in heart and Steel in hand, I give my all to protect this world and all things good!<code>todo<br>DevNote: All Specs Epic Feat</code></span>Wings of Platinum
+            ![Wings of Platinum Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2608**Wings of Platinum (Strongheart)**With valor in heart and Steel in hand, I give my all to protect this world and all things good!<br><br><span style="color:var(--Flavescent)">Increase the effect of all Strongheart's specializations by 80%.</span><code>buff_upgrades,80,11740,14715,11742</code></span>Wings of Platinum
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increase the effect of all Strongheart's specializations by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Tales of the Champions</span>
@@ -237,10 +254,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Lae'zel</span>
         </span>
         <span class="featTableIcon5">
-            ![Astral-Touched Tadpole Icon](images/featicons/laezel.png)<span class="featTooltipContents">ID: 2699**Astral-Touched Tadpole (Lae'zel)**I can feel them - the might, the vigour, the possibilities...<br><br><span style="color:var(--Flavescent)">DMG Boost 100%.</span><code>effect_def,2791</code></span>Astral-Touched Tadpole
+            ![Astral-Touched Tadpole Icon](images/featicons/laezel.png)<span class="featTooltipContents">ID: 2699**Astral-Touched Tadpole (Lae'zel)**I can feel them - the might, the vigour, the possibilities...<br><br><span style="color:var(--Flavescent)">Lae'zel adds up the total Strength scores of all the Champions adjacent to her and increases the effect of Lethal Coordination by 100% for every 5 Strength she counts, stacking multiplicatively. If she has at least 100 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,2791</code></span>Astral-Touched Tadpole
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">DMG Boost 100%.</span>
+            <span class="featTableInner">Lae'zel adds up the total Strength scores of all the Champions adjacent to her and increases the effect of Lethal Coordination by 100% for every 5 Strength she counts, stacking multiplicatively. If she has at least 100 stacks, your formation gains one additional Ceremorphosis stack.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">$0.00</span>
@@ -1032,23 +1049,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Ravengard's Critical Teamwork keeps 20% of its stacks when they would be reset.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Uriah</span>
-        </span>
-        <span class="featTableIcon4">
-            ![A Vow Unbroken Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1065**A Vow Unbroken (Uriah)**Beside Nahara, one could say I am a braver man.<br><br><span style="color:var(--Flavescent)">Increases the Constitution score of Uriah by 2.</span><code>increase_ability_score,con,2</code></span>A Vow Unbroken
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the Constitution score of Uriah by 2.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>

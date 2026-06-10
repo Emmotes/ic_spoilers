@@ -15,11 +15,11 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Champion Unlock Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 112**Y4E15**</span></span>
+            <span class="tooltipHolder">![Uriah Champion Unlock Portrait](images/premiums/unlock_champion_119.png)<span class="itemTooltipContents">ID: 119**Uriah (Seat 9)**<img src="images/premiums/unlock_champion_119.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Y4E15</span>
+            <span style="margin-left:15px">Uriah</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2632**Feat**???: 2632</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Ominous Flock Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2632**Ominous Flock**Do you know what a group of ravens is called? Why do you think that is?<br><br><span style="color:var(--Flavescent)">Increases the effect of Uriah's Raven's Pact ability by 80%. (Prestack)</span><code>buff_upgrade,80,19677</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2632</span>
+            <span style="margin-left:15px">Ominous Flock</span>
+            <span style="margin-left:15px">Uriah</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -137,6 +138,47 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum Antrius Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 737</div>
+### From the Vault: Plushie BBEG Skin Pack - 1,000 Platinum  
+Date of release: 13 Jun 2026
+
+> Available till the end of the event - From the Vault: Plushie BBEG
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![BBEG Champion Unlock Portrait](images/premiums/unlock_champion_125.png)<span class="itemTooltipContents">ID: 125**BBEG (Seat 3)**<img src="images/premiums/unlock_champion_125.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">BBEG</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Plushie BBEG Skin Portrait](images/premiums/skin_471.png)<span class="itemTooltipContents">ID: 471**Plushie BBEG (BBEG)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_471.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_471-zombie.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_471-summon_overlay.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Plushie BBEG</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum BBEG Chest Chest Portrait](images/premiums/chests_452.png)<span class="itemTooltipContents">ID: 452**Platinum BBEG Chest**Loot for: BBEG<code>"for_crusaders":[125]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum BBEG Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -235,7 +277,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Summer Court Dungeon Master Skin Portrait](images/premiums/skin_700.png)<span class="itemTooltipContents">ID: 700**Summer Court Dungeon Master (DM)**<img src="images/premiums/skin_700.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Summer Court Dungeon Master Skin Portrait](images/premiums/skin_700.png)<span class="itemTooltipContents">ID: 700**Summer Court Dungeon Master (DM)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_700.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_700-swap.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -297,7 +339,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 328**Baby Chardalyn Titan**The test run of the giant mechanized menace proved too cute to recycle.</span></span>
+            <span class="tooltipHolder">![Baby Chardalyn Titan Familiar Portrait](images/premiums/familiar_328.png)<span class="itemTooltipContents">ID: 328**Baby Chardalyn Titan**The test run of the giant mechanized menace proved too cute to recycle.<img src="images/premiums/familiar_328.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -497,7 +539,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 702**Rictavio Van Richten (Van Richten)**</span></span>
+            <span class="tooltipHolder">![Rictavio Van Richten Skin Portrait](images/premiums/skin_702.png)<span class="itemTooltipContents">ID: 702**Rictavio Van Richten (Van Richten)**<img src="images/premiums/skin_702.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -506,7 +548,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 329**Piccolo the Pet Monkey**Pet of Rictavio, friend of Blinsky, master of chaos.</span></span>
+            <span class="tooltipHolder">![Piccolo the Pet Monkey Familiar Portrait](images/premiums/familiar_329.png)<span class="itemTooltipContents">ID: 329**Piccolo the Pet Monkey**Pet of Rictavio, friend of Blinsky, master of chaos.<img src="images/premiums/familiar_329.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -546,9 +588,80 @@ Contents:
 </div></div>
 
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 727</div>
+### Eldritch Horror Nahara Skin & Feat Pack - 1,680 Platinum  
+Date of release: 01 Jul 2026
+
+> Unlock Nahara along with her exclusive Eldritch Horror Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Nahara Champion Unlock Portrait](images/premiums/unlock_champion_102.png)<span class="itemTooltipContents">ID: 102**Nahara (Seat 3)**<img src="images/premiums/unlock_champion_102.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Nahara</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 703**Eldritch Horror Nahara (Nahara)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Eldritch Horror Nahara</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Everlasting Bonds Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2587**Everlasting Bonds**Stand with me now, as I stand with all of you.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nahara's Strong Society ability by 20% for each Black Dice Society affiliation member in the formation, stacking additively.</span><code>effect_def,2795<br>DevNote: blah blah blah</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Everlasting Bonds</span>
+            <span style="margin-left:15px">Nahara</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Nahara Chest Chest Portrait](images/premiums/chests_361.png)<span class="itemTooltipContents">ID: 361**Platinum Nahara Chest**Loot for: Nahara<code>"for_crusaders":[102]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Nahara Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 728</div>
 ### Vampire Slayer Tess Skin & Feat Pack - 1,680 Platinum  
-Date of release: 08 Jul 2026
+Date of release: 01 Jul 2026
 
 > Unlock Tess along with her exclusive Vampire Slayer Skin & Feat!
 

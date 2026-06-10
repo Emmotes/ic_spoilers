@@ -24,7 +24,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 328**Baby Chardalyn Titan**The test run of the giant mechanized menace proved too cute to recycle.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Baby Chardalyn Titan Portrait](images/familiars/babychardalyntitan.png)<span class="featTooltipContents">ID: 328**Baby Chardalyn Titan**The test run of the giant mechanized menace proved too cute to recycle.<img src="images/familiars/babychardalyntitan.webp" alt="Baby Chardalyn Titan Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Baby Chardalyn Titan
@@ -41,7 +41,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 329**Piccolo the Pet Monkey**Pet of Rictavio, friend of Blinsky, master of chaos.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Piccolo the Pet Monkey Portrait](images/familiars/piccolothepetmonkey.png)<span class="featTooltipContents">ID: 329**Piccolo the Pet Monkey**Pet of Rictavio, friend of Blinsky, master of chaos.<img src="images/familiars/piccolothepetmonkey.webp" alt="Piccolo the Pet Monkey Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Piccolo the Pet Monkey
