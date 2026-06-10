@@ -57,7 +57,7 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">DPS / Support / Gold (Guess)</span>
+            <span style="margin-left:8px;">DPS / Support / Gold / Control (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -104,7 +104,7 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Battleaxe** (Melee)
-> Unknown effect.  
+> Flint attacks the nearest enemy with his trusty battleaxe.  
 > Cooldown: 4s (Cap 1s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -112,8 +112,8 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
 {
     "id": 987,
     "name": "Battleaxe",
-    "description": "",
-    "long_description": "",
+    "description": "Flint hits anything that gets too close with his axe.",
+    "long_description": "Flint attacks the nearest enemy with his trusty battleaxe.",
     "graphic_id": 0,
     "target": "front",
     "num_targets": 1,
@@ -145,7 +145,7 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Cleaving Strike** (Melee)
-> Unknown effect.  
+> Flint cleaves the nearest enemies with his trusty battleaxe.  
 > Cooldown: 4s (Cap 1s)
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -153,22 +153,23 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
 {
     "id": 988,
     "name": "Cleaving Strike",
-    "description": "",
-    "long_description": "",
+    "description": "Flint cleaves anything that gets too close with his axe.",
+    "long_description": "Flint cleaves the nearest enemies with his trusty battleaxe.",
     "graphic_id": 0,
     "target": "front",
     "num_targets": 1,
-    "aoe_radius": 0,
+    "aoe_radius": 150,
     "damage_modifier": 1,
     "cooldown": 4,
     "animations": [
         {
             "type": "melee_attack",
+            "attack_seq": "attack_b",
             "target_offset_x": -34,
-            "damage_frame": 2,
+            "damage_frame": 13,
             "jump_sound": 30,
             "sound_frames": {
-                "2": 154
+                "2": 194
             }
         }
     ],
@@ -186,35 +187,45 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Hammer of Reorx** (Guess)
-> Unknown effect.  
-> Cooldown: 60s (Cap 15s)
+> Flint deals one ultimate hit to a small group of nearby enemies, knocking them far away and stunning them.  
+> Cooldown: 400s (Cap 100s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
     "id": 989,
     "name": "Hammer of Reorx",
-    "description": "",
-    "long_description": "",
+    "description": "Flint deals one ultimate hit to a small group of nearby enemies and knocks them back.",
+    "long_description": "Flint deals one ultimate hit to a small group of nearby enemies, knocking them far away and stunning them.",
     "graphic_id": 29611,
     "target": "front",
     "num_targets": 1,
-    "aoe_radius": 0,
-    "damage_modifier": 0.075,
-    "cooldown": 60,
+    "aoe_radius": 200,
+    "damage_modifier": 0.03,
+    "cooldown": 400,
     "animations": [
         {
             "type": "melee_attack",
-            "target_offset_x": -34,
-            "damage_frame": 38,
-            "hit_frames": [
-                2,
-                20
-            ],
-            "shake_on_hit": 0.1,
-            "sound_frames": {
-                "2": 158
-            }
+            "power_up_sequence": {
+                "start_frame": 0,
+                "end_frame": 13
+            },
+            "sequences": [
+                {
+                    "start_frame": 22,
+                    "end_frame": 62,
+                    "damage_frame": 25,
+                    "target_offset_x": -34,
+                    "effects_on_monsters": [
+                        {
+                            "effect_string": "push_back_monster,1000",
+                            "animation": "hit",
+                            "after_damage": true,
+                            "push_speed": 800
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "tags": [
@@ -292,19 +303,37 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
             "per_hero_targets": [
                 "adj"
             ],
+            "post_process_expr": "as_int(GetFeatEquipped(2712)) + as_int(GetFeatEquipped(2713))*2 + as_int(GetFeatEquipped(2714))*as_int(GetUpgradeStacks(20130,2)) + as_int(GetFeatEquipped(2711))*as_int(IsHeroInFormation(174))*3 + input",
             "per_hero_expr": "true",
             "show_bonus": true,
             "stack_title": "Forged Bonds Stacks",
             "amount_updated_listeners": [
                 "upgrade_unlocked",
                 "slot_changed",
-                "feat_changed"
+                "feat_changed",
+                "hero_tags_changed"
+            ]
+        },
+        {
+            "effect_string": "forged_bonds_dwarf_extra_stacks",
+            "stack_func": "per_hero_attribute",
+            "per_hero_targets": [
+                "adj"
+            ],
+            "per_hero_expr": "HasTag(`dwarf`)",
+            "show_bonus": false,
+            "show_stacks": false,
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed",
+                "feat_changed",
+                "hero_tags_changed"
             ]
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 29596,
+    "large_graphic_id": 29592,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -346,7 +375,9 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
                 "slot_changed",
                 "hero_tags_changed"
             ],
-            "max_resistance_for_description": 90
+            "max_resistance_for_description": 90,
+            "retarget_when_any_hero_slot_changed": true,
+            "retarget_when_any_hero_tags_changed": true
         },
         {
             "effect_string": "reduce_incoming_damage_percent,0",
@@ -354,12 +385,18 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
             "amount_expr": "upgrade_amount(20131,0)",
             "targets": [
                 "all"
-            ]
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "retarget_when_any_hero_slot_changed": true,
+            "retarget_when_any_hero_tags_changed": true
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 29598,
+    "large_graphic_id": 29594,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -410,8 +447,8 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 29597,
+    "large_graphic_id": 29593,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -425,7 +462,7 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Take the Initiative** (Guess)
-> Until he takes damage in an area, Flint gains an Initiative stack whenever he attacks an enemy. Once he has taken damage, Flint gains Follow-Through stacks when he attacks instead. The damage of Forged Bonds is increased by $amount% for each Follow-Through stack he has, stacking multiplicatively. The number of Follow-Through stacks can not exceed the number of Initiative stacks he has gained, and Initiative caps at $amount stacks. Both stacks reset when changing areas or when Flint is moved in the formation or removed from it.
+> Until he takes damage in an area, Flint gains an Initiative stack whenever he attacks an enemy. Once he has taken damage, Flint gains Follow-Through stacks when he attacks instead. The damage of Forged Bonds is increased by 100% for each Follow-Through stack he has, stacking multiplicatively. The number of Follow-Through stacks can not exceed the number of Initiative stacks he has gained, and Initiative caps at 100 stacks. Both stacks reset when changing areas or when Flint is moved in the formation or removed from it.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -433,13 +470,15 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
     "id": 2800,
     "flavour_text": "",
     "description": {
-        "desc": "Until he takes damage in an area, Flint gains an Initiative stack whenever he attacks an enemy. Once he has taken damage, Flint gains Follow-Through stacks when he attacks instead. The damage of Forged Bonds is increased by $amount% for each Follow-Through stack he has, stacking multiplicatively. The number of Follow-Through stacks can not exceed the number of Initiative stacks he has gained, and Initiative caps at $amount stacks. Both stacks reset when changing areas or when Flint is moved in the formation or removed from it."
+        "desc": "Until he takes damage in an area, Flint gains $(if feat_assigned 2717)$stacks_per_hit Initiative stacks$(else)an Initiative stack$(fi) whenever he attacks an enemy. Once he has taken damage, Flint gains Follow-Through stacks when he attacks instead. The damage of Forged Bonds is increased by $amount___3% for each Follow-Through stack he has, stacking multiplicatively. The number of Follow-Through stacks can not exceed the number of Initiative stacks he has gained, and Initiative caps at $max_stacks___2 stacks. Both stacks reset when changing areas or when Flint is moved in the formation or removed from it."
     },
     "effect_keys": [
         {
             "effect_string": "flint_take_the_initiative_handler",
+            "off_when_benched": true,
             "initiative_index": 1,
-            "follow_through_index": 2
+            "follow_through_index": 2,
+            "stacks_per_hit": 1
         },
         {
             "effect_string": "do_nothing,0",
@@ -447,6 +486,7 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
             "stacks_on_trigger": "will_stack_manually",
             "stacks_multiply": false,
             "show_stacks": true,
+            "max_stacks": 100,
             "stack_title": "Initiative Stacks"
         },
         {
@@ -459,8 +499,8 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 29599,
+    "large_graphic_id": 29595,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -480,7 +520,9 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Fatherly Advice** (Guess)
-> Increase the effect of Flint's Forged Bonds by $amount% for each Champion in the formation who is 40 years old or younger, stacking multiplicatively.
+> Increase the effect of Flint's Forged Bonds by 100% for each Champion in the formation who is 40 years old or younger, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -492,12 +534,26 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "pre_stack,100",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,20130,1",
+            "off_when_benched": true,
+            "amount_expr": "upgrade_amount(20134,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "age<=40",
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "feat_changed"
+            ]
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 29602,
+    "large_graphic_id": 29602,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -505,7 +561,8 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "retain_on_slot_changed": true
+        "retain_on_slot_changed": true,
+        "spec_option_post_apply_info": "Age 40 or lower Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -515,7 +572,9 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Forged in War** (Guess)
-> Increase the effect of Flint's Forged Bonds by $amount% for each Heroes of the Lance Champion in the formation, stacking multiplicatively.
+> Increase the effect of Flint's Forged Bonds by 100% for each Heroes of the Lance Champion in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -527,12 +586,26 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "pre_stack,100",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,20130,1",
+            "off_when_benched": true,
+            "amount_expr": "upgrade_amount(20135,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`heroeslance`)",
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 29604,
+    "large_graphic_id": 29604,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -540,7 +613,8 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "retain_on_slot_changed": true
+        "retain_on_slot_changed": true,
+        "spec_option_post_apply_info": "Heroes of the Lance Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -550,7 +624,9 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Blood of Reorx** (Guess)
-> Increase the effect of Flint's Forged Bonds by $amount% for each dwarf in the formation, stacking multiplicatively.
+> Increase the effect of Flint's Forged Bonds by 100% for each dwarf in the formation, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -562,15 +638,35 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "pre_stack,100",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,20130,1",
+            "off_when_benched": true,
+            "amount_expr": "upgrade_amount(20136,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`dwarf`)",
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ]
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 29600,
+    "large_graphic_id": 29600,
     "properties": {
         "is_formation_ability": true,
-        "show_in_owner_outgoing": true
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true,
+        "spec_option_post_apply_info": "Dwarf Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -580,7 +676,7 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Craft Maker** (Guess)
-> Flint gains the Gold role and the party's Gold Find is increased proportionally based upon the max health of enemies in the current area. For each order of magnitude of max health the enemies have, the party's Gold Find is increased by $amount%, stacking multiplicatively.
+> Flint gains the Gold role and the party's Gold Find is increased proportionally based upon the max health of enemies in the current area. For each order of magnitude of max health the enemies have, the party's Gold Find is increased by 15%, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -592,15 +688,30 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "off_when_benched": true,
+            "effect_string": "gold_multiplier_mult,15",
+            "stack_title": "Enemy Health Order of Magnitude",
+            "amount_func": "mult",
+            "stack_func": "per_monster_health_order_of_magnitude",
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "area_changed"
+            ]
+        },
+        {
+            "effect_string": "add_hero_tags,0,gold"
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 29601,
+    "large_graphic_id": 29601,
     "properties": {
         "is_formation_ability": true,
-        "show_in_owner_outgoing": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -622,14 +733,30 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "add_hero_tags,0,breaking",
+            "skip_effect_key_desc": true
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "increase_damage_against_monster_armor_and_hits_and_critshield,1",
+            "override_key_desc": "$(target)'s attacks removes an extra segment from enemies with segmented, armored, or critical health.",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasEffectByID(2797)"
+                }
+            ]
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 29603,
+    "large_graphic_id": 29603,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
         "show_in_owner_outgoing": true
     }
 }
@@ -640,7 +767,7 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Life Taker** (Guess)
-> Flint gains the DPS role and increases his own damage by $amount% for each Forged Bonds stack he has, stacking multiplicatively. His base attack also gains a small cleave.
+> Flint gains the DPS role and increases his own damage by 10000% for each Forged Bonds stack he has, stacking multiplicatively. His base attack also gains a small cleave.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -652,15 +779,43 @@ Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "do_nothing,10000",
+            "off_when_benched": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "as_int(GetUpgradeStacks(20130, 1))",
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ]
+        },
+        {
+            "effect_string": "hero_dps_multiplier_mult,0",
+            "off_when_benched": true,
+            "amount_expr": "upgrade_amount(20139,0)",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "add_hero_tags,0,dps",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "change_base_attack,988",
+            "skip_effect_key_desc": true
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 29605,
+    "large_graphic_id": 29605,
     "properties": {
         "is_formation_ability": true,
-        "show_in_owner_outgoing": true
+        "owner_use_outgoing_description": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -744,16 +899,27 @@ Unknown.
 > Help Laeral Silverhand track down a retired Open Lord.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: Variant 1** (Complete Area 75)
-> 
+**Variant 1: Forging Ahead** (Complete Area 75)
+> Flint starts in the formation. He can be moved, but not removed.   
+> Only champions in Flint's column and the column behind him can deal damage.   
+> Some pesky draconians spawn with each wave. They don't drop gold nor count towards quest progress.  
+> <b>Getting to Know Flint:</b> Flint's Forged Bonds ability only applies to Champions in his column and the one behind him. Put your main damage dealer in either of those columns!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: Variant 2** (Complete Area 125)
-> 
+**Variant 2: Road to Qualinesti** (Complete Area 125)
+> Flint starts in the formation. He can be moved, but not removed.   
+> An elf bard interested in securing Flint's service as a master craftsman joins the formation. If Flint is ever not adjacent to this elf, all Champion damage is set to 0.   
+> Only Champions who are dwarves, members of the Heroes of the Lance affiliation, and those of age 40 or younger may be used.  
+> <b>Getting to Know Flint:</b> Flint's first specialization lets you choose a group of Champions to further enhance his Forged Bonds ability. Which group best suits your needs?
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: Variant 3** (Complete Area 175)
-> 
+**Variant 3: First Strike** (Complete Area 175)
+> Flint starts in the formation. He cannot be moved, nor removed.   
+> Other than Flint, only Tasslehoff and Champions with the Control role may be used.   
+> Enemies move twice as fast, but the effect of knockbacks are increased by 200%.   
+> If Tasslehoff is in the formation, Flint's Ultimate cooldown is reduced by 50%.   
+> In each boss area, a young blue dragon spawns as part of the first wave. It must also be defeated to progress.  
+> <b>Getting to Know Flint:</b> Flint's Take the Initiative ability grows stronger as he attacks enemies until he takes damage, then empowers his Forged Bonds ability with each subsequent attack he makes . Use Champions who can disrupt the enemy's advance to help Flint reach his full potential!
 </div></div>
 
 # Other Champion Images
