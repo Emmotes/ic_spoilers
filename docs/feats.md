@@ -254,10 +254,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Lae'zel</span>
         </span>
         <span class="featTableIcon5">
-            ![Astral-Touched Tadpole Icon](images/featicons/laezel.png)<span class="featTooltipContents">ID: 2699**Astral-Touched Tadpole (Lae'zel)**I can feel them - the might, the vigour, the possibilities...<br><br><span style="color:var(--Flavescent)">Lae'zel adds up the total Strength scores of all the Champions adjacent to her and increases the effect of Lethal Coordination by 100% for every 5 Strength she counts, stacking multiplicatively. If she has at least 100 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,2791</code></span>Astral-Touched Tadpole
+            ![Astral-Touched Tadpole Icon](images/featicons/laezel.png)<span class="featTooltipContents">ID: 2699**Astral-Touched Tadpole (Lae'zel)**I can feel them - the might, the vigour, the possibilities...<br><br><span style="color:var(--Flavescent)">Lae'zel adds up the total Strength scores of all the Champions adjacent to her and increases the effect of Lethal Coordination by 100% for every 5 Strength she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,2791</code></span>Astral-Touched Tadpole
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Lae'zel adds up the total Strength scores of all the Champions adjacent to her and increases the effect of Lethal Coordination by 100% for every 5 Strength she counts, stacking multiplicatively. If she has at least 100 stacks, your formation gains one additional Ceremorphosis stack.</span>
+            <span class="featTableInner">Lae'zel adds up the total Strength scores of all the Champions adjacent to her and increases the effect of Lethal Coordination by 100% for every 5 Strength she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">$0.00</span>
