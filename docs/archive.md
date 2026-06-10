@@ -21,6 +21,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Tasslehoff Burrfoot](archive/tasslehoff.md)
 * [The Great Modron March Augments](archive/augments_26.md)
 * [Trixie the Pixie](archive/trixie.md)
+* [Uriah](archive/uriah.md)
 
 [Back to Top](#top)
 

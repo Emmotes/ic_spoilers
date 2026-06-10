@@ -112,34 +112,6 @@ Events will have either one rework OR three rebalances.
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="uriah.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Brother Uriah Portrait Icon](images/uriah/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Brother Uriah
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Cleric of Black Dice Society</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dragondown - Delayed until 10 June 2026</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rework ♻️<br>Roadmapped 🗺️
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="walnut.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -374,39 +346,6 @@ Events will have either one rework OR three rebalances.
 These are the upcoming new and reworked/rebalanced champions and where they'll be found.  
 Events will have either one rework OR three rebalances.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
-## Dragondown - 3 June 2026
-<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="uriah.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Brother Uriah Portrait Icon](images/uriah/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Brother Uriah
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Cleric of Black Dice Society</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span style="font-size:0.9em;color:var(--Wolfram)">Delayed until 10 June 2026</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rework ♻️<br>Roadmapped 🗺️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-</span>
-</div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Founders' Day - 1 July 2026
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
