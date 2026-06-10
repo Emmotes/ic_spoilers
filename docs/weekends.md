@@ -8,7 +8,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
             <img src="images/weekends/816.png">
-            <span class="weekendTooltipContents">ID: 816**Gold Rising Darkness Chest**Loot for: Minsc, Tyril, Nahara, Valentine and Y4E15<code>"for_crusaders":[7,10,102,103,112]</code></span>
+            <span class="weekendTooltipContents">ID: 816**Gold Rising Darkness Chest**Loot for: Minsc, Tyril, Nahara, Valentine and Uriah<code>"for_crusaders":[7,10,102,103,119]</code></span>
         </span>
         <span class="weekendTableMain">
             <span class="weekendTableTitleRow">
@@ -25,7 +25,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         Assumed Reward:
                     </span>
                     <span class="weekendTableContents">
-                        Golden Epic for Y4E15
+                        Golden Epic for Uriah
                     </span>
                 </span>
                 <span class="weekendTableChampions">
@@ -45,9 +45,9 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                         <span class="weekendTableChampionNameplate">Valentine</span>
                         <span class="weekendTooltipContents" style="font-size:1.3em">ID: 103**Valentine**</span>
                     </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/general/unknown.png')">
-                        <span class="weekendTableChampionNameplate">Y4E15</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 112**???**</span>
+                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/uriah.png')">
+                        <span class="weekendTableChampionNameplate">Uriah</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 119**Brother Uriah**</span>
                     </span>
                 </span>
             </span>
@@ -191,7 +191,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/vanrichten.png')">
                         <span class="weekendTableChampionNameplate">Van Richten</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 177**Van Richten**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 177**Rudolph Van Richten**</span>
                     </span>
                 </span>
             </span>
