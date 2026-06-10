@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Antrius</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2634**Prodigal Leader (Antrius)**There is also a 'T' in both 'Team' and 'Antrius,' and I think that's terrific!<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">10 Jun 2026<br>10 Sept 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Uriah</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Ominous Flock Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2632**Ominous Flock (Uriah)**Do you know what a group of ravens is called? Why do you think that is?<br><br><span style="color:var(--Flavescent)">Increases the effect of Uriah's Raven's Pact ability by 80%. (Prestack)</span><code>buff_upgrade,80,19677</code></span>Ominous Flock
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Uriah's Raven's Pact ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">10 Jun 2026<br>10 Sept 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">DM</span>
         </span>
         <span class="featTableIcon4">

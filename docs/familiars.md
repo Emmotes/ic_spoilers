@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Atchoo the Dahlia Portrait](images/familiars/atchoothedahlia.png)<span class="featTooltipContents">ID: 327**Atchoo the Dahlia**Leaf it to me!<img src="images/familiars/atchoothedahlia.webp" alt="Atchoo the Dahlia Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Atchoo the Dahlia
-        </span>
-        <span class="skinTableSource">
-            Fey Touched Brother Uriah Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            10 Jun 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Baby Chardalyn Titan Portrait](images/familiars/babychardalyntitan.png)<span class="featTooltipContents">ID: 328**Baby Chardalyn Titan**The test run of the giant mechanized menace proved too cute to recycle.<img src="images/familiars/babychardalyntitan.webp" alt="Baby Chardalyn Titan Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
