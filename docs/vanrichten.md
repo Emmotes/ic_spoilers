@@ -27,7 +27,7 @@
     </span>
 </span>
 
-# Van Richten
+# Rudolph Van Richten
 
 He was born in Rivalis in Darkon in 671 BC. He took medicine at the University of Il Aluk, completing his four or five year program of study in 693 BC. This humble man was spurred into a life of monster hunting when his son Erasmus van Richten was kidnapped by the Radanavich clan and sold to Baron Metus. Metus turned Erasmus into a vampire groom and Van Richten was forced to slay his son. In revenge, Metus killed Rudolph's wife, Ingrid van Richten. Van Richten eventually slew Metus, and then, with the help of Azalin, the entire Radanavich tribe.
 
@@ -35,7 +35,7 @@ He was born in Rivalis in Darkon in 671 BC. He took medicine at the University o
 
 # Basic Information
 
-Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
+Rudolph Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
@@ -918,7 +918,6 @@ Unknown.
 > Rudolph Van Richten starts in the formation. He can be moved, but not removed.  
 > You may only add one Tanking Champion to the formation.  
 > Most quest requirements are doubled in non-boss areas.  
-> Only double those areas that drop quest items or count enemy kills. Area 18 and 47 may not be doubled from a quick look in the Adventure Area Set.  
 > Favored Foe enemies drop 200% more quest items and count for 200% more quest progress.  
 > <b>Getting to Know Van Richten:</b> Van Richten's favored foes are Undead. Use him and other monster hunters to quickly get through this variant!
 </div></div>
@@ -935,15 +934,15 @@ Unknown.
 <span class="championImagesColumn">
     <span class="championImagesRow">
         <span class="championImagesPortrait">
-            ![Van Richten Console Portrait](images/vanrichten/console.png)Console Portrait
+            ![Rudolph Van Richten Console Portrait](images/vanrichten/console.png)Console Portrait
         </span>
     </span>
     <span class="championImagesRow">
         <span class="championImagesChests">
-            ![Van Richten Gold Chest Icon](images/vanrichten/chest_gold.png)Gold Chest Icon
+            ![Rudolph Van Richten Gold Chest Icon](images/vanrichten/chest_gold.png)Gold Chest Icon
         </span>
         <span class="championImagesChests">
-            ![Van Richten Silver Chest Icon](images/vanrichten/chest_silver.png)Silver Chest Icon
+            ![Rudolph Van Richten Silver Chest Icon](images/vanrichten/chest_silver.png)Silver Chest Icon
         </span>
     </span>
 </span>
