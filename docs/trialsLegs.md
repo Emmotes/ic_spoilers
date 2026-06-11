@@ -60,6 +60,9 @@ We know from a leak that there is a new dialogue called "Missions of Tiamat". It
 > "key": "no_arcana_for_mission",  
 > "contents": "No Arcana available"
 
+> "key": "mission_result_label",  
+> "contents": "Mission Result:"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
