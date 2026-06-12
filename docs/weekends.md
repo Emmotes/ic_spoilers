@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/816.png">
-            <span class="weekendTooltipContents">ID: 816**Gold Rising Darkness Chest**Loot for: Minsc, Tyril, Nahara, Valentine and Uriah<code>"for_crusaders":[7,10,102,103,119]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Darkness Rises**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    12 June 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Uriah
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/minsc.png')">
-                        <span class="weekendTableChampionNameplate">Minsc</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 7**Minsc**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/tyril.png')">
-                        <span class="weekendTableChampionNameplate">Tyril</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 10**Tyril Tallguy**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/nahara.png')">
-                        <span class="weekendTableChampionNameplate">Nahara</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 102**Nahara**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/valentine.png')">
-                        <span class="weekendTableChampionNameplate">Valentine</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 103**Valentine**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/uriah.png')">
-                        <span class="weekendTableChampionNameplate">Uriah</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 119**Brother Uriah**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/817.png">
             <span class="weekendTooltipContents">ID: 817**Gold Clawed Chest**Loot for: Celeste, Calliope, Hew Maan, Dark Urge and BBEG<code>"for_crusaders":[2,5,75,146,125]</code></span>
         </span>
