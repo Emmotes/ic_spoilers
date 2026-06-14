@@ -4,47 +4,6 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 737</div>
-### From the Vault: Plushie BBEG Skin Pack - 1,000 Platinum  
-Date of release: 13 Jun 2026
-
-> Available till the end of the event - From the Vault: Plushie BBEG
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![BBEG Champion Unlock Portrait](images/premiums/unlock_champion_125.png)<span class="itemTooltipContents">ID: 125**BBEG (Seat 3)**<img src="images/premiums/unlock_champion_125.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">BBEG</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Plushie BBEG Skin Portrait](images/premiums/skin_471.png)<span class="itemTooltipContents">ID: 471**Plushie BBEG (BBEG)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_471.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_471-zombie.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_471-summon_overlay.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Plushie BBEG</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum BBEG Chest Chest Portrait](images/premiums/chests_452.png)<span class="itemTooltipContents">ID: 452**Platinum BBEG Chest**Loot for: BBEG<code>"for_crusaders":[125]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum BBEG Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 723</div>
 ### Buzzwin Skin & Feat Pack - 1,680 Platinum  
 Date of release: 17 Jun 2026
