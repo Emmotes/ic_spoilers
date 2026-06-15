@@ -642,7 +642,7 @@ Miscellaneous spoilers with due dates.
 * [XBox Exclusive Giveaway](platform_giveaway_736.md) - 24 June 2026
 * [Legendary Feats](legendaryFeats.md) - 22 July 2026
 * [Emergence 16](emergence_16.md) - 29 July 2026
-* [Bastion](bastion.md) - July TBD
+* [Bastion](bastion.md) - TBD July 2026
 * [Trials & Legendaries](trialsLegs.md) - ???
 
 # Misc
