@@ -220,10 +220,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Lae'zel</span>
         </span>
         <span class="featTableIcon5">
-            ![Astral-Touched Tadpole Icon](images/featicons/laezel.png)<span class="featTooltipContents">ID: 2699**Astral-Touched Tadpole (Lae'zel)**I can feel them - the might, the vigour, the possibilities...<br><br><span style="color:var(--Flavescent)">Lae'zel adds up the total Strength scores of all the Champions adjacent to her and increases the effect of Lethal Coordination by 100% for every 5 Strength she counts, stacking multiplicatively. If she has at least 100 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,2791</code></span>Astral-Touched Tadpole
+            ![Astral-Touched Tadpole Icon](images/featicons/laezel.png)<span class="featTooltipContents">ID: 2699**Astral-Touched Tadpole (Lae'zel)**I can feel them - the might, the vigour, the possibilities...<br><br><span style="color:var(--Flavescent)">Lae'zel adds up the total Strength scores of all the Champions adjacent to her and increases the effect of Lethal Coordination by 100% for every 5 Strength she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,2791</code></span>Astral-Touched Tadpole
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Lae'zel adds up the total Strength scores of all the Champions adjacent to her and increases the effect of Lethal Coordination by 100% for every 5 Strength she counts, stacking multiplicatively. If she has at least 100 stacks, your formation gains one additional Ceremorphosis stack.</span>
+            <span class="featTableInner">Lae'zel adds up the total Strength scores of all the Champions adjacent to her and increases the effect of Lethal Coordination by 100% for every 5 Strength she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">$0.00</span>
@@ -841,10 +841,10 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">Wulfgar</span>
         </span>
         <span class="featTableIcon5">
-            ![Son of Beornegar Icon](images/featicons/wulfgar.png)<span class="featTooltipContents">ID: 2721**Son of Beornegar (Wulfgar)**Strength to my friends, and death to my foes! <br><br><span style="color:var(--Flavescent)">Wulfgar gains the Hunter role and Monstrosities are his favored foe. Wulfgar increases the damage of all Champions by 100% for each Monstrosity defeated since the last boss was killed, stacking multiplicatively and capping at 25 stacks. If there are at least 100 Mithral Hall stacks in the formation, a Yeti has a 50%.</span><code>effect_def,2819</code></span>Son of Beornegar
+            ![Son of Beornegar Icon](images/featicons/wulfgar.png)<span class="featTooltipContents">ID: 2721**Son of Beornegar (Wulfgar)**Strength to my friends, and death to my foes! <br><br><span style="color:var(--Flavescent)">Wulfgar gains the Hunter role and Monstrosities are his favored foe. Wulfgar increases the damage of all Champions by 100% for each Monstrosity defeated since the last boss was killed, stacking multiplicatively and capping at 25 stacks. If there are at least 20 Mithral Hall stacks in the formation, a Yeti has a 50%.</span><code>effect_def,2819</code></span>Son of Beornegar
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Wulfgar gains the Hunter role and Monstrosities are his favored foe. Wulfgar increases the damage of all Champions by 100% for each Monstrosity defeated since the last boss was killed, stacking multiplicatively and capping at 25 stacks. If there are at least 100 Mithral Hall stacks in the formation, a Yeti has a 50%.</span>
+            <span class="featTableInner">Wulfgar gains the Hunter role and Monstrosities are his favored foe. Wulfgar increases the damage of all Champions by 100% for each Monstrosity defeated since the last boss was killed, stacking multiplicatively and capping at 25 stacks. If there are at least 20 Mithral Hall stacks in the formation, a Yeti has a 50%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
