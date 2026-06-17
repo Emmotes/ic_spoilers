@@ -195,7 +195,10 @@ Events will have either one rework OR three rebalances.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="jim.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![James (Jim) Winifred Darkmagic III Portrait Icon](images/jim/portrait.png)
         </span>
@@ -217,7 +220,13 @@ Events will have either one rework OR three rebalances.
             Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
     </span>
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="omin.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Omin Dran Portrait Icon](images/omin/portrait.png)
         </span>
@@ -239,6 +248,9 @@ Events will have either one rework OR three rebalances.
             Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 {::nomarkdown}
 <a href="prudence.html">
 {:/nomarkdown}
@@ -479,7 +491,10 @@ Events will have either one rework OR three rebalances.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="jim.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![James (Jim) Winifred Darkmagic III Portrait Icon](images/jim/portrait.png)
         </span>
@@ -498,7 +513,13 @@ Events will have either one rework OR three rebalances.
             ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
     </span>
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="omin.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Omin Dran Portrait Icon](images/omin/portrait.png)
         </span>
@@ -517,6 +538,9 @@ Events will have either one rework OR three rebalances.
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 {::nomarkdown}
 <a href="prudence.html">
 {:/nomarkdown}
