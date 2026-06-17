@@ -437,7 +437,7 @@ Rudolph Van Richten will be a new champion in the Founders' Day event on 1 July 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Watched by Erasmus** (Guess)
-> If no enemies have been defeated for 100 seconds, Van Richten's ghost son Erasmus appears. Whenever Van Richten attacks, Erasmus quickly moves to the target he will attack and curses all enemies in a small area, causing all attacks against them to deal 100% more damage. This is increased by 20% for each Triumph stack Van Richten has, stacking multiplicatively. Erasmus disappears when changing areas.
+> If no enemies have been defeated for 3 seconds, Van Richten's ghost son Erasmus appears. Whenever Van Richten attacks, Erasmus quickly moves to the target he will attack and curses all enemies in a small area, causing all attacks against them to deal 100% more damage. This is increased by 20% for each Triumph stack Van Richten has, stacking multiplicatively. Erasmus disappears when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -445,7 +445,7 @@ Rudolph Van Richten will be a new champion in the Founders' Day event on 1 July 
     "id": 2742,
     "flavour_text": "",
     "description": {
-        "desc": "If no enemies have been defeated for $time seconds, Van Richten's ghost son Erasmus appears. Whenever Van Richten attacks, Erasmus quickly moves to the target he will attack and curses all enemies in a small area, causing all attacks against them to deal $(amount)% more damage. This is increased by $amount___3% for each Triumph stack Van Richten has, stacking multiplicatively. Erasmus disappears when changing areas."
+        "desc": "If no enemies have been defeated for $time___2 seconds, Van Richten's ghost son Erasmus appears. Whenever Van Richten attacks, Erasmus quickly moves to the target he will attack and curses all enemies in a small area, causing all attacks against them to deal $(amount)% more damage. This is increased by $amount___3% for each Triumph stack Van Richten has, stacking multiplicatively. Erasmus disappears when changing areas."
     },
     "effect_keys": [
         {
