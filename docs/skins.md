@@ -145,166 +145,13 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 920**Black Chromatic Hew Maan (Hew Maan)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Jarlaxle Portrait](images/skin_portraits/chromaticjarlaxle.png)<span class="featTooltipContents">ID: 713**Chromatic Jarlaxle (Jarlaxle)**<img src="images/skin_models/chromaticjarlaxle.webp" alt="Chromatic Jarlaxle Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
-            Black Chromatic Hew Maan
+            Chromatic Jarlaxle
         </span>
         <span class="skinTableSource">
-            Patron Mastery Medallions
-        </span>
-        <span class="skinTableCost">
             ???
-        </span>
-        <span class="skinTableDate">
-            22 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 922**Blue Chromatic Hew Maan (Hew Maan)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Blue Chromatic Hew Maan
-        </span>
-        <span class="skinTableSource">
-            Patron Mastery Medallions
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            22 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 919**Green Chromatic Hew Maan (Hew Maan)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Green Chromatic Hew Maan
-        </span>
-        <span class="skinTableSource">
-            Patron Mastery Medallions
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            22 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 921**Red Chromatic Hew Maan (Hew Maan)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Red Chromatic Hew Maan
-        </span>
-        <span class="skinTableSource">
-            Patron Mastery Medallions
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            22 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 923**White Chromatic Hew Maan (Hew Maan)**</span></span>
-        </span>
-        <span class="skinTableName">
-            White Chromatic Hew Maan
-        </span>
-        <span class="skinTableSource">
-            Patron Mastery Medallions
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            22 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 915**Black Chromatic Jarlaxle (Jarlaxle)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Black Chromatic Jarlaxle
-        </span>
-        <span class="skinTableSource">
-            Patron Mastery Medallions
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            22 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 917**Blue Chromatic Jarlaxle (Jarlaxle)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Blue Chromatic Jarlaxle
-        </span>
-        <span class="skinTableSource">
-            Patron Mastery Medallions
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            22 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 914**Green Chromatic Jarlaxle (Jarlaxle)**</span></span>
-        </span>
-        <span class="skinTableName">
-            Green Chromatic Jarlaxle
-        </span>
-        <span class="skinTableSource">
-            Patron Mastery Medallions
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            22 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 916**Red Chromatic Jarlaxle (Jarlaxle)**<img src="images/skin_models/redchromaticjarlaxle.webp" alt="Red Chromatic Jarlaxle Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
-        </span>
-        <span class="skinTableName">
-            Red Chromatic Jarlaxle
-        </span>
-        <span class="skinTableSource">
-            Patron Mastery Medallions
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            22 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 918**White Chromatic Jarlaxle (Jarlaxle)**</span></span>
-        </span>
-        <span class="skinTableName">
-            White Chromatic Jarlaxle
-        </span>
-        <span class="skinTableSource">
-            Patron Mastery Medallions
         </span>
         <span class="skinTableCost">
             ???
@@ -345,6 +192,23 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             29 Jul 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 914**Chromatic Hew Maan (Hew Maan)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Chromatic Hew Maan
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
         </span>
     </span>
 </span>

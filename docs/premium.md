@@ -146,6 +146,88 @@ Contents:
 </div></div>
 
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 738</div>
+### From the Vault: Wyrm Slayer Ravengard Skin Pack - 1,000 Platinum  
+Date of release: 19 Jun 2026
+
+> Available till the end of the event - From the Vault: Wyrm Slayer Ravengard
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Ravengard Champion Unlock Portrait](images/premiums/unlock_champion_149.png)<span class="itemTooltipContents">ID: 149**Ravengard (Seat 8)**<img src="images/premiums/unlock_champion_149.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Ravengard</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Wyrm Slayer Ravengard Skin Portrait](images/premiums/skin_434.png)<span class="itemTooltipContents">ID: 434**Wyrm Slayer Ravengard (Ravengard)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_434.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_434-enflamed.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Wyrm Slayer Ravengard</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Duke Ravengard Chest Chest Portrait](images/premiums/chests_569.png)<span class="itemTooltipContents">ID: 569**Platinum Duke Ravengard Chest**Loot for: Ravengard<code>"for_crusaders":[149]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Duke Ravengard Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 739</div>
+### From the Vault: Tiangong Nova Skin Pack - 1,000 Platinum  
+Date of release: 19 Jun 2026
+
+> Available till the end of the event - From the Vault: Tiangong Nova
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Nova Champion Unlock Portrait](images/premiums/unlock_champion_62.png)<span class="itemTooltipContents">ID: 62**Nova (Seat 11)**<img src="images/premiums/unlock_champion_62.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Nova</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Tiangong Nova Skin Portrait](images/premiums/skin_191.png)<span class="itemTooltipContents">ID: 191**Tiangong Nova (Nova)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_191.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_191-sword.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Tiangong Nova</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Nova Chest Chest Portrait](images/premiums/chests_183.png)<span class="itemTooltipContents">ID: 183**Platinum Nova Chest**Loot for: Nova<code>"for_crusaders":[62]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Nova Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 725</div>
 ### Avatar of Chaos Familiar Pack - 1,680 Platinum  
 Date of release: 24 Jun 2026
