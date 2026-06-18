@@ -35,57 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Desmond</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2479**Multiversal Allies (Desmond)**All are welcome in this pack.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">18 Jun 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Orkira</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Eager Martyr Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2480**Eager Martyr (Orkira)**I won't let them harm you, no matter what it takes!<br><br><span style="color:var(--Flavescent)">Reduces the cooldown of Self Sacrifice by 15 seconds.</span><code>change_upgrade_data,5575</code></span>Eager Martyr
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Reduces the cooldown of Self Sacrifice by 15 seconds.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">18 Jun 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Volo</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Volo's Keen Knowledge Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2478**Volo's Keen Knowledge (Volo)**Why, I dare to posit that the noble owlbear is, in fact, a creation of the gods themselves!<br><br><span style="color:var(--Flavescent)">Increases the effect of Volo's Volo's Guide to Monsters ability by 80%. (Prestack)</span><code>buff_upgrade,80,16552,0</code></span>Volo's Keen Knowledge
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Volo's Volo's Guide to Monsters ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">18 Jun 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Karlach</span>
         </span>
         <span class="featTableIcon4">
