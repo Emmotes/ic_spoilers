@@ -58,7 +58,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 331**Mist Horror**These vaporous terrors take the shape of their viewers' greatest fears.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Mist Horror Portrait](images/familiars/misthorror.png)<span class="featTooltipContents">ID: 331**Mist Horror**These vaporous terrors take the shape of their viewers' greatest fears.<img src="images/familiars/misthorror.webp" alt="Mist Horror Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Mist Horror

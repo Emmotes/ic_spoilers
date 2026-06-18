@@ -916,7 +916,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 331**Mist Horror**These vaporous terrors take the shape of their viewers' greatest fears.</span></span>
+            <span class="tooltipHolder">![Mist Horror Familiar Portrait](images/premiums/familiar_331.png)<span class="itemTooltipContents">ID: 331**Mist Horror**These vaporous terrors take the shape of their viewers' greatest fears.<img src="images/premiums/familiar_331.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
