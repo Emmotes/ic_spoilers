@@ -87,7 +87,7 @@ These are the new event champions that are upcoming and all the information we k
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Caramon
+                Caramon Majere
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Human Fighter of Heroes of the Lance (Guess)</span>
@@ -580,7 +580,7 @@ Events will have either one rework OR three rebalances.
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Caramon
+                Caramon Majere
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Human Fighter of Heroes of the Lance (Guess)</span>
