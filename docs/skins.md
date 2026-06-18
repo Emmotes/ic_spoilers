@@ -162,7 +162,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Hew Maan Portrait](images/skin_portraits/chromatichewmaan.png)<span class="featTooltipContents">ID: 914**Chromatic Hew Maan (Hew Maan)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Hew Maan Portrait](images/skin_portraits/chromatichewmaan.png)<span class="featTooltipContents">ID: 914**Chromatic Hew Maan (Hew Maan)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/chromatichewmaan.webp" alt="Chromatic Hew Maan Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromatichewmaan-kleeb.webp" alt="Chromatic Hew Maan Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromatichewmaan-yassa.webp" alt="Chromatic Hew Maan Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromatichewmaan-zrang.webp" alt="Chromatic Hew Maan Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Chromatic Hew Maan
