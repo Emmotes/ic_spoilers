@@ -41,7 +41,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 330**Baby Cthulhu**This ageless terror can only exert a fraction of its terrible might in this adorable form.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Baby Cthulhu Portrait](images/familiars/babycthulhu.png)<span class="featTooltipContents">ID: 330**Baby Cthulhu**This ageless terror can only exert a fraction of its terrible might in this adorable form.<img src="images/familiars/babycthulhu.webp" alt="Baby Cthulhu Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Baby Cthulhu

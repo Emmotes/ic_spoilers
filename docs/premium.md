@@ -621,7 +621,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 330**Baby Cthulhu**This ageless terror can only exert a fraction of its terrible might in this adorable form.</span></span>
+            <span class="tooltipHolder">![Baby Cthulhu Familiar Portrait](images/premiums/familiar_330.png)<span class="itemTooltipContents">ID: 330**Baby Cthulhu**This ageless terror can only exert a fraction of its terrible might in this adorable form.<img src="images/premiums/familiar_330.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -840,7 +840,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 534**Nechricor Vin Ursa (Vin Ursa)**</span></span>
+            <span class="tooltipHolder">![Nechricor Vin Ursa Skin Portrait](images/premiums/skin_534.png)<span class="itemTooltipContents">ID: 534**Nechricor Vin Ursa (Vin Ursa)**<img src="images/premiums/skin_534.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

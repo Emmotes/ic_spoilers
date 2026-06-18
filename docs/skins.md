@@ -94,7 +94,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 534**Nechricor Vin Ursa (Vin Ursa)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Nechricor Vin Ursa Portrait](images/skin_portraits/nechricorvinursa.png)<span class="featTooltipContents">ID: 534**Nechricor Vin Ursa (Vin Ursa)**<img src="images/skin_models/nechricorvinursa.webp" alt="Nechricor Vin Ursa Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Nechricor Vin Ursa
@@ -128,7 +128,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 714**Zombie Hunter Drizzt (Drizzt)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Zombie Hunter Drizzt Portrait](images/skin_portraits/zombiehunterdrizzt.png)<span class="featTooltipContents">ID: 714**Zombie Hunter Drizzt (Drizzt)**<img src="images/skin_models/zombiehunterdrizzt.webp" alt="Zombie Hunter Drizzt Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Zombie Hunter Drizzt
