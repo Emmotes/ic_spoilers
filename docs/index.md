@@ -55,11 +55,11 @@ These are the new event champions that are upcoming and all the information we k
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Flint Portrait Icon](images/flint/portrait.png)
+            ![Flint Fireforge Portrait Icon](images/flint/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Flint
+                Flint Fireforge
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Dwarf Fighter of Heroes of the Lance (Guess)</span>
@@ -471,11 +471,11 @@ Events will have either one rework OR three rebalances.
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Flint Portrait Icon](images/flint/portrait.png)
+            ![Flint Fireforge Portrait Icon](images/flint/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Flint
+                Flint Fireforge
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Dwarf Fighter of Heroes of the Lance (Guess)</span>

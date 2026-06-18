@@ -19,13 +19,13 @@
     </span>
 </span>
 
-# Flint
+# Flint Fireforge
 
 [Flint Fireforge - Dragonlace Fandom Wiki](https://dragonlance.fandom.com/wiki/Flint_Fireforge){:target="_blank"}
 
 # Basic Information
 
-Flint will be a new champion in the Ahghairon's Day event on 5 August 2026.
+Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 2026.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
@@ -927,15 +927,15 @@ Unknown.
 <span class="championImagesColumn">
     <span class="championImagesRow">
         <span class="championImagesPortrait">
-            ![Flint Console Portrait](images/flint/console.png)Console Portrait
+            ![Flint Fireforge Console Portrait](images/flint/console.png)Console Portrait
         </span>
     </span>
     <span class="championImagesRow">
         <span class="championImagesChests">
-            ![Flint Gold Chest Icon](images/flint/chest_gold.png)Gold Chest Icon
+            ![Flint Fireforge Gold Chest Icon](images/flint/chest_gold.png)Gold Chest Icon
         </span>
         <span class="championImagesChests">
-            ![Flint Silver Chest Icon](images/flint/chest_silver.png)Silver Chest Icon
+            ![Flint Fireforge Silver Chest Icon](images/flint/chest_silver.png)Silver Chest Icon
         </span>
     </span>
 </span>
