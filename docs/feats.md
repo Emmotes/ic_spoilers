@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">DM</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2636**Standard Affair (DM)**In this fantastical world, you could be anything! ...And yet, so many humans. Hm.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span>Standard Affair
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">17 Jun 2026<br>17 Sept 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Binwin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Slow and Steady Icon](images/featicons/slowandsteady.png)<span class="featTooltipContents">ID: 2412**Slow and Steady (Binwin)**Let's take our time. Really savor it, you know?<br><br><span style="color:var(--Flavescent)">Increases the damage of Binwin by 800%. Increases the cooldown on Binwin's Base Attack by 2 seconds.</span><code>hero_dps_multiplier_mult,800<br>increase_attack_cooldown,2</code></span>Slow and Steady
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of Binwin by 800%. Increases the cooldown on Binwin's Base Attack by 2 seconds.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">17 Jun 2026<br>17 Sept 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Ezmerelda</span>
         </span>
         <span class="featTableIcon4">

@@ -9,41 +9,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Buzzwin Portrait](images/skin_portraits/buzzwin.png)<span class="featTooltipContents">ID: 699**Buzzwin (Binwin)**<img src="images/skin_models/buzzwin.webp" alt="Buzzwin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Buzzwin
-        </span>
-        <span class="skinTableSource">
-            Buzzwin Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            17 Jun 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Summer Court Dungeon Master Portrait](images/skin_portraits/summercourtdungeonmaster.png)<span class="featTooltipContents">ID: 700**Summer Court Dungeon Master (DM)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/summercourtdungeonmaster.webp" alt="Summer Court Dungeon Master Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/summercourtdungeonmaster-swap.webp" alt="Summer Court Dungeon Master Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Summer Court Dungeon Master
-        </span>
-        <span class="skinTableSource">
-            Summer Court Dungeon Master Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            17 Jun 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 703**Eldritch Horror Nahara (Nahara)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Eldritch Horror Nahara Portrait](images/skin_portraits/eldritchhorrornahara.png)<span class="featTooltipContents">ID: 703**Eldritch Horror Nahara (Nahara)**<img src="images/skin_models/eldritchhorrornahara.webp" alt="Eldritch Horror Nahara Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Eldritch Horror Nahara
