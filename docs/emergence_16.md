@@ -54,7 +54,7 @@ We know the next Emergence event will be Strahd Zombies and that it will start o
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 714**Zombie Hunter Drizzt (Drizzt)**</span></span>
+            <span class="tooltipHolder">![Zombie Hunter Drizzt Skin Portrait](images/emergence_16/skin_714.png)<span class="itemTooltipContents">ID: 714**Zombie Hunter Drizzt (Drizzt)**<img src="images/emergence_16/skin_714.webp" alt="Zombie Hunter Drizzt Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
