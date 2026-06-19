@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/817.png">
-            <span class="weekendTooltipContents">ID: 817**Gold Clawed Chest**Loot for: Celeste, Calliope, Hew Maan, Dark Urge and BBEG<code>"for_crusaders":[2,5,75,146,125]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Rise of Undeath**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    19 June 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for BBEG
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/celeste.png')">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 2**Celeste**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/calliope.png')">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 5**Calliope**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/hewmaan.png')">
-                        <span class="weekendTableChampionNameplate">Hew Maan</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 75**Hew Maan**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/darkurge.png')">
-                        <span class="weekendTableChampionNameplate">Dark Urge</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 146**The Dark Urge**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/bbeg.png')">
-                        <span class="weekendTableChampionNameplate">BBEG</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 125**Bartholemew Beelzebub Ezekiel Grubbe**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/818.png">
             <span class="weekendTooltipContents">ID: 818**Gold Forbidden Lore Chest**Loot for: Jarlaxle, Bruenor, Tasslehoff, Raistlin and Laurana<code>"for_crusaders":[4,1,174,173,175]</code></span>
         </span>
