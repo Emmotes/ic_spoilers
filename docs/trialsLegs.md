@@ -2,7 +2,7 @@
 
 # Trials & Legendaries Reworks
 
-We've been told a rework to the Trials and Legendaries systems are in the works and that they will most likely release at the same time as the [Bastion](bastion.md){:target="_blank"} system.
+We've been told a rework to the Trials and Legendaries systems are in the works and that they will release some time after [Bastion](bastion.md){:target="_blank"} system.
 
 Below are all the data we have for these reworks.
 
