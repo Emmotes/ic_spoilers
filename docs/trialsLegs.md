@@ -66,6 +66,9 @@ We know from a leak that there is a new dialogue called "Missions of Tiamat". It
 > "key": "speed_up_mission_confirmation",  
 > "contents": "Spend $amount Platinum to complete this mission early?"
 
+> "key": "sort_missions_label",  
+> "contents": "Sort Active Missions By:"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
