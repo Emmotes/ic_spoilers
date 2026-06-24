@@ -4,139 +4,6 @@
 
 A list of the upcoming content drops. Just be aware that the dates and order of these content drops are educated guesses based on the order their graphics appear in the definitions. CNE have been known to release content drops in different orders - so don't be surprised if that happens again.
 
-## Tales 10 - 24 June 2026
-
-Tales 10 will not unlock any champions.
-
-<span class="contentDropsTableColumn">
-    <span class="contentDropsTableRowHeader">
-        <span class="contentDropsTableIcons">
-            <span style="margin-left:8px;">**Icon**</span>
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">**Campaign**</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">**Adventure Name**</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">**Type**</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Tales: Champions of Waterdeep (Adventure)](images/contentdrop_portraits/tales_championsofwaterdeep_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Champions of Waterdeep</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Champions of Waterdeep (Variant 1)](images/contentdrop_portraits/tales_championsofwaterdeep_1.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Champions of Waterdeep</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #1</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Champions of Waterdeep (Variant 2)](images/contentdrop_portraits/tales_championsofwaterdeep_2.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Champions of Waterdeep</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #2</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: Champions of Waterdeep (Variant 3)](images/contentdrop_portraits/tales_championsofwaterdeep_3.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Champions of Waterdeep</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #3</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Tales: The Sleeper Awakes (Adventure)](images/contentdrop_portraits/tales_thesleeperawakes_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">The Sleeper Awakes</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Adventure</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: The Sleeper Awakes (Variant 1)](images/contentdrop_portraits/tales_thesleeperawakes_1.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">The Sleeper Awakes</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #1</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: The Sleeper Awakes (Variant 2)](images/contentdrop_portraits/tales_thesleeperawakes_2.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">The Sleeper Awakes</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #2</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Tales: The Sleeper Awakes (Variant 3)](images/contentdrop_portraits/tales_thesleeperawakes_3.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Tales</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">The Sleeper Awakes</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant #3</span>
-        </span>
-    </span>
-</span>
-
 ## Mastery 1 - 22 July 2026
 
 For Mastery Variants information see the [roadmap twitch stream](https://www.twitch.tv/videos/2788712278?t=0h44m48s).
@@ -458,6 +325,254 @@ For Mastery Variants information see the [roadmap twitch stream](https://www.twi
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+</span>
+
+## Mastery 3 - 23 September 2026
+
+<span class="contentDropsTableColumn">
+    <span class="contentDropsTableRowHeader">
+        <span class="contentDropsTableIcons">
+            <span style="margin-left:8px;">**Icon**</span>
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">**Campaign**</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">**Adventure Name**</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">**Type**</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Beep Boop Boom (Variant)](images/contentdrop_portraits/mastery_beepboopboom_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Beep Boop Boom</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Finding Your Balance (Variant)](images/contentdrop_portraits/mastery_findingyourbalance_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Finding Your Balance</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Meddlesome Mimicry (Variant)](images/contentdrop_portraits/mastery_meddlesomemimicry_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Meddlesome Mimicry</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Monkey Business (Variant)](images/contentdrop_portraits/mastery_monkeybusiness_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Monkey Business</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Pie in the Sky (Variant)](images/contentdrop_portraits/mastery_pieinthesky_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Pie in the Sky</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: The Birds (Variant)](images/contentdrop_portraits/mastery_thebirds_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">The Birds</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: The Maddest Wizards (Variant)](images/contentdrop_portraits/mastery_themaddestwizards_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">The Maddest Wizards</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Waltx of the Patrons (Variant)](images/contentdrop_portraits/mastery_waltxofthepatrons_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Waltx of the Patrons</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+</span>
+
+## Mixed 7 Variants - 30 September 2026
+
+<span class="contentDropsTableColumn">
+    <span class="contentDropsTableRowHeader">
+        <span class="contentDropsTableIcons">
+            <span style="margin-left:8px;">**Icon**</span>
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">**Campaign**</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">**Adventure Name**</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">**Type**</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Grand Tour: Demon Lords (Variant 3)](images/contentdrop_portraits/grandtour_demonlords_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Grand Tour</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Demon Lords</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Grand Tour: Encroaching Madness (Variant 3)](images/contentdrop_portraits/grandtour_encroachingmadness_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Grand Tour</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Encroaching Madness</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Grand Tour: The Alien Underdark (Variant 3)](images/contentdrop_portraits/grandtour_thealienunderdark_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Grand Tour</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">The Alien Underdark</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Grand Tour: The Dark Heart (Variant 3)](images/contentdrop_portraits/grandtour_thedarkheart_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Grand Tour</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">The Dark Heart</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Fast Food (Variant 3)](images/contentdrop_portraits/fortune'swheel_fastfood_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Fortune's Wheel</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Fast Food</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Glitch in the Mortuary (Variant 3)](images/contentdrop_portraits/fortune'swheel_glitchinthemortuary_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Fortune's Wheel</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Glitch in the Mortuary</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: The Fortunes Wheel (Variant 3)](images/contentdrop_portraits/fortune'swheel_thefortuneswheel_3.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Fortune's Wheel</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">The Fortunes Wheel</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant #3</span>
         </span>
     </span>
 </span>
