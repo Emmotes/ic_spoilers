@@ -30,74 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Ezmerelda</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Hunter's Legacy Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2607**Hunter's Legacy (Ezmerelda)**Van Richten taught me well. Allow me to demonstrate.<br><br><span style="color:var(--Flavescent)">Increases the effect of Ezmerelda's Specializations by 80%.</span><code>buff_upgrades,80,15041,15042,15043</code></span>Hunter's Legacy
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Ezmerelda's Specializations by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Tales of the Champions</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">24 Jun 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Ravengard</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Duty Above All Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2609**Duty Above All (Ravengard)**A good soldier serves by their actions. A great one serves with their heart.<br><br><span style="color:var(--Flavescent)">Increases the effect of Ravengard's Critical Teamwork ability by 80%.</span><code>buff_upgrade,80,15030,0</code></span>Duty Above All
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Ravengard's Critical Teamwork ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Tales of the Champions</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">24 Jun 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Birdsong</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Teller of Tales Icon](images/featicons/redknight.png)<span class="featTooltipContents">ID: 2610**Teller of Tales (Birdsong)**I have seen much in my time with the Champions. Shall I tell you of our adventures?<br><br><span style="color:var(--Flavescent)">Birdsong may be used in any Tales of the Champions campaign adventure when a patron is enabled, regardless of any restrictions.</span><code>force_allow_hero</code></span>Teller of Tales
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Birdsong may be used in any Tales of the Champions campaign adventure when a patron is enabled, regardless of any restrictions.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Tales of the Champions</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">24 Jun 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Strongheart</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Wings of Platinum Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2608**Wings of Platinum (Strongheart)**With valor in heart and Steel in hand, I give my all to protect this world and all things good!<br><br><span style="color:var(--Flavescent)">Increase the effect of all Strongheart's specializations by 80%.</span><code>buff_upgrades,80,11740,14715,11742</code></span>Wings of Platinum
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increase the effect of all Strongheart's specializations by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Tales of the Champions</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">24 Jun 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Nahara</span>
         </span>
         <span class="featTableIcon4">
@@ -324,6 +256,57 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">**Date**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Drizzt</span>
+        </span>
+        <span class="featTableIcon5">
+            ![Apex Predator Icon](images/featicons/drizzt.png)<span class="featTooltipContents">ID: 2722**Apex Predator (Drizzt)**I pray that the world never runs out of dragons. <br><br><span style="color:var(--Flavescent)">Whenever Drizzt scores a Critical Hit he gains an Instinct stack that expires after 15 seconds. His damage is increased by 1000% for each Instinct stack he has, stacking multiplicatively. If he scores another Critical Hit before his stacks expire, the timers for all his stacks restart. This ability caps at 1000 stacks. If there are at least 20 Mithral Hall stacks in the formation, Drizzt's base Critical Hit chance is increased by an additional 20%.</span><code>effect_def,2820</code></span>Apex Predator
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Whenever Drizzt scores a Critical Hit he gains an Instinct stack that expires after 15 seconds. His damage is increased by 1000% for each Instinct stack he has, stacking multiplicatively. If he scores another Critical Hit before his stacks expire, the timers for all his stacks restart. This ability caps at 1000 stacks. If there are at least 20 Mithral Hall stacks in the formation, Drizzt's base Critical Hit chance is increased by an additional 20%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Mastery Shop</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Pwent</span>
+        </span>
+        <span class="featTableIcon5">
+            ![Loyal to the End Icon](images/featicons/pwent.png)<span class="featTooltipContents">ID: 2720**Loyal to the End (Pwent)**Livin' or dead, it matters none! I serve ME KING! <br><br><span style="color:var(--Flavescent)">Increase the effect of Can You SMELL That? by 250% for each Dwarf Champion or Companion of the Hall Champion in the formation, stacking multiplicatively. Champions that are both provide two stacks. If Pwent has at least 10 stacks of this ability, he gains the Companions of the Hall affiliation.</span><code>effect_def,2818</code></span>Loyal to the End
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increase the effect of Can You SMELL That? by 250% for each Dwarf Champion or Companion of the Hall Champion in the formation, stacking multiplicatively. Champions that are both provide two stacks. If Pwent has at least 10 stacks of this ability, he gains the Companions of the Hall affiliation.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Mastery Shop</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">???</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Wulfgar</span>
+        </span>
+        <span class="featTableIcon5">
+            ![Son of Beornegar Icon](images/featicons/wulfgar.png)<span class="featTooltipContents">ID: 2721**Son of Beornegar (Wulfgar)**Strength to my friends, and death to my foes! <br><br><span style="color:var(--Flavescent)">Wulfgar gains the Hunter role and Monstrosities are his favored foe. Wulfgar increases the damage of all Champions by 100% for each Monstrosity defeated since the last boss was killed, stacking multiplicatively and capping at 25 stacks. If there are at least 20 Mithral Hall stacks in the formation, a Yeti has a 100%.</span><code>effect_def,2819</code></span>Son of Beornegar
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Wulfgar gains the Hunter role and Monstrosities are his favored foe. Wulfgar increases the damage of all Champions by 100% for each Monstrosity defeated since the last boss was killed, stacking multiplicatively and capping at 25 stacks. If there are at least 20 Mithral Hall stacks in the formation, a Yeti has a 100%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Mastery Shop</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">???</span>
         </span>
     </span>
     <span class="featTableRow">
