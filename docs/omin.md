@@ -109,6 +109,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 20458,
     "properties": {
         "is_formation_ability": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
         "owner_use_outgoing_description": true
     }
 }
@@ -119,7 +122,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Adventuring Capital** (Guess)
-> Omin increases the party's gold find by 1% each time a Champion of Tymora attacks an enemy, stacking additively with no cap. The percentage per attack increases by 1% for every 100 stacks.
+> Omin increases the party's gold find by 1% each time a Champion of Tymora attacks an enemy, stacking additively with no cap. The percentage per attack increases by 1% additively for every 100 stacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -127,19 +130,24 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2827,
     "flavour_text": "",
     "description": {
-        "desc": "Omin increases the party's gold find by $(amount)% each time a Champion of Tymora attacks an enemy, stacking additively with no cap. The percentage per attack increases by 1% for every 100 stacks."
+        "desc": "Omin increases the party's gold find by $(amount)% each time a Champion of Tymora attacks an enemy, stacking additively with no cap. The percentage per attack increases by 1% additively for every 100 stacks."
     },
     "effect_keys": [
         {
+            "effect_string": "base_amount,1",
+            "show_bonus": false
+        },
+        {
             "off_when_benched": true,
             "effect_string": "gold_multiplier_mult,1",
+            "amount_expr": "upgrade_amount(20159,0)",
             "stacks_multiply": false,
             "show_bonus": true,
             "stacks_on_trigger": "champion_affected_by_upg_attacked,20158"
         },
         {
             "off_when_benched": true,
-            "effect_string": "stacks_data_binder_safe,0,omin_adventuring_capital_stacks",
+            "effect_string": "stacks_data_binder_safe,1,omin_adventuring_capital_stacks",
             "is_instanced_stat": true,
             "use_stat_defs": true,
             "skip_effect_key_desc": true
@@ -153,9 +161,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "buff_upgrade_add_flat_amount,1,20159,0",
-            "amount_func": "mult",
+            "amount_func": "add",
             "stack_func": "per_hero_attribute",
-            "post_process_expr": "floor(GetUpgradeStacks(20159,0)/100)"
+            "post_process_expr": "floor(GetUpgradeStacks(20159,1)/100)",
+            "amount_updated_listeners": [
+                "stacks_changed"
+            ]
         }
     ],
     "requirements": [],
@@ -166,7 +177,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0,
+        "default_bonus_index": 1,
         "owner_use_outgoing_description": true
     }
 }
@@ -353,7 +364,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "spec_option_post_apply_info": "Champions of Tymora in Formation: $num_stacks"
+        "spec_option_post_apply_info": "Champions of Tymora in Formation: $num_stacks___2"
     }
 }
 </pre>
@@ -403,7 +414,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "spec_option_post_apply_info": "Acq. Inc. and \"C\" Team Champions in Formation: $num_stacks"
+        "spec_option_post_apply_info": "Acq. Inc. and \"C\" Team Champions in Formation: $num_stacks___2"
     }
 }
 </pre>
@@ -434,13 +445,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "effect_string": "buff_upgrade,0,20158",
             "amount_expr": "upgrade_amount(20165,0)",
-            "amount_func": "add",
-            "stack_func": "upgrade_stacks",
-            "stack_func_data": {
-                "upgrade_id": 20159,
-                "multiplier": 0.001
-            },
-            "stacks_multiply": false,
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "as_int(GetUpgradeStacks(20159,1) >= 1000) * (log(GetUpgradeStacks(20159,1) / 1000) / log(2) + 1)",
+            "stacks_multiply": true,
             "show_bonus": true,
             "amount_updated_listeners": [
                 "stacks_changed"
@@ -458,6 +466,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
+        "show_incoming": false,
         "default_bonus_index": 0
     }
 }
