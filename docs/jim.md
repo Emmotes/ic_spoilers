@@ -142,13 +142,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2823,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of Fan Club is increased by $(amount)% for each Champion with a non-base skin equipped in the formation, stacking multiplicatively."
+        "desc": "The effect of Fan Club is increased by $(not_buffed amount)% for each Champion with a non-base skin equipped in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
             "effect_string": "buff_upgrade,200,20143",
-            "amount_func": "add",
+            "amount_func": "mult",
             "stack_func": "per_skin",
             "stacks_multiply": true,
             "amount_updated_listeners": [
