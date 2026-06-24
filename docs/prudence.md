@@ -163,6 +163,52 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Base Attack: Eldritch Blast** (Guess)
+> One or more beams of crackling green shoots towards the nearest enemies, dealing damage.  
+> Cooldown: 7s (Cap 1.75s)
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 995,
+    "name": "Eldritch Blast",
+    "description": "One or more beams of crackling green shoots towards the nearest enemies, dealing damage.",
+    "long_description": "One or more beams of crackling green shoots towards the nearest enemies, dealing damage.",
+    "graphic_id": 0,
+    "target": "front",
+    "num_targets": 4,
+    "aoe_radius": 0,
+    "damage_modifier": 1,
+    "cooldown": 7,
+    "animations": [
+        {
+            "type": "ranged_attack",
+            "projectile_graphic_id": 1,
+            "projectile": "eldritch_blast",
+            "shoot_frame": 16,
+            "shoot_offset_x": 80,
+            "shoot_offset_y": -25,
+            "hold_shoot_frame": true,
+            "sound_frames": {
+                "1": 184
+            },
+            "hit_sound": -1,
+            "buffer_hit_damage": true
+        }
+    ],
+    "tags": [
+        "ranged"
+    ],
+    "damage_types": [
+        "magic"
+    ]
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
@@ -175,7 +221,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2832,
     "flavour_text": "",
     "description": {
-        "desc": "$(source_hero) gains one stack of glee each time she kills an enemy. For each stack of glee, her damage is increased by $(not_buffed amount)%, stacking multiplicatively. Glee has a 25% chance to lose one stack whenever a Champion other than $(source_hero) gets a kill."
+        "desc": "$(source_hero) gains one stack of glee each time she kills an enemy. For each stack of glee, her damage is increased by $(amount)%, stacking multiplicatively. Glee has a 25% chance to lose one stack whenever a Champion other than $(source_hero) gets a kill."
     },
     "effect_keys": [
         {
@@ -259,7 +305,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 11161,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -286,7 +335,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stack_func": "per_crusader",
             "tag": "geneutral|evil",
             "amount_updated_listeners": [
-                "slot_changed"
+                "slot_changed",
+                "feat_changed"
             ],
             "show_bonus": true,
             "stack_title": "Non-Good Champions",
@@ -383,7 +433,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "chance_on_attack_to_reset_attack_cooldown,50,991"
+            "effect_string": "chance_on_attack_to_reset_attack_cooldown,50,991,992,993,995"
         }
     ],
     "requirements": "",
@@ -445,7 +495,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2839,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of Glee is increased by $amount% for each non-DPS Champion in the formation, stacking multiplicatively."
+        "desc": "The effect of Glee is increased by $(not_buffed amount)% for each non-DPS Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -489,7 +539,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2840,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of Glee is increased by $amount% for each Champion in the formation who is a Tiefling or Dragonborn, stacking multiplicatively."
+        "desc": "The effect of Glee is increased by $(not_buffed amount)% for each Champion in the formation who is a Tiefling or Dragonborn, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -533,7 +583,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2841,
     "flavour_text": "",
     "description": {
-        "desc": "The effect of Glee is increased by $amount% for each member of the Oxventures Guild in the formation, stacking multiplicatively."
+        "desc": "The effect of Glee is increased by $(not_buffed amount)% for each member of the Oxventures Guild in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
