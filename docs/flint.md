@@ -294,6 +294,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
         },
         {
             "effect_string": "hero_dps_multiplier_mult,100",
+            "use_computed_amount_for_description": true,
             "targets": [
                 "col_and_prev_col"
             ],
@@ -399,6 +400,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
     "large_graphic_id": 29594,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -475,14 +477,12 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
     "effect_keys": [
         {
             "effect_string": "flint_take_the_initiative_handler",
-            "off_when_benched": true,
             "initiative_index": 1,
             "follow_through_index": 2,
             "stacks_per_hit": 1
         },
         {
             "effect_string": "do_nothing,0",
-            "off_when_benched": true,
             "stacks_on_trigger": "will_stack_manually",
             "stacks_multiply": false,
             "show_stacks": true,
@@ -491,7 +491,6 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
         },
         {
             "effect_string": "buff_upgrade,100,20130,1",
-            "off_when_benched": true,
             "stacks_on_trigger": "will_stack_manually",
             "stacks_multiply": true,
             "show_bonus": true,
@@ -507,7 +506,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0,
+        "default_bonus_index": 2,
         "retain_on_slot_changed": true
     }
 }
@@ -543,7 +542,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
             "amount_expr": "upgrade_amount(20134,0)",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "age<=40",
+            "per_hero_expr": "age<=40 && hero_id != 146",
             "show_bonus": true,
             "amount_updated_listeners": [
                 "slot_changed",
@@ -562,7 +561,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
         "retain_on_slot_changed": true,
-        "spec_option_post_apply_info": "Age 40 or lower Champions: $num_stacks___2"
+        "spec_option_post_apply_info": "Young Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -572,7 +571,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Forged in War** (Guess)
-> Increase the effect of Flint's Forged Bonds by 100% for each Heroes of the Lance Champion in the formation, stacking multiplicatively.
+> Increase the effect of Flint's Forged Bonds by 150% for each Heroes of the Lance Champion in the formation, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -586,7 +585,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack,100",
+            "effect_string": "pre_stack,150",
             "off_when_benched": true
         },
         {
@@ -624,7 +623,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Blood of Reorx** (Guess)
-> Increase the effect of Flint's Forged Bonds by 100% for each dwarf in the formation, stacking multiplicatively.
+> Increase the effect of Flint's Forged Bonds by 200% for each dwarf in the formation, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -638,7 +637,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack,100",
+            "effect_string": "pre_stack,200",
             "off_when_benched": true
         },
         {
@@ -734,11 +733,12 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
     "effect_keys": [
         {
             "effect_string": "add_hero_tags,0,breaking",
+            "off_when_benched": true,
             "skip_effect_key_desc": true
         },
         {
             "off_when_benched": true,
-            "effect_string": "increase_damage_against_monster_armor_and_hits_and_critshield,1",
+            "effect_string": "increase_damage_against_monster_armor_and_hits,1",
             "override_key_desc": "$(target)'s attacks removes an extra segment from enemies with segmented, armored, or critical health.",
             "targets": [
                 "all"
@@ -756,8 +756,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
     "large_graphic_id": 29603,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true,
-        "show_in_owner_outgoing": true
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -899,21 +898,21 @@ Unknown.
 > Help Laeral Silverhand track down a retired Open Lord.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: Forging Ahead** (Complete Area 75)
+![Forging Ahead Icon](images/flint/29586.png) **Variant 1: Forging Ahead** (Complete Area 75)
 > Flint starts in the formation. He can be moved, but not removed.   
 > Only champions in Flint's column and the column behind him can deal damage.   
 > Some pesky draconians spawn with each wave. They don't drop gold nor count towards quest progress.  
 > <b>Getting to Know Flint:</b> Flint's Forged Bonds ability only applies to Champions in his column and the one behind him. Put your main damage dealer in either of those columns!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: Road to Qualinesti** (Complete Area 125)
+![Road to Qualinesti Icon](images/flint/29587.png) **Variant 2: Road to Qualinesti** (Complete Area 125)
 > Flint starts in the formation. He can be moved, but not removed.   
 > An elf bard interested in securing Flint's service as a master craftsman joins the formation. If Flint is ever not adjacent to this elf, all Champion damage is set to 0.   
 > Only Champions who are dwarves, members of the Heroes of the Lance affiliation, and those of age 40 or younger may be used.  
 > <b>Getting to Know Flint:</b> Flint's first specialization lets you choose a group of Champions to further enhance his Forged Bonds ability. Which group best suits your needs?
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: First Strike** (Complete Area 175)
+![First Strike Icon](images/flint/29588.png) **Variant 3: First Strike** (Complete Area 175)
 > Flint starts in the formation. He cannot be moved, nor removed.   
 > Other than Flint, only Tasslehoff and Champions with the Control role may be used.   
 > Enemies move twice as fast, but the effect of knockbacks are increased by 200%.   
