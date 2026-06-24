@@ -611,6 +611,41 @@ We have been told that champions will wander around the Bastion and communicate 
 
 # Known Rooms
 
+## Apothecary
+
+Some graphics were found that had the format `Bastion/Rooms/Apothecary/...`:
+
+> [bastion_apothecary_doodad_apothecarydesk.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_apothecarydesk.png){:target="_blank"}  
+> [bastion_apothecary_doodad_baskets.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_baskets.png){:target="_blank"}  
+> [bastion_apothecary_doodad_chair.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_chair.png){:target="_blank"}  
+> [bastion_apothecary_doodad_couch.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_couch.png){:target="_blank"}  
+> [bastion_apothecary_doodad_hangingflowers.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_hangingflowers.png){:target="_blank"}  
+> [bastion_apothecary_doodad_hanginggarlic.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_hanginggarlic.png){:target="_blank"}  
+> [bastion_apothecary_doodad_hangingherbs.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_hangingherbs.png){:target="_blank"}  
+> [bastion_apothecary_doodad_ladder.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_ladder.png){:target="_blank"}  
+> [bastion_apothecary_doodad_notarydesk1.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_notarydesk1.png){:target="_blank"}  
+> [bastion_apothecary_doodad_notarydesk2.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_notarydesk2.png){:target="_blank"}  
+> [bastion_apothecary_doodad_ruglarge.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_ruglarge.png){:target="_blank"}  
+> [bastion_apothecary_doodad_rugsmall.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_rugsmall.png){:target="_blank"}  
+> [bastion_apothecary_doodad_scrollbarrel.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_scrollbarrel.png){:target="_blank"}  
+> [bastion_apothecary_doodad_skull.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_skull.png){:target="_blank"}  
+> [bastion_apothecary_doodad_supplies1.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_supplies1.png){:target="_blank"}  
+> [bastion_apothecary_doodad_supplies2.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_supplies2.png){:target="_blank"}  
+> [bastion_apothecary_doodad_supplies3.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_supplies3.png){:target="_blank"}  
+> [bastion_apothecary_doodad_supplies4.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_supplies4.png){:target="_blank"}  
+> [bastion_apothecary_doodad_verttable1.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_verttable1.png){:target="_blank"}  
+> [bastion_apothecary_doodad_verttable2.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_verttable2.png){:target="_blank"}  
+> [bastion_apothecary_doodad_wallplant.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_wallplant.png){:target="_blank"}  
+> [bastion_apothecary_floor_tile01.png](images/bastion/rooms/apothecary/bastion_apothecary_floor_tile01.png){:target="_blank"}  
+> [bastion_apothecary_floor_tile02.png](images/bastion/rooms/apothecary/bastion_apothecary_floor_tile02.png){:target="_blank"}  
+> [bastion_apothecary_floor_tile03.png](images/bastion/rooms/apothecary/bastion_apothecary_floor_tile03.png){:target="_blank"}  
+> [bastion_apothecary_wall_sidewallfront.png](images/bastion/rooms/apothecary/bastion_apothecary_wall_sidewallfront.png){:target="_blank"}  
+> [bastion_apothecary_wall_sidewallfront01.png](images/bastion/rooms/apothecary/bastion_apothecary_wall_sidewallfront01.png){:target="_blank"}  
+> [bastion_apothecary_wall_sidewallfront02.png](images/bastion/rooms/apothecary/bastion_apothecary_wall_sidewallfront02.png){:target="_blank"}  
+> [bastion_apothecary_wall_sidewalltop.png](images/bastion/rooms/apothecary/bastion_apothecary_wall_sidewalltop.png){:target="_blank"}  
+> [bastion_apothecary_wall_tile01.png](images/bastion/rooms/apothecary/bastion_apothecary_wall_tile01.png){:target="_blank"}  
+> [bastion_apothecary_wall_tile02.png](images/bastion/rooms/apothecary/bastion_apothecary_wall_tile02.png){:target="_blank"}  
+
 ## Extwalls
 
 Some graphics were found that had the format `Bastion/Rooms/Extwalls/...`:
@@ -732,6 +767,50 @@ Some graphics were found that had the format `Bastion/Rooms/Observatory/...`:
 > [bastion_observatory_wall_panel02.png](images/bastion/rooms/observatory/bastion_observatory_wall_panel02.png){:target="_blank"}  
 > [bastion_observatory_wall_panel03.png](images/bastion/rooms/observatory/bastion_observatory_wall_panel03.png){:target="_blank"}  
 > [bastion_observatory_wall_sidewalltop.png](images/bastion/rooms/observatory/bastion_observatory_wall_sidewalltop.png){:target="_blank"}  
+
+## Parlor
+
+Some graphics were found that had the format `Bastion/Rooms/Parlor/...`:
+
+*This room is known to be associated with the Patrons system.*
+
+> [bastion_parlor_doodad_blackstaff.png](images/bastion/rooms/parlor/bastion_parlor_doodad_blackstaff.png){:target="_blank"}  
+> [bastion_parlor_doodad_cabinet.png](images/bastion/rooms/parlor/bastion_parlor_doodad_cabinet.png){:target="_blank"}  
+> [bastion_parlor_doodad_chair.png](images/bastion/rooms/parlor/bastion_parlor_doodad_chair.png){:target="_blank"}  
+> [bastion_parlor_doodad_chandelier.png](images/bastion/rooms/parlor/bastion_parlor_doodad_chandelier.png){:target="_blank"}  
+> [bastion_parlor_doodad_couch1.png](images/bastion/rooms/parlor/bastion_parlor_doodad_couch1.png){:target="_blank"}  
+> [bastion_parlor_doodad_couch2.png](images/bastion/rooms/parlor/bastion_parlor_doodad_couch2.png){:target="_blank"}  
+> [bastion_parlor_doodad_couch3.png](images/bastion/rooms/parlor/bastion_parlor_doodad_couch3.png){:target="_blank"}  
+> [bastion_parlor_doodad_door.png](images/bastion/rooms/parlor/bastion_parlor_doodad_door.png){:target="_blank"}  
+> [bastion_parlor_doodad_fernlarge.png](images/bastion/rooms/parlor/bastion_parlor_doodad_fernlarge.png){:target="_blank"}  
+> [bastion_parlor_doodad_fernsmall.png](images/bastion/rooms/parlor/bastion_parlor_doodad_fernsmall.png){:target="_blank"}  
+> [bastion_parlor_doodad_fireplace.png](images/bastion/rooms/parlor/bastion_parlor_doodad_fireplace.png){:target="_blank"}  
+> [bastion_parlor_doodad_leafyshrub.png](images/bastion/rooms/parlor/bastion_parlor_doodad_leafyshrub.png){:target="_blank"}  
+> [bastion_parlor_doodad_patrontable1.png](images/bastion/rooms/parlor/bastion_parlor_doodad_patrontable1.png){:target="_blank"}  
+> [bastion_parlor_doodad_patrontable2.png](images/bastion/rooms/parlor/bastion_parlor_doodad_patrontable2.png){:target="_blank"}  
+> [bastion_parlor_doodad_portraitelminster.png](images/bastion/rooms/parlor/bastion_parlor_doodad_portraitelminster.png){:target="_blank"}  
+> [bastion_parlor_doodad_portraitmirt.png](images/bastion/rooms/parlor/bastion_parlor_doodad_portraitmirt.png){:target="_blank"}  
+> [bastion_parlor_doodad_portraitstrahd.png](images/bastion/rooms/parlor/bastion_parlor_doodad_portraitstrahd.png){:target="_blank"}  
+> [bastion_parlor_doodad_portraitvajra.png](images/bastion/rooms/parlor/bastion_parlor_doodad_portraitvajra.png){:target="_blank"}  
+> [bastion_parlor_doodad_portraitzariel.png](images/bastion/rooms/parlor/bastion_parlor_doodad_portraitzariel.png){:target="_blank"}  
+> [bastion_parlor_doodad_roses.png](images/bastion/rooms/parlor/bastion_parlor_doodad_roses.png){:target="_blank"}  
+> [bastion_parlor_doodad_rug.png](images/bastion/rooms/parlor/bastion_parlor_doodad_rug.png){:target="_blank"}  
+> [bastion_parlor_doodad_shelvesleft.png](images/bastion/rooms/parlor/bastion_parlor_doodad_shelvesleft.png){:target="_blank"}  
+> [bastion_parlor_doodad_shelvesright.png](images/bastion/rooms/parlor/bastion_parlor_doodad_shelvesright.png){:target="_blank"}  
+> [bastion_parlor_doodad_shrub.png](images/bastion/rooms/parlor/bastion_parlor_doodad_shrub.png){:target="_blank"}  
+> [bastion_parlor_doodad_sidetable.png](images/bastion/rooms/parlor/bastion_parlor_doodad_sidetable.png){:target="_blank"}  
+> [bastion_parlor_doodad_telescope.png](images/bastion/rooms/parlor/bastion_parlor_doodad_telescope.png){:target="_blank"}  
+> [bastion_parlor_doodad_throne.png](images/bastion/rooms/parlor/bastion_parlor_doodad_throne.png){:target="_blank"}  
+> [bastion_parlor_doodad_urn1.png](images/bastion/rooms/parlor/bastion_parlor_doodad_urn1.png){:target="_blank"}  
+> [bastion_parlor_floor_panel01.png](images/bastion/rooms/parlor/bastion_parlor_floor_panel01.png){:target="_blank"}  
+> [bastion_parlor_floor_panel02.png](images/bastion/rooms/parlor/bastion_parlor_floor_panel02.png){:target="_blank"}  
+> [bastion_parlor_floor_panel03.png](images/bastion/rooms/parlor/bastion_parlor_floor_panel03.png){:target="_blank"}  
+> [bastion_parlor_wall_frontwallpanel.png](images/bastion/rooms/parlor/bastion_parlor_wall_frontwallpanel.png){:target="_blank"}  
+> [bastion_parlor_wall_panel01.png](images/bastion/rooms/parlor/bastion_parlor_wall_panel01.png){:target="_blank"}  
+> [bastion_parlor_wall_shadow.png](images/bastion/rooms/parlor/bastion_parlor_wall_shadow.png){:target="_blank"}  
+> [bastion_parlor_wall_sidewallfront.png](images/bastion/rooms/parlor/bastion_parlor_wall_sidewallfront.png){:target="_blank"}  
+> [bastion_parlor_wall_sidewalltop.png](images/bastion/rooms/parlor/bastion_parlor_wall_sidewalltop.png){:target="_blank"}  
+> [bastion_parlor_wall_window.png](images/bastion/rooms/parlor/bastion_parlor_wall_window.png){:target="_blank"}  
 
 ## Reliquary
 
