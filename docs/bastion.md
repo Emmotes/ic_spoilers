@@ -1,5 +1,15 @@
 [Back to Main](index.md)
 
+# Table of Contents
+
+* [Bastion](#bastion)
+* [Roadmap Information](#roadmap-information)
+* [Tutorial Texts](#tutorial-texts)
+* [Trophies](#trophies)
+* [Champion Interests](#champion-interests)
+* [Known Rooms](#known-rooms)
+* [Text Defines](#text-defines)
+
 # Bastion
 
 This appears to be some kind of new system in the game. We know very little about it except for some text defines and graphics.
@@ -58,6 +68,546 @@ Five new Patron shop items were added - one for each patron.
 | Bastion Trophy - Strahd | 1.00e05 | 1.50e10 | 8 |
 | Bastion Trophy - Zariel | 1.00e05 | 2.80e10 | 9 |
 | Bastion Trophy - Elminster | 1.00e05 | 1.00e15 | 10 |
+
+# Champion Interests
+
+We have been told that champions will wander around the Bastion and communicate with oneanother. The way they will do this appears to be through thought bubbles.
+
+## Alignment
+
+{::nomarkdown}
+
+<div style="display:flex;flex-wrap:wrap;gap:5px;">
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Chaotic
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_alignment_chaotic.png" src="images/bastion/interests/icon_interest_alignment_chaotic.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Evil
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_alignment_evil.png" src="images/bastion/interests/icon_interest_alignment_evil.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Good
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_alignment_good.png" src="images/bastion/interests/icon_interest_alignment_good.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Lawful
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_alignment_lawful.png" src="images/bastion/interests/icon_interest_alignment_lawful.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Neutral
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_alignment_neutral.png" src="images/bastion/interests/icon_interest_alignment_neutral.png">
+    </div>
+  </div>
+</div>
+</div>
+
+{:/nomarkdown}
+
+## Class
+
+{::nomarkdown}
+
+<div style="display:flex;flex-wrap:wrap;gap:5px;">
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Artificier
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_class_artificier.png" src="images/bastion/interests/icon_interest_class_artificier.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Barbarian
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_class_barbarian.png" src="images/bastion/interests/icon_interest_class_barbarian.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Bard
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_class_bard.png" src="images/bastion/interests/icon_interest_class_bard.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Cleric
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_class_cleric.png" src="images/bastion/interests/icon_interest_class_cleric.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Druid
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_class_druid.png" src="images/bastion/interests/icon_interest_class_druid.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Fighter
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_class_fighter.png" src="images/bastion/interests/icon_interest_class_fighter.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Monk
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_class_monk.png" src="images/bastion/interests/icon_interest_class_monk.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Paladin
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_class_paladin.png" src="images/bastion/interests/icon_interest_class_paladin.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Ranger
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_class_ranger.png" src="images/bastion/interests/icon_interest_class_ranger.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Rogue
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_class_rogue.png" src="images/bastion/interests/icon_interest_class_rogue.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Sorceror
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_class_sorceror.png" src="images/bastion/interests/icon_interest_class_sorceror.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Warlock
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_class_warlock.png" src="images/bastion/interests/icon_interest_class_warlock.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Wizard
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_class_wizard.png" src="images/bastion/interests/icon_interest_class_wizard.png">
+    </div>
+  </div>
+</div>
+</div>
+
+{:/nomarkdown}
+
+## Damage
+
+{::nomarkdown}
+
+<div style="display:flex;flex-wrap:wrap;gap:5px;">
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Magic
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_damage_magic.png" src="images/bastion/interests/icon_interest_damage_magic.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Melee
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_damage_melee.png" src="images/bastion/interests/icon_interest_damage_melee.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Ranged
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_damage_ranged.png" src="images/bastion/interests/icon_interest_damage_ranged.png">
+    </div>
+  </div>
+</div>
+</div>
+
+{:/nomarkdown}
+
+## Monster
+
+{::nomarkdown}
+
+<div style="display:flex;flex-wrap:wrap;gap:5px;">
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Abberation
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_monster_abberation.png" src="images/bastion/interests/icon_interest_monster_abberation.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Beast
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_monster_beast.png" src="images/bastion/interests/icon_interest_monster_beast.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Celestial
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_monster_celestial.png" src="images/bastion/interests/icon_interest_monster_celestial.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Construct
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_monster_construct.png" src="images/bastion/interests/icon_interest_monster_construct.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Dragon
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_monster_dragon.png" src="images/bastion/interests/icon_interest_monster_dragon.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Elemental
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_monster_elemental.png" src="images/bastion/interests/icon_interest_monster_elemental.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Fey
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_monster_fey.png" src="images/bastion/interests/icon_interest_monster_fey.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Fiend
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_monster_fiend.png" src="images/bastion/interests/icon_interest_monster_fiend.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Giant
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_monster_giant.png" src="images/bastion/interests/icon_interest_monster_giant.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Humanoid
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_monster_humanoid.png" src="images/bastion/interests/icon_interest_monster_humanoid.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Monstrosity
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_monster_monstrosity.png" src="images/bastion/interests/icon_interest_monster_monstrosity.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Ooze
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_monster_ooze.png" src="images/bastion/interests/icon_interest_monster_ooze.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Plant
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_monster_plant.png" src="images/bastion/interests/icon_interest_monster_plant.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Undead
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_monster_undead.png" src="images/bastion/interests/icon_interest_monster_undead.png">
+    </div>
+  </div>
+</div>
+</div>
+
+{:/nomarkdown}
+
+## Reaction
+
+{::nomarkdown}
+
+<div style="display:flex;flex-wrap:wrap;gap:5px;">
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Negative
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_reaction_negative.png" src="images/bastion/interests/icon_interest_reaction_negative.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Neutral
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_reaction_neutral.png" src="images/bastion/interests/icon_interest_reaction_neutral.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Positive
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_reaction_positive.png" src="images/bastion/interests/icon_interest_reaction_positive.png">
+    </div>
+  </div>
+</div>
+</div>
+
+{:/nomarkdown}
+
+## Role
+
+{::nomarkdown}
+
+<div style="display:flex;flex-wrap:wrap;gap:5px;">
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Breaker
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_role_breaking.png" src="images/bastion/interests/icon_interest_role_breaking.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Control
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_role_control.png" src="images/bastion/interests/icon_interest_role_control.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Debuff
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_role_debuff.png" src="images/bastion/interests/icon_interest_role_debuff.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    DPS
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_role_dps.png" src="images/bastion/interests/icon_interest_role_dps.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Gold
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_role_gold.png" src="images/bastion/interests/icon_interest_role_gold.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Healing
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_role_healing.png" src="images/bastion/interests/icon_interest_role_healing.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Hunter
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_role_hunter.png" src="images/bastion/interests/icon_interest_role_hunter.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Speed
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_role_speed.png" src="images/bastion/interests/icon_interest_role_speed.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Support
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_role_support.png" src="images/bastion/interests/icon_interest_role_support.png">
+    </div>
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Tanking
+  </div>
+  <div style="background-image:url(images/bastion/interests/icon_interest_wordbubble.png);width:66px;height:70px;">
+    <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;height:60px;">
+      <img alt="icon_interest_role_tanking.png" src="images/bastion/interests/icon_interest_role_tanking.png">
+    </div>
+  </div>
+</div>
+</div>
+<br>
+
+{:/nomarkdown}
+
 
 # Known Rooms
 
