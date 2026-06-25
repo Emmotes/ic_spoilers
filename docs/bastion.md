@@ -7,6 +7,7 @@
 * [Tutorial Texts](#tutorial-texts)
 * [Trophies](#trophies)
 * [Champion Interests](#champion-interests)
+* [Interactive Icons](#interactive-icons)
 * [Known Rooms](#known-rooms)
 * [Text Defines](#text-defines)
 
@@ -608,6 +609,223 @@ We have been told that champions will wander around the Bastion and communicate 
 
 {:/nomarkdown}
 
+# Interactive Icons
+
+{::nomarkdown}
+
+<div style="display:flex;flex-wrap:wrap;gap:15px;">
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Active Tasks
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_ActiveTasks.png" src="images/bastion/interactive/icon_bastion_interactive_ActiveTasks.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Apothecary
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Apothecary.png" src="images/bastion/interactive/icon_bastion_interactive_Apothecary.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Arcana
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Arcana.png" src="images/bastion/interactive/icon_bastion_interactive_Arcana.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Blessings
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Blessings.png" src="images/bastion/interactive/icon_bastion_interactive_Blessings.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Blueprint
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Blueprint.png" src="images/bastion/interactive/icon_bastion_interactive_Blueprint.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Calendar
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Calendar.png" src="images/bastion/interactive/icon_bastion_interactive_Calendar.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Campaign Map
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_CampaignMap.png" src="images/bastion/interactive/icon_bastion_interactive_CampaignMap.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Champion Shop
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_ChampionShop.png" src="images/bastion/interactive/icon_bastion_interactive_ChampionShop.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Chest Shop
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_ChestShop.png" src="images/bastion/interactive/icon_bastion_interactive_ChestShop.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Chests
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Chests.png" src="images/bastion/interactive/icon_bastion_interactive_Chests.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Collections
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Collections.png" src="images/bastion/interactive/icon_bastion_interactive_Collections.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Familiar Encyclopedia
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_FamiliarEncyclopedia.png" src="images/bastion/interactive/icon_bastion_interactive_FamiliarEncyclopedia.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Familiar Shop
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_FamiliarShop.png" src="images/bastion/interactive/icon_bastion_interactive_FamiliarShop.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Forge Upgrade
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_ForgeUpgrade.png" src="images/bastion/interactive/icon_bastion_interactive_ForgeUpgrade.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Guide Quests
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_GuideQuests.png" src="images/bastion/interactive/icon_bastion_interactive_GuideQuests.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Journal
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Journal.png" src="images/bastion/interactive/icon_bastion_interactive_Journal.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Legendary Forge
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_LegendaryForge.png" src="images/bastion/interactive/icon_bastion_interactive_LegendaryForge.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Modron
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Modron.png" src="images/bastion/interactive/icon_bastion_interactive_Modron.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Multiparty
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Multiparty.png" src="images/bastion/interactive/icon_bastion_interactive_Multiparty.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Music
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Music.png" src="images/bastion/interactive/icon_bastion_interactive_Music.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Notary
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Notary.png" src="images/bastion/interactive/icon_bastion_interactive_Notary.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Patrons
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Patrons.png" src="images/bastion/interactive/icon_bastion_interactive_Patrons.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Shop
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Shop.png" src="images/bastion/interactive/icon_bastion_interactive_Shop.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Timegate
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Timegate.png" src="images/bastion/interactive/icon_bastion_interactive_Timegate.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Trials
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Trials.png" src="images/bastion/interactive/icon_bastion_interactive_Trials.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Trophies
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;min-width:64px;height:62px;">
+    <img alt="icon_bastion_interactive_Trophies.png" src="images/bastion/interactive/icon_bastion_interactive_Trophies.png">
+  </div>
+</div>
+</div>
+<br>
+
+{:/nomarkdown}
 
 # Known Rooms
 
