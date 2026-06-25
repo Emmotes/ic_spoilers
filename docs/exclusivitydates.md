@@ -35,23 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Karlach</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2481**Prodigal Leader (Karlach)**Always bet on Mama K!<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">25 Jun 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Tasslehoff</span>
         </span>
         <span class="featTableIcon4">
