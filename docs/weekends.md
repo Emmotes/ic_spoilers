@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/818.png">
-            <span class="weekendTooltipContents">ID: 818**Gold Forbidden Lore Chest**Loot for: Jarlaxle, Bruenor, Tasslehoff, Raistlin and Laurana<code>"for_crusaders":[4,1,174,173,175]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Forbidden Lore**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    26 June 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Laurana
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/jarlaxle.png')">
-                        <span class="weekendTableChampionNameplate">Jarlaxle</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 4**Jarlaxle Baenre**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/bruenor.png')">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 1**Bruenor Battlehammer**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/tasslehoff.png')">
-                        <span class="weekendTableChampionNameplate">Tasslehoff</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 174**Tasslehoff Burrfoot**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/raistlin.png')">
-                        <span class="weekendTableChampionNameplate">Raistlin</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 173**Raistlin Majere**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/laurana.png')">
-                        <span class="weekendTableChampionNameplate">Laurana</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 175**Lauralanthalasa Kanan**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/822.png">
             <span class="weekendTooltipContents">ID: 822**Gold Mist-Shrouded Chest**Loot for: Minsc, Hitch, Briv, Diana and Van Richten<code>"for_crusaders":[7,13,58,148,177]</code></span>
         </span>
