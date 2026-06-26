@@ -27,7 +27,7 @@
     </span>
 </span>
 
-# Rudolph Van Richten
+# Rudolph van Richten
 
 He was born in Rivalis in Darkon in 671 BC. He took medicine at the University of Il Aluk, completing his four or five year program of study in 693 BC. This humble man was spurred into a life of monster hunting when his son Erasmus van Richten was kidnapped by the Radanavich clan and sold to Baron Metus. Metus turned Erasmus into a vampire groom and Van Richten was forced to slay his son. In revenge, Metus killed Rudolph's wife, Ingrid van Richten. Van Richten eventually slew Metus, and then, with the help of Azalin, the entire Radanavich tribe.
 
@@ -35,7 +35,7 @@ He was born in Rivalis in Darkon in 671 BC. He took medicine at the University o
 
 # Basic Information
 
-Rudolph Van Richten will be a new champion in the Founders' Day event on 1 July 2026.
+Rudolph van Richten will be a new champion in the Founders' Day event on 1 July 2026.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">
@@ -43,7 +43,7 @@ Rudolph Van Richten will be a new champion in the Founders' Day event on 1 July 
             <span style="margin-right:4px;">**Seat**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">10</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -51,7 +51,7 @@ Rudolph Van Richten will be a new champion in the Founders' Day event on 1 July 
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Human (Guess)</span>
+            <span style="margin-left:8px;">Human</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -59,7 +59,7 @@ Rudolph Van Richten will be a new champion in the Founders' Day event on 1 July 
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Cleric</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -67,7 +67,7 @@ Rudolph Van Richten will be a new champion in the Founders' Day event on 1 July 
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Support / Healing / Speed / Debuff / Hunter / Control (Guess)</span>
+            <span style="margin-left:8px;">Support / Hunter / Debuff</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -75,7 +75,7 @@ Rudolph Van Richten will be a new champion in the Founders' Day event on 1 July 
             <span style="margin-right:4px;">**Age**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">75</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -83,7 +83,7 @@ Rudolph Van Richten will be a new champion in the Founders' Day event on 1 July 
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Male (Guess)</span>
+            <span style="margin-left:8px;">Male</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -91,7 +91,7 @@ Rudolph Van Richten will be a new champion in the Founders' Day event on 1 July 
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Lawful Good</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -99,7 +99,7 @@ Rudolph Van Richten will be a new champion in the Founders' Day event on 1 July 
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">-</span>
         </span>
     </span>
 </span>
@@ -934,15 +934,15 @@ Unknown.
 <span class="championImagesColumn">
     <span class="championImagesRow">
         <span class="championImagesPortrait">
-            ![Rudolph Van Richten Console Portrait](images/vanrichten/console.png)Console Portrait
+            ![Rudolph van Richten Console Portrait](images/vanrichten/console.png)Console Portrait
         </span>
     </span>
     <span class="championImagesRow">
         <span class="championImagesChests">
-            ![Rudolph Van Richten Gold Chest Icon](images/vanrichten/chest_gold.png)Gold Chest Icon
+            ![Rudolph van Richten Gold Chest Icon](images/vanrichten/chest_gold.png)Gold Chest Icon
         </span>
         <span class="championImagesChests">
-            ![Rudolph Van Richten Silver Chest Icon](images/vanrichten/chest_silver.png)Silver Chest Icon
+            ![Rudolph van Richten Silver Chest Icon](images/vanrichten/chest_silver.png)Silver Chest Icon
         </span>
     </span>
 </span>

@@ -27,14 +27,14 @@ These are the new event champions that are upcoming and all the information we k
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Rudolph Van Richten Portrait Icon](images/vanrichten/portrait.png)
+            ![Rudolph van Richten Portrait Icon](images/vanrichten/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Rudolph Van Richten
+                Rudolph van Richten
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Cleric</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Founders' Day - 1 July 2026</span>
@@ -366,14 +366,14 @@ Events will have either one rework OR three rebalances.
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Rudolph Van Richten Portrait Icon](images/vanrichten/portrait.png)
+            ![Rudolph van Richten Portrait Icon](images/vanrichten/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Rudolph Van Richten
+                Rudolph van Richten
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human (Guess)</span>
+                <span class="indexChampionTableNoLink">Human Cleric</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">

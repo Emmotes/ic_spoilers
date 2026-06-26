@@ -47,7 +47,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/vanrichten.png')">
                         <span class="weekendTableChampionNameplate">Van Richten</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 177**Rudolph Van Richten**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 177**Rudolph van Richten**</span>
                     </span>
                 </span>
             </span>
