@@ -4,8 +4,6 @@
 
 A list of recently archived spoilers. Note that I delete archives older than 6 months to avoid bloat.
 
-* [Anson Iro](archive/anson.md)
-* [Binwin](archive/binwin.md)
 * [Deekin](archive/deekin.md)
 * [Donaar](archive/donaar.md)
 * [Dragondown Augments](archive/augments_30.md)
