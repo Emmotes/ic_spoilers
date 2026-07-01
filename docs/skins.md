@@ -162,7 +162,160 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Hew Maan Portrait](images/skin_portraits/chromatichewmaan.png)<span class="featTooltipContents">ID: 914**Chromatic Hew Maan (Hew Maan)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/chromatichewmaan.webp" alt="Chromatic Hew Maan Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromatichewmaan-kleeb.webp" alt="Chromatic Hew Maan Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromatichewmaan-yassa.webp" alt="Chromatic Hew Maan Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromatichewmaan-zrang.webp" alt="Chromatic Hew Maan Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 715**Master Craftsman Flint (Flint)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Master Craftsman Flint
+        </span>
+        <span class="skinTableSource">
+            Master Craftsman Flint Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            05 Aug 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 718**Weaponsmith Lae'zel (Lae'zel)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Weaponsmith Lae'zel
+        </span>
+        <span class="skinTableSource">
+            Weaponsmith Lae'zel Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            12 Aug 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 719**Prismatic Painter Ellywick (Ellywick)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Prismatic Painter Ellywick
+        </span>
+        <span class="skinTableSource">
+            Prismatic Painter Ellywick Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            19 Aug 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 720**Caramon, Guardian of the Future (Caramon)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Caramon, Guardian of the Future
+        </span>
+        <span class="skinTableSource">
+            Caramon, Guardian of the Future Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            02 Sept 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 722**Dungeon Botanist Stoki (Stoki)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Dungeon Botanist Stoki
+        </span>
+        <span class="skinTableSource">
+            Dungeon Botanist Stoki Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            02 Sept 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 721**Schoolyard Bruiser Bobby (Bobby)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Schoolyard Bruiser Bobby
+        </span>
+        <span class="skinTableSource">
+            Schoolyard Bruiser Bobby Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            02 Sept 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 723**Pungent Professor Pwent (Pwent)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Pungent Professor Pwent
+        </span>
+        <span class="skinTableSource">
+            Pungent Professor Pwent Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            09 Sept 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 724**Shadow Studies Cazrin (Cazrin)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Shadow Studies Cazrin
+        </span>
+        <span class="skinTableSource">
+            Shadow Studies Cazrin Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            16 Sept 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 725**Scholar of the Nine Hells Karlach (Karlach)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Scholar of the Nine Hells Karlach
+        </span>
+        <span class="skinTableSource">
+            Scholar of the Nine Hells Karlach Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            30 Sept 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Hew Maan Portrait](images/skin_portraits/chromatichewmaan.png)<span class="featTooltipContents">ID: 925**Chromatic Hew Maan (Hew Maan)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/chromatichewmaan.webp" alt="Chromatic Hew Maan Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromatichewmaan-kleeb.webp" alt="Chromatic Hew Maan Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromatichewmaan-yassa.webp" alt="Chromatic Hew Maan Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromatichewmaan-zrang.webp" alt="Chromatic Hew Maan Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Chromatic Hew Maan

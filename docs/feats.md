@@ -33,7 +33,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Nahara</span>
         </span>
         <span class="featTableIcon4">
-            ![Everlasting Bonds Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2587**Everlasting Bonds (Nahara)**Stand with me now, as I stand with all of you.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nahara's Strong Society ability by 20% for each Black Dice Society affiliation member in the formation, stacking additively.</span><code>effect_def,2795<br>DevNote: blah blah blah</code></span>Everlasting Bonds
+            ![Everlasting Bonds Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2587**Everlasting Bonds (Nahara)**Stand with me now, as I stand with all of you.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nahara's Strong Society ability by 20% for each Black Dice Society affiliation member in the formation, stacking additively.</span><code>effect_def,2795</code></span>Everlasting Bonds
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Nahara's Strong Society ability by 20% for each Black Dice Society affiliation member in the formation, stacking additively.</span>
@@ -64,10 +64,27 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Van Richten</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vampire Slayer Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2692**Vampire Slayer (Van Richten)**You do not frighten me, monster. On the contrary, you should be afraid.<br><br><span style="color:var(--Flavescent)">Increases the effect of Van Richten's first set of Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,19700,19701,19702</code></span>Vampire Slayer
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Van Richten's first set of Specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jul 2026<br>01 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Strongheart</span>
         </span>
         <span class="featTableIcon4">
-            ![Guided Strike Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 982**Guided Strike (Strongheart)**Altogether now! May our blades strike true!<br><br><span style="color:var(--Flavescent)">Strongheart increases his crit chance by 5% for each adjacent Champion.</span><code>effect_def,2793<br>DevNote: blah blah blah</code></span>Guided Strike
+            ![Guided Strike Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 982**Guided Strike (Strongheart)**Altogether now! May our blades strike true!<br><br><span style="color:var(--Flavescent)">Strongheart increases his crit chance by 5% for each adjacent Champion.</span><code>effect_def,2793</code></span>Guided Strike
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Strongheart increases his crit chance by 5% for each adjacent Champion.</span>
@@ -124,7 +141,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Lae'zel adds up the total Strength scores of all the Champions adjacent to her and increases the effect of Lethal Coordination by 100% for every 5 Strength she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">$0.00</span>
+            <span class="featTableInner">1,680 Platinum</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">22 Jul 2026</span>
@@ -156,6 +173,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the amount of health segments broken by Armor Eating Acid by 1.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Emergence 16</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Van Richten</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Inevitable Triumph Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2700**Inevitable Triumph (Van Richten)**I have faith that my students will carry on my work long after I am gone.<br><br><span style="color:var(--Flavescent)">Increases the effect of Van Richten's Triumph ability by 80%.</span><code>buff_upgrade,80,19698</code></span>Inevitable Triumph
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Van Richten's Triumph ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Emergence 16</span>
@@ -566,6 +600,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Van Richten</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Always Among Monsters Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2685**Always Among Monsters (Van Richten)**What a terrible night to have a curse.<br><br><span style="color:var(--Flavescent)">Increases the effect of Van Richten's Beyond the Grave ability by 80%.</span><code>buff_upgrade,80,19697</code></span>Always Among Monsters
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Van Richten's Beyond the Grave ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Farideh</span>
         </span>
         <span class="featTableIcon4">
@@ -573,6 +624,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases Farideh's Chosen of Asmodeus max stacks to 30.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Van Richten</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Eternal Triumph Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2690**Eternal Triumph (Van Richten)**Every foe felled ensures that my son's death was not in vain.<br><br><span style="color:var(--Flavescent)">Increases the effect of Van Richten's Watched by Erasmus ability by 80%.</span><code>buff_upgrade,80,19699,1</code></span>Eternal Triumph
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Van Richten's Watched by Erasmus ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
