@@ -100,7 +100,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Righteous Might** (Guess)
-> Whenever Strongheart lands a critical hit, for the next 20 seconds he increases the damage of $(upgrade_name id) by 400%, increases the healing amount of $(upgrade_name id___2) by 100%, and reduces the base attack speed cooldown of himself and Champions affected by Justice Needs Champions by 0.5 seconds.
+> Whenever Strongheart lands a critical hit, for the next 20 seconds he increases the damage of Justice Needs Champions by 400%, increases the healing amount of Courage to Stand by 100%, and reduces the base attack speed cooldown of himself and Champions affected by Justice Needs Champions by 0.5 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -185,7 +185,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Valor's Call** (Guess)
-> Strongheart increases the damage bonus of $(upgrade_name id___2) by 100% for each good Champion in the formation, stacking multiplicatively.
+> Strongheart increases the damage bonus of Justice Needs Champions by 100% for each good Champion in the formation, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -237,7 +237,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Honorary Member** (Guess)
-> Strongheart gains the affiliation(s) of the most populous affiliation(s) in the formation, and increases the damage bonus of $(upgrade_name id) by 150% for each Champion from the affiliation(s), stacking multiplicatively.
+> Strongheart gains the affiliation(s) of the most populous affiliation(s) in the formation, and increases the damage bonus of Justice Needs Champions by 150% for each Champion from the affiliation(s), stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
