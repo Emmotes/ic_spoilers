@@ -96,6 +96,9 @@ These are the new event champions that are upcoming and all the information we k
                 <span class="indexChampionTableNoLink">Highharvestide - 2 September 2026</span>
             </span>
         </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐<br>Roadmapped 🗺️
         </span>
@@ -588,6 +591,9 @@ Events will have either one rework OR three rebalances.
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐<br>Roadmapped 🗺️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
 {::nomarkdown}
