@@ -198,7 +198,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
     "description": "Flint deals one ultimate hit to a small group of nearby enemies and knocks them back.",
     "long_description": "Flint deals one ultimate hit to a small group of nearby enemies, knocking them far away and stunning them.",
     "graphic_id": 29611,
-    "target": "front",
+    "target": "front_retaliate_if_possible",
     "num_targets": 1,
     "aoe_radius": 200,
     "damage_modifier": 0.03,
@@ -364,7 +364,10 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing,10",
+            "effect_string": "reduce_incoming_damage_percent,10",
+            "targets": [
+                "all"
+            ],
             "off_when_benched": true,
             "amount_func": "add",
             "stack_func": "per_hero_attribute",
@@ -378,21 +381,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
             ],
             "max_resistance_for_description": 90,
             "retarget_when_any_hero_slot_changed": true,
-            "retarget_when_any_hero_tags_changed": true
-        },
-        {
-            "effect_string": "reduce_incoming_damage_percent,0",
-            "off_when_benched": true,
-            "amount_expr": "upgrade_amount(20131,0)",
-            "targets": [
-                "all"
-            ],
-            "amount_updated_listeners": [
-                "slot_changed",
-                "hero_tags_changed"
-            ],
-            "retarget_when_any_hero_slot_changed": true,
-            "retarget_when_any_hero_tags_changed": true
+            "use_computed_amount_for_description": true
         }
     ],
     "requirements": "",
@@ -472,7 +461,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
     "id": 2800,
     "flavour_text": "",
     "description": {
-        "desc": "Until he takes damage in an area, Flint gains $(if feat_assigned 2717)$stacks_per_hit Initiative stacks$(else)an Initiative stack$(fi) whenever he attacks an enemy. Once he has taken damage, Flint gains Follow-Through stacks when he attacks instead. The damage of Forged Bonds is increased by $amount___3% for each Follow-Through stack he has, stacking multiplicatively. The number of Follow-Through stacks can not exceed the number of Initiative stacks he has gained, and Initiative caps at $max_stacks___2 stacks. Both stacks reset when changing areas or when Flint is moved in the formation or removed from it."
+        "desc": "Until he takes damage in an area, Flint gains $(if feat_assigned 2717)$stacks_per_hit Initiative stacks$(else)an Initiative stack$(fi) whenever he attacks an enemy. Once he has taken damage, Flint gains Follow-Through stacks when he attacks instead. The damage of Forged Bonds is increased by $(not_buffed amount___3)% for each Follow-Through stack he has, stacking multiplicatively. The number of Follow-Through stacks can not exceed the number of Initiative stacks he has gained, and Initiative caps at $max_stacks___2 stacks. Both stacks reset when changing areas or when Flint is moved in the formation or removed from it."
     },
     "effect_keys": [
         {
@@ -778,7 +767,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing,10000",
+            "effect_string": "hero_dps_multiplier_mult,10000",
             "off_when_benched": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
@@ -788,13 +777,8 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
             "amount_updated_listeners": [
                 "slot_changed",
                 "hero_tags_changed"
-            ]
-        },
-        {
-            "effect_string": "hero_dps_multiplier_mult,0",
-            "off_when_benched": true,
-            "amount_expr": "upgrade_amount(20139,0)",
-            "skip_effect_key_desc": true
+            ],
+            "use_computed_amount_for_description": true
         },
         {
             "effect_string": "add_hero_tags,0,dps",
