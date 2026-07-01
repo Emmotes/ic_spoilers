@@ -44,11 +44,11 @@ We know the next Emergence event will be Strahd Zombies and that it will start o
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Golden Epic](images/general/unknown.png)
+            <span class="tooltipHolder">![Golden Epic Icon for Van Richten Slot 3](images/emergence_16/ge_4237.png)<span class="itemTooltipContents">ID: 4237**Blessed Bandolier (Van Richten)**Holy water and spell scrolls. No matter what awaits me, I am always prepared.<br><br><span style="color:var(--Flavescent)">Increases the effect of Van Richten's Triumph ability by 275%.</span><code>buff_upgrade,275,19698</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Golden Epic**</span>
-            <span style="margin-left:15px">slot 3</span>
+            <span style="margin-left:15px">Blessed Bandolier</span>
             <span style="margin-left:15px">Van Richten (Slot 3)</span>
         </span>
     </span>
@@ -83,11 +83,12 @@ We know the next Emergence event will be Strahd Zombies and that it will start o
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
-            ![Unknown Feat Icon](images/general/unknown.png)
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Inevitable Triumph Feat Icon](images/emergence_16/feat_2700.png)<span class="featTooltipContents">ID: 2700**Inevitable Triumph (Van Richten)**I have faith that my students will carry on my work long after I am gone.<br><br><span style="color:var(--Flavescent)">Increases the effect of Van Richten's Triumph ability by 80%.</span><code>buff_upgrade,80,19698</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
             <span style="margin-left:15px">Inevitable Triumph</span>
+            <span style="margin-left:15px">Van Richten</span>
         </span>
     </span>
     <span class="emergenceShopTableItem">
