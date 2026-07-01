@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Eldritch Horror Nahara Portrait](images/skin_portraits/eldritchhorrornahara.png)<span class="featTooltipContents">ID: 703**Eldritch Horror Nahara (Nahara)**<img src="images/skin_models/eldritchhorrornahara.webp" alt="Eldritch Horror Nahara Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Eldritch Horror Nahara
-        </span>
-        <span class="skinTableSource">
-            Eldritch Horror Nahara Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            01 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Rictavio Van Richten Portrait](images/skin_portraits/rictaviovanrichten.png)<span class="featTooltipContents">ID: 702**Rictavio Van Richten (Van Richten)**<img src="images/skin_models/rictaviovanrichten.webp" alt="Rictavio Van Richten Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Rictavio Van Richten
-        </span>
-        <span class="skinTableSource">
-            Rictavio Van Richten Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            01 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Vampire Slayer Tess Portrait](images/skin_portraits/vampireslayertess.png)<span class="featTooltipContents">ID: 704**Vampire Slayer Tess (Tess)**<img src="images/skin_models/vampireslayertess.webp" alt="Vampire Slayer Tess Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Vampire Slayer Tess
-        </span>
-        <span class="skinTableSource">
-            Vampire Slayer Tess Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            01 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Ravenloft's Champion Strongheart Portrait](images/skin_portraits/ravenloftschampionstrongheart.png)<span class="featTooltipContents">ID: 705**Ravenloft's Champion Strongheart (Strongheart)**<img src="images/skin_models/ravenloftschampionstrongheart.webp" alt="Ravenloft's Champion Strongheart Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
