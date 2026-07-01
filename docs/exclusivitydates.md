@@ -225,7 +225,7 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">Laurana</span>
         </span>
         <span class="featTableIcon4">
-            ![Golden Glory Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2572**Golden Glory (Laurana)**You see, Tanis? I'm not the love-sick child you knew. ~Laurana<br><br><span style="color:var(--Flavescent)">Increases the effect of Laurana's Golden General ability by 80%. (Prestack)</span><code>buff_upgrade,80,19350</code></span>Golden Glory
+            ![Golden Glory Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2572**Golden Glory (Laurana)**You see, Tanis? I’m not the love-sick child you knew. ~Laurana<br><br><span style="color:var(--Flavescent)">Increases the effect of Laurana's Golden General ability by 80%. (Prestack)</span><code>buff_upgrade,80,19350</code></span>Golden Glory
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Laurana's Golden General ability by 80%. (Prestack)</span>
