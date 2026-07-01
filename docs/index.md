@@ -23,34 +23,6 @@ These are the new event champions that are upcoming and all the information we k
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="vanrichten.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Rudolph van Richten Portrait Icon](images/vanrichten/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Rudolph van Richten
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Cleric</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Founders' Day - 1 July 2026</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐<br>Roadmapped 🗺️
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="flint.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -364,31 +336,6 @@ Events will have either one rework OR three rebalances.
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Founders' Day - 1 July 2026
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="vanrichten.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Rudolph van Richten Portrait Icon](images/vanrichten/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Rudolph van Richten
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Cleric</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐<br>Roadmapped 🗺️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
 {::nomarkdown}
 <a href="walnut.html">
 {:/nomarkdown}
