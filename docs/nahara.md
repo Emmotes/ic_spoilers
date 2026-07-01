@@ -139,7 +139,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: A Grave Experience** (Guess)
-> The $(upgrade_name id) counter increments three times for every area cleared.
+> The Who Am I? counter increments three times for every area cleared.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -174,7 +174,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: A Barovian Bond** (Guess)
-> $(upgrade_name id) gets a 400% increase and Black Dice Society members can be used if Strahd is currently the Patron, even if they do not qualify for the other variant requirements.
+> Strong Society gets a 400% increase and Black Dice Society members can be used if Strahd is currently the Patron, even if they do not qualify for the other variant requirements.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -216,7 +216,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: A Skilled Lyre** (Guess)
-> The area reduction in $(upgrade_name id) is increased by 50%.
+> The area reduction in To Amuse or Avenge is increased by 50%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
