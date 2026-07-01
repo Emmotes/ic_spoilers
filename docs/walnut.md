@@ -84,7 +84,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     ],
     "requirements": [],
     "graphic_id": 5819,
-    "large_graphic_id": 0,
+    "large_graphic_id": 5819,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -100,7 +100,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Job's Done** (Guess)
-> Adds a 1000% bonus to $(upgrade_name id) for 60 seconds when completing a quest or entering a completed area. Killing enemies in completed areas resets the duration to 60 seconds.
+> Adds a 1000% bonus to Documancer for 60 seconds when completing a quest or entering a completed area. Killing enemies in completed areas resets the duration to 60 seconds.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -126,7 +126,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     ],
     "requirements": [],
     "graphic_id": 5820,
-    "large_graphic_id": 0,
+    "large_graphic_id": 5820,
     "properties": {
         "is_formation_ability": true,
         "use_outgoing_description": true
@@ -160,7 +160,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     ],
     "requirements": [],
     "graphic_id": 5822,
-    "large_graphic_id": 0,
+    "large_graphic_id": 5822,
     "properties": {
         "is_formation_ability": true,
         "use_outgoing_description": true
@@ -194,7 +194,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     ],
     "requirements": [],
     "graphic_id": 5818,
-    "large_graphic_id": 0,
+    "large_graphic_id": 5818,
     "properties": {
         "is_buff_incoming_formation_abilities_target": false
     }
@@ -206,7 +206,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Pen-Paws** (Guess)
-> Increases the effect of $(upgrade_name id) by 200% for every 2 seconds that Walnut is in wolf form. The buff decreases every 4 seconds while Walnut is not in wolf form.
+> Increases the effect of Documancer by 200% for every 2 seconds that Walnut is in wolf form. The buff decreases every 4 seconds while Walnut is not in wolf form.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -227,7 +227,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     ],
     "requirements": [],
     "graphic_id": 5821,
-    "large_graphic_id": 0,
+    "large_graphic_id": 5821,
     "properties": {
         "is_formation_ability": true,
         "use_outgoing_description": true
@@ -242,7 +242,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Extended Warranty** (Guess)
-> $(upgrade_name id) now also applies to all Champions within 2 slots of Walnut and is buffed by %.
+> Documancer now also applies to all Champions within 2 slots of Walnut and is buffed by %.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -283,7 +283,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Sign and Date** (Guess)
-> $(upgrade_name id) now also applies to all Champions in the top or bottom slots of each column and is buffed by %.
+> Documancer now also applies to all Champions in the top or bottom slots of each column and is buffed by %.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -325,7 +325,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Ah, Screw It** (Guess)
-> $(upgrade_name id) now applies to all Champions but is not buffed.
+> Documancer now applies to all Champions but is not buffed.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -376,7 +376,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     ],
     "requirements": [],
     "graphic_id": 5819,
-    "large_graphic_id": 0,
+    "large_graphic_id": 5819,
     "properties": {
         "is_formation_ability": true,
         "is_positional_ability": false,
