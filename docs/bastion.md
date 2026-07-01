@@ -905,6 +905,36 @@ Some graphics were found that had the format `Bastion/Rooms/Hallway/...`:
 > [bastion_wall_hallway_sidewalltop.png](images/bastion/rooms/hallway/bastion_wall_hallway_sidewalltop.png){:target="_blank"}  
 > [bastion_wall_hallway_sidewalltopcorner.png](images/bastion/rooms/hallway/bastion_wall_hallway_sidewalltopcorner.png){:target="_blank"}  
 
+## Legendaryforge
+
+Some graphics were found that had the format `Bastion/Rooms/Legendaryforge/...`:
+
+> [bastion_forge_doodad_anvil.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_anvil.png){:target="_blank"}  
+> [bastion_forge_doodad_banner.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_banner.png){:target="_blank"}  
+> [bastion_forge_doodad_barrels.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_barrels.png){:target="_blank"}  
+> [bastion_forge_doodad_dragonforge.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_dragonforge.png){:target="_blank"}  
+> [bastion_forge_doodad_pillar.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_pillar.png){:target="_blank"}  
+> [bastion_forge_doodad_sconce.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_sconce.png){:target="_blank"}  
+> [bastion_forge_doodad_smallforge.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_smallforge.png){:target="_blank"}  
+> [bastion_forge_doodad_tableblack.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_tableblack.png){:target="_blank"}  
+> [bastion_forge_doodad_tableblue.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_tableblue.png){:target="_blank"}  
+> [bastion_forge_doodad_tablegreen.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_tablegreen.png){:target="_blank"}  
+> [bastion_forge_doodad_tablered.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_tablered.png){:target="_blank"}  
+> [bastion_forge_doodad_tablewhite.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_tablewhite.png){:target="_blank"}  
+> [bastion_forge_doodad_upgradesdialogue.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_upgradesdialogue.png){:target="_blank"}  
+> [bastion_forge_doodad_wallhammers.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_wallhammers.png){:target="_blank"}  
+> [bastion_forge_doodad_wallshield.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_wallshield.png){:target="_blank"}  
+> [bastion_forge_doodad_wallswords.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_wallswords.png){:target="_blank"}  
+> [bastion_forge_floor_browntilesmall.png](images/bastion/rooms/legendaryforge/bastion_forge_floor_browntilesmall.png){:target="_blank"}  
+> [bastion_forge_floor_browntilesmalllarge.png](images/bastion/rooms/legendaryforge/bastion_forge_floor_browntilesmalllarge.png){:target="_blank"}  
+> [bastion_forge_floor_centerdetail.png](images/bastion/rooms/legendaryforge/bastion_forge_floor_centerdetail.png){:target="_blank"}  
+> [bastion_forge_floor_marble.png](images/bastion/rooms/legendaryforge/bastion_forge_floor_marble.png){:target="_blank"}  
+> [bastion_forge_floor_stairs.png](images/bastion/rooms/legendaryforge/bastion_forge_floor_stairs.png){:target="_blank"}  
+> [bastion_forge_wall_frontwallpanel.png](images/bastion/rooms/legendaryforge/bastion_forge_wall_frontwallpanel.png){:target="_blank"}  
+> [bastion_forge_wall_panel01.png](images/bastion/rooms/legendaryforge/bastion_forge_wall_panel01.png){:target="_blank"}  
+> [bastion_forge_wall_sidewall.png](images/bastion/rooms/legendaryforge/bastion_forge_wall_sidewall.png){:target="_blank"}  
+> [bastion_forge_wall_sidewallfront.png](images/bastion/rooms/legendaryforge/bastion_forge_wall_sidewallfront.png){:target="_blank"}  
+
 ## Library
 
 Some graphics were found that had the format `Bastion/Rooms/Library/...`:
@@ -1389,6 +1419,9 @@ Some graphics were found that had the format `Bastion/Rooms/Workshop/...`:
 
 > "key": "bastion_loading_message",  
 > "contents": "Loading your Bastion..."
+
+> "key": "bastion_room_unlock_hint",  
+> "contents": "Once you've met the requirements, click this icon to unlock the $roomName"
 
 [Back to Top](#top)
 
