@@ -35,40 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Tasslehoff</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Acquisitive Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2546**Acquisitive (Tasslehoff)**I'm not going to take it! I just mentioned it, as an item of interest. ~Tas<br><br><span style="color:var(--Flavescent)">Increases the effect of Tasslehoff's Borrower ability by 80%.</span><code>buff_upgrade,80,19244</code></span>Acquisitive
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Tasslehoff's Borrower ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Briv</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Baatorian Bones Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2354**Baatorian Bones (Briv)**Mine durability rivaleth even Baatorian green steel!<br><br><span style="color:var(--Flavescent)">Every third stack of Steelbones earned by Briv adds an additional stack.</span><code>additional_steelbones_stack_every,3</code></span>Baatorian Bones
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Every third stack of Steelbones earned by Briv adds an additional stack.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Lucius</span>
         </span>
         <span class="featTableIcon4">
@@ -456,6 +422,57 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableDate">
             <span class="featTableInner">17 Sept 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Nahara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Everlasting Bonds Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2587**Everlasting Bonds (Nahara)**Stand with me now, as I stand with all of you.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nahara's Strong Society ability by 20% for each Black Dice Society affiliation member in the formation, stacking additively.</span><code>effect_def,2795</code></span>Everlasting Bonds
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Nahara's Strong Society ability by 20% for each Black Dice Society affiliation member in the formation, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Van Richten</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vampire Slayer Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2692**Vampire Slayer (Van Richten)**You do not frighten me, monster. On the contrary, you should be afraid.<br><br><span style="color:var(--Flavescent)">Increases the effect of Van Richten's first set of Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,19700,19701,19702</code></span>Vampire Slayer
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Van Richten's first set of Specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Tess</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tactical Adaptation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2583**Tactical Adaptation (Tess)**I've got a plan for that.<br><br><span style="color:var(--Flavescent)">Increases the effect of all of Tess's Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,17321,17322,17323</code></span>Tactical Adaptation
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of all of Tess's Specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Oct 2026</span>
         </span>
     </span>
 </span>
