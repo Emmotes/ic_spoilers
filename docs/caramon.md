@@ -668,6 +668,14 @@ Unknown.
             ![Caramon Majere Console Portrait](images/caramon/console.png)Console Portrait
         </span>
     </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Caramon Majere Gold Chest Icon](images/caramon/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Caramon Majere Silver Chest Icon](images/caramon/chest_silver.png)Silver Chest Icon
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)
