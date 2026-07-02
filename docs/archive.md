@@ -15,12 +15,14 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Lawful Modron Core](archive/lawful_modron_core.md)
 * [Lucius](archive/lucius.md)
 * [Melf](archive/melf.md)
+* [Nahara](archive/nahara.md)
 * [Raistlin Majere](archive/raistlin.md)
 * [Rudolph van Richten](archive/vanrichten.md)
 * [Tasslehoff Burrfoot](archive/tasslehoff.md)
 * [The Great Modron March Augments](archive/augments_26.md)
 * [Trixie the Pixie](archive/trixie.md)
 * [Uriah](archive/uriah.md)
+* [Walnut](archive/walnut.md)
 
 [Back to Top](#top)
 
