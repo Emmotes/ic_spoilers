@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/822.png">
-            <span class="weekendTooltipContents">ID: 822**Gold Mist-Shrouded Chest**Loot for: Minsc, Hitch, Briv, Diana and Van Richten<code>"for_crusaders":[7,13,58,148,177]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Barovian**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    03 July 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Van Richten
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/minsc.png')">
-                        <span class="weekendTableChampionNameplate">Minsc</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 7**Minsc**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/hitch.png')">
-                        <span class="weekendTableChampionNameplate">Hitch</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 13**Hitch**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/briv.png')">
-                        <span class="weekendTableChampionNameplate">Briv</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 58**Briv Steelmarrow**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/diana.png')">
-                        <span class="weekendTableChampionNameplate">Diana</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 148**Diana**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/vanrichten.png')">
-                        <span class="weekendTableChampionNameplate">Van Richten</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 177**Rudolph Van Richten**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/823.png">
             <span class="weekendTooltipContents">ID: 823**Gold Celestial Wings Chest**Loot for: Nayeli, Tyril, Warduke, Karlach and Strongheart<code>"for_crusaders":[3,10,116,143,126]</code></span>
         </span>
