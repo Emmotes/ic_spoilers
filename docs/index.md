@@ -93,7 +93,7 @@ These are the new event champions that are upcoming and all the information we k
                 <span class="indexChampionTableNoLink">Human of Heroes of the Lance (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Liars' Night - 7 October 2026</span>
+                <span class="indexChampionTableNoLink">Liars' Night - 7 October 2026 (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
@@ -467,7 +467,7 @@ Events will have either one rework OR three rebalances.
 </span>
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
-## Liars' Night - 7 October 2026
+## Liars' Night - 7 October 2026 (Guess)
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
 {::nomarkdown}
 <a href="tika.html">
@@ -478,7 +478,7 @@ Events will have either one rework OR three rebalances.
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Tika Waylan
+                Tika Waylan (Guess)
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Human of Heroes of the Lance (Guess)</span>
