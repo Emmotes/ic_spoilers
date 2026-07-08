@@ -35,57 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Lucius</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Caustic Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2378**Caustic (Lucius)**I can't be seen looking like this! Like you! I'm hideous!<br><br><span style="color:var(--Flavescent)">Increases the base effect of Lucius' Arcane Chromat - Acid ability by 80%. (Prestack)</span><code>buff_upgrade,80,19248,0</code></span>Caustic
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the base effect of Lucius' Arcane Chromat - Acid ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">08 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Aila</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Sentinel Icon](images/featicons/overhelm.png)<span class="featTooltipContents">ID: 2363**Sentinel (Aila)**Even flowers must endure the storm.<br><br><span style="color:var(--Flavescent)">Aila takes 20 more Enemies attacking to get overwhelmed.</span><code>overwhelm_start_increase,20</code></span>Sentinel
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Aila takes 20 more Enemies attacking to get overwhelmed.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">08 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Miria</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2359**Prodigal Leader (Miria)**Be a good minion and obey.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">08 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Grimm</span>
         </span>
         <span class="featTableIcon4">
@@ -473,6 +422,23 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableDate">
             <span class="featTableInner">01 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Strongheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Guided Strike Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 982**Guided Strike (Strongheart)**Altogether now! May our blades strike true!<br><br><span style="color:var(--Flavescent)">Strongheart increases his crit chance by 5% for each adjacent Champion.</span><code>effect_def,2793</code></span>Guided Strike
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Strongheart increases his crit chance by 5% for each adjacent Champion.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">08 Oct 2026</span>
         </span>
     </span>
 </span>
