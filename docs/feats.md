@@ -30,23 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Strongheart</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Guided Strike Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 982**Guided Strike (Strongheart)**Altogether now! May our blades strike true!<br><br><span style="color:var(--Flavescent)">Strongheart increases his crit chance by 5% for each adjacent Champion.</span><code>effect_def,2793</code></span>Guided Strike
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Strongheart increases his crit chance by 5% for each adjacent Champion.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">08 Jul 2026<br>08 Oct 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Vin Ursa</span>
         </span>
         <span class="featTableIcon4">

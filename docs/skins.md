@@ -9,23 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Ravenloft's Champion Strongheart Portrait](images/skin_portraits/ravenloftschampionstrongheart.png)<span class="featTooltipContents">ID: 705**Ravenloft's Champion Strongheart (Strongheart)**<img src="images/skin_models/ravenloftschampionstrongheart.webp" alt="Ravenloft's Champion Strongheart Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Ravenloft's Champion Strongheart
-        </span>
-        <span class="skinTableSource">
-            Ravenloft's Champion Strongheart Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            08 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Disciple of Cthulhu Deekin Portrait](images/skin_portraits/discipleofcthulhudeekin.png)<span class="featTooltipContents">ID: 533**Disciple of Cthulhu Deekin (Deekin)**<img src="images/skin_models/discipleofcthulhudeekin.webp" alt="Disciple of Cthulhu Deekin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -107,6 +90,40 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             29 Jul 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 717**Colorweaver Jim (Jim)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Colorweaver Jim
+        </span>
+        <span class="skinTableSource">
+            Colorweaver Jim Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            05 Aug 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 716**Joyful Jester Omin (Omin)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Joyful Jester Omin
+        </span>
+        <span class="skinTableSource">
+            Joyful Jester Omin Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            05 Aug 2026
         </span>
     </span>
     <span class="skinTableRow">

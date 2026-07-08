@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Baby Cthulhu Portrait](images/familiars/babycthulhu.png)<span class="featTooltipContents">ID: 330**Baby Cthulhu**This ageless terror can only exert a fraction of its terrible might in this adorable form.<img src="images/familiars/babycthulhu.webp" alt="Baby Cthulhu Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Baby Cthulhu
-        </span>
-        <span class="skinTableSource">
-            Baby Cthulhu Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            840p
-        </span>
-        <span class="skinTableDate">
-            08 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Mist Horror Portrait](images/familiars/misthorror.png)<span class="featTooltipContents">ID: 331**Mist Horror**These vaporous terrors take the shape of their viewers' greatest fears.<img src="images/familiars/misthorror.webp" alt="Mist Horror Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
