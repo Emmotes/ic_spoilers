@@ -77,7 +77,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 536**Sly One Raistlin (Raistlin)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Sly One Raistlin Portrait](images/skin_portraits/slyoneraistlin.png)<span class="featTooltipContents">ID: 536**Sly One Raistlin (Raistlin)**<img src="images/skin_models/slyoneraistlin.webp" alt="Sly One Raistlin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Sly One Raistlin
@@ -128,7 +128,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 715**Master Craftsman Flint (Flint)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Master Craftsman Flint Portrait](images/skin_portraits/mastercraftsmanflint.png)<span class="featTooltipContents">ID: 715**Master Craftsman Flint (Flint)**<img src="images/skin_models/mastercraftsmanflint.webp" alt="Master Craftsman Flint Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Master Craftsman Flint
@@ -162,7 +162,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 719**Prismatic Painter Ellywick (Ellywick)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Prismatic Painter Ellywick Portrait](images/skin_portraits/prismaticpainterellywick.png)<span class="featTooltipContents">ID: 719**Prismatic Painter Ellywick (Ellywick)**<img src="images/skin_models/prismaticpainterellywick.webp" alt="Prismatic Painter Ellywick Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Prismatic Painter Ellywick

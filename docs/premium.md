@@ -332,7 +332,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 536**Sly One Raistlin (Raistlin)**</span></span>
+            <span class="tooltipHolder">![Sly One Raistlin Skin Portrait](images/premiums/skin_536.png)<span class="itemTooltipContents">ID: 536**Sly One Raistlin (Raistlin)**<img src="images/premiums/skin_536.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -485,7 +485,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 715**Master Craftsman Flint (Flint)**</span></span>
+            <span class="tooltipHolder">![Master Craftsman Flint Skin Portrait](images/premiums/skin_715.png)<span class="itemTooltipContents">ID: 715**Master Craftsman Flint (Flint)**<img src="images/premiums/skin_715.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -494,7 +494,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 332**Fleetfoot the Mule**Steadfast, strong, and better than any horse.</span></span>
+            <span class="tooltipHolder">![Fleetfoot the Mule Familiar Portrait](images/premiums/familiar_332.png)<span class="itemTooltipContents">ID: 332**Fleetfoot the Mule**Steadfast, strong, and better than any horse.<img src="images/premiums/familiar_332.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -829,7 +829,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 719**Prismatic Painter Ellywick (Ellywick)**</span></span>
+            <span class="tooltipHolder">![Prismatic Painter Ellywick Skin Portrait](images/premiums/skin_719.png)<span class="itemTooltipContents">ID: 719**Prismatic Painter Ellywick (Ellywick)**<img src="images/premiums/skin_719.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -891,7 +891,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 334**Pigment the Flying Monkey**Maybe a bit more blue…</span></span>
+            <span class="tooltipHolder">![Pigment the Flying Monkey Familiar Portrait](images/premiums/familiar_334.png)<span class="itemTooltipContents">ID: 334**Pigment the Flying Monkey**Maybe a bit more blue…<img src="images/premiums/familiar_334.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

@@ -24,7 +24,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 332**Fleetfoot the Mule**Steadfast, strong, and better than any horse.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Fleetfoot the Mule Portrait](images/familiars/fleetfootthemule.png)<span class="featTooltipContents">ID: 332**Fleetfoot the Mule**Steadfast, strong, and better than any horse.<img src="images/familiars/fleetfootthemule.webp" alt="Fleetfoot the Mule Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Fleetfoot the Mule
@@ -58,7 +58,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 334**Pigment the Flying Monkey**Maybe a bit more blue…</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Pigment the Flying Monkey Portrait](images/familiars/pigmenttheflyingmonkey.png)<span class="featTooltipContents">ID: 334**Pigment the Flying Monkey**Maybe a bit more blue…<img src="images/familiars/pigmenttheflyingmonkey.webp" alt="Pigment the Flying Monkey Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Pigment the Flying Monkey
