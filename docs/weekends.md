@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/823.png">
-            <span class="weekendTooltipContents">ID: 823**Gold Celestial Wings Chest**Loot for: Nayeli, Tyril, Warduke, Karlach and Strongheart<code>"for_crusaders":[3,10,116,143,126]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Wings of Freedom**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    10 July 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Strongheart
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/nayeli.png')">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 3**Nayeli Goldflower**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/tyril.png')">
-                        <span class="weekendTableChampionNameplate">Tyril</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 10**Tyril Tallguy**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/warduke.png')">
-                        <span class="weekendTableChampionNameplate">Warduke</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 116**Warduke**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/karlach.png')">
-                        <span class="weekendTableChampionNameplate">Karlach</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 143**Karlach**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/strongheart.png')">
-                        <span class="weekendTableChampionNameplate">Strongheart</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 126**Strongheart**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/824.png">
             <span class="weekendTooltipContents">ID: 824**Gold Misunderstood Chest**Loot for: Bruenor, Makos, Lae'zel, Ellywick and Nahara<code>"for_crusaders":[1,9,128,83,102]</code></span>
         </span>
