@@ -195,7 +195,10 @@ Events will have either one rework OR three rebalances.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="stoki.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Stoki Portrait Icon](images/stoki/portrait.png)
         </span>
@@ -217,7 +220,13 @@ Events will have either one rework OR three rebalances.
             Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
     </span>
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="pwent.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Thibbledorf Pwent Portrait Icon](images/pwent/portrait.png)
         </span>
@@ -239,7 +248,13 @@ Events will have either one rework OR three rebalances.
             Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
     </span>
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="corazon.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Corazón de Ballena Portrait Icon](images/corazon/portrait.png)
         </span>
@@ -261,6 +276,9 @@ Events will have either one rework OR three rebalances.
             Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 {::nomarkdown}
@@ -407,7 +425,10 @@ Events will have either one rework OR three rebalances.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="stoki.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Stoki Portrait Icon](images/stoki/portrait.png)
         </span>
@@ -426,7 +447,13 @@ Events will have either one rework OR three rebalances.
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="pwent.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Thibbledorf Pwent Portrait Icon](images/pwent/portrait.png)
         </span>
@@ -445,7 +472,13 @@ Events will have either one rework OR three rebalances.
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="corazon.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Corazón de Ballena Portrait Icon](images/corazon/portrait.png)
         </span>
@@ -464,6 +497,9 @@ Events will have either one rework OR three rebalances.
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
