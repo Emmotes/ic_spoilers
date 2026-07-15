@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Vin Ursa</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Guided Strike Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2697**Guided Strike (Vin Ursa)**Kalix! Get me an opening!<br><br><span style="color:var(--Flavescent)">Vin Ursa increases her crit chance by 5% for each adjacent Champion.</span><code>effect_def,2794<br>DevNote: blah blah blah</code></span>Guided Strike
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Vin Ursa increases her crit chance by 5% for each adjacent Champion.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">15 Jul 2026<br>15 Oct 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Deekin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Non-Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2696**Non-Standard Affair (Deekin)**Deekin find comfort in others like Deekin.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2608</code></span>Non-Standard Affair
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">15 Jul 2026<br>15 Oct 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Lae'zel</span>
         </span>
         <span class="featTableIcon5">
@@ -739,10 +705,10 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">Wulfgar</span>
         </span>
         <span class="featTableIcon5">
-            ![Son of Beornegar Icon](images/featicons/wulfgar.png)<span class="featTooltipContents">ID: 2721**Son of Beornegar (Wulfgar)**Strength to my friends, and death to my foes! <br><br><span style="color:var(--Flavescent)">Wulfgar gains the Hunter role and Monstrosities are his favored foe. Wulfgar increases the damage of all Champions by 100% for each Monstrosity defeated since the last boss was killed, stacking multiplicatively and capping at 25 stacks. If there are at least 20 Mithral Hall stacks in the formation, a Yeti has a 50%.</span><code>effect_def,2819</code></span>Son of Beornegar
+            ![Son of Beornegar Icon](images/featicons/wulfgar.png)<span class="featTooltipContents">ID: 2721**Son of Beornegar (Wulfgar)**Strength to my friends, and death to my foes! <br><br><span style="color:var(--Flavescent)">Wulfgar gains the Hunter role and Monstrosities are his favored foe. Wulfgar increases the damage of all Champions by 100% for each Monstrosity defeated since the last boss was killed, stacking multiplicatively and capping at 25 stacks. If there are at least 20 Mithral Hall stacks in the formation, a Yeti has a 50% chance to spawn with each wave.</span><code>effect_def,2819</code></span>Son of Beornegar
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Wulfgar gains the Hunter role and Monstrosities are his favored foe. Wulfgar increases the damage of all Champions by 100% for each Monstrosity defeated since the last boss was killed, stacking multiplicatively and capping at 25 stacks. If there are at least 20 Mithral Hall stacks in the formation, a Yeti has a 50%.</span>
+            <span class="featTableInner">Wulfgar gains the Hunter role and Monstrosities are his favored foe. Wulfgar increases the damage of all Champions by 100% for each Monstrosity defeated since the last boss was killed, stacking multiplicatively and capping at 25 stacks. If there are at least 20 Mithral Hall stacks in the formation, a Yeti has a 50% chance to spawn with each wave.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>

@@ -9,47 +9,13 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Disciple of Cthulhu Deekin Portrait](images/skin_portraits/discipleofcthulhudeekin.png)<span class="featTooltipContents">ID: 533**Disciple of Cthulhu Deekin (Deekin)**<img src="images/skin_models/discipleofcthulhudeekin.webp" alt="Disciple of Cthulhu Deekin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Disciple of Cthulhu Deekin
-        </span>
-        <span class="skinTableSource">
-            Disciple of Cthulhu Deekin Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            15 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Nechricor Vin Ursa Portrait](images/skin_portraits/nechricorvinursa.png)<span class="featTooltipContents">ID: 534**Nechricor Vin Ursa (Vin Ursa)**<img src="images/skin_models/nechricorvinursa.webp" alt="Nechricor Vin Ursa Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Nechricor Vin Ursa
-        </span>
-        <span class="skinTableSource">
-            Nechricor Vin Ursa Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            15 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Chromatic Jarlaxle Portrait](images/skin_portraits/chromaticjarlaxle.png)<span class="featTooltipContents">ID: 713**Chromatic Jarlaxle (Jarlaxle)**<img src="images/skin_models/chromaticjarlaxle.webp" alt="Chromatic Jarlaxle Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Chromatic Jarlaxle
         </span>
         <span class="skinTableSource">
-            ???
+            Patron: Elminster
         </span>
         <span class="skinTableCost">
             ???
@@ -162,7 +128,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Prismatic Painter Ellywick Portrait](images/skin_portraits/prismaticpainterellywick.png)<span class="featTooltipContents">ID: 719**Prismatic Painter Ellywick (Ellywick)**<img src="images/skin_models/prismaticpainterellywick.webp" alt="Prismatic Painter Ellywick Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Prismatic Painter Ellywick Portrait](images/skin_portraits/prismaticpainterellywick.png)<span class="featTooltipContents">ID: 719**Prismatic Painter Ellywick (Ellywick)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/prismaticpainterellywick.webp" alt="Prismatic Painter Ellywick Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/prismaticpainterellywick-flames.webp" alt="Prismatic Painter Ellywick Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/prismaticpainterellywick-gem.webp" alt="Prismatic Painter Ellywick Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/prismaticpainterellywick-knight.webp" alt="Prismatic Painter Ellywick Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/prismaticpainterellywick-moon.webp" alt="Prismatic Painter Ellywick Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/prismaticpainterellywick-the_fates.webp" alt="Prismatic Painter Ellywick Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Prismatic Painter Ellywick
@@ -196,7 +162,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 722**Dungeon Botanist Stoki (Stoki)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dungeon Botanist Stoki Portrait](images/skin_portraits/dungeonbotaniststoki.png)<span class="featTooltipContents">ID: 722**Dungeon Botanist Stoki (Stoki)**<img src="images/skin_models/dungeonbotaniststoki.webp" alt="Dungeon Botanist Stoki Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dungeon Botanist Stoki

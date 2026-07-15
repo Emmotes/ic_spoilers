@@ -4,153 +4,11 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 731</div>
-### Disciple of Cthulhu Deekin Skin & Feat Pack - 1,680 Platinum  
-Date of release: 15 Jul 2026
-
-> Unlock Deekin along with his exclusive Disciple of Cthulhu Skin & Feat!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Deekin Champion Unlock Portrait](images/premiums/unlock_champion_28.png)<span class="itemTooltipContents">ID: 28**Deekin (Seat 1)**<img src="images/premiums/unlock_champion_28.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Deekin</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Disciple of Cthulhu Deekin Skin Portrait](images/premiums/skin_533.png)<span class="itemTooltipContents">ID: 533**Disciple of Cthulhu Deekin (Deekin)**<img src="images/premiums/skin_533.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Disciple of Cthulhu Deekin</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Non-Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2696**Non-Standard Affair**Deekin find comfort in others like Deekin.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2608</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Non-Standard Affair</span>
-            <span style="margin-left:15px">Deekin</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Deekin Chest Chest Portrait](images/premiums/chests_54.png)<span class="itemTooltipContents">ID: 54**Platinum Deekin Chest**Loot for: Deekin<code>"for_crusaders":[28]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Deekin Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 732</div>
-### Nechricor Vin Ursa Skin & Feat Pack - 1,680 Platinum  
-Date of release: 15 Jul 2026
-
-> Unlock Vin Ursa along with her exclusive Nechricor Skin & Feat!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Vin Ursa Champion Unlock Portrait](images/premiums/unlock_champion_127.png)<span class="itemTooltipContents">ID: 127**Vin Ursa (Seat 7)**<img src="images/premiums/unlock_champion_127.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Vin Ursa</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Nechricor Vin Ursa Skin Portrait](images/premiums/skin_534.png)<span class="itemTooltipContents">ID: 534**Nechricor Vin Ursa (Vin Ursa)**<img src="images/premiums/skin_534.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Nechricor Vin Ursa</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Guided Strike Feat Portrait](images/featicons/critchanceincrease.png)<span class="itemTooltipContents">ID: 2697**Guided Strike**Kalix! Get me an opening!<br><br><span style="color:var(--Flavescent)">Vin Ursa increases her crit chance by 5% for each adjacent Champion.</span><code>effect_def,2794<br>DevNote: blah blah blah</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Guided Strike</span>
-            <span style="margin-left:15px">Vin Ursa</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Bounty Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Large Blacksmithing Contract</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Vin Ursa Chest Chest Portrait](images/premiums/chests_456.png)<span class="itemTooltipContents">ID: 456**Platinum Vin Ursa Chest**Loot for: Vin Ursa<code>"for_crusaders":[127]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Vin Ursa Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 733</div>
 ### Lae'zel's Legendary Feat Pack - 1,680 Platinum  
 Date of release: 22 Jul 2026
 
-> Collect Lae'zel's Astral Touched Tadpole Legendary Feat now!
+> Collect Lae'zel's Legendary Feat & 6 DPS Pigments now!
 
 Contents:
 
@@ -747,7 +605,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Prismatic Painter Ellywick Skin Portrait](images/premiums/skin_719.png)<span class="itemTooltipContents">ID: 719**Prismatic Painter Ellywick (Ellywick)**<img src="images/premiums/skin_719.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Prismatic Painter Ellywick Skin Portrait](images/premiums/skin_719.png)<span class="itemTooltipContents">ID: 719**Prismatic Painter Ellywick (Ellywick)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_719.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_719-knight.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_719-moon.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_719-the_fates.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_719-flames.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_719-gem.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -854,11 +712,41 @@ Contents:
 ### Shadowheart's Legendary Feat Pack - 1,680 Platinum  
 Date of release: 26 Aug 2026
 
-> tbd
+> Unlock Shadowheart's full potential with her Legendary Feat & 6 Healing Pigments now!
 
 Contents:
 
-* None
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Shadowheart Champion Unlock Portrait](images/premiums/unlock_champion_141.png)<span class="itemTooltipContents">ID: 141**Shadowheart (Seat 6)**<img src="images/premiums/unlock_champion_141.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Shadowheart</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Selflessness</span>
+            <span style="margin-left:15px">Bruenor</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Marvelous Healing Pigment Buff Portrait](images/premiums/buff_1906.png)<span class="itemTooltipContents">ID: 1906**Marvelous Healing Pigment**Adds a Champion-tag-based effect to an epic or higher equipment item of your choice!<code>legendary_apply_pigment,3</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Marvelous Healing Pigment</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+</span>
 </div></div>
 
 
@@ -891,7 +779,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 335**Sentry the Bear**Do not worry, Sentry is watching.</span></span>
+            <span class="tooltipHolder">![Sentry the Bear Familiar Portrait](images/premiums/familiar_335.png)<span class="itemTooltipContents">ID: 335**Sentry the Bear**Do not worry, Sentry is watching.<img src="images/premiums/familiar_335.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -910,7 +798,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 831**Platinum Caramon Chest**Loot for: Caramon<code>"for_crusaders":[179]</code></span></span>
+            <span class="tooltipHolder">![Platinum Caramon Chest Chest Portrait](images/premiums/chests_831.png)<span class="itemTooltipContents">ID: 831**Platinum Caramon Chest**Loot for: Caramon<code>"for_crusaders":[179]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
@@ -1023,7 +911,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 722**Dungeon Botanist Stoki (Stoki)**</span></span>
+            <span class="tooltipHolder">![Dungeon Botanist Stoki Skin Portrait](images/premiums/skin_722.png)<span class="itemTooltipContents">ID: 722**Dungeon Botanist Stoki (Stoki)**<img src="images/premiums/skin_722.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1353,11 +1241,41 @@ Contents:
 ### Eric's Legendary Feat Pack - 1,680 Platinum  
 Date of release: 23 Sept 2026
 
-> tbd
+> Unlock Eric's full potential with his Legendary Feat & 6 Tanking Pigments now!
 
 Contents:
 
-* None
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Eric Champion Unlock Portrait](images/premiums/unlock_champion_157.png)<span class="itemTooltipContents">ID: 157**Eric (Seat 4)**<img src="images/premiums/unlock_champion_157.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Eric</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Selflessness</span>
+            <span style="margin-left:15px">Bruenor</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Marvelous Tanking Pigment Buff Portrait](images/premiums/buff_1907.png)<span class="itemTooltipContents">ID: 1907**Marvelous Tanking Pigment**Adds a Champion-tag-based effect to an epic or higher equipment item of your choice!<code>legendary_apply_pigment,4</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Marvelous Tanking Pigment</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+</span>
 </div></div>
 
 

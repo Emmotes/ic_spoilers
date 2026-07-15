@@ -75,7 +75,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 335**Sentry the Bear**Do not worry, Sentry is watching.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Sentry the Bear Portrait](images/familiars/sentrythebear.png)<span class="featTooltipContents">ID: 335**Sentry the Bear**Do not worry, Sentry is watching.<img src="images/familiars/sentrythebear.webp" alt="Sentry the Bear Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Sentry the Bear
