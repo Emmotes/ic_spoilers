@@ -4,7 +4,7 @@
 
 On 22 July 2026 CNE will be adding some Mastery Variants. These mastery variants will award Mastery Medallions. With these medallions you will be able to buy Legendary Feats. We also know that these feats will be able to be levelled up via Scales of Tiamat.
 
-So far we know of 6 legendary feats. See the icons at the bottom of the page for a list.
+So far we know of 10 legendary feats. See the icons at the bottom of the page for a list.
 
 # Roadmap Information
 
@@ -40,6 +40,10 @@ So far we know of 6 legendary feats. See the icons at the bottom of the page for
 | ![Wulfgar Legendary Feat Icon](images/legendary_feats/29383.png) | Wulfgar |
 | ![Shadowheart Legendary Feat Icon](images/legendary_feats/29399.png) | Shadowheart |
 | ![Eric Legendary Feat Icon](images/legendary_feats/29943.png) | Eric |
+| ![Celeste Legendary Feat Icon](images/legendary_feats/30304.png) | Celeste |
+| ![Dynaheir Legendary Feat Icon](images/legendary_feats/30305.png) | Dynaheir |
+| ![Imoen Legendary Feat Icon](images/legendary_feats/30306.png) | Imoen |
+| ![Karlach Legendary Feat Icon](images/legendary_feats/30307.png) | Karlach |
 
 [Back to Top](#top)
 
