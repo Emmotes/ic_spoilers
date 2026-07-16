@@ -35,57 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Grimm</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Buffed Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2347**Buffed Up (Grimm)**It'll all be over in just one swing. ~Grimm<br><br><span style="color:var(--Flavescent)">Increases the effect of Grimm's Get Buff ability by 80%. (Prestack)</span><code>buff_upgrade,80,16735</code></span>Buffed Up
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Grimm's Get Buff ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">15 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Valentine</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2581**Standard Affair (Valentine)**Yes, yes, gather around.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span>Standard Affair
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">15 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Spurt</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Corpse Stench Icon](images/featicons/spurtult.png)<span class="featTooltipContents">ID: 2559**Corpse Stench (Spurt)**Bath? What's that?<br><br><span style="color:var(--Flavescent)">Spurt always counts as Undead, even when not in Spirit form.</span><code>add_hero_tags,0,undead<br>buff_upgrade_per_any_tagged_crusader,20,10678,undead</code></span>Corpse Stench
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Spurt always counts as Undead, even when not in Spirit form.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">15 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Beadle</span>
         </span>
         <span class="featTableIcon4">
@@ -439,6 +388,40 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableDate">
             <span class="featTableInner">08 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Vin Ursa</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Guided Strike Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2697**Guided Strike (Vin Ursa)**Kalix! Get me an opening!<br><br><span style="color:var(--Flavescent)">Vin Ursa increases her crit chance by 5% for each adjacent Champion.</span><code>effect_def,2794<br>DevNote: blah blah blah</code></span>Guided Strike
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Vin Ursa increases her crit chance by 5% for each adjacent Champion.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">15 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Deekin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Non-Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2696**Non-Standard Affair (Deekin)**Deekin find comfort in others like Deekin.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2608</code></span>Non-Standard Affair
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">15 Oct 2026</span>
         </span>
     </span>
 </span>
@@ -820,6 +803,131 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             </span>
             <span class="postSeasonTableDate">
                 <span>29 October 2026 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="e16a" onclick="exclusiveToggleContent(`e16`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Emergence 16 Icon](images/general/e16.png)**Emergence 16** - Strahd Zombies
+            </span>
+        </span>
+        <span id="e16" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Abrasive Magic Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2534**Abrasive Magic (Lucius)**I do have a tendency to get under people's skin.<br><br><span style="color:var(--Flavescent)">Increases the amount of health segments broken by Armor Eating Acid by 1.</span><code>buff_upgrade,100,19252</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Abrasive Magic</span>
+                        <span style="margin-left:15px">Lucius</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Blinding Force Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2466**Blinding Force (Kyre)**Know yourself. Know what needs to be done. Know to never hesitate.<br><br><span style="color:var(--Flavescent)">Increases the stun duration to 20 seconds for Stunning Strike.</span><code>change_upgrade_data,18668,0</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Blinding Force</span>
+                        <span style="margin-left:15px">Kyre</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Devastating Arcana Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2702**Devastating Arcana (Raistlin)**I don't need you now. I won't need you anymore... ever. Watch! ~Raistlin<br><br><span style="color:var(--Flavescent)">Increases the effect of Raistlin's Debilitating Magic ability by 80%.</span><code>buff_upgrade,80,18931</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Devastating Arcana</span>
+                        <span style="margin-left:15px">Raistlin</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2701**Prodigal Leader (Laurana)**I'm not discussing anything. I'm the general. It's my decision. ~Laurana<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Prodigal Leader</span>
+                        <span style="margin-left:15px">Laurana</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Inevitable Triumph Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2700**Inevitable Triumph (Van Richten)**I have faith that my students will carry on my work long after I am gone.<br><br><span style="color:var(--Flavescent)">Increases the effect of Van Richten's Triumph ability by 80%.</span><code>buff_upgrade,80,19698</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Inevitable Triumph</span>
+                        <span style="margin-left:15px">Van Richten</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Zombie Hunter Drizzt Skin Icon](images/exclusivities/skin_29960.png)<span class="featTooltipContents">ID: 714**Zombie Hunter Drizzt (Drizzt)**<img src="images/exclusivities/skin_29962.webp" alt="Zombie Hunter Drizzt Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Zombie Hunter Drizzt</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Drizzt Slot 5](images/exclusivities/ge_1720.png)<span class="itemTooltipContents">ID: 428**Figurine of Guenhwyvar (Drizzt)**A unique figurine that summons my faithful companion, Guenhwyvar.<br><br><span style="color:var(--Flavescent)">Buffs Drizzt's Ultimate Attack Damage by 275%.</span><code>buff_ultimate,275</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Figurine of Guenhwyvar</span>
+                        <span style="margin-left:15px">Drizzt (Slot 5)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Ezmerelda Slot 3](images/exclusivities/ge_8862.png)<span class="itemTooltipContents">ID: 1668**Dagger of Lathander (Ezmerelda)**Let the Morninglord light a new dawn throughout Barovia!<br><br><span style="color:var(--Flavescent)">Increases the effect of Ezmerelda's Training Montage ability by 275%. (Prestack)</span><code>buff_upgrade,275,15037,0</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Dagger of Lathander</span>
+                        <span style="margin-left:15px">Ezmerelda (Slot 3)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Van Richten Slot 3](images/exclusivities/ge_29262.png)<span class="itemTooltipContents">ID: 4237**Blessed Bandolier (Van Richten)**Holy water and spell scrolls. No matter what awaits me, I am always prepared.<br><br><span style="color:var(--Flavescent)">Increases the effect of Van Richten's Triumph ability by 275%.</span><code>buff_upgrade,275,19698</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Blessed Bandolier</span>
+                        <span style="margin-left:15px">Van Richten (Slot 3)</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>29 July 2026</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>Unknown</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>Unknown</span>
             </span>
         </span>
     </span>
