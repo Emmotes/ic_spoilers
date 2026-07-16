@@ -60,7 +60,121 @@ The assumption is that this will be some kind of new-player onboarding system.
 
 # Trophies
 
-Five new Patron shop items were added - one for each patron.
+We now have some graphics for trophies.
+
+{::nomarkdown}
+
+<div style="display:flex;flex-wrap:wrap;gap:15px;">
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Chestof Gems
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30276_ChestofGems.png" src="images/bastion/trophies/30276_ChestofGems.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Chultan Puzzle Cube
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30277_ChultanPuzzleCube.png" src="images/bastion/trophies/30277_ChultanPuzzleCube.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Exhausted Modron
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30278_ExhaustedModron.png" src="images/bastion/trophies/30278_ExhaustedModron.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Gleaming Bahamut
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30279_GleamingBahamut.png" src="images/bastion/trophies/30279_GleamingBahamut.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Living Statue
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30280_LivingStatue.png" src="images/bastion/trophies/30280_LivingStatue.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Marvelous Pigment Cupboard
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30281_MarvelousPigmentCupboard.png" src="images/bastion/trophies/30281_MarvelousPigmentCupboard.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Mirts Money Sack
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30282_MirtsMoneySack.png" src="images/bastion/trophies/30282_MirtsMoneySack.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Pileof Contracts
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30283_PileofContracts.png" src="images/bastion/trophies/30283_PileofContracts.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Strahds Throne
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30284_StrahdsThrone.png" src="images/bastion/trophies/30284_StrahdsThrone.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Undermountain Ruin
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30285_UndermountainRuin.png" src="images/bastion/trophies/30285_UndermountainRuin.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Zombie Trex
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30286_ZombieTrex.png" src="images/bastion/trophies/30286_ZombieTrex.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Vajras Black Staff
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30287_VajrasBlackStaff.png" src="images/bastion/trophies/30287_VajrasBlackStaff.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Zariel Sword
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30288_ZarielSword.png" src="images/bastion/trophies/30288_ZarielSword.png">
+  </div>
+</div>
+</div>
+<br>
+
+{:/nomarkdown}
+
+The five patron ones will be available in the patron shop shop:
 
 | Name | Currency | Influence | Trophy ID |
 |---|---|---|---|
@@ -1087,6 +1201,7 @@ Some graphics were found that had the format `Bastion/Rooms/Parlor/...`:
 
 Some graphics were found that had the format `Bastion/Rooms/Reliquary/...`:
 
+> [bastion_reliquary_blessingsflame.png](images/bastion/rooms/reliquary/bastion_reliquary_blessingsflame.png){:target="_blank"}  
 > [bastion_reliquary_doodad_altar.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_altar.png){:target="_blank"}  
 > [bastion_reliquary_doodad_altarstand01.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_altarstand01.png){:target="_blank"}  
 > [bastion_reliquary_doodad_altarstand02.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_altarstand02.png){:target="_blank"}  
@@ -1321,12 +1436,35 @@ Some graphics were found that had the format `Bastion/Rooms/Treasure/...`:
 > [bastion_doodad_treasurepile5.png](images/bastion/rooms/treasure/bastion_doodad_treasurepile5.png){:target="_blank"}  
 > [bastion_doodad_treasureroompillar.png](images/bastion/rooms/treasure/bastion_doodad_treasureroompillar.png){:target="_blank"}  
 > [bastion_floor_treasureroom.png](images/bastion/rooms/treasure/bastion_floor_treasureroom.png){:target="_blank"}  
+> [bastion_floor_treasureroom_arcanastair.png](images/bastion/rooms/treasure/bastion_floor_treasureroom_arcanastair.png){:target="_blank"}  
+> [bastion_floor_treasureroom_middlecarpet.png](images/bastion/rooms/treasure/bastion_floor_treasureroom_middlecarpet.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_arcanaobject1.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_arcanaobject1.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_arcanaobject2.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_arcanaobject2.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_arcanaorb.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_arcanaorb.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_chandelier.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_chandelier.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_chestpopupshop.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_chestpopupshop.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_curtain.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_curtain.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_goldshield.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_goldshield.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_hanginglight1.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_hanginglight1.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_hanginglight2.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_hanginglight2.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_orangebanner.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_orangebanner.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_purplefirepit.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_purplefirepit.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_tiamatshadow.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_tiamatshadow.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_treasurebox.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_treasurebox.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_treasurepile6.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_treasurepile6.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_treasurepile7.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_treasurepile7.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_weaponstand1.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_weaponstand1.png){:target="_blank"}  
+> [bastion_treasureroom_doodad_weaponstand2.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_weaponstand2.png){:target="_blank"}  
 > [bastion_wall_treasureroom.png](images/bastion/rooms/treasure/bastion_wall_treasureroom.png){:target="_blank"}  
+> [bastion_wall_treasureroom_arcanastairwall.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_arcanastairwall.png){:target="_blank"}  
+> [bastion_wall_treasureroom_bookshelf1.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_bookshelf1.png){:target="_blank"}  
+> [bastion_wall_treasureroom_bookshelf2.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_bookshelf2.png){:target="_blank"}  
 > [bastion_wall_treasureroom_cutout.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_cutout.png){:target="_blank"}  
 > [bastion_wall_treasureroom_door_side.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_door_side.png){:target="_blank"}  
 > [bastion_wall_treasureroom_sidewall.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_sidewall.png){:target="_blank"}  
 > [bastion_wall_treasureroom_sidewallcorner.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_sidewallcorner.png){:target="_blank"}  
 > [bastion_wall_treasureroom_sidewallfront.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_sidewallfront.png){:target="_blank"}  
+> [bastion_wall_treasureroom_tiamatheads.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_tiamatheads.png){:target="_blank"}  
 
 ## Warroom
 
