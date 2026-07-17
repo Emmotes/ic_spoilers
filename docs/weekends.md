@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/824.png">
-            <span class="weekendTooltipContents">ID: 824**Gold Misunderstood Chest**Loot for: Bruenor, Makos, Lae'zel, Ellywick and Nahara<code>"for_crusaders":[1,9,128,83,102]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Misunderstood Heroes**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    17 July 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Nahara
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/bruenor.png')">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 1**Bruenor Battlehammer**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/makos.png')">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 9**Makos**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/laezel.png')">
-                        <span class="weekendTableChampionNameplate">Lae'zel</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 128**Lae'zel**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/ellywick.png')">
-                        <span class="weekendTableChampionNameplate">Ellywick</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 83**Ellywick Tumblestrum**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/nahara.png')">
-                        <span class="weekendTableChampionNameplate">Nahara</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 102**Nahara**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/825.png">
             <span class="weekendTooltipContents">ID: 825**Gold Dazzling Chest**Loot for: Asharra, Calliope, Artemis, Hew Maan and Ezmerelda<code>"for_crusaders":[6,5,54,75,70]</code></span>
         </span>
