@@ -1044,7 +1044,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 336**Watson the Treant Sapling**One day, he'll be a real Treant!</span></span>
+            <span class="tooltipHolder">![Watson the Treant Sapling Familiar Portrait](images/premiums/familiar_336.png)<span class="itemTooltipContents">ID: 336**Watson the Treant Sapling**One day, he'll be a real Treant!<img src="images/premiums/familiar_336.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

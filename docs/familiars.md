@@ -92,7 +92,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 336**Watson the Treant Sapling**One day, he'll be a real Treant!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Watson the Treant Sapling Portrait](images/familiars/watsonthetreantsapling.png)<span class="featTooltipContents">ID: 336**Watson the Treant Sapling**One day, he'll be a real Treant!<img src="images/familiars/watsonthetreantsapling.webp" alt="Watson the Treant Sapling Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Watson the Treant Sapling
