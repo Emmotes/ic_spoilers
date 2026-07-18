@@ -840,7 +840,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 721**Schoolyard Bruiser Bobby (Bobby)**</span></span>
+            <span class="tooltipHolder">![Schoolyard Bruiser Bobby Skin Portrait](images/premiums/skin_721.png)<span class="itemTooltipContents">ID: 721**Schoolyard Bruiser Bobby (Bobby)**<img src="images/premiums/skin_721.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

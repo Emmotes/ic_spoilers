@@ -179,7 +179,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 721**Schoolyard Bruiser Bobby (Bobby)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Schoolyard Bruiser Bobby Portrait](images/skin_portraits/schoolyardbruiserbobby.png)<span class="featTooltipContents">ID: 721**Schoolyard Bruiser Bobby (Bobby)**<img src="images/skin_models/schoolyardbruiserbobby.webp" alt="Schoolyard Bruiser Bobby Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Schoolyard Bruiser Bobby
