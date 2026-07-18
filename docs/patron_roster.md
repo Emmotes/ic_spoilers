@@ -4122,39 +4122,39 @@ A list of all champions and their patron availability.
         <input type="checkbox" disabled checked><label class="cblabel">Until 2026-09-03</label>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="122,8,124,333,333,333,0,218">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="123,77,43,333,333,0,0,212">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="123,77,43,333,333,0,0,212">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="123,77,43,333,333,0,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="123,77,43,333,333,0,0,0">
         136
     </span>
-    <span class="patronRosterItem" data-sort="123,77,43,333,333,0,0,212">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="123,77,43,333,333,0,0,212">
+    <span class="patronRosterItem" data-sort="123,77,43,333,333,0,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="123,77,43,333,333,0,0,0">
         Krux
     </span>
-    <span class="patronRosterItem" data-sort="123,77,43,333,333,0,0,212">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="123,77,43,333,333,0,0,212">
+    <span class="patronRosterItem" data-sort="123,77,43,333,333,0,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="123,77,43,333,333,0,0,0">
         4
     </span>
-    <span class="patronRosterItem" data-sort="123,77,43,333,333,0,0,212">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="123,77,43,333,333,0,0,212">
+    <span class="patronRosterItem" data-sort="123,77,43,333,333,0,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="123,77,43,333,333,0,0,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="123,77,43,333,333,0,0,212">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="123,77,43,333,333,0,0,212">
+    <span class="patronRosterItem" data-sort="123,77,43,333,333,0,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="123,77,43,333,333,0,0,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="123,77,43,333,333,0,0,212">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="123,77,43,333,333,0,0,212">
+    <span class="patronRosterItem" data-sort="123,77,43,333,333,0,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="123,77,43,333,333,0,0,0">
         <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="123,77,43,333,333,0,0,212">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="123,77,43,333,333,0,0,212">
+    <span class="patronRosterItem" data-sort="123,77,43,333,333,0,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="123,77,43,333,333,0,0,0">
         <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="123,77,43,333,333,0,0,212">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="123,77,43,333,333,0,0,212">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-07-18</label>
+    <span class="patronRosterItem" data-sort="123,77,43,333,333,0,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="123,77,43,333,333,0,0,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="123,77,43,333,333,0,0,212">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="123,77,43,333,333,0,0,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="124,28,56,333,331,333,333,220">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="124,28,56,333,331,333,333,220">
         138
