@@ -135,7 +135,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/bruenor.png')">
                         <span class="weekendTableChampionNameplate">Bruenor</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 1**Bruenor Battlehammer**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 1**Bruenor Battlehammer**Increases the effect of Bruenor's Rally ability by 200%.<code>buff_upgrade,200,4</code></span>
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/tyril.png')">
                         <span class="weekendTableChampionNameplate">Tyril</span>
@@ -279,7 +279,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/makos.png')">
                         <span class="weekendTableChampionNameplate">Makos</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 9**Makos**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 9**Makos**Increases the effect of Makos's Dark Blessing and Dark Luck by 200%.<code>buff_upgrades,200,140,139</code></span>
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/minsc.png')">
                         <span class="weekendTableChampionNameplate">Minsc</span>
@@ -287,7 +287,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/laezel.png')">
                         <span class="weekendTableChampionNameplate">Lae'zel</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 128**Lae'zel**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 128**Lae'zel**Increases the effect of Lae'zel's Lethal Coordination ability by 200%.<code>buff_upgrade,200,12113</code></span>
                     </span>
                 </span>
             </span>
