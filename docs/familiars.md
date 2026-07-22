@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Mist Horror Portrait](images/familiars/misthorror.png)<span class="featTooltipContents">ID: 331**Mist Horror**These vaporous terrors take the shape of their viewers' greatest fears.<img src="images/familiars/misthorror.webp" alt="Mist Horror Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Mist Horror
-        </span>
-        <span class="skinTableSource">
-            Mist Horror Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,140p
-        </span>
-        <span class="skinTableDate">
-            22 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Fleetfoot the Mule Portrait](images/familiars/fleetfootthemule.png)<span class="featTooltipContents">ID: 332**Fleetfoot the Mule**Steadfast, strong, and better than any horse.<img src="images/familiars/fleetfootthemule.webp" alt="Fleetfoot the Mule Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
