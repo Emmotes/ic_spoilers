@@ -4,83 +4,6 @@
 
 A list of the upcoming content drops. Just be aware that the dates and order of these content drops are educated guesses based on the order their graphics appear in the definitions. CNE have been known to release content drops in different orders - so don't be surprised if that happens again.
 
-## Mastery 1 - 22 July 2026
-
-For Mastery Variants information see the [roadmap twitch stream](https://www.twitch.tv/videos/2788712278?t=0h44m48s).
-
-<span class="contentDropsTableColumn">
-    <span class="contentDropsTableRowHeader">
-        <span class="contentDropsTableIcons">
-            <span style="margin-left:8px;">**Icon**</span>
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">**Campaign**</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">**Adventure Name**</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">**Type**</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Mastery: No Good Deed (Variant)](images/contentdrop_portraits/mastery_nogooddeed_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Mastery</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">No Good Deed</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Mastery: Out of Time (Variant)](images/contentdrop_portraits/mastery_outoftime_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Mastery</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Out of Time</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Mastery: Rocket Elves (Variant)](images/contentdrop_portraits/mastery_rocketelves_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Mastery</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Rocket Elves</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Mastery: The Real Power of Three (Variant)](images/contentdrop_portraits/mastery_therealpowerofthree_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Mastery</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">The Real Power of Three</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant</span>
-        </span>
-    </span>
-</span>
-
 ## Mixed 7 Variants - 29 July 2026
 
 <span class="contentDropsTableColumn">
@@ -573,6 +496,137 @@ For Mastery Variants information see the [roadmap twitch stream](https://www.twi
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant #3</span>
+        </span>
+    </span>
+</span>
+
+## Mastery 4 - 28 October 2026
+
+<span class="contentDropsTableColumn">
+    <span class="contentDropsTableRowHeader">
+        <span class="contentDropsTableIcons">
+            <span style="margin-left:8px;">**Icon**</span>
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">**Campaign**</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">**Adventure Name**</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">**Type**</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Dont Trouble the Bubble (Variant)](images/contentdrop_portraits/mastery_donttroublethebubble_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Dont Trouble the Bubble</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Jockeying for Position (Variant)](images/contentdrop_portraits/mastery_jockeyingforposition_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Jockeying for Position</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Mad Dash (Variant)](images/contentdrop_portraits/mastery_maddash_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Mad Dash</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Magic Missiles (Variant)](images/contentdrop_portraits/mastery_magicmissiles_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Magic Missiles</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Oh the Hew Maanity (Variant)](images/contentdrop_portraits/mastery_ohthehewmaanity_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Oh the Hew Maanity</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: The Good the Bad (Variant)](images/contentdrop_portraits/mastery_thegoodthebad_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">The Good the Bad</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: The Longest Night (Variant)](images/contentdrop_portraits/mastery_thelongestnight_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">The Longest Night</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: The Stench of Evil (Variant)](images/contentdrop_portraits/mastery_thestenchofevil_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">The Stench of Evil</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
         </span>
     </span>
 </span>
