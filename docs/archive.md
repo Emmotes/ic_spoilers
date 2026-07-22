@@ -13,6 +13,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Kyre](archive/kyre.md)
 * [Lauralanthalasa Kanan](archive/laurana.md)
 * [Lawful Modron Core](archive/lawful_modron_core.md)
+* [Legendary Feats](archive/legendaryFeats.md)
 * [Lucius](archive/lucius.md)
 * [Melf](archive/melf.md)
 * [Nahara](archive/nahara.md)

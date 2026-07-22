@@ -540,7 +540,6 @@ Events will have either one rework OR three rebalances.
 
 Miscellaneous spoilers with due dates.
 
-* [Legendary Feats](legendaryFeats.md) - 22 July 2026
 * [Emergence 16](emergence_16.md) - 29 July 2026
 * [Bastion](bastion.md) - TBD July 2026
 * [Trials & Legendaries](trialsLegs.md) - ???
