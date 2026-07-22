@@ -79,7 +79,7 @@ These are the new event champions that are upcoming and all the information we k
 </a>
 {:/nomarkdown}
 {::nomarkdown}
-<a href="tika.html">
+<a href="kitiara.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
@@ -87,7 +87,7 @@ These are the new event champions that are upcoming and all the information we k
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Tika Waylan
+                Kitiara Uth Matar
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Human of Heroes of the Lance (Guess)</span>
@@ -506,7 +506,7 @@ Events will have either one rework OR three rebalances.
 ## Liars' Night - 7 October 2026 (Guess)
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
 {::nomarkdown}
-<a href="tika.html">
+<a href="kitiara.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
@@ -514,7 +514,7 @@ Events will have either one rework OR three rebalances.
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Tika Waylan (Guess)
+                Kitiara Uth Matar (Guess)
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Human of Heroes of the Lance (Guess)</span>
