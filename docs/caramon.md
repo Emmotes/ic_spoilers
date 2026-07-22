@@ -198,25 +198,20 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
     },
     "effect_keys": [
         {
-            "off_when_benched": false,
             "effect_string": "force_allow_hero",
+            "off_when_benched": true,
+            "paired_hero_id": 173,
             "ignore_hero_source_check": true,
             "hero_ids": [
-                179
+                173
             ]
         }
     ],
-    "requirements": [
-        {
-            "requirement": "hero_in_formation",
-            "target_hero_id": 173
-        }
-    ],
+    "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "dont_disable": true,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -242,25 +237,24 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
     },
     "effect_keys": [
         {
-            "off_when_benched": false,
             "effect_string": "force_allow_hero",
+            "paired_hero_id": 179,
+            "off_when_benched": true,
             "ignore_hero_source_check": true,
             "hero_ids": [
-                173
+                179
             ]
         }
     ],
-    "requirements": [
-        {
-            "requirement": "hero_in_formation",
-            "target_hero_id": 173
-        }
-    ],
+    "requirements": "",
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -309,7 +303,8 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -382,10 +377,10 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
         "conditions": [
             {
                 "condition": "feat_assigned 2758",
-                "desc": "Caramon increases the effect of Raise Spirits by $(not_buffed amount)% for each Champion in the formation affected by at least two Raise Spirits buffs"
+                "desc": "Caramon increases the effect of Raise Spirits by $amount% for each Champion in the formation affected by at least two Raise Spirits buffs"
             },
             {
-                "desc": "Caramon increases the effect of Raise Spirits by $(not_buffed amount)% for each Champion in the formation not affected by Raise Spirits."
+                "desc": "Caramon increases the effect of Raise Spirits by $amount% for each Champion in the formation not affected by Raise Spirits."
             }
         ]
     },
@@ -466,6 +461,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
         "is_formation_ability": true,
         "effect_name": "Raise Spirits: Encirclement",
         "owner_use_outgoing_description": true,
+        "show_incoming": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -518,6 +514,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
         "is_formation_ability": true,
         "effect_name": "Raise Spirits: Overwatch",
         "owner_use_outgoing_description": true,
+        "show_incoming": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -570,6 +567,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
         "is_formation_ability": true,
         "effect_name": "Raise Spirits: Spearhead",
         "owner_use_outgoing_description": true,
+        "show_incoming": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -596,6 +594,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
         {
             "effect_string": "carmon_second_spec,100",
             "off_when_benched": true,
+            "show_incoming": true,
             "override_key_desc": "Recruits $target to emanate Caramon's Raise Spirits Specialization",
             "targets": [
                 "all"
@@ -606,11 +605,11 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
                     "hero_expr": "HasTag(`tanking`)"
                 }
             ],
-            "spec_a_upgrades": [
-                20177,
-                20178,
-                20179
-            ]
+            "spec_a_upgrades": {
+                "20177": 0,
+                "20178": 1,
+                "20179": 2
+            }
         }
     ],
     "requirements": [],
@@ -621,6 +620,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
+        "spec_option_post_apply_info": "Tanking Champions: $num_targets",
         "default_bonus_index": 0
     }
 }
@@ -645,6 +645,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
         {
             "effect_string": "carmon_second_spec,100",
             "off_when_benched": true,
+            "show_incoming": true,
             "override_key_desc": "Recruits $target to emanate Caramon's Raise Spirits Specialization",
             "targets": [
                 "all"
@@ -655,11 +656,11 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
                     "hero_expr": "HasTag(`good`)"
                 }
             ],
-            "spec_a_upgrades": [
-                20177,
-                20178,
-                20179
-            ]
+            "spec_a_upgrades": {
+                "20177": 0,
+                "20178": 1,
+                "20179": 2
+            }
         }
     ],
     "requirements": [],
@@ -670,6 +671,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
+        "spec_option_post_apply_info": "Good Champions: $num_targets",
         "default_bonus_index": 0
     }
 }
@@ -694,6 +696,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
         {
             "effect_string": "carmon_second_spec,100",
             "off_when_benched": true,
+            "show_incoming": true,
             "override_key_desc": "Recruits $target to emanate Caramon's Raise Spirits Specialization",
             "targets": [
                 "all"
@@ -704,11 +707,11 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
                     "hero_expr": "GetStat(`str`) >= 16"
                 }
             ],
-            "spec_a_upgrades": [
-                20177,
-                20178,
-                20179
-            ]
+            "spec_a_upgrades": {
+                "20177": 0,
+                "20178": 1,
+                "20179": 2
+            }
         }
     ],
     "requirements": [],
@@ -719,6 +722,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
+        "spec_option_post_apply_info": "STR 16+ Champions: $num_targets",
         "default_bonus_index": 0
     }
 }
@@ -807,8 +811,7 @@ Unknown.
 > Caramon starts in the formation. He can be moved, but not removed.   
 > After area 50, only Champions affected by Caramon's Raise Spirits ability can deal damage.   
 > 1 to 3 extra goblin enemies spawn with each wave of enemies. They do not drop gold nor count toward quest progress.  
-> <b>Getting to Know Caramon</b>: Caramon's first specialization lets you choose the formation positions he buffs with his Raise Spirits ability. Make sure to position your Champions wisely!    
-> 
+> <b>Getting to Know Caramon</b>: Caramon's first specialization lets you choose the formation positions he buffs with his Raise Spirits ability. Make sure to position your Champions wisely!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![The War Begins Icon](images/caramon/30138.png) **Variant 2: The War Begins** (Complete Area 125)
@@ -816,8 +819,7 @@ Unknown.
 > After area 100, only Champions affected at least twice by Caramon's Raise Spirits ability can deal damage.   
 > Only Champions with the Tanking role, Champions of a Good alignment, or Champions with a STR of 16 or higher may be used.   
 > 1 extra draconian enemy spawns in each area with the first wave of enemies. They do not drop gold nor count toward quest progress.  
-> <b>Getting to Know Caramon</b>: Caramon's second specialization tasks you with positioning a chosen group of Champions so as to cause multiple instances of his Raise Spirits ability to be spread throughout the formation.   
-> 
+> <b>Getting to Know Caramon</b>: Caramon's second specialization tasks you with positioning a chosen group of Champions so as to cause multiple instances of his Raise Spirits ability to be spread throughout the formation.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Why We Fight Icon](images/caramon/30139.png) **Variant 3: Why We Fight** (Complete Area 175)
@@ -825,8 +827,7 @@ Unknown.
 > After area 150, only Champions affected at least three times by Caramon's Raise Spirits ability can deal damage.   
 > Tika takes up a position in the formation. Caramon may only be placed in spots adjacent to Tika.   
 > Enemies move 100% faster and attack twice as often.   
-> <b>Getting to Know Caramon</b>: Caramon cares deeply for three things: Tika Waylan, Otik's Spiced Potatoes, and staying alive no matter what to protect his brother. Caramon's Raise Spirits ability is buffed whenever he is attacked, and his Ultimate helps him stay alive against all odds, so try to keep him in front!   
-> 
+> <b>Getting to Know Caramon</b>: Caramon cares deeply for three things: Tika Waylan, Otik's Spiced Potatoes, and staying alive no matter what to protect his brother. Caramon's Raise Spirits ability is buffed whenever he is attacked, and his Ultimate helps him stay alive against all odds, so try to keep him in front!
 </div></div>
 
 # Other Champion Images
