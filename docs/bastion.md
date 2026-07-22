@@ -169,6 +169,62 @@ We now have some graphics for trophies.
     <img alt="30288_ZarielSword.png" src="images/bastion/trophies/30288_ZarielSword.png">
   </div>
 </div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Elminster Pipe
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30310_ElminsterPipe.png" src="images/bastion/trophies/30310_ElminsterPipe.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Extravegant Rug
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30311_ExtravegantRug.png" src="images/bastion/trophies/30311_ExtravegantRug.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Iris Plushie
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30312_IrisPlushie.png" src="images/bastion/trophies/30312_IrisPlushie.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Miniature Tiamat Statue
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30313_MiniatureTiamatStatue.png" src="images/bastion/trophies/30313_MiniatureTiamatStatue.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Polished Stonepillar
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30314_PolishedStonepillar.png" src="images/bastion/trophies/30314_PolishedStonepillar.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Rusty Armor Stand
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30315_RustyArmorStand.png" src="images/bastion/trophies/30315_RustyArmorStand.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Tomeof Advanture
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="30316_TomeofAdvanture.png" src="images/bastion/trophies/30316_TomeofAdvanture.png">
+  </div>
+</div>
 </div>
 <br>
 
@@ -989,6 +1045,7 @@ Some graphics were found that had the format `Bastion/Rooms/Extwalls/...`:
 > [bastion_extwall_pillarcorner.png](images/bastion/rooms/extwalls/bastion_extwall_pillarcorner.png){:target="_blank"}  
 > [bastion_extwall_sidewall.png](images/bastion/rooms/extwalls/bastion_extwall_sidewall.png){:target="_blank"}  
 > [bastion_extwall_window.png](images/bastion/rooms/extwalls/bastion_extwall_window.png){:target="_blank"}  
+> [bastion_extwall_windowlrg.png](images/bastion/rooms/extwalls/bastion_extwall_windowlrg.png){:target="_blank"}  
 
 ## Guild
 
@@ -1034,6 +1091,7 @@ Some graphics were found that had the format `Bastion/Rooms/Guild/...`:
 Some graphics were found that had the format `Bastion/Rooms/Hallway/...`:
 
 > [bastion_floor_hallway.png](images/bastion/rooms/hallway/bastion_floor_hallway.png){:target="_blank"}  
+> [bastion_hallway_floor_shadow.png](images/bastion/rooms/hallway/bastion_hallway_floor_shadow.png){:target="_blank"}  
 > [bastion_wall_hallway_cutout.png](images/bastion/rooms/hallway/bastion_wall_hallway_cutout.png){:target="_blank"}  
 > [bastion_wall_hallway_door_side.png](images/bastion/rooms/hallway/bastion_wall_hallway_door_side.png){:target="_blank"}  
 > [bastion_wall_hallway_doorpanel.png](images/bastion/rooms/hallway/bastion_wall_hallway_doorpanel.png){:target="_blank"}  
@@ -1103,6 +1161,7 @@ Some graphics were found that had the format `Bastion/Rooms/Library/...`:
 > [bastion_library_wall_sidewallfront.png](images/bastion/rooms/library/bastion_library_wall_sidewallfront.png){:target="_blank"}  
 > [bastion_library_wall_sidewalltop.png](images/bastion/rooms/library/bastion_library_wall_sidewalltop.png){:target="_blank"}  
 > [bastion_library_wall_stairs.png](images/bastion/rooms/library/bastion_library_wall_stairs.png){:target="_blank"}  
+> [bastion_library_wall_stairs_railing.png](images/bastion/rooms/library/bastion_library_wall_stairs_railing.png){:target="_blank"}  
 > [bastion_library_wall_window.png](images/bastion/rooms/library/bastion_library_wall_window.png){:target="_blank"}  
 
 ## Menagerie
@@ -1111,6 +1170,7 @@ Some graphics were found that had the format `Bastion/Rooms/Menagerie/...`:
 
 > [bastion_menagerie_doodad_familiarencyclopedia.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_familiarencyclopedia.png){:target="_blank"}  
 > [bastion_menagerie_doodad_familiarshop.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_familiarshop.png){:target="_blank"}  
+> [bastion_menagerie_doodad_fishshadow.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_fishshadow.png){:target="_blank"}  
 > [bastion_menagerie_doodad_flower01.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_flower01.png){:target="_blank"}  
 > [bastion_menagerie_doodad_flower02.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_flower02.png){:target="_blank"}  
 > [bastion_menagerie_doodad_flower03.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_flower03.png){:target="_blank"}  
@@ -1128,6 +1188,12 @@ Some graphics were found that had the format `Bastion/Rooms/Menagerie/...`:
 > [bastion_menagerie_wall_corner.png](images/bastion/rooms/menagerie/bastion_menagerie_wall_corner.png){:target="_blank"}  
 > [bastion_menagerie_wall_frontwallpanel.png](images/bastion/rooms/menagerie/bastion_menagerie_wall_frontwallpanel.png){:target="_blank"}  
 > [bastion_menagerie_wall_panel.png](images/bastion/rooms/menagerie/bastion_menagerie_wall_panel.png){:target="_blank"}  
+
+## Misc
+
+Some graphics were found that had the format `Bastion/Rooms/Misc/...`:
+
+> [bastion_misc_candleglow.png](images/bastion/rooms/misc/bastion_misc_candleglow.png){:target="_blank"}  
 
 ## Observatory
 
@@ -1420,6 +1486,7 @@ Some graphics were found that had the format `Bastion/Rooms/Trainingyard/...`:
 > [bastion_trainingyard_wall_sidewallfront.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_sidewallfront.png){:target="_blank"}  
 > [bastion_trainingyard_wall_sidewalltop.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_sidewalltop.png){:target="_blank"}  
 > [bastion_trainingyard_wall_stairs.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_stairs.png){:target="_blank"}  
+> [bastion_trainingyard_wall_stairs_railing.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_stairs_railing.png){:target="_blank"}  
 
 ## Treasure
 
@@ -1488,6 +1555,7 @@ Some graphics were found that had the format `Bastion/Rooms/Warroom/...`:
 > [bastion_warroom_floor_tile.png](images/bastion/rooms/warroom/bastion_warroom_floor_tile.png){:target="_blank"}  
 > [bastion_warroom_general_backwallgradient.png](images/bastion/rooms/warroom/bastion_warroom_general_backwallgradient.png){:target="_blank"}  
 > [bastion_warroom_wall_corner.png](images/bastion/rooms/warroom/bastion_warroom_wall_corner.png){:target="_blank"}  
+> [bastion_warroom_wall_halfwall.png](images/bastion/rooms/warroom/bastion_warroom_wall_halfwall.png){:target="_blank"}  
 > [bastion_warroom_wall_paintingwall.png](images/bastion/rooms/warroom/bastion_warroom_wall_paintingwall.png){:target="_blank"}  
 > [bastion_warroom_wall_roof01.png](images/bastion/rooms/warroom/bastion_warroom_wall_roof01.png){:target="_blank"}  
 > [bastion_warroom_wall_roof02.png](images/bastion/rooms/warroom/bastion_warroom_wall_roof02.png){:target="_blank"}  
