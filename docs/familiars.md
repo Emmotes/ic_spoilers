@@ -109,7 +109,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 337**Cinder Scholar Salamander**Only the best fire resistant parchment for this one!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Cinder Scholar Salamander Portrait](images/familiars/cinderscholarsalamander.png)<span class="featTooltipContents">ID: 337**Cinder Scholar Salamander**Only the best fire resistant parchment for this one!<img src="images/familiars/cinderscholarsalamander.webp" alt="Cinder Scholar Salamander Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Cinder Scholar Salamander
@@ -122,6 +122,74 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             16 Sept 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 338**Scout the Cooper's Hawk**This agile hunter awaits her master's signal. Only then can she strike.</span></span>
+        </span>
+        <span class="skinTableName">
+            Scout the Cooper's Hawk
+        </span>
+        <span class="skinTableSource">
+            Freeblade Kitiara Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            07 Oct 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 339**Slash the Chwinga**Fear comes in fun size.</span></span>
+        </span>
+        <span class="skinTableName">
+            Slash the Chwinga
+        </span>
+        <span class="skinTableSource">
+            Slash the Chwinga Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            840p
+        </span>
+        <span class="skinTableDate">
+            07 Oct 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 340**Gourd the Bat**The only thing scarier than the pumpkin is what's inside!</span></span>
+        </span>
+        <span class="skinTableName">
+            Gourd the Bat
+        </span>
+        <span class="skinTableSource">
+            Gourd the Bat Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            14 Oct 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 341**Aurum the Hoard Scarab**Thieves beware! These beetle-like creatures blend in perfectly among piles of gold coins.</span></span>
+        </span>
+        <span class="skinTableName">
+            Aurum the Hoard Scarab
+        </span>
+        <span class="skinTableSource">
+            Aurum the Hoard Scarab Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,140p
+        </span>
+        <span class="skinTableDate">
+            21 Oct 2026
         </span>
     </span>
 </span>

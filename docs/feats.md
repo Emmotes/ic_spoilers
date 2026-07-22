@@ -47,6 +47,57 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Drizzt</span>
+        </span>
+        <span class="featTableIcon5">
+            ![Apex Predator Icon](images/featicons/drizzt.png)<span class="featTooltipContents">ID: 2722**Apex Predator (Drizzt)**I pray that the world never runs out of dragons.<br><br><span style="color:var(--Flavescent)">Whenever Drizzt scores a Critical Hit he gains an Instinct stack that expires after 15 seconds. His damage is increased by 1000% for each Instinct stack he has, stacking multiplicatively. If he scores another Critical Hit before his stacks expire, the timers for all his stacks restart. This ability caps at 4 stacks. If there are at least 20 Mithral Hall stacks in the formation, Drizzt's base Critical Hit chance is increased by an additional 20%.</span><code>effect_def,2820</code></span>Apex Predator
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Whenever Drizzt scores a Critical Hit he gains an Instinct stack that expires after 15 seconds. His damage is increased by 1000% for each Instinct stack he has, stacking multiplicatively. If he scores another Critical Hit before his stacks expire, the timers for all his stacks restart. This ability caps at 4 stacks. If there are at least 20 Mithral Hall stacks in the formation, Drizzt's base Critical Hit chance is increased by an additional 20%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Mastery Shop</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Pwent</span>
+        </span>
+        <span class="featTableIcon5">
+            ![Loyal to the End Icon](images/featicons/pwent.png)<span class="featTooltipContents">ID: 2720**Loyal to the End (Pwent)**Livin' or dead, it matters none! I serve ME KING!<br><br><span style="color:var(--Flavescent)">Increase the effect of Can You SMELL That? by 250% for each Dwarf Champion or Companion of the Hall Champion in the formation, stacking multiplicatively. Champions that are both provide two stacks. If Pwent has at least 10 stacks of this ability, he gains the Companions of the Hall affiliation.</span><code>effect_def,2818</code></span>Loyal to the End
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increase the effect of Can You SMELL That? by 250% for each Dwarf Champion or Companion of the Hall Champion in the formation, stacking multiplicatively. Champions that are both provide two stacks. If Pwent has at least 10 stacks of this ability, he gains the Companions of the Hall affiliation.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Mastery Shop</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Wulfgar</span>
+        </span>
+        <span class="featTableIcon5">
+            ![Son of Beornegar Icon](images/featicons/wulfgar.png)<span class="featTooltipContents">ID: 2721**Son of Beornegar (Wulfgar)**Strength to my friends, and death to my foes!<br><br><span style="color:var(--Flavescent)">Wulfgar gains the Hunter role and Monstrosities are his favored foe. Wulfgar increases the damage of all Champions by 100% for each Monstrosity defeated since the last boss was killed, stacking multiplicatively and capping at 25 stacks. If there are at least 20 Mithral Hall stacks in the formation, a Yeti has a 50% chance to spawn with each wave.</span><code>effect_def,2819</code></span>Son of Beornegar
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Wulfgar gains the Hunter role and Monstrosities are his favored foe. Wulfgar increases the damage of all Champions by 100% for each Monstrosity defeated since the last boss was killed, stacking multiplicatively and capping at 25 stacks. If there are at least 20 Mithral Hall stacks in the formation, a Yeti has a 50% chance to spawn with each wave.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Mastery Shop</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">22 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Kyre</span>
         </span>
         <span class="featTableIcon4">
@@ -162,6 +213,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">29 Jul 2026<br>29 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Shadowheart</span>
+        </span>
+        <span class="featTableIcon5">
+            ![Astral-Touched Tadpole Icon](images/featicons/shadowheart.png)<span class="featTooltipContents">ID: 2775**Astral-Touched Tadpole (Shadowheart)**I truly hope you're right about this.<br><br><span style="color:var(--Flavescent)">Shadowheart adds up the total Wisdom scores of all the Champions adjacent to her and increases the effect of Twilight Trickery by 100% for every 5 Wisdom she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,2907</code></span>Astral-Touched Tadpole
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Shadowheart adds up the total Wisdom scores of all the Champions adjacent to her and increases the effect of Twilight Trickery by 100% for every 5 Wisdom she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">26 Aug 2026</span>
         </span>
     </span>
 </span>
@@ -661,57 +729,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableSource">
             <span class="featTableInner">Gold Chest</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Drizzt</span>
-        </span>
-        <span class="featTableIcon5">
-            ![Apex Predator Icon](images/featicons/drizzt.png)<span class="featTooltipContents">ID: 2722**Apex Predator (Drizzt)**I pray that the world never runs out of dragons. <br><br><span style="color:var(--Flavescent)">Whenever Drizzt scores a Critical Hit he gains an Instinct stack that expires after 15 seconds. His damage is increased by 1000% for each Instinct stack he has, stacking multiplicatively. If he scores another Critical Hit before his stacks expire, the timers for all his stacks restart. This ability caps at 4 stacks. If there are at least 20 Mithral Hall stacks in the formation, Drizzt's base Critical Hit chance is increased by an additional 20%.</span><code>effect_def,2820</code></span>Apex Predator
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Whenever Drizzt scores a Critical Hit he gains an Instinct stack that expires after 15 seconds. His damage is increased by 1000% for each Instinct stack he has, stacking multiplicatively. If he scores another Critical Hit before his stacks expire, the timers for all his stacks restart. This ability caps at 4 stacks. If there are at least 20 Mithral Hall stacks in the formation, Drizzt's base Critical Hit chance is increased by an additional 20%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Pwent</span>
-        </span>
-        <span class="featTableIcon5">
-            ![Loyal to the End Icon](images/featicons/pwent.png)<span class="featTooltipContents">ID: 2720**Loyal to the End (Pwent)**Livin' or dead, it matters none! I serve ME KING! <br><br><span style="color:var(--Flavescent)">Increase the effect of Can You SMELL That? by 250% for each Dwarf Champion or Companion of the Hall Champion in the formation, stacking multiplicatively. Champions that are both provide two stacks. If Pwent has at least 10 stacks of this ability, he gains the Companions of the Hall affiliation.</span><code>effect_def,2818</code></span>Loyal to the End
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increase the effect of Can You SMELL That? by 250% for each Dwarf Champion or Companion of the Hall Champion in the formation, stacking multiplicatively. Champions that are both provide two stacks. If Pwent has at least 10 stacks of this ability, he gains the Companions of the Hall affiliation.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Wulfgar</span>
-        </span>
-        <span class="featTableIcon5">
-            ![Son of Beornegar Icon](images/featicons/wulfgar.png)<span class="featTooltipContents">ID: 2721**Son of Beornegar (Wulfgar)**Strength to my friends, and death to my foes! <br><br><span style="color:var(--Flavescent)">Wulfgar gains the Hunter role and Monstrosities are his favored foe. Wulfgar increases the damage of all Champions by 100% for each Monstrosity defeated since the last boss was killed, stacking multiplicatively and capping at 25 stacks. If there are at least 20 Mithral Hall stacks in the formation, a Yeti has a 50% chance to spawn with each wave.</span><code>effect_def,2819</code></span>Son of Beornegar
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Wulfgar gains the Hunter role and Monstrosities are his favored foe. Wulfgar increases the damage of all Champions by 100% for each Monstrosity defeated since the last boss was killed, stacking multiplicatively and capping at 25 stacks. If there are at least 20 Mithral Hall stacks in the formation, a Yeti has a 50% chance to spawn with each wave.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">01 Jan 2032</span>

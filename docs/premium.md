@@ -840,7 +840,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Schoolyard Bruiser Bobby Skin Portrait](images/premiums/skin_721.png)<span class="itemTooltipContents">ID: 721**Schoolyard Bruiser Bobby (Bobby)**<img src="images/premiums/skin_721.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Schoolyard Bruiser Bobby Skin Portrait](images/premiums/skin_721.png)<span class="itemTooltipContents">ID: 721**Schoolyard Bruiser Bobby (Bobby)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_721.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_721-1.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1206,7 +1206,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 337**Cinder Scholar Salamander**Only the best fire resistant parchment for this one!</span></span>
+            <span class="tooltipHolder">![Cinder Scholar Salamander Familiar Portrait](images/premiums/familiar_337.png)<span class="itemTooltipContents">ID: 337**Cinder Scholar Salamander**Only the best fire resistant parchment for this one!<img src="images/premiums/familiar_337.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1344,6 +1344,487 @@ Contents:
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum  Karlach Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 765</div>
+### Freeblade Kitiara Theme Pack - 3,830 Platinum  
+Date of release: 07 Oct 2026
+
+> Unlock Kitiara along with an exclusive Freeblade Skin & Hawk Familiar!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Caramon Champion Unlock Portrait](images/premiums/unlock_champion_179.png)<span class="itemTooltipContents">ID: 179**Caramon**<img src="images/premiums/unlock_champion_179.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Caramon</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 720**Caramon, Guardian of the Future (Caramon)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Caramon, Guardian of the Future</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 338**Scout the Cooper's Hawk**This agile hunter awaits her master's signal. Only then can she strike.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Scout the Cooper's Hawk</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Selflessness</span>
+            <span style="margin-left:15px">Bruenor</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Caramon Chest Chest Portrait](images/premiums/chests_831.png)<span class="itemTooltipContents">ID: 831**Platinum Caramon Chest**Loot for: Caramon<code>"for_crusaders":[179]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Caramon Chest</span>
+            <span style="margin-left:15px">x32 (Shinies x2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of the Gem Hunter Buff Portrait](images/premiums/buff_1723.png)<span class="itemTooltipContents">ID: 1723**Potion of the Gem Hunter**Increases the gem drops from bosses by 50%<code>increase_boss_gems_percent,50</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Potion of the Gem Hunter</span>
+            <span style="margin-left:15px">x1</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 766</div>
+### Slash the Chwinga Familiar Pack - 840 Platinum  
+Date of release: 07 Oct 2026
+
+> Collect your own Slash the Chwinga familiar!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 339**Slash the Chwinga**Fear comes in fun size.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Slash the Chwinga</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Giant's Strength Buff Portrait](images/premiums/buff_4.png)<span class="itemTooltipContents">ID: 4**Huge Potion of Giant's Strength**A transparent potion in which floats the sliver of a giant's fingernail.<code>global_dps_multiplier_mult,900</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Giant's Strength</span>
+            <span style="margin-left:15px">x2</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Clairvoyance Buff Portrait](images/premiums/buff_8.png)<span class="itemTooltipContents">ID: 8**Huge Potion of Clairvoyance**Three eyeballs bob in this yellowish potion.<code>gold_multiplier_mult,400</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Clairvoyance</span>
+            <span style="margin-left:15px">x2</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Speed</span>
+            <span style="margin-left:15px">x2</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 767</div>
+### Vampire Spawn Astarion Skin & Feat Pack - 1,680 Platinum  
+Date of release: 07 Oct 2026
+
+> Unlock Astarion along with his exclusive Vampire Spawn Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Astarion Champion Unlock Portrait](images/premiums/unlock_champion_129.png)<span class="itemTooltipContents">ID: 129**Astarion (Seat 10)**<img src="images/premiums/unlock_champion_129.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Astarion</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 731**Vampire Spawn Astarion (Astarion)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Vampire Spawn Astarion</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2771**TBD Astarion Feat (Do not translate)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">TBD Astarion Feat (Do not translate)</span>
+            <span style="margin-left:15px">Astarion</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Astarion Chest Chest Portrait](images/premiums/chests_460.png)<span class="itemTooltipContents">ID: 460**Platinum Astarion Chest**Loot for: Astarion<code>"for_crusaders":[129]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Astarion Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 768</div>
+### Gourd the Bat Familiar Pack - 1,680 Platinum  
+Date of release: 14 Oct 2026
+
+> Collect your own Gourd the Bat familiar!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 340**Gourd the Bat**The only thing scarier than the pumpkin is what's inside!</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Gourd the Bat</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Giant's Strength Buff Portrait](images/premiums/buff_4.png)<span class="itemTooltipContents">ID: 4**Huge Potion of Giant's Strength**A transparent potion in which floats the sliver of a giant's fingernail.<code>global_dps_multiplier_mult,900</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Giant's Strength</span>
+            <span style="margin-left:15px">x4</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Clairvoyance Buff Portrait](images/premiums/buff_8.png)<span class="itemTooltipContents">ID: 8**Huge Potion of Clairvoyance**Three eyeballs bob in this yellowish potion.<code>gold_multiplier_mult,400</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Clairvoyance</span>
+            <span style="margin-left:15px">x4</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of Polish Buff Portrait](images/premiums/buff_36.png)<span class="itemTooltipContents">ID: 36**Potion of Polish**This shiny, silver liquid clings to the edge of the bottle in an unusual way.<code>shiny_loot,1</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Potion of Polish</span>
+            <span style="margin-left:15px">x1</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Speed</span>
+            <span style="margin-left:15px">x4</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 769</div>
+### Headless Cavalier Thellora Skin & Feat Pack - 1,680 Platinum  
+Date of release: 14 Oct 2026
+
+> Unlock Thellora along with her exclusive Headless Cavalier Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Thellora Champion Unlock Portrait](images/premiums/unlock_champion_139.png)<span class="itemTooltipContents">ID: 139**Thellora (Seat 1)**<img src="images/premiums/unlock_champion_139.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Thellora</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 732**Headless Cavalier Thellora (Thellora)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Headless Cavalier Thellora</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2772**TBD Thellora Feat (Do not translate)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">TBD Thellora Feat (Do not translate)</span>
+            <span style="margin-left:15px">Thellora</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Thellora Chest Chest Portrait](images/premiums/chests_549.png)<span class="itemTooltipContents">ID: 549**Platinum Thellora Chest**Loot for: Thellora<code>"for_crusaders":[139]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Thellora Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 770</div>
+### Aurum the Hoard Scarab Familiar Pack - 1,140 Platinum  
+Date of release: 21 Oct 2026
+
+> Collect your own Aurum the Hoard Scarab familiar!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 341**Aurum the Hoard Scarab**Thieves beware! These beetle-like creatures blend in perfectly among piles of gold coins.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Aurum the Hoard Scarab</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Fire Breath Buff Portrait](images/premiums/buff_40.png)<span class="itemTooltipContents">ID: 40**Huge Potion of Fire Breath**The orange liquid in this vial flickers and smoke fills the top of the container.<code>click_damage_seconds_global_dps,600</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Fire Breath</span>
+            <span style="margin-left:15px">x4</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Speed</span>
+            <span style="margin-left:15px">x4</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 771</div>
+### Forsaken Bride Ezmerelda Skin & Feat Pack - 1,680 Platinum  
+Date of release: 21 Oct 2026
+
+> Unlock Ezmerelda along with her exclusive Forsaken Bride Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Ezmerelda Champion Unlock Portrait](images/premiums/unlock_champion_70.png)<span class="itemTooltipContents">ID: 70**Ezmerelda (Seat 1)**<img src="images/premiums/unlock_champion_70.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Ezmerelda</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 733**Forsaken Bride Ezmerelda (Ezmerelda)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Forsaken Bride Ezmerelda</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2773**TBD Ezmerelda Feat (Do not translate)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">TBD Ezmerelda Feat (Do not translate)</span>
+            <span style="margin-left:15px">Ezmerelda</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Ezmerelda Chest Chest Portrait](images/premiums/chests_247.png)<span class="itemTooltipContents">ID: 247**Platinum Ezmerelda Chest**Loot for: Ezmerelda<code>"for_crusaders":[70]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Ezmerelda Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 772</div>
+### Karlach's Legendary Feat Pack - 1,680 Platinum  
+Date of release: 28 Oct 2026
+
+> Unlock Karlach's full potential with her Legendary Feat & 6 DPS Pigments now!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Karlach Champion Unlock Portrait](images/premiums/unlock_champion_143.png)<span class="itemTooltipContents">ID: 143**Karlach (Seat 4)**<img src="images/premiums/unlock_champion_143.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Karlach</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Selflessness</span>
+            <span style="margin-left:15px">Bruenor</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Marvelous DPS Pigment Buff Portrait](images/premiums/buff_1905.png)<span class="itemTooltipContents">ID: 1905**Marvelous DPS Pigment**Adds a Champion-tag-based effect to an epic or higher equipment item of your choice!<code>legendary_apply_pigment,2</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Marvelous DPS Pigment</span>
+            <span style="margin-left:15px">x6</span>
         </span>
     </span>
 </span>
