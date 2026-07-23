@@ -246,7 +246,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 716**Joyful Jester Omin (Omin)**</span></span>
+            <span class="tooltipHolder">![Joyful Jester Omin Skin Portrait](images/premiums/skin_716.png)<span class="itemTooltipContents">ID: 716**Joyful Jester Omin (Omin)**<img src="images/premiums/skin_716.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -388,7 +388,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 718**Weaponsmith Lae'zel (Lae'zel)**</span></span>
+            <span class="tooltipHolder">![Weaponsmith Lae'zel Skin Portrait](images/premiums/skin_718.png)<span class="itemTooltipContents">ID: 718**Weaponsmith Lae'zel (Lae'zel)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1060,7 +1060,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 724**Shadow Studies Cazrin (Cazrin)**</span></span>
+            <span class="tooltipHolder">![Shadow Studies Cazrin Skin Portrait](images/premiums/skin_724.png)<span class="itemTooltipContents">ID: 724**Shadow Studies Cazrin (Cazrin)**<img src="images/premiums/skin_724.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

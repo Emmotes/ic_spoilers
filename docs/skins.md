@@ -60,7 +60,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 716**Joyful Jester Omin (Omin)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Joyful Jester Omin Portrait](images/skin_portraits/joyfuljesteromin.png)<span class="featTooltipContents">ID: 716**Joyful Jester Omin (Omin)**<img src="images/skin_models/joyfuljesteromin.webp" alt="Joyful Jester Omin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Joyful Jester Omin
@@ -94,7 +94,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 718**Weaponsmith Lae'zel (Lae'zel)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Weaponsmith Lae'zel Portrait](images/skin_portraits/weaponsmithlaezel.png)<span class="featTooltipContents">ID: 718**Weaponsmith Lae'zel (Lae'zel)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
         </span>
         <span class="skinTableName">
             Weaponsmith Lae'zel
@@ -196,7 +196,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 724**Shadow Studies Cazrin (Cazrin)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Shadow Studies Cazrin Portrait](images/skin_portraits/shadowstudiescazrin.png)<span class="featTooltipContents">ID: 724**Shadow Studies Cazrin (Cazrin)**<img src="images/skin_models/shadowstudiescazrin.webp" alt="Shadow Studies Cazrin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Shadow Studies Cazrin
