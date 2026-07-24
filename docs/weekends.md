@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/825.png">
-            <span class="weekendTooltipContents">ID: 825**Gold Dazzling Chest**Loot for: Asharra, Calliope, Artemis, Hew Maan and Ezmerelda<code>"for_crusaders":[6,5,54,75,70]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Dazzling**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    24 July 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Ezmerelda
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/asharra.png')">
-                        <span class="weekendTableChampionNameplate">Asharra</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 6**Asharra**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/calliope.png')">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 5**Calliope**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/artemis.png')">
-                        <span class="weekendTableChampionNameplate">Artemis</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 54**Artemis Entreri**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/hewmaan.png')">
-                        <span class="weekendTableChampionNameplate">Hew Maan</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 75**Hew Maan**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/ezmerelda.png')">
-                        <span class="weekendTableChampionNameplate">Ezmerelda</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 70**Ezmerelda**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/826.png">
             <span class="weekendTooltipContents">ID: 826**Gold Pranked Chest**Loot for: Jarlaxle, Celeste, Kalix, Thellora and Fen<code>"for_crusaders":[4,2,158,139,118]</code></span>
         </span>
