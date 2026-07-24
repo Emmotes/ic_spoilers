@@ -94,7 +94,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Weaponsmith Lae'zel Portrait](images/skin_portraits/weaponsmithlaezel.png)<span class="featTooltipContents">ID: 718**Weaponsmith Lae'zel (Lae'zel)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Weaponsmith Lae'zel Portrait](images/skin_portraits/weaponsmithlaezel.png)<span class="featTooltipContents">ID: 718**Weaponsmith Lae'zel (Lae'zel)**<img src="images/skin_models/weaponsmithlaezel.webp" alt="Weaponsmith Lae'zel Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Weaponsmith Lae'zel

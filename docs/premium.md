@@ -388,7 +388,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Weaponsmith Lae'zel Skin Portrait](images/premiums/skin_718.png)<span class="itemTooltipContents">ID: 718**Weaponsmith Lae'zel (Lae'zel)**</span></span>
+            <span class="tooltipHolder">![Weaponsmith Lae'zel Skin Portrait](images/premiums/skin_718.png)<span class="itemTooltipContents">ID: 718**Weaponsmith Lae'zel (Lae'zel)**<img src="images/premiums/skin_718.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
