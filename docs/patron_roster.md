@@ -4023,39 +4023,39 @@ A list of all champions and their patron availability.
         <input type="checkbox" disabled checked><label class="cblabel">Until 2029-06-30</label>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="119,129,138,333,331,331,333,325">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="120,146,83,333,0,333,0,214">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="120,146,83,333,0,333,0,214">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="120,146,83,333,0,333,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="120,146,83,333,0,333,0,0">
         127
     </span>
-    <span class="patronRosterItem" data-sort="120,146,83,333,0,333,0,214">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="120,146,83,333,0,333,0,214">
+    <span class="patronRosterItem" data-sort="120,146,83,333,0,333,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="120,146,83,333,0,333,0,0">
         Vin Ursa
     </span>
-    <span class="patronRosterItem" data-sort="120,146,83,333,0,333,0,214">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="120,146,83,333,0,333,0,214">
+    <span class="patronRosterItem" data-sort="120,146,83,333,0,333,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="120,146,83,333,0,333,0,0">
         7
     </span>
-    <span class="patronRosterItem" data-sort="120,146,83,333,0,333,0,214">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="120,146,83,333,0,333,0,214">
+    <span class="patronRosterItem" data-sort="120,146,83,333,0,333,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="120,146,83,333,0,333,0,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="120,146,83,333,0,333,0,214">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="120,146,83,333,0,333,0,214">
+    <span class="patronRosterItem" data-sort="120,146,83,333,0,333,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="120,146,83,333,0,333,0,0">
         <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="120,146,83,333,0,333,0,214">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="120,146,83,333,0,333,0,214">
+    <span class="patronRosterItem" data-sort="120,146,83,333,0,333,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="120,146,83,333,0,333,0,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="120,146,83,333,0,333,0,214">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="120,146,83,333,0,333,0,214">
+    <span class="patronRosterItem" data-sort="120,146,83,333,0,333,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="120,146,83,333,0,333,0,0">
         <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="120,146,83,333,0,333,0,214">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="120,146,83,333,0,333,0,214">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2026-07-25</label>
+    <span class="patronRosterItem" data-sort="120,146,83,333,0,333,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="120,146,83,333,0,333,0,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="120,146,83,333,0,333,0,214">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="120,146,83,333,0,333,0,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="121,80,15,333,333,0,0,216">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="121,80,15,333,333,0,0,216">
         128
