@@ -135,7 +135,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/calliope.png')">
                         <span class="weekendTableChampionNameplate">Calliope</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 5**Calliope**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 5**Calliope**Increases the effect of Calliope's Bardic Inspiration ability by 200%.<code>buff_upgrade,200,71</code></span>
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/celeste.png')">
                         <span class="weekendTableChampionNameplate">Celeste</span>
