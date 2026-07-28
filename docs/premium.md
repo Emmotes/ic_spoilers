@@ -1347,7 +1347,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 339**Slash the Chwinga**Fear comes in fun size.</span></span>
+            <span class="tooltipHolder">![Slash the Chwinga Familiar Portrait](images/premiums/familiar_339.png)<span class="itemTooltipContents">ID: 339**Slash the Chwinga**Fear comes in fun size.<img src="images/premiums/familiar_339.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1470,7 +1470,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 340**Gourd the Bat**The only thing scarier than the pumpkin is what's inside!</span></span>
+            <span class="tooltipHolder">![Gourd the Bat Familiar Portrait](images/premiums/familiar_340.png)<span class="itemTooltipContents">ID: 340**Gourd the Bat**The only thing scarier than the pumpkin is what's inside!<img src="images/premiums/familiar_340.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1603,7 +1603,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 341**Aurum the Hoard Scarab**Thieves beware! These beetle-like creatures blend in perfectly among piles of gold coins.</span></span>
+            <span class="tooltipHolder">![Aurum the Hoard Scarab Familiar Portrait](images/premiums/familiar_341.png)<span class="itemTooltipContents">ID: 341**Aurum the Hoard Scarab**Thieves beware! These beetle-like creatures blend in perfectly among piles of gold coins.<img src="images/premiums/familiar_341.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

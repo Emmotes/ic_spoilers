@@ -126,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 339**Slash the Chwinga**Fear comes in fun size.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Slash the Chwinga Portrait](images/familiars/slashthechwinga.png)<span class="featTooltipContents">ID: 339**Slash the Chwinga**Fear comes in fun size.<img src="images/familiars/slashthechwinga.webp" alt="Slash the Chwinga Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Slash the Chwinga
@@ -143,7 +143,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 340**Gourd the Bat**The only thing scarier than the pumpkin is what's inside!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Gourd the Bat Portrait](images/familiars/gourdthebat.png)<span class="featTooltipContents">ID: 340**Gourd the Bat**The only thing scarier than the pumpkin is what's inside!<img src="images/familiars/gourdthebat.webp" alt="Gourd the Bat Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Gourd the Bat
@@ -160,7 +160,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 341**Aurum the Hoard Scarab**Thieves beware! These beetle-like creatures blend in perfectly among piles of gold coins.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Aurum the Hoard Scarab Portrait](images/familiars/aurumthehoardscarab.png)<span class="featTooltipContents">ID: 341**Aurum the Hoard Scarab**Thieves beware! These beetle-like creatures blend in perfectly among piles of gold coins.<img src="images/familiars/aurumthehoardscarab.webp" alt="Aurum the Hoard Scarab Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Aurum the Hoard Scarab
