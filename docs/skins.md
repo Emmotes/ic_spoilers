@@ -128,7 +128,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 720**Caramon, Guardian of the Future (Caramon)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Caramon, Guardian of the Future Portrait](images/skin_portraits/caramonguardianofthefuture.png)<span class="featTooltipContents">ID: 720**Caramon, Guardian of the Future (Caramon)**<img src="images/skin_models/caramonguardianofthefuture.webp" alt="Caramon, Guardian of the Future Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Caramon, Guardian of the Future
