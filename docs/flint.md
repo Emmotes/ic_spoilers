@@ -411,16 +411,14 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
     "id": 2799,
     "flavour_text": "",
     "description": {
-        "desc": {
-            "pre": "The effect of Forged Bonds is increased by $amount% for each completed area in the current adventure that was Underground.",
-            "post": {
-                "conditions": [
-                    {
-                        "condition": "not static_desc",
-                        "desc": "^^This adventure is underground in $(flint_stonecunning_percent)% of areas."
-                    }
-                ]
-            }
+        "pre": "The effect of Forged Bonds is increased by $amount% for each completed area in the current adventure that was Underground.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^This adventure is underground in $(flint_stonecunning_percent)% of areas."
+                }
+            ]
         }
     },
     "effect_keys": [
