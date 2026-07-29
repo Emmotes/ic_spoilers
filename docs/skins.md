@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Zombie Hunter Drizzt Portrait](images/skin_portraits/zombiehunterdrizzt.png)<span class="featTooltipContents">ID: 714**Zombie Hunter Drizzt (Drizzt)**<img src="images/skin_models/zombiehunterdrizzt.webp" alt="Zombie Hunter Drizzt Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Zombie Hunter Drizzt
-        </span>
-        <span class="skinTableSource">
-            Emergence 16
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            29 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Sly One Raistlin Portrait](images/skin_portraits/slyoneraistlin.png)<span class="featTooltipContents">ID: 536**Sly One Raistlin (Raistlin)**<img src="images/skin_models/slyoneraistlin.webp" alt="Sly One Raistlin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Sly One Raistlin
-        </span>
-        <span class="skinTableSource">
-            Sly One Raistlin Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            29 Jul 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 717**Colorweaver Jim (Jim)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/colorweaverjim.webp" alt="Colorweaver Jim Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/colorweaverjim-box.webp" alt="Colorweaver Jim Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
         </span>
         <span class="skinTableName">
