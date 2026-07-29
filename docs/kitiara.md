@@ -1,9 +1,23 @@
 [Back to Main](index.md)
 
-{% comment %}
 <span class="championPortraitsRow">
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![PC Portrait for Kitiara](images/kitiara/portrait.png)
+        </span>
+        <span>
+            Portrait
+        </span>
+    </span>
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Model WebP of Kitiara](images/kitiara/model.webp)
+        </span>
+        <span>
+            Model
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 # Kitiara Uth Matar
 
@@ -117,12 +131,15 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Kitiara Uth Matar Console Portrait](images/kitiara/console.png)Console Portrait
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 [Back to Top](#top)
 

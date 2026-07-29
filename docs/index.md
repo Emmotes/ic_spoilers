@@ -83,7 +83,7 @@ These are the new event champions that are upcoming and all the information we k
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+            ![Kitiara Uth Matar Portrait Icon](images/kitiara/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
@@ -510,7 +510,7 @@ Events will have either one rework OR three rebalances.
 {:/nomarkdown}
     <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
-            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+            ![Kitiara Uth Matar Portrait Icon](images/kitiara/portrait.png)
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
