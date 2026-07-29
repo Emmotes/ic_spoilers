@@ -54,10 +54,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "tags": [
-        "melee, magic"
+        "melee",
+        "magic"
     ],
     "damage_types": [
-        "melee, magic"
+        "melee",
+        "magic"
     ]
 }
 </pre>
@@ -122,7 +124,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Honorary Crewmates** (Guess)
-> All Champions adjacent to Corazón gain the Neutral tag (along the good/evil spectrum), and the BASE effect of Pirate's Code is increased by 100% for each Champion that was not Neutral before.
+> ll Champions adjacent to Corazón gain the Neutral tag (along the good/evil spectrum), and the BASE effect of Pirate's Code is increased by 100% for each Champion that was not Neutral before.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -133,14 +137,17 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "conditions": [
             {
                 "condition": "upgrade_purchased 20280",
-                "desc": "All Champions non-adjacent to Corazón gain the Neutral tag (along the good/evil spectrum), and the BASE effect of Pirate's Code is increased by 100% for each Champion that was not Neutral before."
+                "desc": "All Champions non-adjacent to Corazón gain the Neutral tag (along the good/evil spectrum), and the BASE effect of Pirate's Code is increased by $amount% for each Champion that was not Neutral before."
             },
             {
-                "desc": "All Champions adjacent to Corazón gain the Neutral tag (along the good/evil spectrum), and the BASE effect of Pirate's Code is increased by 100% for each Champion that was not Neutral before."
+                "desc": "ll Champions adjacent to Corazón gain the Neutral tag (along the good/evil spectrum), and the BASE effect of Pirate's Code is increased by $amount% for each Champion that was not Neutral before."
             }
         ]
     },
     "effect_keys": [
+        {
+            "effect_string": "pre_stack,100"
+        },
         {
             "off_when_benched": true,
             "effect_string": "add_hero_tags,0,geneutral",
@@ -151,6 +158,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "buff_upgrade,100,20276",
+            "amount_expr": "upgrade_amount(20278,0)",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`geneutral`) && !DefHasTag(`geneutral`)",
@@ -162,7 +170,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 11424,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -185,6 +196,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "buff_upgrade,25,20276,1",
+            "off_when_benched": true,
             "stacks_on_trigger": "champion_affected_by_upg_attacked,20276",
             "more_triggers": [
                 {
@@ -232,8 +244,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "change_upgrade_targets,20278",
+            "off_when_benched": true,
             "new_targets": "non_adj",
-            "effect_index": 0
+            "effect_index": 1
         }
     ],
     "requirements": "",
