@@ -35,7 +35,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2869,
     "flavour_text": "",
     "description": {
-        "desc": "When Stoki attacks she gains a Focus Point for each enemy she hits. She increases the damage of all Champions with a base attack cooldown of 4.0s or faster by $amount% for each Focus Point she has, stacking multiplicatively. Focus Points cap at $(amount___3) and are reduced by 50% (rounded down) when changing areas.",
+        "desc": "When Stoki attacks she gains a Focus Point for each enemy she hits. She increases the damage of all Champions with a base attack cooldown of 4.0s or faster by $amount% for each Focus Point she has, stacking multiplicatively. Focus Points cap at $(amount___3) and are reduced by $reduction_mod_desc___6% (rounded down) when changing areas.",
         "post": {
             "conditions": [
                 {
@@ -96,6 +96,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "effect_string": "expression_on_trigger,area_changed",
             "reduction_mod": 0.5,
+            "reduction_mod_desc": 50,
             "per_trigger_expr": "SetSaveStat(`stoki_focus_points`, true, floor(GetSaveStat(`stoki_focus_points`, true)* reduction_mod))"
         },
         {
@@ -268,7 +269,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "add_attack_targets,1",
             "amount_func": "add",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "as_int(hero_id==14) * floor(hero_level/1000)",
+            "per_hero_expr": "as_int(hero_id==111) * floor(hero_level/1000)",
             "amount_updated_listeners": [
                 "hero_level_changed"
             ],
@@ -437,7 +438,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Bend It Like Birdsong** (Guess)
-> Stoki counts the number of Champions in the formation with a DEX score of 16 or higher. For each such Champion, her base attack cooldown is decreased by 100 seconds, stacking additively, and the effect of Focused Strike is increased by 0.1%, stacking multiplicatively.
+> Stoki counts the number of Champions in the formation with a DEX score of 16 or higher. For each such Champion, her base attack cooldown is decreased by 0.1 seconds, stacking additively, and the effect of Focused Strike is increased by 100%, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -447,7 +448,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2874,
     "flavour_text": "",
     "description": {
-        "desc": "Stoki counts the number of Champions in the formation with a DEX score of 16 or higher. For each such Champion, her base attack cooldown is decreased by $amount seconds, stacking additively, and the effect of Focused Strike is increased by $amount___2%, stacking multiplicatively."
+        "desc": "Stoki counts the number of Champions in the formation with a DEX score of 16 or higher. For each such Champion, her base attack cooldown is decreased by $amount___2 seconds, stacking additively, and the effect of Focused Strike is increased by $amount___3%, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -493,7 +494,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
-        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks"
+        "spec_option_post_apply_info": "Champions in Formation Targeted: $num_stacks___2"
     }
 }
 </pre>
@@ -503,7 +504,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: A Little Bit Faster Now** (Guess)
-> Stoki reduces the base attack cooldown of all Champions with a default base attack cooldown of 6.0 seconds or higher to 4.0 seconds so that they qualify for Frenzied Friends. Their damage is increased by 100% for each 0.1 seconds their base attack cooldown is reduced by this ability, stacking multiplicatively.
+> Stoki reduces the base attack cooldown of all Champions with a default base attack cooldown of 6.0 seconds or higher to 4.0 seconds so that they qualify for Frenzied Friends. Their damage is increased by 200% for each 0.2 seconds their base attack cooldown is reduced by this ability, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -513,7 +514,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2875,
     "flavour_text": "",
     "description": {
-        "desc": "Stoki reduces the base attack cooldown of all Champions with a default base attack cooldown of 6.0 seconds or higher to 4.0 seconds so that they qualify for Frenzied Friends. Their damage is increased by 100% for each 0.1 seconds their base attack cooldown is reduced by this ability, stacking multiplicatively."
+        "desc": "Stoki reduces the base attack cooldown of all Champions with a default base attack cooldown of 6.0 seconds or higher to 4.0 seconds so that they qualify for Frenzied Friends. Their damage is increased by $amount% for each $amount___5 seconds their base attack cooldown is reduced by this ability, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -522,9 +523,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "effect_string": "buff_incoming_effect_by_expr",
             "effect_id": 2875,
-            "effect_index": 2,
+            "effect_index": 3,
             "buff_amount": 100,
-            "hero_expr": "max(0, sign(default_base_attack_cooldown-5.99)) * pow((1+(buff_amount/100)), (default_base_attack_cooldown-4)*10)",
+            "hero_expr": "max(0, sign(default_base_attack_cooldown-5.98)) * pow((1+(buff_amount/100)), (default_base_attack_cooldown-4)*5)",
             "targets": [
                 "all"
             ],
@@ -538,13 +539,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "slot_changed"
             ],
             "skip_effect_key_desc": true,
-            "off_when_benched": false
+            "off_when_benched": true
         },
         {
             "effect_string": "buff_incoming_effect_by_expr",
             "effect_id": 2875,
-            "effect_index": 3,
-            "hero_expr": "max(0, sign(default_base_attack_cooldown-5.99)) * (default_base_attack_cooldown-4)*10",
+            "effect_index": 4,
+            "hero_expr": "max(0, sign(default_base_attack_cooldown-5.98)) * (default_base_attack_cooldown-4)*5",
             "targets": [
                 "all"
             ],
@@ -558,10 +559,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "slot_changed"
             ],
             "skip_effect_key_desc": true,
-            "off_when_benched": false
+            "off_when_benched": true
         },
         {
-            "effect_string": "hero_dps_multiplier_mult,200",
+            "effect_string": "hero_dps_multiplier_mult,0",
             "amount_expr": "upgrade_amount(20266,0)",
             "targets": [
                 "all"
@@ -578,7 +579,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "use_computed_amount_for_description": true,
             "override_key_desc": "Increases the damage of $target by $amount%.",
             "hide_amount_rate": true,
-            "off_when_benched": false
+            "off_when_benched": true
         },
         {
             "effect_string": "reduce_attack_cooldown,0.2",
@@ -597,7 +598,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "use_computed_amount_for_description": true,
             "override_key_desc": "Reduces the cooldown of $target's Base Attack by $amount seconds.",
             "hide_amount_rate": true,
-            "off_when_benched": false
+            "off_when_benched": true
         }
     ],
     "requirements": "",
