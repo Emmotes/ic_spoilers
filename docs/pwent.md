@@ -26,6 +26,98 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Bleed** (Guess)
+> When Pwent attacks he causes all enemies he damages to Bleed, taking 0.5 seconds worth of BUD damage every second for the next 20 seconds. While an enemy is bleeding, attacks that target them have a 0.5% higher chance to critical hit (additively). If Pwent attacks an enemy that is already bleeding the duration is reset. When Pwent attacks he causes all enemies he damages to Bleed, taking 0.5 seconds worth of BUD damage every second for the next 20 seconds. While an enemy is bleeding, attacks that target them have a 20% higher chance to critical hit (additively). If Pwent attacks an enemy that is already bleeding the duration is reset.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2912,
+    "flavour_text": "",
+    "description": {
+        "pre": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "When $source attacks he causes all enemies he damages to Bleed, taking $(amount) seconds worth of BUD damage every second for the next $(total_seconds) seconds. While an enemy is bleeding, attacks that target them have a $(pwent_bleed_crit_amount)% higher chance to critical hit (additively). If $source attacks an enemy that is already bleeding the duration is reset."
+                },
+                {
+                    "desc": "When $source attacks he causes all enemies he damages to Bleed, taking $(amount) seconds worth of BUD damage every second for the next $(total_seconds) seconds. While an enemy is bleeding, attacks that target them have a $(amount___2)% higher chance to critical hit (additively). If $source attacks an enemy that is already bleeding the duration is reset."
+                }
+            ]
+        }
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pwent_bleed_dot,0.5",
+            "seconds_of_bud": 0.5,
+            "total_seconds": 20,
+            "debuffing_attack_ids": [
+                635,
+                229
+            ],
+            "debuff_before_damage": true,
+            "debuff_effects": [
+                {
+                    "effect_string": "bud_dot,$seconds_of_bud",
+                    "overlay_play_mode": "stopped",
+                    "active_graphic_id": 6343,
+                    "active_graphic_y": -75,
+                    "tick_rate": 1,
+                    "total_ticks": 9999,
+                    "for_time": "$total_seconds",
+                    "time_stack_type": "time_reset",
+                    "use_collection_source": true,
+                    "stack_across_effects": true
+                }
+            ]
+        },
+        {
+            "effect_string": "pwent_bleed_crit,20",
+            "total_seconds": 20,
+            "additional_crit_chance": 20,
+            "debuffing_attack_ids": [
+                635,
+                229
+            ],
+            "debuff_before_damage": true,
+            "debuff_effects": [
+                {
+                    "effect_string": "buff_incoming_crit_chance_add,$additional_crit_chance",
+                    "for_time": "$total_seconds",
+                    "time_stack_type": "time_reset",
+                    "stack_across_effects": true,
+                    "force_is_debuff": false
+                }
+            ]
+        },
+        {
+            "effect_string": "do_nothing,20",
+            "off_when_benched": true,
+            "targets": [
+                "all"
+            ],
+            "override_key_desc": "Increases chance for Critical Hit on bleeding enemies by $amount%"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Can You SMELL That?** (Guess)
 > Increases the damage of Champions not adjacent to Pwent by 100%.
 <details><summary><em>Raw Data</em></summary>
@@ -80,6 +172,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "buff_upgrade,50,20269",
+            "off_when_benched": true,
             "max_stacks": 50,
             "stack_title": "Gutbuster Stacks",
             "stacks_multiply": true,
@@ -122,7 +215,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Bruenor, Me King!** (Guess)
-> While not a member of the Companions of the Hall, Pwent fully supports them in their quests. Your formation gains one Mithral Hall stack. Pwent increases the damage bonus of 100 by 100% for each Mithral Hall stack you have, stacking multiplicatively.
+> While not a member of the Companions of the Hall, Pwent fully supports them in their quests. Your formation gains one Mithral Hall stack. Pwent increases the damage bonus of $(upgrade_name id___2) by 100% for each Mithral Hall stack you have, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -132,7 +225,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2878,
     "flavour_text": "",
     "description": {
-        "desc": "While not a member of the Companions of the Hall, $source fully supports them in their quests. Your formation gains one Mithral Hall stack. $source increases the damage bonus of $(upgrade_name id) by $(amount)% for each Mithral Hall stack you have, stacking multiplicatively."
+        "desc": "While not a member of the Companions of the Hall, $source fully supports them in their quests. Your formation gains one Mithral Hall stack. $source increases the damage bonus of $(upgrade_name id___2) by $(amount)% for each Mithral Hall stack you have, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -194,8 +287,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "change_upgrade_targets,20271",
+            "off_when_benched": true,
             "new_targets": "non_adj",
-            "effect_index": 1
+            "effect_index": 0
         },
         {
             "off_when_benched": true,
@@ -241,6 +335,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "buff_upgrade_per_any_tagged_crusader_mult,200,20269,dwarf",
+            "off_when_benched": true,
             "stacks_multiply": true
         }
     ],
@@ -275,6 +370,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "pwent_bleed_crit_spec,20",
+            "off_when_benched": true,
             "total_seconds": 20,
             "base_crit_chance": 20,
             "additional_crit_chance": 20,
@@ -299,6 +395,24 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "stack_across_effects": true
                 }
             ]
+        },
+        {
+            "effect_string": "buff_upgrade,100,20268,2",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "do_nothing,20",
+            "off_when_benched": true,
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasTag(`dwarf`)"
+                }
+            ],
+            "override_key_desc": "Increases chance for Critical Hit on bleeding enemies by $amount%"
         }
     ],
     "requirements": "",
