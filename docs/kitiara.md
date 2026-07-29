@@ -259,7 +259,7 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Loyal To HerPast** (Guess)
+**Loyal To Her Past** (Guess)
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
 <p>
