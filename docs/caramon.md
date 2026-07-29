@@ -395,7 +395,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
             "amount_expr": "upgrade_amount(20185,0)",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "(!GetFeatEquipped(2758) && !HasEffectByID(2852) && !HasEffectByID(2853) && !HasEffectByID(2854)) || (GetFeatEquipped(2758) && NumEffectKey(`caramon_raise_spirits`) >= 2)",
+            "per_hero_expr": "as_int((!GetFeatEquipped(2758) && NumEffectKey(`caramon_raise_spirits`) <= 0) || (GetFeatEquipped(2758) && NumEffectKey(`caramon_raise_spirits`) >= 2))",
             "stacks_multiply": true,
             "amount_updated_listeners": [
                 "slot_changed",
@@ -412,6 +412,8 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
+        "rename_effect_on_feat_equipped": 2758,
+        "effect_name": "His Own Path",
         "default_bonus_index": 0
     }
 }
@@ -432,7 +434,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
     "id": 2852,
     "flavour_text": "",
     "description": {
-        "desc": "Caramon increases the damage of all adjacent Champions by $amount%."
+        "desc": "$target increases the damage of all adjacent Champions by $amount%."
     },
     "effect_keys": [
         {
@@ -461,6 +463,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
         "is_formation_ability": true,
         "effect_name": "Raise Spirits: Encirclement",
         "owner_use_outgoing_description": true,
+        "show_owner_incoming": true,
         "show_incoming": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -482,7 +485,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
     "id": 2853,
     "flavour_text": "",
     "description": {
-        "desc": "Caramon increases the damage of all Champions in the same column as him and the column in front of him by $amount%."
+        "desc": "$target increases the damage of all Champions in the same column as him and the column in front of him by $amount%."
     },
     "effect_keys": [
         {
@@ -514,6 +517,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
         "is_formation_ability": true,
         "effect_name": "Raise Spirits: Overwatch",
         "owner_use_outgoing_description": true,
+        "show_owner_incoming": true,
         "show_incoming": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
@@ -535,7 +539,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
     "id": 2854,
     "flavour_text": "",
     "description": {
-        "desc": "Caramon increases the damage of all Champions in the two columns behind him by $amount%."
+        "desc": "$target increases the damage of all Champions in the two columns behind him by $amount%."
     },
     "effect_keys": [
         {
@@ -567,6 +571,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
         "is_formation_ability": true,
         "effect_name": "Raise Spirits: Spearhead",
         "owner_use_outgoing_description": true,
+        "show_owner_incoming": true,
         "show_incoming": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
