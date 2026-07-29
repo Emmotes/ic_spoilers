@@ -24,7 +24,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Oak the Donkey Toy Portrait](images/familiars/oakthedonkeytoy.png)<span class="featTooltipContents">ID: 333**Oak the Donkey Toy**At least it's not a horse…<img src="images/familiars/oakthedonkeytoy.webp" alt="Oak the Donkey Toy Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Oak the Donkey Toy Portrait](images/familiars/oakthedonkeytoy.png)<span class="featTooltipContents">ID: 333**Oak the Donkey Toy**At least it's not a horse...<img src="images/familiars/oakthedonkeytoy.webp" alt="Oak the Donkey Toy Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Oak the Donkey Toy
@@ -41,7 +41,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Pigment the Flying Monkey Portrait](images/familiars/pigmenttheflyingmonkey.png)<span class="featTooltipContents">ID: 334**Pigment the Flying Monkey**Maybe a bit more blue…<img src="images/familiars/pigmenttheflyingmonkey.webp" alt="Pigment the Flying Monkey Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Pigment the Flying Monkey Portrait](images/familiars/pigmenttheflyingmonkey.png)<span class="featTooltipContents">ID: 334**Pigment the Flying Monkey**Maybe a bit more blue...<img src="images/familiars/pigmenttheflyingmonkey.webp" alt="Pigment the Flying Monkey Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Pigment the Flying Monkey

@@ -132,6 +132,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Krux</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1376**Scholar (Krux)**There's quite a bit of time in Wildspace for reading.<br><br><span style="color:var(--Flavescent)">Increases the Intelligence score of Krux by 2.</span><code>increase_ability_score,int,2</code></span>Scholar
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the Intelligence score of Krux by 2.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Raistlin</span>
         </span>
         <span class="featTableIcon4">
@@ -149,6 +166,74 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Jim</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Fashionista Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2740**Fashionista (Jim)**Make it work, people!<br><br><span style="color:var(--Flavescent)">Increases the effect of Jim's $(upgrade_name id) ability by 80%.</span><code>buff_upgrade,80,20146,0</code></span>Fashionista
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Jim's $(upgrade_name id) ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">05 Aug 2026<br>05 Nov 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Omin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2739**Scholar (Omin)**With enough gold, you can get an honorary degree in anything.<br><br><span style="color:var(--Flavescent)">Increases the Intelligence score of Omin by 2.</span><code>increase_ability_score,int,2</code></span>Scholar
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the Intelligence score of Omin by 2.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">05 Aug 2026<br>05 Nov 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lae'zel</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2741**Multiversal Allies (Lae'zel)**We must forge strong blades and stronger alliances for the work that lies ahead.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">12 Aug 2026<br>12 Nov 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Ellywick</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Painting Virtuoso Icon](images/featicons/jangsaopigments.png)<span class="featTooltipContents">ID: 2742**Painting Virtuoso (Ellywick)**The Feywild has colors you've never even dreamed of.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 80% for each pigment applied to Ellywick, stacking additively.</span><code>global_dps_multiplier_mult,80</code></span>Painting Virtuoso
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 80% for each pigment applied to Ellywick, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">19 Aug 2026<br>19 Nov 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Shadowheart</span>
         </span>
         <span class="featTableIcon5">
@@ -162,6 +247,159 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">26 Aug 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Volo</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2776**Prodigal Leader (Volo)**Want to know a dark secret? Ask a hag. The trick lies in getting truth out of her.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +50%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">02 Sept 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Stoki</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Demon Fist Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2743**Demon Fist (Stoki)**Fear the monk who has practiced one punch ten thousand times.<br><br><span style="color:var(--Flavescent)">Increases the effect of Stoki's Focused Strike ability by 80%.</span><code>buff_upgrade,80,16052,1</code></span>Demon Fist
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Stoki's Focused Strike ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">02 Sept 2026<br>02 Dec 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Bobby</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Temper Tantrum Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2635**Temper Tantrum (Bobby)**Bobby, please calm down! Oh, brother. ~Sheila<br><br><span style="color:var(--Flavescent)">Increases the effect of Bobby's Stunning Strength and Group Charge specializations by 80%.</span><code>buff_upgrade,80,15447,0<br>buff_upgrade,80,15448,0</code></span>Temper Tantrum
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Bobby's Stunning Strength and Group Charge specializations by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">02 Sept 2026<br>02 Dec 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Pwent</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Hyperhidrosis Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2744**Hyperhidrosis (Pwent)**What do ye mean 'too much sweat'!? Don't talk nonsense!<br><br><span style="color:var(--Flavescent)">Increases the effect of Pwent's $(upgrade_name id) ability by 80%.</span><code>buff_upgrade,80,20272</code></span>Hyperhidrosis
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Pwent's $(upgrade_name id) ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">09 Sept 2026<br>09 Dec 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Cazrin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Cazrin Family Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2745**Cazrin Family (Cazrin)**You know, I think she loves us. I do! In her own very gross way.<br><br><span style="color:var(--Flavescent)">Increases the effect of Cazrin's Unctuous Uggie ability by 80%.</span><code>buff_upgrade,80,17675</code></span>Cazrin Family
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Cazrin's Unctuous Uggie ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">16 Sept 2026<br>16 Dec 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Karlach</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Painting Virtuoso Icon](images/featicons/jangsaopigments.png)<span class="featTooltipContents">ID: 2746**Painting Virtuoso (Karlach)**Let's paint the town red with the blood of our enemies! ...Too much?<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 80% for each pigment applied to Karlach, stacking additively.</span><code>global_dps_multiplier_mult,80</code></span>Painting Virtuoso
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 80% for each pigment applied to Karlach, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Sept 2026<br>30 Dec 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Astarion</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Immortal Chains Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2771**Immortal Chains (Astarion)**I may never be free of this. I may as well learn to live with it. Forever.<br><br><span style="color:var(--Flavescent)">Increases the effect of Astarion's Outflank (Top) and Outflank (Bottom) by 80%.</span><code>buff_upgrades,80,12493,12494</code></span>Immortal Chains
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Astarion's Outflank (Top) and Outflank (Bottom) by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">07 Oct 2026<br>07 Jan 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Thellora</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Callessa's Champion Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2772**Callessa's Champion (Thellora)**We WILL win this day! We shall NOT fail her!<br><br><span style="color:var(--Flavescent)">Increases the effect of Thellora's Paladin's Resolve ability by 80%.</span><code>buff_upgrade,80,12980</code></span>Callessa's Champion
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Thellora's Paladin's Resolve ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">14 Oct 2026<br>14 Jan 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Ezmerelda</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vow of Vengeance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2773**Vow of Vengeance (Ezmerelda)**You could say I'm married to my career. I love what I do.<br><br><span style="color:var(--Flavescent)">Increases the effect of Ezmerelda's Preparation ability by 80%.</span><code>buff_upgrade,80,15038</code></span>Vow of Vengeance
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Ezmerelda's Preparation ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">21 Oct 2026<br>21 Jan 2027</span>
         </span>
     </span>
 </span>
@@ -1372,23 +1610,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the Charisma score of Alyndra by 2.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Krux</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1376**Scholar (Krux)**There's quite a bit of time in Wildspace for reading.<br><br><span style="color:var(--Flavescent)">Increases the Intelligence score of Krux by 2.</span><code>increase_ability_score,int,2</code></span>Scholar
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the Intelligence score of Krux by 2.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>

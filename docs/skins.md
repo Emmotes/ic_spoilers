@@ -43,7 +43,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 717**Colorweaver Jim (Jim)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 717**Colorweaver Jim (Jim)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/colorweaverjim.webp" alt="Colorweaver Jim Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/colorweaverjim-box.webp" alt="Colorweaver Jim Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
         </span>
         <span class="skinTableName">
             Colorweaver Jim
@@ -124,6 +124,23 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             19 Aug 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Guest Lecturer Volo Portrait](images/skin_portraits/guestlecturervolo.png)<span class="featTooltipContents">ID: 708**Guest Lecturer Volo (Volo)**<img src="images/skin_models/guestlecturervolo.webp" alt="Guest Lecturer Volo Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Guest Lecturer Volo
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            02 Sept 2026
         </span>
     </span>
     <span class="skinTableRow">
@@ -226,6 +243,23 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             30 Sept 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Freeblade Kitiara Portrait](images/skin_portraits/freebladekitiara.png)<span class="featTooltipContents">ID: 734**Freeblade Kitiara (Kitiara)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+        </span>
+        <span class="skinTableName">
+            Freeblade Kitiara
+        </span>
+        <span class="skinTableSource">
+            Freeblade Kitiara Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            07 Oct 2026
         </span>
     </span>
     <span class="skinTableRow">

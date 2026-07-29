@@ -79,7 +79,7 @@ Contents:
 ### From the Vault: Dragonlance Sentry Skin & Feat Pack - 1,000 Platinum  
 Date of release: 29 Jul 2026
 
-> Available till the end of the event - Dragonlance Sentry!
+> Available for one week only - Dragonlance Sentry!
 
 Contents:
 
@@ -95,7 +95,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Dragonlance Sentry Skin Portrait](images/premiums/skin_261.png)<span class="itemTooltipContents">ID: 261**Dragonlance Sentry (Sentry)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_261.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_261-1.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+            <span class="tooltipHolder">![Dragonlance Sentry Skin Portrait](images/premiums/skin_261.png)<span class="itemTooltipContents">ID: 261**Dragonlance Sentry (Sentry)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_261.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_261-bastion.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_261-1.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -120,7 +120,7 @@ Contents:
 ### From the Vault: Dragonlance Miria Skin & Feat Pack - 1,000 Platinum  
 Date of release: 29 Jul 2026
 
-> Available till the end of the event - Dragonlance Miria!
+> Available for one week only - Dragonlance Miria!
 
 Contents:
 
@@ -136,7 +136,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Dragonlance Miria Skin Portrait](images/premiums/skin_281.png)<span class="itemTooltipContents">ID: 281**Dragonlance Miria (Miria)**<img src="images/premiums/skin_281.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Dragonlance Miria Skin Portrait](images/premiums/skin_281.png)<span class="itemTooltipContents">ID: 281**Dragonlance Miria (Miria)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_281.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_281-bastion.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -255,11 +255,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2739**TBD Omin Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Scholar Feat Portrait](images/featicons/attributeboostx2.png)<span class="itemTooltipContents">ID: 2739**Scholar**With enough gold, you can get an honorary degree in anything.<br><br><span style="color:var(--Flavescent)">Increases the Intelligence score of Omin by 2.</span><code>increase_ability_score,int,2</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Omin Feat (Do not translate)</span>
+            <span style="margin-left:15px">Scholar</span>
             <span style="margin-left:15px">Omin</span>
         </span>
     </span>
@@ -317,7 +317,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 717**Colorweaver Jim (Jim)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 717**Colorweaver Jim (Jim)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_717.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_717-box.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -326,11 +326,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2740**TBD Jim Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Fashionista Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2740**Fashionista**Make it work, people!<br><br><span style="color:var(--Flavescent)">Increases the effect of Jim's $(upgrade_name id) ability by 80%.</span><code>buff_upgrade,80,20146,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Jim Feat (Do not translate)</span>
+            <span style="margin-left:15px">Fashionista</span>
             <span style="margin-left:15px">Jim</span>
         </span>
     </span>
@@ -397,11 +397,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2741**TBD Lae'zel Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Multiversal Allies Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2741**Multiversal Allies**We must forge strong blades and stronger alliances for the work that lies ahead.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Lae'zel Feat (Do not translate)</span>
+            <span style="margin-left:15px">Multiversal Allies</span>
             <span style="margin-left:15px">Lae'zel</span>
         </span>
     </span>
@@ -450,7 +450,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Oak the Donkey Toy Familiar Portrait](images/premiums/familiar_333.png)<span class="itemTooltipContents">ID: 333**Oak the Donkey Toy**At least it's not a horse…<img src="images/premiums/familiar_333.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Oak the Donkey Toy Familiar Portrait](images/premiums/familiar_333.png)<span class="itemTooltipContents">ID: 333**Oak the Donkey Toy**At least it's not a horse...<img src="images/premiums/familiar_333.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -530,11 +530,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2742**TBD Ellywick Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Painting Virtuoso Feat Portrait](images/featicons/jangsaopigments.png)<span class="itemTooltipContents">ID: 2742**Painting Virtuoso**The Feywild has colors you've never even dreamed of.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 80% for each pigment applied to Ellywick, stacking additively.</span><code>global_dps_multiplier_mult,80</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Ellywick Feat (Do not translate)</span>
+            <span style="margin-left:15px">Painting Virtuoso</span>
             <span style="margin-left:15px">Ellywick</span>
         </span>
     </span>
@@ -583,7 +583,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Pigment the Flying Monkey Familiar Portrait](images/premiums/familiar_334.png)<span class="itemTooltipContents">ID: 334**Pigment the Flying Monkey**Maybe a bit more blue…<img src="images/premiums/familiar_334.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Pigment the Flying Monkey Familiar Portrait](images/premiums/familiar_334.png)<span class="itemTooltipContents">ID: 334**Pigment the Flying Monkey**Maybe a bit more blue...<img src="images/premiums/familiar_334.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -704,12 +704,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2757**Feat**???: 2757</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor</span>
+            <span style="margin-left:15px">???: 2757</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -765,11 +764,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2635**TBD Bobby Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Temper Tantrum Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2635**Temper Tantrum**Bobby, please calm down! Oh, brother. ~Sheila<br><br><span style="color:var(--Flavescent)">Increases the effect of Bobby's Stunning Strength and Group Charge specializations by 80%.</span><code>buff_upgrade,80,15447,0<br>buff_upgrade,80,15448,0</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Bobby Feat (Do not translate)</span>
+            <span style="margin-left:15px">Temper Tantrum</span>
             <span style="margin-left:15px">Bobby</span>
         </span>
     </span>
@@ -836,11 +835,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2743**TBD Stoki Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Demon Fist Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2743**Demon Fist**Fear the monk who has practiced one punch ten thousand times.<br><br><span style="color:var(--Flavescent)">Increases the effect of Stoki's Focused Strike ability by 80%.</span><code>buff_upgrade,80,16052,1</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Stoki Feat (Do not translate)</span>
+            <span style="margin-left:15px">Demon Fist</span>
             <span style="margin-left:15px">Stoki</span>
         </span>
     </span>
@@ -907,11 +906,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2744**TBD Pwent Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Hyperhidrosis Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2744**Hyperhidrosis**What do ye mean 'too much sweat'!? Don't talk nonsense!<br><br><span style="color:var(--Flavescent)">Increases the effect of Pwent's $(upgrade_name id) ability by 80%.</span><code>buff_upgrade,80,20272</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Pwent Feat (Do not translate)</span>
+            <span style="margin-left:15px">Hyperhidrosis</span>
             <span style="margin-left:15px">Pwent</span>
         </span>
     </span>
@@ -1069,11 +1068,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2745**TBD Cazrin Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Cazrin Family Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2745**Cazrin Family**You know, I think she loves us. I do! In her own very gross way.<br><br><span style="color:var(--Flavescent)">Increases the effect of Cazrin's Unctuous Uggie ability by 80%.</span><code>buff_upgrade,80,17675</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Cazrin Feat (Do not translate)</span>
+            <span style="margin-left:15px">Cazrin Family</span>
             <span style="margin-left:15px">Cazrin</span>
         </span>
     </span>
@@ -1224,11 +1223,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2746**TBD Karlach Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Painting Virtuoso Feat Portrait](images/featicons/jangsaopigments.png)<span class="itemTooltipContents">ID: 2746**Painting Virtuoso**Let's paint the town red with the blood of our enemies! ...Too much?<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 80% for each pigment applied to Karlach, stacking additively.</span><code>global_dps_multiplier_mult,80</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Karlach Feat (Do not translate)</span>
+            <span style="margin-left:15px">Painting Virtuoso</span>
             <span style="margin-left:15px">Karlach</span>
         </span>
     </span>
@@ -1277,20 +1276,20 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Caramon Champion Unlock Portrait](images/premiums/unlock_champion_179.png)<span class="itemTooltipContents">ID: 179**Caramon**<img src="images/premiums/unlock_champion_179.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Kitiara Champion Unlock Portrait](images/premiums/unlock_champion_180.png)<span class="itemTooltipContents">ID: 180**Kitiara**<img src="images/premiums/unlock_champion_180.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Caramon</span>
+            <span style="margin-left:15px">Kitiara</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Caramon, Guardian of the Future Skin Portrait](images/premiums/skin_720.png)<span class="itemTooltipContents">ID: 720**Caramon, Guardian of the Future (Caramon)**<img src="images/premiums/skin_720.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Freeblade Kitiara Skin Portrait](images/premiums/skin_734.png)<span class="itemTooltipContents">ID: 734**Freeblade Kitiara (Kitiara)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Caramon, Guardian of the Future</span>
+            <span style="margin-left:15px">Freeblade Kitiara</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1314,11 +1313,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Caramon Chest Chest Portrait](images/premiums/chests_831.png)<span class="itemTooltipContents">ID: 831**Platinum Caramon Chest**Loot for: Caramon<code>"for_crusaders":[179]</code></span></span>
+            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 842**Platinum Kitiara Chest**Loot for: Kitiara<code>"for_crusaders":[180]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Caramon Chest</span>
+            <span style="margin-left:15px">Platinum Kitiara Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
@@ -1417,11 +1416,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2771**TBD Astarion Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Immortal Chains Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2771**Immortal Chains**I may never be free of this. I may as well learn to live with it. Forever.<br><br><span style="color:var(--Flavescent)">Increases the effect of Astarion's Outflank (Top) and Outflank (Bottom) by 80%.</span><code>buff_upgrades,80,12493,12494</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Astarion Feat (Do not translate)</span>
+            <span style="margin-left:15px">Immortal Chains</span>
             <span style="margin-left:15px">Astarion</span>
         </span>
     </span>
@@ -1550,11 +1549,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2772**TBD Thellora Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Callessa's Champion Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2772**Callessa's Champion**We WILL win this day! We shall NOT fail her!<br><br><span style="color:var(--Flavescent)">Increases the effect of Thellora's Paladin's Resolve ability by 80%.</span><code>buff_upgrade,80,12980</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Thellora Feat (Do not translate)</span>
+            <span style="margin-left:15px">Callessa's Champion</span>
             <span style="margin-left:15px">Thellora</span>
         </span>
     </span>
@@ -1663,11 +1662,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2773**TBD Ezmerelda Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Vow of Vengeance Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2773**Vow of Vengeance**You could say I'm married to my career. I love what I do.<br><br><span style="color:var(--Flavescent)">Increases the effect of Ezmerelda's Preparation ability by 80%.</span><code>buff_upgrade,80,15038</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Ezmerelda Feat (Do not translate)</span>
+            <span style="margin-left:15px">Vow of Vengeance</span>
             <span style="margin-left:15px">Ezmerelda</span>
         </span>
     </span>
