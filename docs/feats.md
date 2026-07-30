@@ -124,7 +124,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">All Champions damage +50%.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Anniversary</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">02 Sept 2026</span>

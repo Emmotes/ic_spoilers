@@ -775,6 +775,61 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
+                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Anniversary Giveaway Anniversary Celebration Icon](images/general/anniversary.png)**Anniversary Giveaway** - Anniversary Celebration
+            </span>
+        </span>
+        <span id="g3" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2776**Prodigal Leader (Volo)**Want to know a dark secret? Ask a hag. The trick lies in getting truth out of her.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Prodigal Leader</span>
+                        <span style="margin-left:15px">Volo</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Guest Lecturer Volo Skin Icon](images/exclusivities/skin_30379.png)<span class="featTooltipContents">ID: 708**Guest Lecturer Volo (Volo)**<img src="images/exclusivities/skin_30383.webp" alt="Guest Lecturer Volo Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Guest Lecturer Volo</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>02 September 2026</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>09 September 2026</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>09 December 2026 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
                 <a id="e16a" onclick="exclusiveToggleContent(`e16`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>

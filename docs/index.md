@@ -541,6 +541,7 @@ Events will have either one rework OR three rebalances.
 Miscellaneous spoilers with due dates.
 
 * [Bastion](bastion.md) - TBD August 2026
+* Anniversary Celebration - 2 September 2026
 * Emergence 17 - 30 September 2026
 * [Trials & Legendaries](trialsLegs.md) - ???
 

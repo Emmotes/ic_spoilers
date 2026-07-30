@@ -100,7 +100,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             Guest Lecturer Volo
         </span>
         <span class="skinTableSource">
-            ???
+            Anniversary Giveaway - Anniversary Celebration
         </span>
         <span class="skinTableCost">
             ???
