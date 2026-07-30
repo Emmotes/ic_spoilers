@@ -1167,6 +1167,8 @@ input[type="checkbox"]:checked::before {
 	border: 1px solid var(--Black);
 	background-color: var(--CodGrey);
 	width: max-content;
+	max-width: 400px;
+	text-wrap: wrap pretty;
 	
 	display: flex;
 	flex-direction: column;
