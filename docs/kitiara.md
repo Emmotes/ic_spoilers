@@ -14,7 +14,15 @@
             ![Model WebP of Kitiara](images/kitiara/model.webp)
         </span>
         <span>
-            Model
+            Base Model
+        </span>
+    </span>
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Alternate Model WebP of Kitiara: Skie](images/kitiara/model-skie.webp)
+        </span>
+        <span>
+            Skie Model
         </span>
     </span>
 </span>
