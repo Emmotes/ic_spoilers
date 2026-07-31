@@ -33,7 +33,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
             <span style="margin-right:4px;">**Seat**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">9</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -41,7 +41,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
             <span style="margin-right:4px;">**Species**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Dwarf (Guess)</span>
+            <span style="margin-left:8px;">Dwarf</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -49,7 +49,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
             <span style="margin-right:4px;">**Class**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Fighter (Guess)</span>
+            <span style="margin-left:8px;">Fighter</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -57,7 +57,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">DPS / Support / Gold / Control (Guess)</span>
+            <span style="margin-left:8px;">Support / Tanking</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -65,7 +65,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
             <span style="margin-right:4px;">**Age**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">148</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -73,7 +73,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Male (Guess)</span>
+            <span style="margin-left:8px;">Male</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -81,7 +81,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Neutral Good</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -89,7 +89,7 @@ Flint Fireforge will be a new champion in the Ahghairon's Day event on 5 August 
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Heroes of the Lance (Guess)</span>
+            <span style="margin-left:8px;">Heroes of the Lance</span>
         </span>
     </span>
 </span>

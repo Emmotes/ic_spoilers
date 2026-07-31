@@ -34,7 +34,7 @@ These are the new event champions that are upcoming and all the information we k
                 Flint Fireforge
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dwarf Fighter of Heroes of the Lance (Guess)</span>
+                <span class="indexChampionTableNoLink">Dwarf Fighter of Heroes of the Lance</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Ahghairon's Day - 5 August 2026</span>
@@ -307,7 +307,7 @@ Events will have either one rework OR three rebalances.
                 Flint Fireforge
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dwarf Fighter of Heroes of the Lance (Guess)</span>
+                <span class="indexChampionTableNoLink">Dwarf Fighter of Heroes of the Lance</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
