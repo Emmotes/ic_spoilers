@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/826.png">
-            <span class="weekendTooltipContents">ID: 826**Gold Pranked Chest**Loot for: Jarlaxle, Celeste, Kalix, Thellora and Fen<code>"for_crusaders":[4,2,158,139,118]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Mischief Makers**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    31 July 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Fen
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/jarlaxle.png')">
-                        <span class="weekendTableChampionNameplate">Jarlaxle</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 4**Jarlaxle Baenre**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/celeste.png')">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 2**Celeste**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/kalix.png')">
-                        <span class="weekendTableChampionNameplate">Kalix</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 158**Kalix**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/thellora.png')">
-                        <span class="weekendTableChampionNameplate">Thellora</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 139**Thellora**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/fen.png')">
-                        <span class="weekendTableChampionNameplate">Fen</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 118**Fen**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/832.png">
             <span class="weekendTooltipContents">ID: 832**Gold Toolbox Chest**Loot for: Laurana, Raistlin, Bruenor, Tyril and Flint<code>"for_crusaders":[175,173,1,10,178]</code></span>
         </span>
@@ -139,7 +91,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/celeste.png')">
                         <span class="weekendTableChampionNameplate">Celeste</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 2**Celeste**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 2**Celeste**Increases the effect of Celeste's Crusader's Mantle ability by 200%.<code>buff_upgrade,200,24</code></span>
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/jim.png')">
                         <span class="weekendTableChampionNameplate">Jim</span>
@@ -279,7 +231,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/jarlaxle.png')">
                         <span class="weekendTableChampionNameplate">Jarlaxle</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 4**Jarlaxle Baenre**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 4**Jarlaxle Baenre**Increases the effect of Jarlaxle's Master of Disguise and Master of Piracy by 200%.<code>buff_upgrades,200,52,2188</code></span>
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/bruenor.png')">
                         <span class="weekendTableChampionNameplate">Bruenor</span>
@@ -427,7 +379,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/celeste.png')">
                         <span class="weekendTableChampionNameplate">Celeste</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 2**Celeste**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 2**Celeste**Increases the effect of Celeste's Crusader's Mantle ability by 200%.<code>buff_upgrade,200,24</code></span>
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/hank.png')">
                         <span class="weekendTableChampionNameplate">Hank</span>
