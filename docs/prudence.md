@@ -277,6 +277,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Delight** (Guess)
 > Increase the base damage bonus of Prudence's Glee ability by 50% for each Good aligned Champion in the formation, stacking additively and then applying multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
