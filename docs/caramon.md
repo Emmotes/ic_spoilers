@@ -551,9 +551,10 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
             "amount_updated_listeners": [
                 "slot_changed",
                 "feat_changed",
-                "loot_changed",
-                "hero_attack_ended"
-            ]
+                "loot_changed"
+            ],
+            "retarget_when_any_hero_slot_changed": true,
+            "retarget_when_any_hero_tags_changed": true
         },
         {
             "off_when_benched": true,
