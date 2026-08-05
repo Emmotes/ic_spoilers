@@ -33,10 +33,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Jim</span>
         </span>
         <span class="featTableIcon4">
-            ![Fashionista Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2740**Fashionista (Jim)**Make it work, people!<br><br><span style="color:var(--Flavescent)">Increases the effect of Jim's $(upgrade_name id) ability by 80%.</span><code>buff_upgrade,80,20146,0</code></span>Fashionista
+            ![Fashionista Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2740**Fashionista (Jim)**Make it work, people!<br><br><span style="color:var(--Flavescent)">Increases the effect of Jim's Fashion Week ability by 80%.</span><code>buff_upgrade,80,20146,0</code></span>Fashionista
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Jim's $(upgrade_name id) ability by 80%.</span>
+            <span class="featTableInner">Increases the effect of Jim's Fashion Week ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -57,6 +57,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">05 Aug 2026<br>05 Nov 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Flint</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Wizened Elder Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2719**Wizened Elder (Flint)**Of all the hatreds, the ones between families are the cruelest.<br><br><span style="color:var(--Flavescent)">Increases the effect of Flint's first set of Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,20134,20135,20136</code></span>Wizened Elder
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Flint's first set of Specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">05 Aug 2026<br>05 Nov 2026</span>
@@ -668,6 +685,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Flint</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Curmudgeonly Bond Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2713**Curmudgeonly Bond (Flint)**Where is that rattle-brained kender? Gone? You let him go? With that old man?<br><br><span style="color:var(--Flavescent)">Flint's Forged Bonds ability gains two extra stacks.</span><code>do_nothing</code></span>Curmudgeonly Bond
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Flint's Forged Bonds ability gains two extra stacks.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Lucius</span>
         </span>
         <span class="featTableIcon4">
@@ -685,6 +719,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Flint</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Kinbond Icon](images/featicons/ring3.png)<span class="featTooltipContents">ID: 2714**Kinbond (Flint)**Stubborn as a dwarf, so the old saying goes. ~Caramon<br><br><span style="color:var(--Flavescent)">Adjacent Dwarves grant an additional stack for Flint's Forged Bonds ability.</span><code>do_nothing</code></span>Kinbond
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Adjacent Dwarves grant an additional stack for Flint's Forged Bonds ability.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Laurana</span>
         </span>
         <span class="featTableIcon4">
@@ -692,6 +743,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">All Champions damage +100%. Laurana's attacks have a 50% chance to taunt enemies.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Flint</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Unyielding Initiative Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2717**Unyielding Initiative (Flint)**I almost lost him, Tanis.<br><br><span style="color:var(--Flavescent)">Increases the Initiative and Follow Through stacks gained when Flint attacks to 2.</span><code>change_upgrade_data,20133,0</code></span>Unyielding Initiative
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the Initiative and Follow Through stacks gained when Flint attacks to 2.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -1436,7 +1504,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">Omin</span>
         </span>
         <span class="featTableIcon4">
-            ![To the Moon Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2226**To the Moon (Omin)**Finally! I knew diversifying my investments would eventually pay off.<br><br><span style="color:var(--Flavescent)">Increases the effect of Omin's Well Funded ability by 80%.</span><code>buff_upgrade,80,12303</code></span>To the Moon
+            ![To the Moon Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2226**To the Moon (Omin)**Finally! I knew diversifying my investments would eventually pay off.<br><br><span style="color:var(--Flavescent)">Increases the effect of Omin's Well Funded ability by 80%.</span><code>buff_upgrade,80,20162</code></span>To the Moon
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Omin's Well Funded ability by 80%.</span>

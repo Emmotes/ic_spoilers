@@ -58,6 +58,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 342**Sack the Backpack**What goes in might not come out… whole.</span></span>
+        </span>
+        <span class="skinTableName">
+            Sack the Backpack
+        </span>
+        <span class="skinTableSource">
+            Founder's Pack IX
+        </span>
+        <span class="skinTableCost">
+            0p
+        </span>
+        <span class="skinTableDate">
+            31 Aug 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Sentry the Bear Portrait](images/familiars/sentrythebear.png)<span class="featTooltipContents">ID: 335**Sentry the Bear**Do not worry, Sentry is watching.<img src="images/familiars/sentrythebear.webp" alt="Sentry the Bear Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -173,6 +190,57 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             21 Oct 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 343**Slick the Dohwar**Who needs to fly when you can glide!</span></span>
+        </span>
+        <span class="skinTableName">
+            Slick the Dohwar
+        </span>
+        <span class="skinTableSource">
+            Morte on the Rocks Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            04 Nov 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 344**Lady Icekiss**The god of cold indifference who embodies winter's cruelty.</span></span>
+        </span>
+        <span class="skinTableName">
+            Lady Icekiss
+        </span>
+        <span class="skinTableSource">
+            Avatar of Auril Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            11 Nov 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 345**Frost the Chwinga**Chwingas prefer to move about unseen, which is even easier in the snow of Icewind Dale.</span></span>
+        </span>
+        <span class="skinTableName">
+            Frost the Chwinga
+        </span>
+        <span class="skinTableSource">
+            Frost the Chwinga Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            840p
+        </span>
+        <span class="skinTableDate">
+            18 Nov 2026
         </span>
     </span>
 </span>

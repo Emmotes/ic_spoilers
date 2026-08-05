@@ -9,7 +9,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 717**Colorweaver Jim (Jim)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/colorweaverjim.webp" alt="Colorweaver Jim Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/colorweaverjim-box.webp" alt="Colorweaver Jim Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Colorweaver Jim Portrait](images/skin_portraits/colorweaverjim.png)<span class="featTooltipContents">ID: 717**Colorweaver Jim (Jim)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/colorweaverjim.webp" alt="Colorweaver Jim Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/colorweaverjim-box.webp" alt="Colorweaver Jim Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Colorweaver Jim
@@ -162,6 +162,23 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 736**Professor of Beasts Wulfgar (Wulfgar)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Professor of Beasts Wulfgar
+        </span>
+        <span class="skinTableSource">
+            Professor of Beasts Wulfgar Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            09 Sept 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 723**Pungent Professor Pwent (Pwent)**</span></span>
         </span>
         <span class="skinTableName">
@@ -264,6 +281,23 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 737**Mummy Krond (Krond)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Mummy Krond
+        </span>
+        <span class="skinTableSource">
+            Mummy Krond Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            14 Oct 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 733**Forsaken Bride Ezmerelda (Ezmerelda)**</span></span>
         </span>
         <span class="skinTableName">
@@ -277,6 +311,74 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             21 Oct 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 739**Midnight Turiel (Turiel)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Midnight Turiel
+        </span>
+        <span class="skinTableSource">
+            Midnight Turiel Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            04 Nov 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 740**Ice Queen Minthara (Minthara)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Ice Queen Minthara
+        </span>
+        <span class="skinTableSource">
+            Ice Queen Minthara Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            11 Nov 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 741**Starlit Sentry (Sentry)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Starlit Sentry
+        </span>
+        <span class="skinTableSource">
+            Starlit Sentry Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            11 Nov 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 742**Frostbite Skylla (Skylla)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Frostbite Skylla
+        </span>
+        <span class="skinTableSource">
+            Frostbite Skylla Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            18 Nov 2026
         </span>
     </span>
 </span>
