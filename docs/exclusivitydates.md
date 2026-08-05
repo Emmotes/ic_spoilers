@@ -1828,7 +1828,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Magic Tour Bus Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1228**Magic Tour Bus (Jim)**Get in, nerds -- we're doing magic.<br><br><span style="color:var(--Flavescent)">Increases the effect of Jim's Magical Mystery Tour ability by 40%.</span><code>buff_upgrade,40,12130</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Magic Tour Bus Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1228**Magic Tour Bus (Jim)**Get in, nerds -- we're doing magic.<br><br><span style="color:var(--Flavescent)">Increases the effect of Jim's Magical Mystery Tour ability by 40%.</span><code>buff_upgrade,40,20145</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1838,7 +1838,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Waterdeep Investors Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1442**Waterdeep Investors (Omin)**Q3 adventures are looking good!<br><br><span style="color:var(--Flavescent)">Increases the effect of Omin's Well Funded ability by 40%.</span><code>buff_upgrade,40,12303</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Waterdeep Investors Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1442**Waterdeep Investors (Omin)**Q3 adventures are looking good!<br><br><span style="color:var(--Flavescent)">Increases the effect of Omin's Well Funded ability by 40%.</span><code>buff_upgrade,40,20162</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1878,7 +1878,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Official Fan Club Card Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1229**Official Fan Club Card (Jim)**I'm Jim Darkmagic and YOUR NAME HERE is my #1 fan!<br><br><span style="color:var(--Flavescent)">Increases the pre-stack effect of Jim's Fan Club ability by 80%. (Prestack)</span><code>buff_upgrade,80,12128,0</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Official Fan Club Card Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1229**Official Fan Club Card (Jim)**I'm Jim Darkmagic and YOUR NAME HERE is my #1 fan!<br><br><span style="color:var(--Flavescent)">Increases the pre-stack effect of Jim's Fan Club ability by 80%. (Prestack)</span><code>buff_upgrade,80,20143,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -1888,7 +1888,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Motivational Keynote Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1447**Motivational Keynote (Omin)**It's been proven that listening to me can make me richer.<br><br><span style="color:var(--Flavescent)">Increases the effect of all Omin's Specializations by 80%.</span><code>buff_upgrades,80,12304,12305,12306</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Motivational Keynote Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1447**Motivational Keynote (Omin)**It's been proven that listening to me can make me richer.<br><br><span style="color:var(--Flavescent)">Increases the effect of Omin's Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,20163,20164,20165</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
