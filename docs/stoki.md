@@ -524,7 +524,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "buff_incoming_effect_by_expr",
             "effect_id": 2875,
             "effect_index": 3,
-            "buff_amount": 100,
+            "buff_amount": 200,
             "hero_expr": "max(0, sign(default_base_attack_cooldown-5.98)) * pow((1+(buff_amount/100)), (default_base_attack_cooldown-4)*5)",
             "targets": [
                 "all"
@@ -559,7 +559,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "slot_changed"
             ],
             "skip_effect_key_desc": true,
-            "off_when_benched": true
+            "off_when_benched": false
         },
         {
             "effect_string": "hero_dps_multiplier_mult,0",
@@ -593,7 +593,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 }
             ],
             "amount_updated_listeners": [
-                "slot_changed"
+                "slot_changed",
+                "monster_attacked"
             ],
             "use_computed_amount_for_description": true,
             "override_key_desc": "Reduces the cooldown of $target's Base Attack by $amount seconds.",
