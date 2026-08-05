@@ -401,7 +401,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true
         },
         {
-            "effect_string": "do_nothing,20",
+            "effect_string": "do_nothing,40",
             "off_when_benched": true,
             "targets": [
                 "all"
