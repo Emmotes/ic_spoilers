@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Colorweaver Jim Portrait](images/skin_portraits/colorweaverjim.png)<span class="featTooltipContents">ID: 717**Colorweaver Jim (Jim)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/colorweaverjim.webp" alt="Colorweaver Jim Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/colorweaverjim-box.webp" alt="Colorweaver Jim Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Colorweaver Jim
-        </span>
-        <span class="skinTableSource">
-            Colorweaver Jim Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            05 Aug 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Joyful Jester Omin Portrait](images/skin_portraits/joyfuljesteromin.png)<span class="featTooltipContents">ID: 716**Joyful Jester Omin (Omin)**<img src="images/skin_models/joyfuljesteromin.webp" alt="Joyful Jester Omin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Joyful Jester Omin
-        </span>
-        <span class="skinTableSource">
-            Joyful Jester Omin Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            05 Aug 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Master Craftsman Flint Portrait](images/skin_portraits/mastercraftsmanflint.png)<span class="featTooltipContents">ID: 715**Master Craftsman Flint (Flint)**<img src="images/skin_models/mastercraftsmanflint.webp" alt="Master Craftsman Flint Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Master Craftsman Flint
-        </span>
-        <span class="skinTableSource">
-            Master Craftsman Flint Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            05 Aug 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Weaponsmith Lae'zel Portrait](images/skin_portraits/weaponsmithlaezel.png)<span class="featTooltipContents">ID: 718**Weaponsmith Lae'zel (Lae'zel)**<img src="images/skin_models/weaponsmithlaezel.webp" alt="Weaponsmith Lae'zel Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

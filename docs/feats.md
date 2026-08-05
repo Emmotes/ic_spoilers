@@ -30,57 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Jim</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Fashionista Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2740**Fashionista (Jim)**Make it work, people!<br><br><span style="color:var(--Flavescent)">Increases the effect of Jim's Fashion Week ability by 80%.</span><code>buff_upgrade,80,20146,0</code></span>Fashionista
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Jim's Fashion Week ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">05 Aug 2026<br>05 Nov 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Omin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2739**Scholar (Omin)**With enough gold, you can get an honorary degree in anything.<br><br><span style="color:var(--Flavescent)">Increases the Intelligence score of Omin by 2.</span><code>increase_ability_score,int,2</code></span>Scholar
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the Intelligence score of Omin by 2.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">05 Aug 2026<br>05 Nov 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Flint</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Wizened Elder Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2719**Wizened Elder (Flint)**Of all the hatreds, the ones between families are the cruelest.<br><br><span style="color:var(--Flavescent)">Increases the effect of Flint's first set of Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,20134,20135,20136</code></span>Wizened Elder
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Flint's first set of Specializations by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">05 Aug 2026<br>05 Nov 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Lae'zel</span>
         </span>
         <span class="featTableIcon4">

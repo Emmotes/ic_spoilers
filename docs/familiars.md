@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Fleetfoot the Mule Portrait](images/familiars/fleetfootthemule.png)<span class="featTooltipContents">ID: 332**Fleetfoot the Mule**Steadfast, strong, and better than any horse.<img src="images/familiars/fleetfootthemule.webp" alt="Fleetfoot the Mule Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Fleetfoot the Mule
-        </span>
-        <span class="skinTableSource">
-            Master Craftsman Flint Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            05 Aug 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Oak the Donkey Toy Portrait](images/familiars/oakthedonkeytoy.png)<span class="featTooltipContents">ID: 333**Oak the Donkey Toy**At least it's not a horse...<img src="images/familiars/oakthedonkeytoy.webp" alt="Oak the Donkey Toy Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
