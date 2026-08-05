@@ -65,7 +65,7 @@ Kitiara Uth Matar will be a new champion - potentially in the Liars' Night event
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
+            <span style="margin-left:8px;">Support / Control (Guess)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -97,7 +97,7 @@ Kitiara Uth Matar will be a new champion - potentially in the Liars' Night event
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
         <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Heroes of the Lance (Guess)</span>
+            <span style="margin-left:8px;">- (Guess)</span>
         </span>
     </span>
 </span>
@@ -115,23 +115,99 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Arrogant Charm** (Guess)
-> Unknown effect.
+**Merciless Resolve** (Guess)
+> Kitiara increases the damage of all Champions furthest from her by 100% for each Champion adjacent to her, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 31331,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y10/Icon_Formation_KitiaraArrogantCharm",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
+    "id": 2913,
+    "flavour_text": "",
+    "description": {
+        "desc": "Kitiara increases the damage of all Champions furthest from her by 100% for each Champion adjacent to her, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "pre_stack,100"
+        },
+        {
+            "effect_string": "do_nothing,100",
+            "use_computed_amount_for_description": true,
+            "targets": [
+                "self"
+            ],
+            "amount_expr": "upgrade_amount(20597,0)",
+            "amount_func": "mult",
+            "stack_func": "adjacent_champions",
+            "show_bonus": true,
+            "show_stacks": true,
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed",
+                "feat_changed",
+                "hero_tags_changed"
+            ]
+        },
+        {
+            "effect_string": "hero_dps_multiplier_mult,100",
+            "use_computed_amount_for_description": true,
+            "targets": [
+                "farthest_away_hero"
+            ],
+            "amount_expr": "upgrade_amount(20597,1)",
+            "amount_func": "mult",
+            "show_bonus": true,
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed",
+                "feat_changed",
+                "hero_tags_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Arrogant Charm** (Guess)
+> Kitiara charms all enemies that attempt to attack her, stunning them indefinitely. The stun is removed when the enemy is hit by Kitiara, and each enemy can only be charmed once.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2914,
+    "flavour_text": "",
+    "description": {
+        "desc": "Kitiara charms all enemies that attempt to attack her, stunning them indefinitely. The stun is removed when the enemy is hit by Kitiara, and each enemy can only be charmed once."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -141,72 +217,27 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Cruel Cunning** (Guess)
-> Unknown effect.
+> When Champions other than Kitiara cumulatively take damage equal to 100% of their max health, Kitiara gains a Power stack. This can trigger multiple times each time other Champions reach the threshold. The post-stack effect of Merciless Resolve is increased by 10% for each Power stack she has, stacking multiplicatively. Caps at 100 stacks and reset when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 31332,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y10/Icon_Formation_KitiaraCruelCunning",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Knight of the Black Rose** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 31333,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y10/Icon_Formation_KitiaraKnightoftheBlackRose",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Merciless Resolve** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 31334,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y10/Icon_Formation_KitiaraMercilessResolve",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
+    "id": 2915,
+    "flavour_text": "",
+    "description": {
+        "desc": "When Champions other than Kitiara cumulatively take damage equal to 100% of their max health, Kitiara gains a Power stack. This can trigger multiple times each time other Champions reach the threshold.  The post-stack effect of Merciless Resolve is increased by 10% for each Power stack she has, stacking multiplicatively. Caps at 100 stacks and reset when changing areas."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -216,22 +247,57 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **The Only Truth** (Guess)
-> Unknown effect.
+> Champions affected by Merciless Resolve deal additional damage to enemies with segmented health. When they successfully break at least one segment, they break additional segments equal to 4 minus the number of Champions affected by Merciless Resolve, to a minimum of 1 extra segment.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 31335,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y10/Icon_Formation_KitiaraTheOnlyTruth",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "formation_icon"
-        ],
-        "quantize": true
+    "id": 2916,
+    "flavour_text": "",
+    "description": {
+        "desc": "Champions affected by Merciless Resolve deal additional damage to enemies with segmented health. When they successfully break at least one segment, they break additional segments equal to 4 minus the number of Champions affected by Merciless Resolve, to a minimum of 1 extra segment."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Knight of the Black Rose** (Guess)
+> When a boss enemy appears, Lord Soth enters the melee. He knocks back all enemies and spawns a wall of skeletal warriors who keep all enemies at bay for 15 seconds. While this skeletal wall persists, Kitiara gains 1 Power stack per second. Lord Soth will reappear and reapply this effect each time the boss's enrage meter reaches a multiple of 5.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2917,
+    "flavour_text": "",
+    "description": {
+        "desc": "When a boss enemy appears, Lord Soth enters the melee. He knocks back all enemies and spawns a wall of skeletal warriors who keep all enemies at bay for 15 seconds. While this skeletal wall persists, Kitiara gains 1 Power stack per second. Lord Soth will reappear and reapply this effect each time the boss's enrage meter reaches a multiple of 5."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true
     }
 }
 </pre>
@@ -242,23 +308,37 @@ Unknown.
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Loyal To Darkness** (Guess)
-> Unknown effect.
+**Loyal to Her Past** (Guess)
+> Kitiara begrudgingly gains the Heroes of the Lance affiliation, and increases the effect of Merciless Resolve by 100% for each Heroes of the Lance Champion in the formation, stacking multiplicatively. Kitiara also starts each area by gaining Power stacks equal to the number of Heroes of the Lance Champions in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 31336,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y10/Icon_Specialization_KitiaraLoyalToDarkness",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2918,
+    "flavour_text": "",
+    "description": {
+        "desc": "Kitiara begrudgingly gains the Heroes of the Lance affiliation, and increases the effect of Merciless Resolve by 100% for each Heroes of the Lance Champion in the formation, stacking multiplicatively. Kitiara also starts each area by gaining Power stacks equal to the number of Heroes of the Lance Champions in the formation."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        },
+        {
+            "effect_string": "do_nothing"
+        },
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -267,23 +347,37 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Loyal To Her Past** (Guess)
-> Unknown effect.
+**Loyal to Herself** (Guess)
+> Kitiara increases the effect of Merciless Resolve by 100% for each Unaffiliated champion in the formation, stacking multiplicatively. Arrogant Charm will now trigger when enemies attempt to attack any Champions adjacent to Kitiara as well.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 31337,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y10/Icon_Specialization_KitiaraLoyalToHerPast",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2919,
+    "flavour_text": "",
+    "description": {
+        "desc": "Kitiara increases the effect of Merciless Resolve by 100% for each Unaffiliated champion in the formation, stacking multiplicatively. Arrogant Charm will now trigger when enemies attempt to attack any Champions adjacent to Kitiara as well."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        },
+        {
+            "effect_string": "do_nothing"
+        },
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -292,23 +386,37 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Loyal To Herself** (Guess)
-> Unknown effect.
+**Loyal to Darkness** (Guess)
+> Kitiara increases the effect of Merciless Resolve by 100% for each Evil Champion in the formation, stacking multiplicatively. Knight of the Black Rose's Power stacks gained is also increased by 1.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 31338,
-    "graphic": "Icons/Events/2017LiarsNight/Liars Night Y10/Icon_Specialization_KitiaraLoyalToHerself",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "specialization_icon"
-        ],
-        "quantize": true
+    "id": 2920,
+    "flavour_text": "",
+    "description": {
+        "desc": "Kitiara increases the effect of Merciless Resolve by 100% for each Evil Champion in the formation, stacking multiplicatively. Knight of the Black Rose's Power stacks gained is also increased by 1."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        },
+        {
+            "effect_string": "do_nothing"
+        },
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>

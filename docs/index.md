@@ -90,7 +90,7 @@ These are the new event champions that are upcoming and all the information we k
                 Kitiara Uth Matar
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human of Heroes of the Lance (Guess)</span>
+                <span class="indexChampionTableNoLink">Human (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Liars' Night - 7 October 2026 (Guess)</span>
@@ -517,7 +517,7 @@ Events will have either one rework OR three rebalances.
                 Kitiara Uth Matar (Guess)
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human of Heroes of the Lance (Guess)</span>
+                <span class="indexChampionTableNoLink">Human (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
