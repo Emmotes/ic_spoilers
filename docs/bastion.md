@@ -1099,6 +1099,7 @@ Some graphics were found that had the format `Bastion/Rooms/Hallway/...`:
 > [bastion_wall_hallway_panel2.png](images/bastion/rooms/hallway/bastion_wall_hallway_panel2.png){:target="_blank"}  
 > [bastion_wall_hallway_sidewalltop.png](images/bastion/rooms/hallway/bastion_wall_hallway_sidewalltop.png){:target="_blank"}  
 > [bastion_wall_hallway_sidewalltopcorner.png](images/bastion/rooms/hallway/bastion_wall_hallway_sidewalltopcorner.png){:target="_blank"}  
+> [bastion_wall_hallway_sidewalltopcorner2.png](images/bastion/rooms/hallway/bastion_wall_hallway_sidewalltopcorner2.png){:target="_blank"}  
 
 ## Legendaryforge
 
@@ -1125,6 +1126,7 @@ Some graphics were found that had the format `Bastion/Rooms/Legendaryforge/...`:
 > [bastion_forge_floor_centerdetail.png](images/bastion/rooms/legendaryforge/bastion_forge_floor_centerdetail.png){:target="_blank"}  
 > [bastion_forge_floor_marble.png](images/bastion/rooms/legendaryforge/bastion_forge_floor_marble.png){:target="_blank"}  
 > [bastion_forge_floor_stairs.png](images/bastion/rooms/legendaryforge/bastion_forge_floor_stairs.png){:target="_blank"}  
+> [bastion_forge_wall_frontwalldoor.png](images/bastion/rooms/legendaryforge/bastion_forge_wall_frontwalldoor.png){:target="_blank"}  
 > [bastion_forge_wall_frontwallpanel.png](images/bastion/rooms/legendaryforge/bastion_forge_wall_frontwallpanel.png){:target="_blank"}  
 > [bastion_forge_wall_panel01.png](images/bastion/rooms/legendaryforge/bastion_forge_wall_panel01.png){:target="_blank"}  
 > [bastion_forge_wall_sidewall.png](images/bastion/rooms/legendaryforge/bastion_forge_wall_sidewall.png){:target="_blank"}  
