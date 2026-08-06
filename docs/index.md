@@ -75,6 +75,31 @@ These are the new event champions that are upcoming and all the information we k
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="morte.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Mortimer Rictusgrin
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">&nbsp;</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Feast of the Moon - 4 November 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 # Reworked & Rebalanced Champions
@@ -301,6 +326,33 @@ Events will have either one rework OR three rebalances.
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Human (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+</span>
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
+## Feast of the Moon - 4 November 2026
+<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
+{::nomarkdown}
+<a href="morte.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Mortimer Rictusgrin
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">&nbsp;</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">

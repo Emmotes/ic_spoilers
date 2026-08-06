@@ -1677,12 +1677,11 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown ??? Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 181**???**</span></span>
+            <span class="tooltipHolder">![Unknown Champion Unlock Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 181**Morte**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**???**</span>
-            <span style="margin-left:15px">unlock_champion</span>
-            <span style="margin-left:15px">ID: 181</span>
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Morte</span>
         </span>
     </span>
     <span class="premiumsTableItem">
