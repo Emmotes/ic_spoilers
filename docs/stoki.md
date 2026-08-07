@@ -448,7 +448,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2874,
     "flavour_text": "",
     "description": {
-        "desc": "Stoki counts the number of Champions in the formation with a DEX score of 16 or higher. For each such Champion, her base attack cooldown is decreased by $amount___2 seconds, stacking additively, and the effect of Focused Strike is increased by $amount___3%, stacking multiplicatively."
+        "desc": "Stoki counts the number of Champions in the formation with a DEX score of 16 or higher. For each such Champion, her base attack cooldown is decreased by $amount___2 seconds, stacking additively, and the effect of Focused Strike is increased by $amount%, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -559,7 +559,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "slot_changed"
             ],
             "skip_effect_key_desc": true,
-            "off_when_benched": false
+            "off_when_benched": true
         },
         {
             "effect_string": "hero_dps_multiplier_mult,0",
@@ -593,8 +593,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 }
             ],
             "amount_updated_listeners": [
-                "slot_changed",
-                "monster_attacked"
+                "slot_changed"
             ],
             "use_computed_amount_for_description": true,
             "override_key_desc": "Reduces the cooldown of $target's Base Attack by $amount seconds.",
