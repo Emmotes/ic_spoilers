@@ -126,44 +126,54 @@ Unknown.
     "id": 2913,
     "flavour_text": "",
     "description": {
-        "desc": "Kitiara increases the damage of all Champions furthest from her by 100% for each Champion adjacent to her, stacking multiplicatively."
+        "desc": "Kitiara increases the damage of all Champions furthest from her by $(amount)% for each Champion adjacent to her, stacking multiplicatively."
     },
     "effect_keys": [
         {
             "effect_string": "pre_stack,100"
         },
         {
-            "effect_string": "do_nothing,100",
-            "use_computed_amount_for_description": true,
+            "effect_string": "do_nothing,0",
             "targets": [
                 "self"
             ],
-            "amount_expr": "upgrade_amount(20597,0)",
-            "amount_func": "mult",
+            "skip_effect_key_desc": true,
+            "show_stacks": false,
+            "show_bonus": false,
             "stack_func": "adjacent_champions",
-            "show_bonus": true,
-            "show_stacks": true,
             "amount_updated_listeners": [
                 "upgrade_unlocked",
-                "slot_changed",
-                "feat_changed",
-                "hero_tags_changed"
+                "slot_changed"
             ]
         },
         {
-            "effect_string": "hero_dps_multiplier_mult,100",
-            "use_computed_amount_for_description": true,
+            "effect_string": "hero_dps_multiplier_mult,0",
             "targets": [
                 "farthest_away_hero"
             ],
-            "amount_expr": "upgrade_amount(20597,1)",
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "as_int(GetUpgradeStacks(20597, 1))",
             "amount_func": "mult",
+            "amount_expr": "upgrade_amount(20597,0)",
+            "stack_title": "Merciless Stacks",
+            "off_when_benched": true,
             "show_bonus": true,
             "amount_updated_listeners": [
                 "upgrade_unlocked",
-                "slot_changed",
-                "feat_changed",
-                "hero_tags_changed"
+                "slot_changed"
+            ],
+            "use_computed_amount_for_description": true
+        },
+        {
+            "effect_string": "merciless_resolve",
+            "skip_effect_key_desc": true,
+            "targets": [
+                "farthest_away_hero"
+            ],
+            "off_when_benched": true,
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed"
             ]
         }
     ],
@@ -176,8 +186,7 @@ Unknown.
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0,
-        "retain_on_slot_changed": true
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -199,7 +208,7 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "kitiara_arrogant_charm_handler"
         }
     ],
     "requirements": "",
@@ -259,7 +268,36 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "do_nothing,0",
+            "amount_func": "add",
+            "skip_effect_key_desc": true,
+            "show_stacks": false,
+            "show_bonus": false,
+            "stacks_multiply": false,
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasEffect(`merciless_resolve`)",
+            "post_process_expr": "4 - input"
+        },
+        {
+            "effect_string": "increase_damage_against_monster_armor_and_hits,1",
+            "max_stacks": 4,
+            "min_stacks": 1,
+            "show_stacks": true,
+            "show_bonus": false,
+            "stack_func": "per_hero_attribute",
+            "amount_func": "add",
+            "post_process_expr": "max(1, as_int(GetUpgradeStacks(20600, 0)))",
+            "targets": [
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasEffect(`merciless_resolve`)"
+                }
+            ],
+            "override_key_desc": "Increases the number of segments broken against enemies with segmented health by $amount",
+            "use_computed_amount_for_description": true
         }
     ],
     "requirements": "",
@@ -310,6 +348,8 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Loyal to Her Past** (Guess)
 > Kitiara begrudgingly gains the Heroes of the Lance affiliation, and increases the effect of Merciless Resolve by 100% for each Heroes of the Lance Champion in the formation, stacking multiplicatively. Kitiara also starts each area by gaining Power stacks equal to the number of Heroes of the Lance Champions in the formation.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -321,13 +361,21 @@ Unknown.
     },
     "effect_keys": [
         {
-            "effect_string": "do_nothing"
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
         },
         {
-            "effect_string": "do_nothing"
+            "effect_string": "buff_upgrade,100,20597,2",
+            "off_when_benched": true,
+            "amount_expr": "upgrade_amount(20602,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`heroeslance`)",
+            "show_bonus": true,
+            "stack_title": "Heroes of the Lance Champions"
         },
         {
-            "effect_string": "do_nothing"
+            "effect_string": "add_hero_tags,0,heroeslance"
         }
     ],
     "requirements": "",
