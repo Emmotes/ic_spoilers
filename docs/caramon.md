@@ -543,8 +543,8 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
     },
     "effect_keys": [
         {
-            "off_when_benched": true,
             "effect_string": "hero_dps_multiplier_mult,100",
+            "off_when_benched": true,
             "targets": [
                 "prev_two_col"
             ],
@@ -552,13 +552,11 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
                 "slot_changed",
                 "feat_changed",
                 "loot_changed"
-            ],
-            "retarget_when_any_hero_slot_changed": true,
-            "retarget_when_any_hero_tags_changed": true
+            ]
         },
         {
-            "off_when_benched": true,
             "effect_string": "caramon_raise_spirits",
+            "off_when_benched": true,
             "skip_effect_key_desc": true,
             "targets": [
                 "prev_two_col"
@@ -666,7 +664,8 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
                 "20177": 0,
                 "20178": 1,
                 "20179": 2
-            }
+            },
+            "retarget_when_any_hero_tags_changed": true
         }
     ],
     "requirements": [],
