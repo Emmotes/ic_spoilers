@@ -374,6 +374,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "total_seconds": 20,
             "base_crit_chance": 20,
             "additional_crit_chance": 20,
+            "additional_dwarf_crit_chance": 40,
             "total_bonus_crit_chance": 40,
             "debuffing_attack_ids": [
                 635,
@@ -388,7 +389,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "stack_across_effects": true
                 },
                 {
-                    "effect_string": "crit_chance_if_source_has_tag,$additional_crit_chance",
+                    "effect_string": "crit_chance_if_source_has_tag,$additional_dwarf_crit_chance",
                     "tag": "dwarf",
                     "for_time": "$total_seconds",
                     "time_stack_type": "time_reset",
