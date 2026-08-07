@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/832.png">
-            <span class="weekendTooltipContents">ID: 832**Gold Toolbox Chest**Loot for: Laurana, Raistlin, Bruenor, Tyril and Flint<code>"for_crusaders":[175,173,1,10,178]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Tools of the Trade**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    07 August 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Flint
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/laurana.png')">
-                        <span class="weekendTableChampionNameplate">Laurana</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 175**Lauralanthalasa Kanan**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/raistlin.png')">
-                        <span class="weekendTableChampionNameplate">Raistlin</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 173**Raistlin Majere**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/bruenor.png')">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 1**Bruenor Battlehammer**Increases the effect of Bruenor's Rally ability by 200%.<code>buff_upgrade,200,4</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/tyril.png')">
-                        <span class="weekendTableChampionNameplate">Tyril</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 10**Tyril Tallguy**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/flint.png')">
-                        <span class="weekendTableChampionNameplate">Flint</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 178**Flint Fireforge**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/833.png">
             <span class="weekendTooltipContents">ID: 833**Gold Revelry Chest**Loot for: Walnut, Omin, Calliope, Celeste and Jim<code>"for_crusaders":[46,65,5,2,48]</code></span>
         </span>
@@ -223,11 +175,11 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                 <span class="weekendTableChampions">
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/flint.png')">
                         <span class="weekendTableChampionNameplate">Flint</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 178**Flint Fireforge**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 178**Flint Fireforge**Increases the effect of Flint's Forged Bonds ability by 200%. (Prestack)<code>buff_upgrade,200,20130</code></span>
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/raistlin.png')">
                         <span class="weekendTableChampionNameplate">Raistlin</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 173**Raistlin Majere**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 173**Raistlin Majere**Increases the effect of Raistlin's Prodigy of High Sorcery ability by 200%.<code>buff_upgrade,200,18929</code></span>
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/jarlaxle.png')">
                         <span class="weekendTableChampionNameplate">Jarlaxle</span>
@@ -331,7 +283,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/tyril.png')">
                         <span class="weekendTableChampionNameplate">Tyril</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 10**Tyril Tallguy**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 10**Tyril Tallguy**Increases the effect of Tyril's Moonbeam and Wild Inspiration by 200%.<code>buff_upgrades,200,145,344</code></span>
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/corazon.png')">
                         <span class="weekendTableChampionNameplate">Corazón</span>
