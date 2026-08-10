@@ -125,8 +125,10 @@ function init() {
 		list.innerHTML = contents;
 	}
 	
-	if (patronSort!=null&&patronSort!=undefined)
+	if (patronSort!=null&&patronSort!=null)
 		patronSort.addEventListener(`change`,sortPatrons);
+
+	fixArchiveImages();
 }
 
 function updateModes(edit) {
@@ -315,5 +317,21 @@ function sortPatrons() {
 		if (!asc)
 			order = -order;
 		ele.style.order = `${order}`;
+	}
+}
+
+function fixArchiveImages() {
+	let path = document.location.pathname;
+	if (!path.includes("/archive/")) return;
+	let items = document.querySelectorAll(
+		"img[src*='images/featicons/'], img[src*='images/general/']",
+	);
+	for (let i = items.length; i--; ) {
+		let img = items[i];
+		img.src = img.src.replaceAll(
+			"images/featicons/",
+			"../images/featicons/",
+		);
+		img.src = img.src.replaceAll("images/general/", "../images/general/");
 	}
 }
