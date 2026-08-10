@@ -1,9 +1,15 @@
 [Back to Main](index.md)
 
-{% comment %}
 <span class="championPortraitsRow">
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![PC Portrait for Morte](images/morte/portrait.png)
+        </span>
+        <span>
+            Portrait
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 # Mortimer Rictusgrin
 
@@ -117,12 +123,15 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Mortimer Rictusgrin Console Portrait](images/morte/console.png)Console Portrait
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 [Back to Top](#top)
 
