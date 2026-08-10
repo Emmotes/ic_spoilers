@@ -21,7 +21,7 @@
 
 # Flint Fireforge
 
-moo
+Flint Fireforge is many things - a fearless warrior, a renowned craftsman, and a loyal friend to the bitter end. He is the gruff and grumbling fatherly figure among his group of companions, fiercely protective of them despite seeming to be constantly frustrated by their choices (some more so than others). He is swift to act when danger appears, leading the charge with fury and reckless abandon against the evil forces of Takhisis.
 
 # Basic Information
 
