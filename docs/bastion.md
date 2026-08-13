@@ -41,22 +41,22 @@ The assumption is that this will be some kind of new-player onboarding system.
 # Tutorial Texts
 
 ### State #1
-> The Innkeeper was so grateful that we saved his Inn that he's given us use of his old family Bastion. This will be a good base of operations for our adventures together in the future.
+> The innkeeper said we could stay as long as we'd like. He's offered this area o' the grounds as our new Bastion! He said we can fix it up over time. Each room we fix and unlock will open up more game features!
 
 ### State #2
-> You can explore the rooms in the Bastion by selecting them. Right now we've got the Guild Hall, Tavern, and Treasure Room unlocked. Existing rooms can be upgraded and new rooms can be unlocked over time. Look here, the Shop can be unlocked right now.
+> Let's get started by unlockin' the Tradehall together. Click on the Tradehall to zoom in and check it out!
 
 ### State #3
-> Great. Ye can now access the shop anytime ye want to. Other rooms will become available as you play, but you can explore them now to see what you'll need to do to unlock them, and what they do for you once they're unlocked.
+> The unlock button shows the requirements fer a room. Once we've met the requirements, we can unlock the room by clicking on that button.
 
 ### State #4
-> Let's check out the upgrades for the Guild Hall.
+> Great! Each room in the Bastion unlocks one or more new features in the game. Unlockin' this room opens up access to the shop, where ye can buy Silver and Gold Chests fer Gems, among other things. Click outside o' the room to zoom back out.
 
 ### State #5
-> Ah! You need to complete four unique adventures, and then you'll be able to upgrade the Guild Hall and unlock a new Campaign or two! Sounds easy enough.
+> Let's head over to the Guild Hall.
 
 ### State #6
-> You can look around a bit, but once you're ready to get back to smashing things, click on the Campaign Map on the table here to pick your next adventure.
+> The Guild Hall is where ye can access the campaign map in the Bastion. When ye wanna start a new adventure, ye can click on the campaign map to bring up the list of available campaigns & adventures.
 
 # Trophies
 
