@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Oak the Donkey Toy Portrait](images/familiars/oakthedonkeytoy.png)<span class="featTooltipContents">ID: 333**Oak the Donkey Toy**At least it's not a horse...<img src="images/familiars/oakthedonkeytoy.webp" alt="Oak the Donkey Toy Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Oak the Donkey Toy
-        </span>
-        <span class="skinTableSource">
-            Oak the Donkey Toy Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            12 Aug 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Pigment the Flying Monkey Portrait](images/familiars/pigmenttheflyingmonkey.png)<span class="featTooltipContents">ID: 334**Pigment the Flying Monkey**Maybe a bit more blue...<img src="images/familiars/pigmenttheflyingmonkey.webp" alt="Pigment the Flying Monkey Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -41,7 +24,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 342**Sack the Backpack**What goes in might not come out… whole.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Sack the Backpack Portrait](images/familiars/sackthebackpack.png)<span class="featTooltipContents">ID: 342**Sack the Backpack**What goes in might not come out… whole.<img src="images/familiars/sackthebackpack.webp" alt="Sack the Backpack Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Sack the Backpack
