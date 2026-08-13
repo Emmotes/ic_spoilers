@@ -162,7 +162,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 725**Scholar of the Nine Hells Karlach (Karlach)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Scholar of the Nine Hells Karlach Portrait](images/skin_portraits/scholaroftheninehellskarlach.png)<span class="featTooltipContents">ID: 725**Scholar of the Nine Hells Karlach (Karlach)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
         </span>
         <span class="skinTableName">
             Scholar of the Nine Hells Karlach
@@ -196,7 +196,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 731**Vampire Spawn Astarion (Astarion)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Vampire Spawn Astarion Portrait](images/skin_portraits/vampirespawnastarion.png)<span class="featTooltipContents">ID: 731**Vampire Spawn Astarion (Astarion)**<img src="images/skin_models/vampirespawnastarion.webp" alt="Vampire Spawn Astarion Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Vampire Spawn Astarion

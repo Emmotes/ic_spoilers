@@ -92,7 +92,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 338**Scout the Cooper's Hawk**This agile hunter awaits her master's signal. Only then can she strike.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Scout the Cooper's Hawk Portrait](images/familiars/scoutthecoopershawk.png)<span class="featTooltipContents">ID: 338**Scout the Cooper's Hawk**This agile hunter awaits her master's signal. Only then can she strike.<img src="images/familiars/scoutthecoopershawk.webp" alt="Scout the Cooper's Hawk Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Scout the Cooper's Hawk

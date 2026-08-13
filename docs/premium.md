@@ -929,7 +929,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 725**Scholar of the Nine Hells Karlach (Karlach)**</span></span>
+            <span class="tooltipHolder">![Scholar of the Nine Hells Karlach Skin Portrait](images/premiums/skin_725.png)<span class="itemTooltipContents">ID: 725**Scholar of the Nine Hells Karlach (Karlach)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1009,7 +1009,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 338**Scout the Cooper's Hawk**This agile hunter awaits her master's signal. Only then can she strike.</span></span>
+            <span class="tooltipHolder">![Scout the Cooper's Hawk Familiar Portrait](images/premiums/familiar_338.png)<span class="itemTooltipContents">ID: 338**Scout the Cooper's Hawk**This agile hunter awaits her master's signal. Only then can she strike.<img src="images/premiums/familiar_338.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1122,7 +1122,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 731**Vampire Spawn Astarion (Astarion)**</span></span>
+            <span class="tooltipHolder">![Vampire Spawn Astarion Skin Portrait](images/premiums/skin_731.png)<span class="itemTooltipContents">ID: 731**Vampire Spawn Astarion (Astarion)**<img src="images/premiums/skin_731.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
