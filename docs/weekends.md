@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/833.png">
-            <span class="weekendTooltipContents">ID: 833**Gold Revelry Chest**Loot for: Walnut, Omin, Calliope, Celeste and Jim<code>"for_crusaders":[46,65,5,2,48]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Heroes Parade**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    14 August 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Jim
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/walnut.png')">
-                        <span class="weekendTableChampionNameplate">Walnut</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 46**Walnut Dankgrass**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/omin.png')">
-                        <span class="weekendTableChampionNameplate">Omin</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 65**Omin Dran**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/calliope.png')">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 5**Calliope**Increases the effect of Calliope's Bardic Inspiration ability by 200%.<code>buff_upgrade,200,71</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/celeste.png')">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 2**Celeste**Increases the effect of Celeste's Crusader's Mantle ability by 200%.<code>buff_upgrade,200,24</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/jim.png')">
-                        <span class="weekendTableChampionNameplate">Jim</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 48**James (Jim) Winifred Darkmagic III**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/834.png">
             <span class="weekendTooltipContents">ID: 834**Gold Dungeon Chest**Loot for: Hank, Shandie, Jamilah, Nayeli and Prudence<code>"for_crusaders":[163,47,11,3,84]</code></span>
         </span>
