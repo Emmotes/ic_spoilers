@@ -1702,6 +1702,36 @@ Some graphics were found that had the format `Bastion/Rooms/Workshop/...`:
 > "key": "bastion_room_unlock_hint",  
 > "contents": "Once you've met the requirements, click this icon to unlock the $roomName"
 
+> "key": "bastion_buff_dialog_desc",  
+> "contents": "Your Bastion Buff increases the damage of all your adventuring parties based on your progress unlocking and leveling up your Bastion and your progress with your Collection."
+
+> "key": "bastion_buff_dialog_title",  
+> "contents": "Bastion Buff"
+
+> "key": "bastion_buff_dialog_guide_quests",  
+> "contents": "$amount% bonus for each Guide Quest completed"
+
+> "key": "bastion_buff_dialog_collection_quests",  
+> "contents": "$amount% bonus for each Collection Quest completed"
+
+> "key": "bastion_buff_dialog_bastion_lvl",  
+> "contents": "$amount% bonus for each Bastion Level"
+
+> "key": "bastion_buff_dialog_library_lvl",  
+> "contents": "$amount% bonus for each Library Level"
+
+> "key": "bastion_buff_dialog_uncommon_trophies",  
+> "contents": "$amount% bonus for each uncommon Trophy owned"
+
+> "key": "bastion_buff_dialog_rare_trophies",  
+> "contents": "$amount% bonus for each rare Trophy owned"
+
+> "key": "bastion_buff_dialog_epic_trophies",  
+> "contents": "$amount% bonus for each epic Trophy owned"
+
+> "key": "bastion_buff_dialog_total_buff_text",  
+> "contents": "Increases the damage of all Champions by $amount%"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
