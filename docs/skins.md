@@ -179,7 +179,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Freeblade Kitiara Portrait](images/skin_portraits/freebladekitiara.png)<span class="featTooltipContents">ID: 734**Freeblade Kitiara (Kitiara)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Freeblade Kitiara Portrait](images/skin_portraits/freebladekitiara.png)<span class="featTooltipContents">ID: 734**Freeblade Kitiara (Kitiara)**<img src="images/skin_models/freebladekitiara.webp" alt="Freeblade Kitiara Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Freeblade Kitiara
