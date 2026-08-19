@@ -41,7 +41,7 @@ The assumption is that this will be some kind of new-player onboarding system.
 # Tutorial Texts
 
 ### State #1
-> The innkeeper said we could stay as long as we'd like. He's offered this area o' the grounds as our new Bastion! He said we can fix it up over time. Each room we fix and unlock will open up more game features!
+> The innkeeper said we could stay as long as we'd like. He's offered this area o' the grounds as our new Bastion! He said we can fix it up over time. Each room we fix and unlock will open up more things to do!
 
 ### State #2
 > Let's get started by unlockin' the Tradehall together. Click on the Tradehall to zoom in and check it out!
@@ -50,13 +50,13 @@ The assumption is that this will be some kind of new-player onboarding system.
 > The unlock button shows the requirements fer a room. Once we've met the requirements, we can unlock the room by clicking on that button.
 
 ### State #4
-> Great! Each room in the Bastion unlocks one or more new features in the game. Unlockin' this room opens up access to the shop, where ye can buy Silver and Gold Chests fer Gems, among other things. Click outside o' the room to zoom back out.
+> Great! Each room in the Bastion unlocks new features in the game. Unlockin' this room grants access to the shop, where ye can buy stuff fer Gems that'll help you progress. Now's not really the right time to go shoppin', though, so click outside o' the room to zoom back out.
 
 ### State #5
-> Let's head over to the Guild Hall.
+> Let's head over to the Guildhall.
 
 ### State #6
-> The Guild Hall is where ye can access the campaign map in the Bastion. When ye wanna start a new adventure, ye can click on the campaign map to bring up the list of available campaigns & adventures.
+> The Guildhall is where ye can access the campaign map in the Bastion. When ye wanna start a new adventure, ye can click on the campaign map to bring up the list of available campaigns & adventures.
 
 # Trophies
 
@@ -223,6 +223,166 @@ We now have some graphics for trophies.
   </div>
   <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
     <img alt="30316_TomeofAdvanture.png" src="images/bastion/trophies/30316_TomeofAdvanture.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Bahamet Statue
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31502_BahametStatue.png" src="images/bastion/trophies/31502_BahametStatue.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Chestof Gems
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31503_ChestofGems.png" src="images/bastion/trophies/31503_ChestofGems.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Elminster Pipe
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31504_ElminsterPipe.png" src="images/bastion/trophies/31504_ElminsterPipe.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Extravegant Rug
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31505_ExtravegantRug.png" src="images/bastion/trophies/31505_ExtravegantRug.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Iris Plushie
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31506_IrisPlushie.png" src="images/bastion/trophies/31506_IrisPlushie.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Marvelouspigment Cupboard
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31507_MarvelouspigmentCupboard.png" src="images/bastion/trophies/31507_MarvelouspigmentCupboard.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Miniature Tiamat Statue
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31508_MiniatureTiamatStatue.png" src="images/bastion/trophies/31508_MiniatureTiamatStatue.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Mirts Money Sack
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31509_MirtsMoneySack.png" src="images/bastion/trophies/31509_MirtsMoneySack.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Modron
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31510_Modron.png" src="images/bastion/trophies/31510_Modron.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Pileof Contracts
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31511_PileofContracts.png" src="images/bastion/trophies/31511_PileofContracts.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Polished Stone Pillar
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31512_PolishedStonePillar.png" src="images/bastion/trophies/31512_PolishedStonePillar.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Puzzle Cube
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31513_PuzzleCube.png" src="images/bastion/trophies/31513_PuzzleCube.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Rusty Armor Stand
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31514_RustyArmorStand.png" src="images/bastion/trophies/31514_RustyArmorStand.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Strahds Throne
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31515_StrahdsThrone.png" src="images/bastion/trophies/31515_StrahdsThrone.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Tomeof Adventure
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31516_TomeofAdventure.png" src="images/bastion/trophies/31516_TomeofAdventure.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Trex Statue
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31517_TrexStatue.png" src="images/bastion/trophies/31517_TrexStatue.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Undermountain Rune
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31518_UndermountainRune.png" src="images/bastion/trophies/31518_UndermountainRune.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Vajras Black Staff
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31519_VajrasBlackStaff.png" src="images/bastion/trophies/31519_VajrasBlackStaff.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Walking Statue
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31520_WalkingStatue.png" src="images/bastion/trophies/31520_WalkingStatue.png">
+  </div>
+</div>
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;">
+  <div style="font-size:0.9em">
+    Zariels Sword
+  </div>
+  <div style="display:flex;flex-wrap:wrap;align-content:center;justify-content:center;">
+    <img alt="31521_ZarielsSword.png" src="images/bastion/trophies/31521_ZarielsSword.png">
   </div>
 </div>
 </div>
@@ -1731,6 +1891,12 @@ Some graphics were found that had the format `Bastion/Rooms/Workshop/...`:
 
 > "key": "bastion_buff_dialog_total_buff_text",  
 > "contents": "Increases the damage of all Champions by $amount%"
+
+> "key": "bastion_room_unlocked",  
+> "contents": "$roomName unlocked!"
+
+> "key": "bastion_room_upgraded",  
+> "contents": "$roomName upgraded to Level $roomLevel!"
 
 [Back to Top](#top)
 
