@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Pigment the Flying Monkey Portrait](images/familiars/pigmenttheflyingmonkey.png)<span class="featTooltipContents">ID: 334**Pigment the Flying Monkey**Maybe a bit more blue...<img src="images/familiars/pigmenttheflyingmonkey.webp" alt="Pigment the Flying Monkey Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Pigment the Flying Monkey
-        </span>
-        <span class="skinTableSource">
-            Pigment the Flying Monkey Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            840p
-        </span>
-        <span class="skinTableDate">
-            19 Aug 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Sack the Backpack Portrait](images/familiars/sackthebackpack.png)<span class="featTooltipContents">ID: 342**Sack the Backpack**What goes in might not come out… whole.<img src="images/familiars/sackthebackpack.webp" alt="Sack the Backpack Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

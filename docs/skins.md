@@ -9,23 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Prismatic Painter Ellywick Portrait](images/skin_portraits/prismaticpainterellywick.png)<span class="featTooltipContents">ID: 719**Prismatic Painter Ellywick (Ellywick)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/prismaticpainterellywick.webp" alt="Prismatic Painter Ellywick Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/prismaticpainterellywick-flames.webp" alt="Prismatic Painter Ellywick Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/prismaticpainterellywick-gem.webp" alt="Prismatic Painter Ellywick Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/prismaticpainterellywick-knight.webp" alt="Prismatic Painter Ellywick Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/prismaticpainterellywick-moon.webp" alt="Prismatic Painter Ellywick Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/prismaticpainterellywick-the_fates.webp" alt="Prismatic Painter Ellywick Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Prismatic Painter Ellywick
-        </span>
-        <span class="skinTableSource">
-            Prismatic Painter Ellywick Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            19 Aug 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Arcane Professor Makos Portrait](images/skin_portraits/arcaneprofessormakos.png)<span class="featTooltipContents">ID: 735**Arcane Professor Makos (Makos)**<img src="images/skin_models/arcaneprofessormakos.webp" alt="Arcane Professor Makos Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

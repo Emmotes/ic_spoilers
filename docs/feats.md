@@ -30,23 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Ellywick</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Painting Virtuoso Icon](images/featicons/jangsaopigments.png)<span class="featTooltipContents">ID: 2742**Painting Virtuoso (Ellywick)**The Feywild has colors you've never even dreamed of.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 80% for each pigment applied to Ellywick, stacking additively.</span><code>global_dps_multiplier_mult,80</code></span>Painting Virtuoso
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 80% for each pigment applied to Ellywick, stacking additively.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">19 Aug 2026<br>19 Nov 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Shadowheart</span>
         </span>
         <span class="featTableIcon5">
