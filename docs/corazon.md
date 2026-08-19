@@ -103,7 +103,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "tags": "geneutral"
                 }
             ],
-            "show_bonus": true
+            "show_bonus": true,
+            "use_computed_amount_for_description": true
         }
     ],
     "requirements": "",
