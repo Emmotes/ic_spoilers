@@ -289,11 +289,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "change_upgrade_targets,20271",
             "off_when_benched": true,
             "new_targets": "non_adj",
-            "effect_index": 0
+            "effect_index": 1
         },
         {
             "off_when_benched": true,
             "effect_string": "add_target_to_upgrade,,20271",
+            "optional_effect_index": 1,
             "add_targets": [
                 {
                     "type": "by_tags",
@@ -301,7 +302,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 }
             ],
             "amount_updated_listeners": [
-                "slot_changed"
+                "slot_changed",
+                "hero_tags_changed"
             ]
         }
     ],
