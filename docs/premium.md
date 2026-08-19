@@ -147,12 +147,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="emergenceShopFeatIcon5 tooltipHolder">![Astral-Touched Tadpole Feat Portrait](images/featicons/shadowheart.png)<span class="itemTooltipContents">ID: 2775**Astral-Touched Tadpole**I truly hope you're right about this.<br><br><span style="color:var(--Flavescent)">Shadowheart adds up the total Wisdom scores of all the Champions adjacent to her and increases the effect of Twilight Trickery by 100% for every 5 Wisdom she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,2907</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor</span>
+            <span style="margin-left:15px">Astral-Touched Tadpole</span>
+            <span style="margin-left:15px">Shadowheart</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -703,7 +703,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 736**Professor of Beasts Wulfgar (Wulfgar)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 736**Professor of Beasts Wulfgar (Wulfgar)**<img src="images/premiums/skin_736.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1028,7 +1028,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 842**Platinum Kitiara Chest**Loot for: Kitiara<code>"for_crusaders":[180]</code></span></span>
+            <span class="tooltipHolder">![Platinum Kitiara Chest Chest Portrait](images/premiums/chests_842.png)<span class="itemTooltipContents">ID: 842**Platinum Kitiara Chest**Loot for: Kitiara<code>"for_crusaders":[180]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
@@ -1580,7 +1580,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 842**Platinum Kitiara Chest**Loot for: Kitiara<code>"for_crusaders":[180]</code></span></span>
+            <span class="tooltipHolder">![Platinum Kitiara Chest Chest Portrait](images/premiums/chests_842.png)<span class="itemTooltipContents">ID: 842**Platinum Kitiara Chest**Loot for: Kitiara<code>"for_crusaders":[180]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>

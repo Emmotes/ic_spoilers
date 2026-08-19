@@ -149,6 +149,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Eric</span>
+        </span>
+        <span class="featTableIcon5">
+            ![Weekend Warrior Icon](images/featicons/eric.png)<span class="featTooltipContents">ID: 2774**Weekend Warrior (Eric)**Is it Saturday yet? <br><br><span style="color:var(--Flavescent)">Eric increases the effect of his Trait specialization by 100% for each 5% of his current Corrupted Gem Scavenger cap that he has collected. Once all Champions in the formation have knocked back enemies at least 60 times in the current area, Eric's second specialization ability gains 1 additional stack(s). The requirement is reduced by a static 5 if it's the weekend (ie. a Weekend Promo Buff is active).</span><code>effect_def,2904</code></span>Weekend Warrior
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Eric increases the effect of his Trait specialization by 100% for each 5% of his current Corrupted Gem Scavenger cap that he has collected. Once all Champions in the formation have knocked back enemies at least 60 times in the current area, Eric's second specialization ability gains 1 additional stack(s). The requirement is reduced by a static 5 if it's the weekend (ie. a Weekend Promo Buff is active).</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">23 Sept 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Karlach</span>
         </span>
         <span class="featTableIcon4">
@@ -213,6 +230,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">21 Oct 2026<br>21 Jan 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Karlach</span>
+        </span>
+        <span class="featTableIcon5">
+            ![Astral-Touched Tadpole Icon](images/featicons/karlach.png)<span class="featTooltipContents">ID: 2802**Astral-Touched Tadpole (Karlach)**Stick it in my eye before I change my mind. <br><br><span style="color:var(--Flavescent)">Karlach adds up the total Constitution scores of all the Champions adjacent to her and increases the effect of The Fury of Avernus by 100% for every 4 CON she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,2930</code></span>Astral-Touched Tadpole
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Karlach adds up the total Constitution scores of all the Champions adjacent to her and increases the effect of The Fury of Avernus by 100% for every 4 CON she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">28 Oct 2026</span>
         </span>
     </span>
 </span>
