@@ -247,7 +247,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 733**Forsaken Bride Ezmerelda (Ezmerelda)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Forsaken Bride Ezmerelda Portrait](images/skin_portraits/forsakenbrideezmerelda.png)<span class="featTooltipContents">ID: 733**Forsaken Bride Ezmerelda (Ezmerelda)**<img src="images/skin_models/forsakenbrideezmerelda.webp" alt="Forsaken Bride Ezmerelda Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Forsaken Bride Ezmerelda
