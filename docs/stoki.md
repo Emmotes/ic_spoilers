@@ -129,7 +129,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Golden Palm** (Guess)
-> Enemies that have been attacked by Stoki at any point in the current area drop 12.5 more gold when killed for each Focus Point she has, stacking multiplicatively.
+> Enemies that have been attacked by Stoki at any point in the current area drop 12.5% more gold when killed for each Focus Point she has, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -139,7 +139,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2870,
     "flavour_text": "",
     "description": {
-        "desc": "Enemies that have been attacked by Stoki at any point in the current area drop $amount more gold when killed for each Focus Point she has, stacking multiplicatively."
+        "desc": "Enemies that have been attacked by Stoki at any point in the current area drop $amount% more gold when killed for each Focus Point she has, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -504,7 +504,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: A Little Bit Faster Now** (Guess)
-> Stoki reduces the base attack cooldown of all Champions with a default base attack cooldown of 6.0 seconds or higher to 4.0 seconds so that they qualify for Frenzied Friends. Their damage is increased by 200% for each 0.2 seconds their base attack cooldown is reduced by this ability, stacking multiplicatively.
+> Stoki reduces the base attack cooldown of all Champions with a default base attack cooldown of 6 seconds or higher to 4 seconds so that they qualify for Frenzied Friends. Their damage is increased by 200% for each 0.2 seconds their base attack cooldown is reduced by this ability, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -514,91 +514,22 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2875,
     "flavour_text": "",
     "description": {
-        "desc": "Stoki reduces the base attack cooldown of all Champions with a default base attack cooldown of 6.0 seconds or higher to 4.0 seconds so that they qualify for Frenzied Friends. Their damage is increased by $amount% for each $amount___5 seconds their base attack cooldown is reduced by this ability, stacking multiplicatively."
+        "desc": "Stoki reduces the base attack cooldown of all Champions with a default base attack cooldown of $required_cooldown___2 seconds or higher to $new_cooldown___2 seconds so that they qualify for Frenzied Friends. Their damage is increased by $amount% for each $time_per_stack___2 seconds their base attack cooldown is reduced by this ability, stacking multiplicatively."
     },
     "effect_keys": [
         {
             "effect_string": "pre_stack,200"
         },
         {
-            "effect_string": "buff_incoming_effect_by_expr",
-            "effect_id": 2875,
-            "effect_index": 3,
-            "buff_amount": 200,
-            "hero_expr": "max(0, sign(default_base_attack_cooldown-5.98)) * pow((1+(buff_amount/100)), (default_base_attack_cooldown-4)*5)",
-            "targets": [
-                "all"
-            ],
-            "filter_targets": [
-                {
-                    "type": "hero_expr",
-                    "hero_expr": "default_base_attack_cooldown>= 6"
-                }
-            ],
-            "amount_updated_listeners": [
-                "slot_changed"
-            ],
-            "skip_effect_key_desc": true,
-            "off_when_benched": true
-        },
-        {
-            "effect_string": "buff_incoming_effect_by_expr",
-            "effect_id": 2875,
-            "effect_index": 4,
-            "hero_expr": "max(0, sign(default_base_attack_cooldown-5.98)) * (default_base_attack_cooldown-4)*5",
-            "targets": [
-                "all"
-            ],
-            "filter_targets": [
-                {
-                    "type": "hero_expr",
-                    "hero_expr": "default_base_attack_cooldown>= 6"
-                }
-            ],
-            "amount_updated_listeners": [
-                "slot_changed"
-            ],
-            "skip_effect_key_desc": true,
-            "off_when_benched": true
-        },
-        {
-            "effect_string": "hero_dps_multiplier_mult,0",
+            "effect_string": "stoki_a_little_faster_now_handler,0",
+            "off_when_benched": true,
             "amount_expr": "upgrade_amount(20266,0)",
-            "targets": [
-                "all"
-            ],
-            "filter_targets": [
-                {
-                    "type": "hero_expr",
-                    "hero_expr": "default_base_attack_cooldown>= 6"
-                }
-            ],
-            "amount_updated_listeners": [
-                "slot_changed"
-            ],
-            "use_computed_amount_for_description": true,
-            "override_key_desc": "Increases the damage of $target by $amount%.",
-            "hide_amount_rate": true,
-            "off_when_benched": true
-        },
-        {
-            "effect_string": "reduce_attack_cooldown,0.2",
-            "targets": [
-                "all"
-            ],
-            "filter_targets": [
-                {
-                    "type": "hero_expr",
-                    "hero_expr": "default_base_attack_cooldown>= 6"
-                }
-            ],
-            "amount_updated_listeners": [
-                "slot_changed"
-            ],
-            "use_computed_amount_for_description": true,
-            "override_key_desc": "Reduces the cooldown of $target's Base Attack by $amount seconds.",
-            "hide_amount_rate": true,
-            "off_when_benched": true
+            "required_cooldown": 6,
+            "new_cooldown": 4,
+            "time_per_stack": 0.2,
+            "buff_effect_id": 2929,
+            "stacks_multiply": true,
+            "upgrade_id": 20266
         }
     ],
     "requirements": "",
@@ -610,6 +541,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
+        "retain_on_slot_changed": true,
         "default_bonus_index": 0
     }
 }
