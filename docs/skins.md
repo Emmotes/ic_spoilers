@@ -313,6 +313,40 @@ Skins that are upcoming. Most skins are real money purchases only.
             18 Nov 2026
         </span>
     </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Celeste Portrait](images/skin_portraits/chromaticceleste.png)<span class="featTooltipContents">ID: 942**Chromatic Celeste (Celeste)**<img src="images/skin_models/chromaticceleste.webp" alt="Chromatic Celeste Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Chromatic Celeste
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Strongheart Portrait](images/skin_portraits/chromaticstrongheart.png)<span class="featTooltipContents">ID: 943**Chromatic Strongheart (Strongheart)**<img src="images/skin_models/chromaticstrongheart.webp" alt="Chromatic Strongheart Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Chromatic Strongheart
+        </span>
+        <span class="skinTableSource">
+            ???
+        </span>
+        <span class="skinTableCost">
+            ???
+        </span>
+        <span class="skinTableDate">
+            ???
+        </span>
+    </span>
 </span>
 
 [Back to Top](#top)
