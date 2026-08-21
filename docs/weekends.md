@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/834.png">
-            <span class="weekendTooltipContents">ID: 834**Gold Dungeon Chest**Loot for: Hank, Shandie, Jamilah, Nayeli and Prudence<code>"for_crusaders":[163,47,11,3,84]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Dungeon Delving**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    21 August 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Prudence
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/hank.png')">
-                        <span class="weekendTableChampionNameplate">Hank</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 163**Hank**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/shandie.png')">
-                        <span class="weekendTableChampionNameplate">Shandie</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 47**Shandie**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/jamilah.png')">
-                        <span class="weekendTableChampionNameplate">Jamilah</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 11**Jamilah**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/nayeli.png')">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 3**Nayeli Goldflower**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/prudence.png')">
-                        <span class="weekendTableChampionNameplate">Prudence</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 84**Prudence**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/835.png">
             <span class="weekendTooltipContents">ID: 835**Gold Footprint Chest**Loot for: Dark Urge, Shadowheart, Makos, Minsc and Lae'zel<code>"for_crusaders":[146,141,9,7,128]</code></span>
         </span>
@@ -187,7 +139,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/jamilah.png')">
                         <span class="weekendTableChampionNameplate">Jamilah</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 11**Jamilah**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 11**Jamilah**Increases the effect of Jamilah's Berserker Confidence and Frontline Fighter by 200%.<code>buff_upgrades,200,2198,238</code></span>
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/pwent.png')">
                         <span class="weekendTableChampionNameplate">Pwent</span>
@@ -223,7 +175,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                 <span class="weekendTableChampions">
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/prudence.png')">
                         <span class="weekendTableChampionNameplate">Prudence</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 84**Prudence**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 84**Prudence**Increases the damage of Prudence by 400%.<code>hero_dps_multiplier_mult,400</code></span>
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/rust.png')">
                         <span class="weekendTableChampionNameplate">Rust</span>
@@ -231,7 +183,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/nayeli.png')">
                         <span class="weekendTableChampionNameplate">Nayeli</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 3**Nayeli Goldflower**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 3**Nayeli Goldflower**Increases the effect of Nayeli's Aura of Courage ability by 200%.<code>buff_upgrade,200,38</code></span>
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/tyril.png')">
                         <span class="weekendTableChampionNameplate">Tyril</span>
@@ -287,7 +239,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/hank.png')">
                         <span class="weekendTableChampionNameplate">Hank</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 163**Hank**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 163**Hank**Increases the effect of Hank's Stalwart Encouragement ability by 200%.<code>buff_upgrade,200,17079</code></span>
                     </span>
                 </span>
             </span>
