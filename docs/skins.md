@@ -18,7 +18,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             Founder's Pack IX
         </span>
         <span class="skinTableCost">
-            0p
+            $29.99
         </span>
         <span class="skinTableDate">
             31 Aug 2026
