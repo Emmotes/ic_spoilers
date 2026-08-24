@@ -16,7 +16,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
             Founder's Pack IX
         </span>
         <span class="skinTableCost">
-            0p
+            $29.99
         </span>
         <span class="skinTableDate">
             31 Aug 2026

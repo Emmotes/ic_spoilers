@@ -35,7 +35,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             Anniversary Giveaway - Anniversary Celebration
         </span>
         <span class="skinTableCost">
-            ???
+            Free?
         </span>
         <span class="skinTableDate">
             02 Sept 2026
