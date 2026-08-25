@@ -787,6 +787,57 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Celeste</span>
+        </span>
+        <span class="featTableIcon5">
+            ![Neverwinter Memories Icon](images/featicons/celeste.png)<span class="featTooltipContents">ID: 2803**Neverwinter Memories (Celeste)**TBD<br><br><span style="color:var(--Flavescent)">Celeste gains the Hunter role and Undead become her favored foe. The effect of Crusader's Mantle is increased by 250% whenever any favored foe appears, stacking multiplicatively up to 10 times and resetting when changing areas. If at least 5 Champions in the formation have the Hunter role, the range of Crusader's Mantle and Mass Cure Wounds are increased by 1. Additionally, if there are at least 10 Hunter Champions in the formation, all enemies are considered Undead for the purposes of all Champions' Hunter mechanics.</span><code>effect_def,2954</code></span>Neverwinter Memories
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Celeste gains the Hunter role and Undead become her favored foe. The effect of Crusader's Mantle is increased by 250% whenever any favored foe appears, stacking multiplicatively up to 10 times and resetting when changing areas. If at least 5 Champions in the formation have the Hunter role, the range of Crusader's Mantle and Mass Cure Wounds are increased by 1. Additionally, if there are at least 10 Hunter Champions in the formation, all enemies are considered Undead for the purposes of all Champions' Hunter mechanics.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Dynaheir</span>
+        </span>
+        <span class="featTableIcon5">
+            ![True One Icon](images/featicons/dynaheir.png)<span class="featTooltipContents">ID: 2804**True One (Dynaheir)**TBD<br><br><span style="color:var(--Flavescent)">The effect of The Resolve of Rashemen is increased by 250% for each Hunter Champion in the formation. If there are at least 10 Hunter Champions in the formation, the CON requirement of The Resolve of Rashemen is reduced by 2 and the base effect is increased by 100%.</span><code>effect_def,2960</code></span>True One
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">The effect of The Resolve of Rashemen is increased by 250% for each Hunter Champion in the formation. If there are at least 10 Hunter Champions in the formation, the CON requirement of The Resolve of Rashemen is reduced by 2 and the base effect is increased by 100%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Imoen</span>
+        </span>
+        <span class="featTableIcon5">
+            ![Heya! It's Me, Neomi! Icon](images/featicons/imoen.png)<span class="featTooltipContents">ID: 2805**Heya! It's Me, Neomi! (Imoen)**TBD<br><br><span style="color:var(--Flavescent)">Imoen gains a Rumors stack for each unique enemy type that is the Favored Foe of any Champion in the formation. The effect of Optimism is increased by 250% for each Rumors stack she has. If Imoen has at least 10 Rumors stacks, the base effect of Perseverance is increased by 25% and her Polymorph spell will sometimes transform its target into a helpless Potted Plant.</span><code>effect_def,2962</code></span>Heya! It's Me, Neomi!
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Imoen gains a Rumors stack for each unique enemy type that is the Favored Foe of any Champion in the formation. The effect of Optimism is increased by 250% for each Rumors stack she has. If Imoen has at least 10 Rumors stacks, the base effect of Perseverance is increased by 25% and her Polymorph spell will sometimes transform its target into a helpless Potted Plant.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Catti-brie</span>
         </span>
         <span class="featTableIcon4">
