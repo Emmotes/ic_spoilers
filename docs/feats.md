@@ -115,6 +115,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Wulfgar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2777**TBD Wulfgar Feat (Do not translate) (Wulfgar)**</span>TBD Wulfgar Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">09 Sept 2026<br>09 Dec 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Cazrin</span>
         </span>
         <span class="featTableIcon4">
@@ -200,6 +217,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Krond</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2778**TBD Krond Feat (Do not translate) (Krond)**</span>TBD Krond Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">14 Oct 2026<br>14 Jan 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Ezmerelda</span>
         </span>
         <span class="featTableIcon4">
@@ -232,13 +266,98 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">28 Oct 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Widdle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2779**TBD Widdle Feat (Do not translate) (Widdle)**</span>TBD Widdle Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Nov 2026<br>04 Feb 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Turiel</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2780**TBD Turiel Feat (Do not translate) (Turiel)**</span>TBD Turiel Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Nov 2026<br>04 Feb 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Sentry</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2782**TBD Sentry Feat (Do not translate) (Sentry)**</span>TBD Sentry Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">11 Nov 2026<br>11 Feb 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2781**TBD Minthara Feat (Do not translate) (Minthara)**</span>TBD Minthara Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">11 Nov 2026<br>11 Feb 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Skylla</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2783**TBD Skylla Feat (Do not translate) (Skylla)**</span>TBD Skylla Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">18 Nov 2026<br>18 Feb 2027</span>
+        </span>
+    </span>
 </span>
 
 # Placeholder Date Feats
 
 These are the feats that have been filtered out of the list above due to having placeholder dates. By this I mean they have very far future dates that will eventually change when CNE deigns to release them (*IF* they decide to release them). They've been filtered out above purely because there's a possibility some of these might never see the light of day. They're unreliable - far more so than most spoilers usually are. So take that into account when viewing them.
 
-<span style="font-size:1.2em;">ⓘ</span> *Note: Test feats / QA feats / TBD feats will remain filtered out. Even from this list.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: Test feats and QA feats will remain filtered out. Even from this list.*
 
 <span class="featTableColumn">
     <span class="featTableRowHeader">
