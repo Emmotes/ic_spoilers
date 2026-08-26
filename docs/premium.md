@@ -4,48 +4,6 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 749</div>
-### Shadowheart's Legendary Feat Pack - 1,680 Platinum  
-Date of release: 26 Aug 2026
-
-> Unlock Shadowheart's full potential with her Legendary Feat & 6 Healing Pigments now!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Shadowheart Champion Unlock Portrait](images/premiums/unlock_champion_141.png)<span class="itemTooltipContents">ID: 141**Shadowheart (Seat 6)**<img src="images/premiums/unlock_champion_141.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Shadowheart</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon5 tooltipHolder">![Astral-Touched Tadpole Feat Portrait](images/featicons/shadowheart.png)<span class="itemTooltipContents">ID: 2775**Astral-Touched Tadpole**I truly hope you're right about this.<br><br><span style="color:var(--Flavescent)">Shadowheart adds up the total Wisdom scores of all the Champions adjacent to her and increases the effect of Twilight Trickery by 100% for every 5 Wisdom she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,2907</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Astral-Touched Tadpole</span>
-            <span style="margin-left:15px">Shadowheart</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Marvelous Healing Pigment Buff Portrait](images/premiums/buff_1906.png)<span class="itemTooltipContents">ID: 1906**Marvelous Healing Pigment**Adds a Champion-tag-based effect to an epic or higher equipment item of your choice!<code>legendary_apply_pigment,3</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Marvelous Healing Pigment</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 773</div>
 ### Founder's Pack IX - $29.99  
 Date of release: 31 Aug 2026

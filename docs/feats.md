@@ -30,23 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Shadowheart</span>
-        </span>
-        <span class="featTableIcon5">
-            ![Astral-Touched Tadpole Icon](images/featicons/shadowheart.png)<span class="featTooltipContents">ID: 2775**Astral-Touched Tadpole (Shadowheart)**I truly hope you're right about this.<br><br><span style="color:var(--Flavescent)">Shadowheart adds up the total Wisdom scores of all the Champions adjacent to her and increases the effect of Twilight Trickery by 100% for every 5 Wisdom she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,2907</code></span>Astral-Touched Tadpole
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Shadowheart adds up the total Wisdom scores of all the Champions adjacent to her and increases the effect of Twilight Trickery by 100% for every 5 Wisdom she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">26 Aug 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Volo</span>
         </span>
         <span class="featTableIcon4">
