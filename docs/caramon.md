@@ -32,64 +32,160 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Seat**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
+        <span class="champStatsTableInfo">
             <span style="margin-left:8px;">3</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Stat**</span>
+        </span>
+        <span class="champStatsTableStatsHeader">
+            <span style="margin-left:8px;">**Value**</span>
+        </span>
+        <span class="champStatsTableTrialsHeader">
+            <span style="margin-left:8px;">**Day 1 Trials**</span>
+        </span>
+        <span class="champStatsTablePatronsHeader">
+            <span style="margin-left:8px;">**Patrons**</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Species**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
+        <span class="champStatsTableInfo">
             <span style="margin-left:8px;">Human</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Strength**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">19</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">Mirt</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Class**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
+        <span class="champStatsTableInfo">
             <span style="margin-left:8px;">Fighter</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Dexterity**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">11</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">-</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">Vajra</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Roles**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
+        <span class="champStatsTableInfo">
             <span style="margin-left:8px;">Support / Tanking</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Constitution**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">17</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">-</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Age**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
+        <span class="champStatsTableInfo">
             <span style="margin-left:8px;">25</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Intelligence**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">12</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">Zariel</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Gender**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
+        <span class="champStatsTableInfo">
             <span style="margin-left:8px;">Male</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Wisdom**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">11</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">-</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Alignment**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
+        <span class="champStatsTableInfo">
             <span style="margin-left:8px;">Lawful Good</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Charisma**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">15</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Yes</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">&nbsp;</span>
         </span>
     </span>
     <span class="champStatsTableRow">
         <span class="champStatsTableInfoHeader">
             <span style="margin-right:4px;">**Affiliation**:</span>
         </span>
-        <span class="champStatsTableInfoSmall">
+        <span class="champStatsTableInfo">
             <span style="margin-left:8px;">Heroes of the Lance</span>
+        </span>
+        <span class="champStatsTableStatHeader">
+            <span style="margin-right:4px;">**Total**:</span>
+        </span>
+        <span class="champStatsTableStats">
+            <span style="margin-left:8px;">85</span>
+        </span>
+        <span class="champStatsTableTrials">
+            <span style="margin-left:8px;">Champion ID:</span>
+        </span>
+        <span class="champStatsTablePatrons">
+            <span style="margin-left:8px;">179</span>
         </span>
     </span>
 </span>
