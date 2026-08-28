@@ -105,7 +105,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
             <span style="margin-left:8px;">Yes</span>
         </span>
         <span class="champStatsTablePatrons">
-            <span style="margin-left:8px;">-</span>
+            <span style="margin-left:8px;">Strahd (Ability)</span>
         </span>
     </span>
     <span class="champStatsTableRow">
@@ -145,7 +145,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
             <span style="margin-left:8px;">Yes</span>
         </span>
         <span class="champStatsTablePatrons">
-            <span style="margin-left:8px;">-</span>
+            <span style="margin-left:8px;">Elminster</span>
         </span>
     </span>
     <span class="champStatsTableRow">
