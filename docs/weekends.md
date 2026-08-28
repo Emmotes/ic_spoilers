@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/835.png">
-            <span class="weekendTooltipContents">ID: 835**Gold Footprint Chest**Loot for: Dark Urge, Shadowheart, Makos, Minsc and Lae'zel<code>"for_crusaders":[146,141,9,7,128]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Feats of Leadership**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    28 August 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Lae'zel
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/darkurge.png')">
-                        <span class="weekendTableChampionNameplate">Dark Urge</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 146**The Dark Urge**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/shadowheart.png')">
-                        <span class="weekendTableChampionNameplate">Shadowheart</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 141**Shadowheart**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/makos.png')">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 9**Makos**Increases the effect of Makos's Dark Blessing and Dark Luck by 200%.<code>buff_upgrades,200,140,139</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/minsc.png')">
-                        <span class="weekendTableChampionNameplate">Minsc</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 7**Minsc**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/laezel.png')">
-                        <span class="weekendTableChampionNameplate">Lae'zel</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 128**Lae'zel**Increases the effect of Lae'zel's Lethal Coordination ability by 200%.<code>buff_upgrade,200,12113</code></span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/836.png">
             <span class="weekendTooltipContents">ID: 836**Gold Distinguished Chest**Loot for: Flint, Raistlin, Jarlaxle, Bruenor and Caramon<code>"for_crusaders":[178,173,4,1,179]</code></span>
         </span>
@@ -271,7 +223,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                 <span class="weekendTableChampions">
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/darkurge.png')">
                         <span class="weekendTableChampionNameplate">Dark Urge</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 146**The Dark Urge**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 146**The Dark Urge**Increases the effect of Dark Urge's The Urge ability by 200%.<code>buff_upgrade,200,14379</code></span>
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/karlach.png')">
                         <span class="weekendTableChampionNameplate">Karlach</span>
@@ -279,7 +231,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/minsc.png')">
                         <span class="weekendTableChampionNameplate">Minsc</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 7**Minsc**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 7**Minsc**Increases the effect of Minsc's Favored Enemy: Beasts, Favored Enemy: Fey, Favored Enemy: Humanoids, Favored Enemy: Monstrosities and Favored Enemy: Undead by 200%.<code>buff_upgrades,200,109,111,108,112,110</code></span>
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/asharra.png')">
                         <span class="weekendTableChampionNameplate">Asharra</span>
