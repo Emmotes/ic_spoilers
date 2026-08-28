@@ -33,7 +33,7 @@
 
 # Basic Information
 
-Kitiara Uth Matar will be a new champion - potentially in the Liars' Night event on 7 October 2026.
+Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 2026.
 
 <span class="champStatsTableColumn">
     <span class="champStatsTableRow">

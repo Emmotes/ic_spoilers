@@ -65,7 +65,7 @@ These are the new event champions that are upcoming and all the information we k
                 <span class="indexChampionTableNoLink">Human (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Liars' Night - 7 October 2026 (Guess)</span>
+                <span class="indexChampionTableNoLink">Liars' Night - 7 October 2026</span>
             </span>
         </span>
         <span class="indexChampionTableAttack">
@@ -398,7 +398,7 @@ Events will have either one rework OR three rebalances.
 </span>
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
-## Liars' Night - 7 October 2026 (Guess)
+## Liars' Night - 7 October 2026
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
 {::nomarkdown}
 <a href="kitiara.html">
@@ -409,7 +409,7 @@ Events will have either one rework OR three rebalances.
         </span>
         <span class="indexChampionTableInfo">
             <span class="indexChampionTableChampion">
-                Kitiara Uth Matar (Guess)
+                Kitiara Uth Matar
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Human (Guess)</span>
