@@ -459,7 +459,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Brother's Keepers** (Guess)
+**Brother's Keeper** (Guess)
 > Caramon increases the effect of Raise Spirits by 100% for each Champion in the formation not affected by Raise Spirits.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
@@ -730,7 +730,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Stalwart Allies** (Guess)
+**Sympathetic Allies** (Guess)
 > Caramon recruits all other Good Champions in the formation. Caramon's Raise Spirits ability emanates from each eligible Champion as if each were a separate formation ability for the purposes of Champions that care about such things.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -782,7 +782,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Sympathetic Allies** (Guess)
+**Stalwart Allies** (Guess)
 > Caramon recruits all other Champions in the formation with a STR score of 16 or higher. Caramon's Raise Spirits ability emanates from each eligible Champion as if each were a separate formation ability for the purposes of Champions that care about such things.
 <details><summary><em>Raw Data</em></summary>
 <p>
