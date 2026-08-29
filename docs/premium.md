@@ -547,11 +547,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2777**TBD Wulfgar Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2777**Guided Strike**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Wulfgar Feat (Do not translate)</span>
+            <span style="margin-left:15px">Guided Strike</span>
             <span style="margin-left:15px">Wulfgar</span>
         </span>
     </span>
@@ -1170,11 +1170,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2778**TBD Krond Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2778**TBD Future Feat (Do not translate)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Krond Feat (Do not translate)</span>
+            <span style="margin-left:15px">TBD Future Feat (Do not translate)</span>
             <span style="margin-left:15px">Krond</span>
         </span>
     </span>
@@ -1466,11 +1466,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2780**TBD Turiel Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2780**Dire Resolve**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Turiel Feat (Do not translate)</span>
+            <span style="margin-left:15px">Dire Resolve</span>
             <span style="margin-left:15px">Turiel</span>
         </span>
     </span>
@@ -1537,11 +1537,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2781**TBD Minthara Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2781**TBD Future Feat (Do not translate)**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Minthara Feat (Do not translate)</span>
+            <span style="margin-left:15px">TBD Future Feat (Do not translate)</span>
             <span style="margin-left:15px">Minthara</span>
         </span>
     </span>
@@ -1608,11 +1608,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2782**TBD Sentry Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2782**Multiversal Allies**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Sentry Feat (Do not translate)</span>
+            <span style="margin-left:15px">Multiversal Allies</span>
             <span style="margin-left:15px">Sentry</span>
         </span>
     </span>
@@ -1731,11 +1731,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2783**TBD Skylla Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2783**Double Double**</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Skylla Feat (Do not translate)</span>
+            <span style="margin-left:15px">Double Double</span>
             <span style="margin-left:15px">Skylla</span>
         </span>
     </span>

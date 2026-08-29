@@ -101,7 +101,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Wulfgar</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2777**TBD Wulfgar Feat (Do not translate) (Wulfgar)**</span>TBD Wulfgar Feat (Do not translate)
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2777**Guided Strike (Wulfgar)**</span>Guided Strike
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -203,7 +203,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Krond</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2778**TBD Krond Feat (Do not translate) (Krond)**</span>TBD Krond Feat (Do not translate)
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2778**TBD Future Feat (Do not translate) (Krond)**</span>TBD Future Feat (Do not translate)
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -254,7 +254,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Widdle</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2779**TBD Widdle Feat (Do not translate) (Widdle)**</span>TBD Widdle Feat (Do not translate)
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2779**Too Many Friends (Widdle)**</span>Too Many Friends
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -271,7 +271,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Turiel</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2780**TBD Turiel Feat (Do not translate) (Turiel)**</span>TBD Turiel Feat (Do not translate)
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2780**Dire Resolve (Turiel)**</span>Dire Resolve
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -288,7 +288,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Sentry</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2782**TBD Sentry Feat (Do not translate) (Sentry)**</span>TBD Sentry Feat (Do not translate)
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2782**Multiversal Allies (Sentry)**</span>Multiversal Allies
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -305,7 +305,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Minthara</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2781**TBD Minthara Feat (Do not translate) (Minthara)**</span>TBD Minthara Feat (Do not translate)
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2781**TBD Future Feat (Do not translate) (Minthara)**</span>TBD Future Feat (Do not translate)
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -322,7 +322,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Skylla</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2783**TBD Skylla Feat (Do not translate) (Skylla)**</span>TBD Skylla Feat (Do not translate)
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2783**Double Double (Skylla)**</span>Double Double
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
