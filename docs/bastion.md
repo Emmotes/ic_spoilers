@@ -1787,14 +1787,14 @@ Some graphics were found that had the format `Bastion/Rooms/Workshop/...`:
 > "key": "bastion",  
 > "contents": "Bastion"
 
-> "key": "bastion_dialog_title",  
-> "contents": "Your Bastion - Level $level"
+> "key": "bastion_dialog_title_1",  
+> "contents": "Your Bastion"
 
 > "key": "bastion_room_upg_hint",  
-> "contents": "Once you've met the requirements, click this icon to upgrade your $roomName"
+> "contents": "Once you've met the requirements, click this button to upgrade your $roomName"
 
 > "key": "adv_party_bastion_req",  
-> "contents": "Complete $adventureName and updgrade the Bastion's Tavern to Level $level"
+> "contents": "Complete $adventureName and upgrade the Bastion's Tavern to Level $level"
 
 > "key": "trophies_faq_title",  
 > "contents": "Trophies FAQ"
@@ -1860,7 +1860,7 @@ Some graphics were found that had the format `Bastion/Rooms/Workshop/...`:
 > "contents": "Loading your Bastion..."
 
 > "key": "bastion_room_unlock_hint",  
-> "contents": "Once you've met the requirements, click this icon to unlock the $roomName"
+> "contents": "Once you've met the requirements, click this button to unlock the $roomName"
 
 > "key": "bastion_buff_dialog_desc",  
 > "contents": "Your Bastion Buff increases the damage of all your adventuring parties based on your progress unlocking and leveling up your Bastion and your progress with your Collection."
@@ -1897,6 +1897,58 @@ Some graphics were found that had the format `Bastion/Rooms/Workshop/...`:
 
 > "key": "bastion_room_upgraded",  
 > "contents": "$roomName upgraded to Level $roomLevel!"
+
+> "key": "bastion_party_unlock_message",  
+> "contents": "The game must reload to unlock the next party."
+
+> "key": "bastion_familiars_info_popup_desc",  
+> "contents": "Familiars can be assigned to multiple tasks to make your adventuring life easier! They can:
+>   - Level up your click damage.
+>   - Level up a Champion.
+>   - Activate a specific Ultimate ability, or roam around and activate a random Ultimate ability.
+>   - Toggle auto progress on if it turns off.
+>   - Auto-click potions in the Potion Manager.
+>   - Click enemies.
+> 
+> If you have multiple familiars assigned to clicking enemies, they'll gain additional powers:
+>   3+: Gold will be collected automatically.
+>   5+: Boss loot sacks will be collected automatically.
+>   6: Your familiars will automatically click any distractions that appear in the background, collecting their gold without any interaction needed on your part!"
+
+> "key": "bastion_conv_icons_dialog_title",  
+> "contents": "Conversation Icons"
+
+> "key": "bastion_beta_intro_1",  
+> "contents": "The Bastion is a new system launching in <b>Beta</b> for select players, so not everyone has access just yet.
+> 
+> While in Beta, the Bastion may occasionally be unavailable as we make improvements and squash bugs. Thanks for your understanding while we optimize this exciting new system!"
+
+> "key": "bastion_beta_intro_2",  
+> "contents": "Do you ever get lost in Idle Champions, forget about a feature, or wonder what to tackle next? <b>Your Bastion is here to help!</b>
+> 
+> The Bastion brings helpful features together in one place, making it easier to discover everything Idle Champions has to offer. Whether you're a newer player finding your way or a seasoned adventurer looking for what's next, there's something here for you!
+> 
+> Access your Bastion anytime using the new icon in the UI, shown above."
+
+> "key": "bastion_beta_intro_3",  
+> "contents": "We'd love to hear what you think! If you encounter a bug or have feedback about the Bastion, please open an in-game support ticket or join the conversation in our Discord community.
+> 
+> Join us at: <b>discord.gg/idlechampions</b>"
+
+> "key": "bastion_beta_intro_1_title",  
+> "contents": "BETA FEATURE"
+
+> "key": "bastion_beta_intro_2_title",  
+> "contents": "INTRODUCING: YOUR BASTION"
+
+> "key": "bastion_beta_intro_3_title",  
+> "contents": "PROVIDING FEEDBACK"
+
+> "key": "bastion_dialog_title_2",  
+> "contents": "Level $level / $maxLevel"
+
+> "key": "bastion_room_level_req",  
+> "contents": "The $roomName must be at Level $level"
 
 [Back to Top](#top)
 
