@@ -200,23 +200,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Krond</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2778**TBD Future Feat (Do not translate) (Krond)**</span>TBD Future Feat (Do not translate)
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">14 Oct 2026<br>14 Jan 2027</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Ezmerelda</span>
         </span>
         <span class="featTableIcon4">
@@ -289,23 +272,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableIcon4">
             ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2782**Multiversal Allies (Sentry)**</span>Multiversal Allies
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">11 Nov 2026<br>11 Feb 2027</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Minthara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2781**TBD Future Feat (Do not translate) (Minthara)**</span>TBD Future Feat (Do not translate)
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
