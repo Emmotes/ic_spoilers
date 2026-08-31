@@ -1255,3 +1255,45 @@ input[type="checkbox"]:checked::before {
 .eventBuffsTooltipContents ol {
 	margin: 0 0 -5px -25px;
 }
+.champStatsTableGrid,.champStatsTableGridSmall {
+	display: grid;
+	width: 900px;
+	grid-template-columns: 90px 305px 100px 80px 90px 115px 115px;
+	row-gap: 4px;
+	font-size: 0.9em;
+}
+.champStatsTableGridSmall {
+	grid-template-columns: 95px 200px;
+}
+.champStatsTableGrid span,
+.champStatsTableGridSmall span {
+	display: flex;
+	align-items: center;
+	min-height: 25px;
+	padding: 2px;
+	background-color: var(--Onyx);
+	border-top: 1px solid var(--Black);
+	border-bottom: 1px solid var(--Black);
+	padding-left: 6px;
+}
+.champStatsTableGrid > :nth-child(7n + 1),
+.champStatsTableGrid > :nth-child(7n + 3),
+.champStatsTableGridSmall > :nth-child(2n + 1) {
+	justify-content: flex-end;
+	border: 1px solid var(--Black);
+	padding-left: 0;
+	padding-right: 6px;
+}
+.champStatsTableGrid > :nth-child(7n + 2),
+.champStatsTableGrid > :nth-child(7n + 4),
+.champStatsTableGrid > :nth-child(7n + 6) {
+	background-color: var(--EerieBlack);
+}
+.champStatsTableGrid > :nth-child(7n + 5),
+.champStatsTableGrid > :nth-child(7n + 7) {
+	border: 1px solid var(--Black);
+}
+.champStatsTableGridSmall > :nth-child(2n + 2) {
+	background-color: var(--EerieBlack);
+	border-right: 1px solid var(--Black);
+}
