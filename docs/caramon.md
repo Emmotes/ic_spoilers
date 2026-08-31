@@ -82,7 +82,7 @@ Caramon Majere will be a new champion in the Highharvestide event on 2 September
   <span>**Total**:</span>
   <span>85</span>
   <span>&nbsp;</span>
-  <span>Champion ID:</span>
+  <span style="justify-content:flex-end;padding-right:6px;">Champion ID:</span>
   <span>179</span>
 </span>
 
