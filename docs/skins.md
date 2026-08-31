@@ -9,23 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Arcane Professor Makos Portrait](images/skin_portraits/arcaneprofessormakos.png)<span class="featTooltipContents">ID: 735**Arcane Professor Makos (Makos)**<img src="images/skin_models/arcaneprofessormakos.webp" alt="Arcane Professor Makos Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Arcane Professor Makos
-        </span>
-        <span class="skinTableSource">
-            Founder's Pack IX
-        </span>
-        <span class="skinTableCost">
-            $29.99
-        </span>
-        <span class="skinTableDate">
-            31 Aug 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Guest Lecturer Volo Portrait](images/skin_portraits/guestlecturervolo.png)<span class="featTooltipContents">ID: 708**Guest Lecturer Volo (Volo)**<img src="images/skin_models/guestlecturervolo.webp" alt="Guest Lecturer Volo Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

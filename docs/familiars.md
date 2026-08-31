@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Sack the Backpack Portrait](images/familiars/sackthebackpack.png)<span class="featTooltipContents">ID: 342**Sack the Backpack**What goes in might not come out… whole.<img src="images/familiars/sackthebackpack.webp" alt="Sack the Backpack Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Sack the Backpack
-        </span>
-        <span class="skinTableSource">
-            Founder's Pack IX
-        </span>
-        <span class="skinTableCost">
-            $29.99
-        </span>
-        <span class="skinTableDate">
-            31 Aug 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Sentry the Bear Portrait](images/familiars/sentrythebear.png)<span class="featTooltipContents">ID: 335**Sentry the Bear**Do not worry, Sentry is watching.<img src="images/familiars/sentrythebear.webp" alt="Sentry the Bear Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
