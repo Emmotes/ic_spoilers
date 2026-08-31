@@ -4,11 +4,9 @@
 
 A list of recently archived spoilers. Note that I delete archives older than 6 months to avoid bloat.
 
-* [Deekin](archive/deekin.md)
 * [Dragondown Augments](archive/augments_30.md)
 * [Emergence 15](archive/emergence_15.md)
 * [Emergence 16](archive/emergence_16.md)
-* [Fleetswake Augments](archive/augments_12.md)
 * [Flint Fireforge](archive/flint.md)
 * [Jim](archive/jim.md)
 * [Lauralanthalasa Kanan](archive/laurana.md)
@@ -19,7 +17,6 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Nahara](archive/nahara.md)
 * [Omin](archive/omin.md)
 * [Prudence](archive/prudence.md)
-* [Raistlin Majere](archive/raistlin.md)
 * [Rudolph van Richten](archive/vanrichten.md)
 * [Tasslehoff Burrfoot](archive/tasslehoff.md)
 * [The Great Modron March Augments](archive/augments_26.md)
