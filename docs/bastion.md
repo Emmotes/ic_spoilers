@@ -38,6 +38,31 @@ The assumption is that this will be some kind of new-player onboarding system.
 
 ![Bastion Roadmap Preview Image 2](images/bastion/roadmap2.png)
 
+# Reddit Anniversary Q&A with Chris
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This information is taken directly from the [Reddit Anniversary Q&A](https://www.reddit.com/r/idlechampions/comments/1w0wvnx/idle_champions_9th_anniversary_qa_with_exec/){:target="_blank"}.*
+
+> ## Introducing the Bastion System
+> Our long-teased **Bastion system is almost here**!
+> 
+> We're putting the finishing touches on it this week, with plans to begin rolling it out to **PC players in Beta next week**, followed by console and mobile players shortly thereafter.
+> 
+> Recently, we've focused a lot on challenging content for long-time players with **Mastery Challenges and Mastery Variants**. Bastions are different: **they're designed for everyone, with a particular focus on helping newer players find their way through Idle Champions**.
+> 
+> Ever found yourself wondering...
+> 
+> - What should I tackle next?
+> - What systems haven't I unlocked yet?
+> - Where was that feature again?
+> 
+> **Your Bastion is here to help**.
+> 
+> The Bastion is a new **pathing and navigation system** that guides you through Idle Champions' many features and brings them together in one convenient place. Whether you're discovering the game for the first time or you're a seasoned adventurer looking for what to tackle next, your Bastion can help point the way.
+
+### Reddit Q&A Sneak Peek Screenshot
+
+![Reddit Q&A Sneak Peek Screenshot of Bastion](images/bastion/redditqa1.png)
+
 # Tutorial Texts
 
 ### State #1
