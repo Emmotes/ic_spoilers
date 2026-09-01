@@ -77,7 +77,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 736**Professor of Beasts Wulfgar (Wulfgar)**<img src="images/skin_models/professorofbeastswulfgar.webp" alt="Professor of Beasts Wulfgar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Professor of Beasts Wulfgar Portrait](images/skin_portraits/professorofbeastswulfgar.png)<span class="featTooltipContents">ID: 736**Professor of Beasts Wulfgar (Wulfgar)**<img src="images/skin_models/professorofbeastswulfgar.webp" alt="Professor of Beasts Wulfgar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Professor of Beasts Wulfgar
@@ -128,7 +128,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Scholar of the Nine Hells Karlach Portrait](images/skin_portraits/scholaroftheninehellskarlach.png)<span class="featTooltipContents">ID: 725**Scholar of the Nine Hells Karlach (Karlach)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Scholar of the Nine Hells Karlach Portrait](images/skin_portraits/scholaroftheninehellskarlach.png)<span class="featTooltipContents">ID: 725**Scholar of the Nine Hells Karlach (Karlach)**<img src="images/skin_models/scholaroftheninehellskarlach.webp" alt="Scholar of the Nine Hells Karlach Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Scholar of the Nine Hells Karlach
