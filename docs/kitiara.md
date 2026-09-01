@@ -37,7 +37,7 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
 
 <span class="champStatsTableGridSmall">
   <span>**Seat**:</span>
-  <span>Unknown</span>
+  <span>4</span>
   <span>**Species**:</span>
   <span>Human (Guess)</span>
   <span>**Class**:</span>
