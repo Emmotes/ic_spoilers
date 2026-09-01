@@ -685,7 +685,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Kitiara Champion Unlock Portrait](images/premiums/unlock_champion_180.png)<span class="itemTooltipContents">ID: 180**Kitiara**<img src="images/premiums/unlock_champion_180.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Kitiara Champion Unlock Portrait](images/premiums/unlock_champion_180.png)<span class="itemTooltipContents">ID: 180**Kitiara (Seat 4)**<img src="images/premiums/unlock_champion_180.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
@@ -949,7 +949,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 732**Headless Cavalier Thellora (Thellora)**</span></span>
+            <span class="tooltipHolder">![Headless Cavalier Thellora Skin Portrait](images/premiums/skin_732.png)<span class="itemTooltipContents">ID: 732**Headless Cavalier Thellora (Thellora)**<img src="images/premiums/skin_732.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
