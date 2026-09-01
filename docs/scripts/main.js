@@ -1,31 +1,37 @@
 const rrm = {
-	active: (localStorage.spoilersRRM == 1 ? true : false),
+	active: localStorage.getItem(`spoilersRRM`) === `1` ? true : false,
 	storage: "spoilersRRM",
 	name: "Randramb Mode",
 	nick: "rrm",
-	map: new Map()
+	map: new Map(),
 };
 const nnm = {
-	active: (localStorage.spoilersNNM == 1 ? true : false),
+	active: localStorage.getItem(`spoilersNNM`) === `1` ? true : false,
 	storage: "spoilersNNM",
 	name: "Nicknames Mode",
 	nick: "nnm",
-	map: new Map()
+	map: new Map(),
 };
 const acm = {
-	active: (localStorage.spoilersACM == 1 ? true : false),
+	active: localStorage.getItem(`spoilersACM`) === `1` ? true : false,
 	storage: "spoilersACM",
 	name: "Archive Code Mode",
 	nick: "acm",
-	map: new Map()
+	map: new Map(),
 };
 const patronSort = document.getElementById("patronSort");
-var devInsightsIndex = 0;
-var devInsightsTimer = devInsights[devInsightsIndex];
-var allExclusivesHidden = true;
-var allExclusiveFeatsHidden = false;
+const TIME_UNITS = {
+	long: {y: ["year", "years"], mo: ["month", "months"], d: ["day", "days"], h: ["hour", "hours"], m: ["minute", "minutes"], s: ["second", "seconds"], ms: ["millisecond", "milliseconds"]},
+	medium: {y: ["yr", "yrs"], mo: ["mon", "mons"], d: ["day", "days"], h: ["hr", "hrs"], m: ["min", "mins"], s: ["sec", "secs"], ms: ["ms", "ms"]},
+	short: {y: ["y", "y"], mo: ["m", "m"], d: ["d", "d"], h: ["h", "h"], m: ["m", "m"], s: ["s", "s"], ms: ["ms", "ms"]},
+}; // prettier-ignore
+let devInsightsIndex = 0;
+let devInsightsTimer = devInsights[devInsightsIndex];
+let devInsightsCountdown;
+let allExclusivesHidden = true;
+let allExclusiveFeatsHidden = false;
 
-rrm.map.set("Exclusivity Dates","Dates and Crap");
+rrm.map.set("Exclusivity Dates", "Dates and Crap");
 rrm.map.set("Premium Packs and DLC", "Shop Cash Packs");
 
 nnm.map.set("Antrius", "Antivirus");
@@ -47,10 +53,10 @@ nnm.map.set("Deekin", "DOOM");
 nnm.map.set("Dhadius", "Daddy-O");
 nnm.map.set("Duke Ravengard", "Otter");
 nnm.map.set("Dungeon Master", "DM");
-nnm.map.set("D’hani", ins("Dhani",randInt(0,5),"’"));
+nnm.map.set("D’hani", ins("Dhani", randInt(0, 5), "’"));
 nnm.map.set("Egbert", "Egg...Bert");
 nnm.map.set("Ellywick", "Elly");
-nnm.map.set("Elminster", ins("El Minster",randInt(0,10),"’"));
+nnm.map.set("Elminster", ins("El Minster", randInt(0, 10), "’"));
 nnm.map.set("Ezmerelda", "Ez");
 nnm.map.set("Farideh", "Fari");
 nnm.map.set("Grimm", "Half of B&G");
@@ -61,8 +67,8 @@ nnm.map.set("Karlach", "Mama K");
 nnm.map.set("Krond", "Hammerman");
 nnm.map.set("Krux", "Hippo");
 nnm.map.set("Krydle", "Kroodle");
-nnm.map.set("K’thriss", ins("Kthriss",randInt(0,7),"’"));
-nnm.map.set("Lae’zel", ins("Laezel",randInt(0,6),"’"));
+nnm.map.set("K’thriss", ins("Kthriss", randInt(0, 7), "’"));
+nnm.map.set("Lae’zel", ins("Laezel", randInt(0, 6), "’"));
 nnm.map.set("Makos", "MacOS");
 nnm.map.set("Merilwen", "Meowilwen");
 nnm.map.set("Nahara", "Nahahaha");
@@ -106,63 +112,93 @@ nnm.map.set("Potion of Heroism", "Health Pot");
 nnm.map.set("Potion", "Pot");
 nnm.map.set("potion", "pot");
 
-acm.map.set("<li><a href=\"/archive.html\">Archive of Old Spoilers</a>", "<li><a href=\"/archive.html\">Archive of Old Spoilers</a> (<a href=\"https://github.com/Emmotes/ic_spoilers/tree/main/docs/archive\">Archive Code View</a>)");
-acm.map.set("<li><a href=\"/ic_spoilers/archive.html\">Archive of Old Spoilers</a>", "<li><a href=\"/ic_spoilers/archive.html\">Archive of Old Spoilers</a> (<a href=\"https://github.com/Emmotes/ic_spoilers/tree/main/docs/archive\">Archive Code View</a>)");
+acm.map.set(
+	'<li><a href="/archive.html">Archive of Old Spoilers</a>',
+	'<li><a href="/archive.html">Archive of Old Spoilers</a> (<a href="https://github.com/Emmotes/ic_spoilers/tree/main/docs/archive">Archive Code View</a>)',
+);
+acm.map.set(
+	'<li><a href="/ic_spoilers/archive.html">Archive of Old Spoilers</a>',
+	'<li><a href="/ic_spoilers/archive.html">Archive of Old Spoilers</a> (<a href="https://github.com/Emmotes/ic_spoilers/tree/main/docs/archive">Archive Code View</a>)',
+);
 
 const allModes = [rrm, nnm, acm];
 
 function init() {
-	let edit = !(document.location.pathname.includes("/modes.html"));
+	const edit = !document.location.pathname.includes("/modes.html");
 	updateModes(edit);
-	
+
 	if (!edit) {
-		let list = document.getElementById(`modesList`);
+		const list = document.getElementById(`modesList`);
 		let contents = ``;
-		for (let i = 0; i < allModes.length; i++) {
-			let curr = allModes[i];
-			contents += `<span class="modesColInner"><span class="modesRow"><span class="modesType"><input type="checkbox" class="modesCheckbox" id="${curr.nick}" name="${curr.nick}" onClick="toggleMode('${curr.nick}')"`+(curr.active?` checked`:``)+`><label for="${curr.nick}" class="modesLabel">${curr.name}</label></span><span class="modesDetails" id="${curr.nick}Details"><a onClick="modesDetails('${curr.nick}')" id="${curr.nick}Link">[show]</a></span></span><span class="modesContent" id="${curr.nick}Content" style="display:none;">&nbsp;</span></span>`;
+		for (const mode of allModes) {
+			contents +=
+				`<span class="modesColInner"><span class="modesRow">` +
+				`<span class="modesType">` +
+				`<input type="checkbox" class="modesCheckbox" id="${mode.nick}" ` +
+				`name="${mode.nick}" onClick="toggleMode('${mode.nick}')"` +
+				(mode.active ? ` checked` : ``) +
+				`><label for="${mode.nick}" class="modesLabel">${mode.name}</label></span>` +
+				`<span class="modesDetails" id="${mode.nick}Details">` +
+				`<a onClick="modesDetails('${mode.nick}')" id="${mode.nick}Link">[show]</a>` +
+				`</span></span><span class="modesContent" id="${mode.nick}Content" ` +
+				`style="display:none;">&nbsp;</span></span>`;
 		}
 		list.innerHTML = contents;
 	}
-	
-	if (patronSort!=null&&patronSort!=null)
-		patronSort.addEventListener(`change`,sortPatrons);
+
+	if (patronSort) patronSort.addEventListener(`change`, sortPatrons);
 
 	fixArchiveImages();
+
+	startDevInsightsCountdown();
 }
 
 function updateModes(edit) {
 	let modes = `<br><a href="modes.html">Modes</a>`;
-	for (let i = 0; i < allModes.length; i++) {
-		let curr = allModes[i];
-		if (curr.active) {
-			modes += `<br>${curr.name} Active`;
-			if (curr == acm) {
-				let path = document.location.pathname;
-				if (path != "/ic_spoilers/" && path != "/" && !path.includes("index.html"))
+	for (const mode of allModes) {
+		if (mode.active) {
+			modes += `<br>${mode.name} Active`;
+			if (mode === acm) {
+				const path = document.location.pathname;
+				if (
+					path !== "/ic_spoilers/" &&
+					path !== "/" &&
+					!path.includes("index.html")
+				)
 					continue;
 			}
 			if (edit)
-				for (const [key, value] of curr.map)
-					document.body.innerHTML = document.body.innerHTML.replaceAll(`${key}`,`${value}`);
+				for (const [key, value] of mode.map)
+					document.body.innerHTML =
+						document.body.innerHTML.replaceAll(
+							`${key}`,
+							`${value}`,
+						);
 		}
 	}
-	let element = document.getElementById("modes");
-	element.innerHTML = modes;
+	const ele = document.getElementById("modes");
+	if (ele) ele.innerHTML = modes;
 }
 
 function modesDetails(type) {
-	for (let i=0; i<allModes.length; i++) {
-		let curr = allModes[i];
-		if (curr.nick != type)
-			continue;
-		let element = document.getElementById(`${curr.nick}Content`);
-		let link = document.getElementById(`${curr.nick}Link`);
-		if (link.innerHTML == "[show]") {
-			let content = `<span class="modesContentRowHeader"><span class="modesCol1">Find</span><span class="modesCol2">Replace</span></span>`;
-			for (const [key,value] of curr.map) {
+	for (const mode of allModes) {
+		if (mode.nick !== type) continue;
+		const element = document.getElementById(`${mode.nick}Content`);
+		const link = document.getElementById(`${mode.nick}Link`);
+		if (link.innerHTML === "[show]") {
+			let content =
+				`<span class="modesContentRowHeader">` +
+				`<span class="modesCol1">Find</span>` +
+				`<span class="modesCol2">Replace</span>` +
+				`</span>`;
+			for (const [key, value] of mode.map) {
 				content += `<span class="modesContentRow"><span class="modesCol1">${key}</span><span class="modesCol2">${value}`;
-				if (key == "D’hani" || key == "K’thriss" || key == "Lae’zel" || key == "Elminster")
+				if (
+					key === "D’hani" ||
+					key === "K’thriss" ||
+					key === "Lae’zel" ||
+					key === "Elminster"
+				)
 					content += ` (random ’ placement)`;
 				content += `</span></span>`;
 			}
@@ -178,156 +214,363 @@ function modesDetails(type) {
 }
 
 function toggleMode(type) {
-	for (let i=0; i<allModes.length; i++) {
-		let curr = allModes[i];
-		if (curr.nick != type)
-			continue;
-		let checked = document.getElementById(`${curr.nick}`).checked;
-		if (checked) {
-			localStorage[curr.storage] = 1;
-			curr.active = true;
-		} else {
-			localStorage[curr.storage] = 0;
-			curr.active = false;
+	for (const mode of allModes) {
+		if (mode.nick !== type) continue;
+		const ele = document.getElementById(`${mode.nick}`);
+		if (ele) {
+			const checked = ele.checked;
+			if (!checked) localStorage.removeItem(mode.storage);
+			else localStorage.setItem(mode.storage, checked ? 1 : 0);
+			mode.active = checked;
 		}
 	}
 	updateModes();
 }
 
 function ins(str, index, value) {
-    return str.substr(0, index) + value + str.substr(index);
+	return str.substr(0, index) + value + str.substr(index);
 }
 
 function randInt(min, max) {
-    return Math.floor(Math.random() * (max - min + 1) + min);
+	return Math.floor(Math.random() * (max - min + 1) + min);
 }
 
 function exclusiveToggleContent(id) {
-	let ele=document.getElementById(id);
-	let elea=document.getElementById(id+`a`);
-	let prefix=`<span class="postSeasonTableShowContents">`;
-	let suffix=`</span>`;
-	if (ele!=undefined&&elea!=undefined) {
-		if (ele.hidden) {
-			ele.hidden=false;
-			elea.innerHTML=`${prefix}[hide contents]${suffix}`;
-		} else {
-			ele.hidden=true;
-			elea.innerHTML=`${prefix}[show contents]${suffix}`;
-		}
+	const ele = document.getElementById(id);
+	const elea = document.getElementById(id + `a`);
+	if (ele && elea) {
+		ele.hidden = !ele.hidden;
+		ele.innerHTML = `<span class="postSeasonTableShowContents">${ele.hidden ? "[show contents]" : "[hide contents]"}</span>`;
 	}
 }
 
 function exclusiveToggleAllContents() {
-	let eles = document.getElementsByClassName(`postSeasonTableRowShowHide`);
 	allExclusivesHidden = !allExclusivesHidden;
-	for (let ele of eles)
-		ele.hidden = allExclusivesHidden;
-	let show=allExclusivesHidden?`show`:`hide`;
-	let hide=allExclusivesHidden?`hide`:`show`;
-	document.getElementById(`showHideAll`).innerHTML=`[${show} all contents]`;
-	eles = document.getElementsByClassName(`postSeasonTableShowContents`);
-	for (let ele of eles)
-		if (ele.innerHTML==`[${hide} contents]`)
-			ele.innerHTML=`[${show} contents]`;
+
+	const elesH = document.getElementsByClassName(`postSeasonTableRowShowHide`);
+	for (const eleH of elesH) eleH.hidden = allExclusivesHidden;
+
+	const show = allExclusivesHidden ? `show` : `hide`;
+	const hide = allExclusivesHidden ? `hide` : `show`;
+
+	const ele = document.getElementById(`showHideAll`);
+	if (ele) ele.innerHTML = `[${show} all contents]`;
+
+	const elesS = document.getElementsByClassName(
+		`postSeasonTableShowContents`,
+	);
+	for (const eleS of elesS)
+		if (eleS.innerHTML === `[${hide} contents]`)
+			eleS.innerHTML = `[${show} contents]`;
 }
 
 function exclusiveToggleAllFeats() {
-	let eles = document.querySelectorAll(`span[id="exclusiveFeats"] > .featTableRow`);
 	allExclusiveFeatsHidden = !allExclusiveFeatsHidden;
-	for (let ele of eles)
-		ele.style.display = allExclusiveFeatsHidden?`none`:``;
-	document.getElementById(`showHideFeats`).innerHTML=`[${allExclusiveFeatsHidden?`show`:`hide`} all feats]`;
+
+	const eles = document.querySelectorAll(
+		`span[id="exclusiveFeats"] > .featTableRow`,
+	);
+	for (const ele of eles)
+		ele.style.display = allExclusiveFeatsHidden ? `none` : ``;
+
+	const ele = document.getElementById(`showHideFeats`);
+	if (ele)
+		ele.innerHTML = `[${allExclusiveFeatsHidden ? `show` : `hide`} all feats]`;
 }
 
-function displayTime(timeLeft) {
-	let ditimer = document.getElementById("ditimer");
-	if (timeLeft <=0) {
-		ditimer.innerHTML = `<br>Dev Insights: Live`;
-		return;
+function getDisplayTime(startEpoch, endEpoch, options = {}) {
+	if (arguments.length === 1 && typeof startEpoch === "number") {
+		endEpoch = startEpoch;
+		startEpoch = 0;
 	}
-	let days = Math.floor(timeLeft/(1000*60*60*24));
-	let hours = Math.floor((timeLeft/(1000*60*60)) % 24);
-	let minutes = Math.floor((timeLeft/1000/60) % 60);
-	let seconds = Math.floor((timeLeft/1000) % 60);
-	let display = `<br>Dev Insights: `;
-	if (days>0) display += `${days} days `;
-	if (days>0||hours>0) display += `${hours} hours `;
-	if (days>0||hours>0||minutes>0) display += `${padZeros(minutes,2)} mins `;
-	display+= `${padZeros(seconds,2)} secs`;
-	ditimer.innerHTML = display;
-}
+	const {
+		showMs = false,
+		showSecs = true,
+		style = "medium",
+		pad = true,
+		useTemporal = true,
+	} = options;
 
-function padZeros(num,places) {
-	return String(num).padStart(places, '0');
-}
+	startEpoch = Number(startEpoch || 0);
+	endEpoch = Number(endEpoch || 0);
 
-let devInsightsCountdown = setInterval(function() {
-	let now = new Date().getTime();
-	let timeLeft = devInsightsTimer - now;
-	if (timeLeft>-3600000) {
-		displayTime(timeLeft);
-	} else {
-		devInsightsIndex++;
-		devInsightsTimer = devInsights[devInsightsIndex];
+	// Note: Always pad milliseconds.
+	const getPad = (t, p) => (pad ? padZeros(t, p) : t);
+
+	const ms = Math.max(0, Number(endEpoch || 0) - Number(startEpoch || 0));
+	const totalSeconds = Math.floor(ms / 1000);
+	let timeObj = {};
+
+	if (useTemporal && typeof Temporal !== "undefined" && Temporal != null) {
+		const start = Temporal.Instant.fromEpochMilliseconds(startEpoch);
+		const end = Temporal.Instant.fromEpochMilliseconds(endEpoch);
+		const duration = start.until(end);
+		timeObj = duration.round({
+			smallestUnit:
+				showMs ? "millisecond"
+				: showSecs ? "second"
+				: "minute",
+			largestUnit: "years",
+			relativeTo: end.toZonedDateTimeISO("UTC"),
+		});
+	} else
+		timeObj = getCalendarDiff(startEpoch, endEpoch);
+
+	if (style === "clock") {
+		const totalHours = Math.floor(totalSeconds / 3600);
+		const base =
+			getPad(totalHours, 2) +
+			":" +
+			getPad(timeObj.minutes, 2) +
+			":" +
+			getPad(timeObj.seconds, 2);
+		return showMs ? base + "." + padZeros(timeObj.milliseconds, 3) : base;
 	}
-}, 1000);
-displayTime(devInsightsTimer - new Date().getTime());
+
+	const parts = buildDisplayParts(timeObj, getPad, style, showMs, showSecs);
+	return parts.join(" ");
+}
+
+function getCalendarDiff(startEpoch, endEpoch) {
+	const start = new Date(startEpoch);
+	const end = new Date(endEpoch);
+	const zero = {
+		years: 0,
+		months: 0,
+		days: 0,
+		hours: 0,
+		minutes: 0,
+		seconds: 0,
+		milliseconds: 0,
+	};
+	if (endEpoch <= startEpoch) return zero;
+
+	const getMonthLength = (year, monthIndex) =>
+		new Date(Date.UTC(year, monthIndex + 1, 0)).getUTCDate();
+
+	const isLastDayOfMonth = (date) => {
+		const value = new Date(date.getTime());
+		return (
+			value.getUTCDate() ===
+			getMonthLength(value.getUTCFullYear(), value.getUTCMonth())
+		);
+	};
+
+	const addYears = (date, years) => {
+		const value = new Date(date.getTime());
+		const month = value.getUTCMonth();
+		const day = value.getUTCDate();
+		const targetYear = value.getUTCFullYear() + years;
+		const monthLength = getMonthLength(targetYear, month);
+		const dayOfMonth =
+			isLastDayOfMonth(value) ? monthLength : Math.min(day, monthLength);
+		return new Date(
+			Date.UTC(
+				targetYear,
+				month,
+				dayOfMonth,
+				value.getUTCHours(),
+				value.getUTCMinutes(),
+				value.getUTCSeconds(),
+				value.getUTCMilliseconds(),
+			),
+		);
+	};
+
+	const addMonths = (date, months) => {
+		const value = new Date(date.getTime());
+		const targetMonth = value.getUTCMonth() + months;
+		const targetYear =
+			value.getUTCFullYear() + Math.floor(targetMonth / 12);
+		const normalizedMonth = ((targetMonth % 12) + 12) % 12;
+		const monthLength = getMonthLength(targetYear, normalizedMonth);
+		const dayOfMonth =
+			isLastDayOfMonth(value) ? monthLength : (
+				Math.min(value.getUTCDate(), monthLength)
+			);
+		return new Date(
+			Date.UTC(
+				targetYear,
+				normalizedMonth,
+				dayOfMonth,
+				value.getUTCHours(),
+				value.getUTCMinutes(),
+				value.getUTCSeconds(),
+				value.getUTCMilliseconds(),
+			),
+		);
+	};
+
+	const addDays = (date, days) => new Date(date.getTime() + days * 86400000);
+
+	let current = new Date(start.getTime());
+	const diff = {...zero};
+
+	while (true) {
+		const next = addYears(current, 1);
+		if (next.getTime() > end.getTime()) break;
+		current = next;
+		diff.years++;
+	}
+
+	while (true) {
+		const next = addMonths(current, 1);
+		if (next.getTime() > end.getTime()) break;
+		current = next;
+		diff.months++;
+	}
+
+	while (true) {
+		const next = addDays(current, 1);
+		if (next.getTime() > end.getTime()) break;
+		current = next;
+		diff.days++;
+	}
+
+	let remaining = end.getTime() - current.getTime();
+	diff.hours = Math.floor(remaining / 3600000);
+	remaining -= diff.hours * 3600000;
+	diff.minutes = Math.floor(remaining / 60000);
+	remaining -= diff.minutes * 60000;
+	diff.seconds = Math.floor(remaining / 1000);
+	remaining -= diff.seconds * 1000;
+	diff.milliseconds = remaining;
+
+	return diff;
+}
+
+function buildDisplayParts(timeObj, getPad, style, showMs, showSecs) {
+	const {years, months, days, hours, minutes, seconds, milliseconds} =
+		timeObj;
+	const u = TIME_UNITS[style] || TIME_UNITS.medium;
+	const parts = [];
+
+	if (years > 0) parts.push(`${years} ${years === 1 ? u.y[0] : u.y[1]}`);
+	if (years > 0 || months > 0)
+		parts.push(`${months} ${months === 1 ? u.mo[0] : u.mo[1]}`);
+	if (years > 0 || months > 0 || days > 0)
+		parts.push(`${days} ${days === 1 ? u.d[0] : u.d[1]}`);
+
+	if (years > 0 || months > 0 || days > 0 || hours > 0)
+		parts.push(`${hours} ${hours === 1 ? u.h[0] : u.h[1]}`);
+
+	if (years > 0 || months > 0 || days > 0 || hours > 0 || minutes > 0)
+		parts.push(`${getPad(minutes, 2)} ${minutes === 1 ? u.m[0] : u.m[1]}`);
+
+	if (
+		showSecs &&
+		(!showMs ||
+			years > 0 ||
+			months > 0 ||
+			days > 0 ||
+			hours > 0 ||
+			minutes > 0 ||
+			seconds > 0)
+	)
+		parts.push(`${getPad(seconds, 2)} ${seconds === 1 ? u.s[0] : u.s[1]}`);
+
+	if (showMs) parts.push(`${padZeros(milliseconds, 3)} ${u.ms[0]}`);
+
+	return parts;
+}
+
+function padZeros(num, places) {
+	return String(num).padStart(places, "0");
+}
+
+function startDevInsightsCountdown() {
+	const timer = document.getElementById(`ditimer`);
+	if (!timer) return;
+	const now = new Date().getTime();
+	const timeLeft = devInsightsTimer - now;
+	timer.innerHTML =
+		`<br>Dev Insights in: ` +
+		(timeLeft <= 0 ? `Live` : (
+			getDisplayTime(now, devInsightsTimer, {
+				showMs: false,
+				showSecs: true,
+			})
+		));
+
+	devInsightsCountdown = setInterval(function () {
+		const ele = document.getElementById(`ditimer`);
+		const now = new Date().getTime();
+		const timeLeft = devInsightsTimer - now;
+		if (timeLeft > -3600000) {
+			ele.innerHTML =
+				`<br>Dev Insights in: ` +
+				getDisplayTime(now, devInsightsTimer, {
+					showMs: false,
+					showSecs: true,
+				});
+		} else {
+			devInsightsIndex++;
+			devInsightsTimer = devInsights[devInsightsIndex];
+		}
+	}, 1000);
+}
 
 function discord() {
-	console.log("DI <t:"+(devInsightsTimer/1000)+":R>.");
+	console.log(`DI <t:${devInsightsTimer / 1000}:R>.`);
 }
 
-function arachnophobe(id,modelId) {
-	let ele = document.getElementById(id);
-	if (ele.style.visibility == 'visible')
-		ele.style.visibility = 'hidden';
-	else
-		ele.style.visibility = 'visible';
-	if (modelId != undefined) {
-		let model = document.getElementById(modelId);
-		if (ele.style.visibility == 'visible')
-			model.style.visibility = 'inherit';
-		else
-			model.style.visibility = 'hidden';
-	}
+function arachnophobe(id, modelId) {
+	const ele = document.getElementById(id);
+	ele.style.visibility =
+		ele.style.visibility === "visible" ? "hidden" : "visible";
+
+	const model = document.getElementById(modelId);
+	if (model)
+		model.style.visibility =
+			ele.style.visibility === "visible" ? "inherit" : "visible";
 }
 
 function sortPatrons() {
-	let optGroup = document.querySelector('#patronSort option:checked').parentElement.label;
-	let value = patronSort.value;
-	let asc = false;
-	if (optGroup == `Ascending`)
-		asc = true;
-	let eles = document.querySelectorAll('[data-sort]');
-	for (let ele of eles) {
-		let split = ele.dataset.sort.split(",");
+	const optGroup = document.querySelector("#patronSort option:checked")
+		.parentElement.label;
+	const value = patronSort.value;
+	const asc = optGroup === `Ascending`;
+	const eles = document.querySelectorAll("[data-sort]");
+	for (const ele of eles) {
+		const split = ele.dataset.sort.split(",");
 		let index = 0;
 		switch (value) {
-			case "name": index=1; break;
-			case "seat": index=2; break;
-			case "mirt": index=3; break;
-			case "vajra": index=4; break;
-			case "strahd": index=5; break;
-			case "zariel": index=6; break;
-			case "elminster": index=7; break;
-			default: index=0;
+			case "name":
+				index = 1;
+				break;
+			case "seat":
+				index = 2;
+				break;
+			case "mirt":
+				index = 3;
+				break;
+			case "vajra":
+				index = 4;
+				break;
+			case "strahd":
+				index = 5;
+				break;
+			case "zariel":
+				index = 6;
+				break;
+			case "elminster":
+				index = 7;
+				break;
+			default:
+				index = 0;
 		}
-		let order = split[index];
-		if (!asc)
-			order = -order;
-		ele.style.order = `${order}`;
+		ele.style.order = `${asc ? `` : `-`}${split[index]}`;
 	}
 }
 
 function fixArchiveImages() {
-	let path = document.location.pathname;
+	const path = document.location.pathname;
 	if (!path.includes("/archive/")) return;
-	let items = document.querySelectorAll(
+
+	const items = document.querySelectorAll(
 		"img[src*='images/featicons/'], img[src*='images/general/']",
 	);
-	for (let i = items.length; i--; ) {
-		let img = items[i];
+	for (const img of items) {
 		img.src = img.src.replaceAll(
 			"images/featicons/",
 			"../images/featicons/",
