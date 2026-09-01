@@ -72,7 +72,7 @@ These are the new event champions that are upcoming and all the information we k
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
+            New ⭐<br>Roadmapped 🗺️
         </span>
     </span>
 {::nomarkdown}
@@ -98,6 +98,31 @@ These are the new event champions that are upcoming and all the information we k
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
             New ⭐
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="tanis.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Tanthalas Half-Elven
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Half-Elf Fighter (Guess)</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Simril - 2 December 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐<br>Roadmapped 🗺️
         </span>
     </span>
 {::nomarkdown}
@@ -217,7 +242,7 @@ Events will have either one rework OR three rebalances.
             ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️
+            Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
     </span>
 {::nomarkdown}
@@ -245,7 +270,7 @@ Events will have either one rework OR three rebalances.
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️
+            Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
     </span>
 {::nomarkdown}
@@ -273,12 +298,144 @@ Events will have either one rework OR three rebalances.
             ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️
+            Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
     </span>
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Penelope Portrait Icon](images/penelope/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Penelope
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Halfling Druid / Warlock of Heroes of the Planes</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Feast of the Moon - 4 November 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Jang Sao Portrait Icon](images/jangsao/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Jang Sao
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Satyr Druid / Wizard</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Feast of the Moon - 4 November 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Ranged Attack Icon](images/general/icon_ranged.png)
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Turiel Portrait Icon](images/turiel/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Turiel
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Aasimar Cleric</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Feast of the Moon - 4 November 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Krull Portrait Icon](images/krull/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Krull
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Tortle Cleric of Dark Order</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Simril - 2 December 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Regis Portrait Icon](images/regis/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Regis
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Halfling Rogue of Companions of the Hall</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Simril - 2 December 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Talin Uran Portrait Icon](images/talin/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Talin Uran
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Tiefling Rogue</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Simril - 2 December 2026</span>
+            </span>
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+    </span>
 </span>
 
 {::nomarkdown}
@@ -416,7 +573,7 @@ Events will have either one rework OR three rebalances.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
+            New ⭐<br>Roadmapped 🗺️
         </span>
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
@@ -441,7 +598,7 @@ Events will have either one rework OR three rebalances.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️
+            Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
@@ -466,7 +623,7 @@ Events will have either one rework OR three rebalances.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️
+            Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
@@ -491,7 +648,7 @@ Events will have either one rework OR three rebalances.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️
+            Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
         <span class="indexChampionTableAttack">
             ![Magic Attack Icon](images/general/icon_magic.png)
@@ -527,6 +684,147 @@ Events will have either one rework OR three rebalances.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Turiel Portrait Icon](images/turiel/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Turiel
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Aasimar Cleric</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Magic Attack Icon](images/general/icon_magic.png)
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Penelope Portrait Icon](images/penelope/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Penelope
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Halfling Druid / Warlock of Heroes of the Planes</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Jang Sao Portrait Icon](images/jangsao/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Jang Sao
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Satyr Druid / Wizard</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Ranged Attack Icon](images/general/icon_ranged.png)
+        </span>
+    </span>
+</span>
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
+## Simril - 2 December 2026
+<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
+{::nomarkdown}
+<a href="tanis.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Tanthalas Half-Elven
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Half-Elf Fighter (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐<br>Roadmapped 🗺️
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Regis Portrait Icon](images/regis/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Regis
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Halfling Rogue of Companions of the Hall</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Krull Portrait Icon](images/krull/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Krull
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Tortle Cleric of Dark Order</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
+    <span class="indexChampionTableRowNoHover">
+        <span class="indexChampionTableIcon">
+            ![Talin Uran Portrait Icon](images/talin/portrait.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Talin Uran
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Tiefling Rogue</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            Rebalance 🛠️<br>Roadmapped 🗺️
+        </span>
+        <span class="indexChampionTableAttack">
+            ![Melee Attack Icon](images/general/icon_melee.png)
+        </span>
+    </span>
 </span>
 </div></div>
 
