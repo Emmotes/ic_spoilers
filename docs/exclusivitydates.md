@@ -339,6 +339,57 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">19 Nov 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Stoki</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Demon Fist Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2743**Demon Fist (Stoki)**Fear the monk who has practiced one punch ten thousand times.<br><br><span style="color:var(--Flavescent)">Increases the effect of Stoki's Focused Strike ability by 80%.</span><code>buff_upgrade,80,20260,1</code></span>Demon Fist
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Stoki's Focused Strike ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">02 Dec 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Caramon</span>
+        </span>
+        <span class="featTableIcon4">
+            ![His Brother's Strength Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2757**His Brother's Strength (Caramon)**Remember, my brother! This happens because I choose it to happen! ~Raistlin<br><br><span style="color:var(--Flavescent)">Increases the effect of Caramon's Brother's Keeper ability by 80%. (Prestack)</span><code>buff_upgrade,80,20185</code></span>His Brother's Strength
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Caramon's Brother's Keeper ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">02 Dec 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Bobby</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Temper Tantrum Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2635**Temper Tantrum (Bobby)**Bobby, please calm down! Oh, brother. ~Sheila<br><br><span style="color:var(--Flavescent)">Increases the effect of Bobby's Stunning Strength and Group Charge specializations by 80%.</span><code>buff_upgrade,80,15447,0<br>buff_upgrade,80,15448,0</code></span>Temper Tantrum
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Bobby's Stunning Strength and Group Charge specializations by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">02 Dec 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
