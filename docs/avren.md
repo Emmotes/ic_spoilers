@@ -48,10 +48,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "mirror_image,100,60,15",
+            "off_when_benched": true,
             "tagged_effects": {
-                "dps": "hero_dps_multiplier_mult,600",
-                "support": "global_dps_multiplier_mult,200",
-                "tanking": "healing_add,2"
+                "dps": "effect_def,794",
+                "support": "effect_def,795",
+                "tanking": "effect_def,796"
             },
             "mirror_graphic": 6480,
             "anim_sequence": 4
@@ -63,6 +64,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "show_incoming": false,
+        "retain_on_slot_changed": true,
         "use_outgoing_description": true
     }
 }
@@ -83,7 +85,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2938,
     "flavour_text": "",
     "description": {
-        "desc": "Global DPS is increased by $(amount)% for each Champion adjacent to Avren, stacking multiplicatively. Champions affected by Mirror Image increase the effect by $bonus___2% for each Mirror Image buff they have, stacking multiplicatively."
+        "desc": "Global DPS is increased by $(amount)% for each Champion adjacent to Avren, stacking multiplicatively. Champions affected by Mirror Image increase the effect by $(amount)% for each Mirror Image buff they have, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -91,10 +93,36 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "skip_effect_key_desc": true
         },
         {
-            "effect_string": "mirror_image_damage_increase,100,100",
+            "effect_string": "global_dps_multiplier_mult,100",
             "amount_expr": "upgrade_amount(20706,0)",
-            "mult": true,
             "off_when_benched": true,
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_targets": [
+                "adj"
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "avren_mirror_images_changed"
+            ],
+            "per_hero_expr": "true",
+            "show_bonus": true
+        },
+        {
+            "effect_string": "buff_upgrade,0,20706,1",
+            "off_when_benched": true,
+            "amount_expr": "upgrade_amount(20706,0)",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_targets": [
+                "adj"
+            ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "avren_mirror_images_changed"
+            ],
+            "per_hero_expr": "NumEffectKey(`mirror_image_effect`)",
+            "stack_title": "Mirror Image Stacks",
             "show_bonus": true
         }
     ],
@@ -103,11 +131,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 6540,
     "properties": {
         "is_formation_ability": true,
-        "use_outgoing_description": true,
+        "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0,
-        "show_incoming": false
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -127,7 +154,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2932,
     "flavour_text": "",
     "description": {
-        "desc": "Avren increases the effect of Mirror Image by $amount% for each Good Champion in the formation (stacking multiplicatively), and prefers casting Mirror Image on those Champions; if a Good target is available, they will get a Mirror Image before Champions of other alignments."
+        "desc": "Avren increases the effect of Mirror Image by $(not_buffed amount)% for each Good Champion in the formation (stacking multiplicatively), and prefers casting Mirror Image on those Champions; if a Good target is available, they will get a Mirror Image before Champions of other alignments."
     },
     "effect_keys": [
         {
@@ -181,7 +208,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2933,
     "flavour_text": "",
     "description": {
-        "desc": "Avren increases the effect of Mirror Image by $amount% for each Neutral Champion (on the Good/Evil axis) in the formation (stacking multiplicatively), and prefers casting Mirror Image on those Champions; if a Neutral target is available, they will get a Mirror Image before Champions of other alignments."
+        "desc": "Avren increases the effect of Mirror Image by $(not_buffed amount)% for each Neutral Champion (on the Good/Evil axis) in the formation (stacking multiplicatively), and prefers casting Mirror Image on those Champions; if a Neutral target is available, they will get a Mirror Image before Champions of other alignments."
     },
     "effect_keys": [
         {
@@ -235,7 +262,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2934,
     "flavour_text": "",
     "description": {
-        "desc": "Avren increases the effect of Mirror Image by $amount% for each Evil Champion in the formation (stacking multiplicatively), and prefers casting Mirror Image on those Champions; if an Evil target is available, they will get a Mirror Image before Champions of other alignments."
+        "desc": "Avren increases the effect of Mirror Image by $(not_buffed amount)% for each Evil Champion in the formation (stacking multiplicatively), and prefers casting Mirror Image on those Champions; if an Evil target is available, they will get a Mirror Image before Champions of other alignments."
     },
     "effect_keys": [
         {
@@ -289,7 +316,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2935,
     "flavour_text": "",
     "description": {
-        "desc": "Avren increases the effect of Mirror Image by $amount% for each Lawful Champion in the formation (stacking multiplicatively), and prefers casting Mirror Image on those Champions; if a Lawful target is available, they will get a Mirror Image before Champions of other alignments."
+        "desc": "Avren increases the effect of Mirror Image by $(not_buffed amount)% for each Lawful Champion in the formation (stacking multiplicatively), and prefers casting Mirror Image on those Champions; if a Lawful target is available, they will get a Mirror Image before Champions of other alignments."
     },
     "effect_keys": [
         {
@@ -343,7 +370,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2936,
     "flavour_text": "",
     "description": {
-        "desc": "Avren increases the effect of Mirror Image by $amount% for each Neutral Champion (on the Chaotic/Lawful axis) in the formation (stacking multiplicatively), and prefers casting Mirror Image on those Champions; if a Neutral target is available, they will get a Mirror Image before Champions of other alignments."
+        "desc": "Avren increases the effect of Mirror Image by $(not_buffed amount)% for each Neutral Champion (on the Chaotic/Lawful axis) in the formation (stacking multiplicatively), and prefers casting Mirror Image on those Champions; if a Neutral target is available, they will get a Mirror Image before Champions of other alignments."
     },
     "effect_keys": [
         {
@@ -351,7 +378,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "HasTag(`neutral`)",
+            "per_hero_expr": "HasTag(`lcneutral`)",
             "show_bonus": true,
             "stack_title": "Neutral Champions (on the Chaotic/Lawful axis)",
             "amount_updated_listeners": [
@@ -361,7 +388,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "mirror_image_preference",
-            "tag": "neutral",
+            "tag": "lcneutral",
             "amount_func": "set",
             "stack_func": "per_crusader",
             "amount_updated_listeners": [
@@ -397,7 +424,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2937,
     "flavour_text": "",
     "description": {
-        "desc": "Avren increases the effect of Mirror Image by $amount% for each Chaotic Champion in the formation (stacking multiplicatively), and prefers casting Mirror Image on those Champions; if a Chaotic target is available, they will get a Mirror Image before Champions of other alignments."
+        "desc": "Avren increases the effect of Mirror Image by $(not_buffed amount)% for each Chaotic Champion in the formation (stacking multiplicatively), and prefers casting Mirror Image on those Champions; if a Chaotic target is available, they will get a Mirror Image before Champions of other alignments."
     },
     "effect_keys": [
         {
