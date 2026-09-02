@@ -65,7 +65,7 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Unpredictable Assault** (Melee)
 > Kitiara strikes out at an unsuspecting random enemy with her sharpened blade.  
-> Cooldown: 4s (Cap 1s)
+> Cooldown: 4.5s (Cap 1.125s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -75,16 +75,16 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
     "description": "Kitiara strikes out at an unsuspecting random enemy with her sharpened blade.",
     "long_description": "",
     "graphic_id": 0,
-    "target": "front",
+    "target": "random",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 4,
+    "cooldown": 4.5,
     "animations": [
         {
             "type": "melee_attack",
             "target_offset_x": -34,
-            "damage_frame": 2,
+            "damage_frame": 10,
             "jump_sound": 30,
             "sound_frames": {
                 "2": 154
@@ -106,7 +106,7 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Blue Dragon Strafe** (Guess)
 > Kitiara and her blue dragon Skie blast the entire battlefield with lightning - multiple times with enough Power. Previously charmed enemies who survive are awed by this display of power and are able to be charmed by Kitiara again.  
-> Cooldown: 300s (Cap 75s)
+> Cooldown: 360s (Cap 90s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -115,31 +115,18 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
     "name": "Blue Dragon Strafe",
     "description": "Kitiara commands a blue dragon to blast the entire battlefield with lightning.",
     "long_description": "Kitiara and her blue dragon Skie blast the entire battlefield with lightning - multiple times with enough Power. Previously charmed enemies who survive are awed by this display of power and are able to be charmed by Kitiara again.",
-    "graphic_id": 28968,
+    "graphic_id": 31342,
     "target": "all",
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 0.03,
-    "cooldown": 300,
+    "cooldown": 360,
     "animations": [
         {
             "type": "kitiara_ultimate",
             "dragon_sequences": {
                 "fly": 0,
                 "breathefire": 1
-            },
-            "projectile_data": {
-                "type": "ranged_attack",
-                "projectile": "fire_breath_simple",
-                "single_projectile": false,
-                "does_no_damage": true,
-                "shoot_offset_x": 166,
-                "shoot_offset_y": -98,
-                "auto_projectile_angle": false,
-                "projectile_angle": -135,
-                "hold_time": 2,
-                "particle_duration": 0.7,
-                "projectile_strength": 1200
             }
         }
     ],
@@ -161,8 +148,6 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Merciless Resolve** (Guess)
 > Kitiara increases the damage of all Champions furthest from her by 100% for each Champion adjacent to her, stacking multiplicatively.
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -227,7 +212,7 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -259,7 +244,8 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "retain_on_slot_changed": true
+        "retain_on_slot_changed": true,
+        "show_outgoing_desc_when_benched": false
     }
 }
 </pre>
@@ -290,12 +276,13 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
             "stack_reset_mult": 0
         },
         {
-            "effect_string": "buff_upgrade,10,20597,2",
+            "effect_string": "buff_upgrade,10,20597,1",
             "off_when_benched": true,
             "stacks_on_trigger": "will_stack_manually",
             "stacks_multiply": true,
             "show_bonus": true,
-            "stack_title": "Power Stacks"
+            "stack_title": "Power Stacks",
+            "max_stacks": 100
         }
     ],
     "requirements": "",
@@ -322,11 +309,20 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
     "id": 2916,
     "flavour_text": "",
     "description": {
-        "desc": "Champions affected by Merciless Resolve deal additional damage to enemies with segmented health. When they successfully break at least one segment, they break additional segments equal to $max_stacks minus the number of Champions affected by Merciless Resolve, to a minimum of $min_stacks extra segment."
+        "conditions": [
+            {
+                "condition": "feat_assigned 2796",
+                "desc": "Champions affected by Merciless Resolve deal additional damage to enemies with segmented health. When they successfully break at least one segment, they break additional segments equal to $max_stacks minus the number of Champions affected by Merciless Resolve, to a minimum of $min_stacks extra segments."
+            },
+            {
+                "desc": "Champions affected by Merciless Resolve deal additional damage to enemies with segmented health. When they successfully break at least one segment, they break additional segments equal to $max_stacks minus the number of Champions affected by Merciless Resolve, to a minimum of $min_stacks extra segment."
+            }
+        ]
     },
     "effect_keys": [
         {
             "effect_string": "increase_damage_against_monster_armor_and_hits,1",
+            "off_when_benched": true,
             "max_stacks": 4,
             "min_stacks": 1,
             "show_stacks": true,
@@ -337,7 +333,19 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
             "per_hero_expr": "HasEffect(`merciless_resolve`)",
             "post_process_expr": "max(1 + (2 * as_int(GetFeatEquipped(2796))), 4 + (2 * as_int(GetFeatEquipped(2795))) - as_int(input))",
             "targets": [
-                "farthest_away_hero"
+                "all"
+            ],
+            "filter_targets": [
+                {
+                    "type": "hero_expr",
+                    "hero_expr": "HasEffect(`merciless_resolve`)"
+                }
+            ],
+            "slot_change_updates_targets": true,
+            "retarget_when_unowned_upgrade_purchased_ids": [
+                3267,
+                8147,
+                244
             ],
             "formation_arrows_for_effected_only": true,
             "override_key_desc": "Increases the number of segments broken against enemies with segmented health by $amount",
@@ -355,7 +363,8 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
     "large_graphic_id": 31327,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "is_receive_all_formation_abilities_target": false
     }
 }
 </pre>
@@ -378,6 +387,7 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
     "effect_keys": [
         {
             "effect_string": "kitiara_knight_of_the_black_rose_handler,1",
+            "off_when_benched": false,
             "summon_duration": 15,
             "enrage_reapply_per": 5,
             "skeleton_wall_graphics": [
@@ -396,7 +406,8 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
     "large_graphic_id": 31328,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": true
+        "owner_use_outgoing_description": true,
+        "show_outgoing_desc_when_benched": false
     }
 }
 </pre>
@@ -426,7 +437,7 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
             "skip_effect_key_desc": true
         },
         {
-            "effect_string": "buff_upgrade,100,20597,2",
+            "effect_string": "buff_upgrade,100,20597,1",
             "off_when_benched": true,
             "amount_expr": "upgrade_amount(20602,0)",
             "amount_func": "mult",
@@ -454,7 +465,8 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Heroes of the Lance Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -482,7 +494,7 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
             "skip_effect_key_desc": true
         },
         {
-            "effect_string": "buff_upgrade,100,20597,2",
+            "effect_string": "buff_upgrade,100,20597,1",
             "off_when_benched": true,
             "amount_expr": "upgrade_amount(20603,0)",
             "amount_func": "mult",
@@ -504,7 +516,8 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Unaffiliated Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -532,7 +545,7 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
             "skip_effect_key_desc": true
         },
         {
-            "effect_string": "buff_upgrade,100,20597,2",
+            "effect_string": "buff_upgrade,100,20597,1",
             "off_when_benched": true,
             "amount_expr": "upgrade_amount(20604,0)",
             "amount_func": "mult",
@@ -558,7 +571,8 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Evil Champions: $num_stacks___2"
     }
 }
 </pre>
@@ -644,13 +658,13 @@ Unknown.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Show No Mercy Icon](images/kitiara/31339.png) **Variant 1: Show No Mercy** (Complete Area 75)
 > Kitiara starts in the formation. She can be moved, but not removed.  
-> Only Champions buffed by Kitiara's Merciless Resolve can deal damage.  
+> Only Kitiara and Champions buffed by Kitiara's Merciless Resolve can deal damage.  
 > Enemies move 100% faster and deal 100% more damage.  
 > <b>Getting to Know Kitiara:</b> Kitiara buffs those furthest from her based on how many Champions are close to her. Place her near a lot of Champions, and place your damage deals as far from her as possible.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 ![Trust Only Those You Control Icon](images/kitiara/31340.png) **Variant 2: Trust Only Those You Control** (Complete Area 125)
-> Kitiara starts in the formation. She can be moved, but not removed.  
+> Kitiara starts in the formation with her Arrogant Charm ability unlocked. She can be moved, but not removed.  
 > You may only use Champions who are Unaffiliated or a member of the Heroes of the Lance.  
 > Enemies move 100% faster and deal 100% more damage.  
 > Enemies can not be damaged until they have been stunned at least one time.  
