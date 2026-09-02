@@ -1186,611 +1186,792 @@ We have been told that champions will wander around the Bastion and communicate 
 
 ## Apothecary
 
-Some graphics were found that had the format `Bastion/Rooms/Apothecary/...`:
+Unlocks the Apothecary, which allows you to break down unwanted potions into components, and then craft those components into new potions (including Legendary potions), as well as the Notary, which allows you to trade contracts and bulk spend gems (certain restrictions apply).
 
-> [bastion_apothecary_doodad_apothecarydesk.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_apothecarydesk.png){:target="_blank"}  
-> [bastion_apothecary_doodad_baskets.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_baskets.png){:target="_blank"}  
-> [bastion_apothecary_doodad_chair.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_chair.png){:target="_blank"}  
-> [bastion_apothecary_doodad_couch.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_couch.png){:target="_blank"}  
-> [bastion_apothecary_doodad_hangingflowers.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_hangingflowers.png){:target="_blank"}  
-> [bastion_apothecary_doodad_hanginggarlic.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_hanginggarlic.png){:target="_blank"}  
-> [bastion_apothecary_doodad_hangingherbs.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_hangingherbs.png){:target="_blank"}  
-> [bastion_apothecary_doodad_ladder.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_ladder.png){:target="_blank"}  
-> [bastion_apothecary_doodad_notarydesk1.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_notarydesk1.png){:target="_blank"}  
-> [bastion_apothecary_doodad_notarydesk2.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_notarydesk2.png){:target="_blank"}  
-> [bastion_apothecary_doodad_ruglarge.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_ruglarge.png){:target="_blank"}  
-> [bastion_apothecary_doodad_rugsmall.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_rugsmall.png){:target="_blank"}  
-> [bastion_apothecary_doodad_scrollbarrel.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_scrollbarrel.png){:target="_blank"}  
-> [bastion_apothecary_doodad_skull.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_skull.png){:target="_blank"}  
-> [bastion_apothecary_doodad_supplies1.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_supplies1.png){:target="_blank"}  
-> [bastion_apothecary_doodad_supplies2.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_supplies2.png){:target="_blank"}  
-> [bastion_apothecary_doodad_supplies3.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_supplies3.png){:target="_blank"}  
-> [bastion_apothecary_doodad_supplies4.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_supplies4.png){:target="_blank"}  
-> [bastion_apothecary_doodad_verttable1.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_verttable1.png){:target="_blank"}  
-> [bastion_apothecary_doodad_verttable2.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_verttable2.png){:target="_blank"}  
-> [bastion_apothecary_doodad_wallplant.png](images/bastion/rooms/apothecary/bastion_apothecary_doodad_wallplant.png){:target="_blank"}  
-> [bastion_apothecary_floor_tile01.png](images/bastion/rooms/apothecary/bastion_apothecary_floor_tile01.png){:target="_blank"}  
-> [bastion_apothecary_floor_tile02.png](images/bastion/rooms/apothecary/bastion_apothecary_floor_tile02.png){:target="_blank"}  
-> [bastion_apothecary_floor_tile03.png](images/bastion/rooms/apothecary/bastion_apothecary_floor_tile03.png){:target="_blank"}  
-> [bastion_apothecary_wall_sidewallfront.png](images/bastion/rooms/apothecary/bastion_apothecary_wall_sidewallfront.png){:target="_blank"}  
-> [bastion_apothecary_wall_sidewallfront01.png](images/bastion/rooms/apothecary/bastion_apothecary_wall_sidewallfront01.png){:target="_blank"}  
-> [bastion_apothecary_wall_sidewallfront02.png](images/bastion/rooms/apothecary/bastion_apothecary_wall_sidewallfront02.png){:target="_blank"}  
-> [bastion_apothecary_wall_sidewalltop.png](images/bastion/rooms/apothecary/bastion_apothecary_wall_sidewalltop.png){:target="_blank"}  
-> [bastion_apothecary_wall_tile01.png](images/bastion/rooms/apothecary/bastion_apothecary_wall_tile01.png){:target="_blank"}  
-> [bastion_apothecary_wall_tile02.png](images/bastion/rooms/apothecary/bastion_apothecary_wall_tile02.png){:target="_blank"}  
+### Unlock Requirements
 
-## Extwalls
+> Use 100 potions or Obtain 1,000,000 gems
 
-Some graphics were found that had the format `Bastion/Rooms/Extwalls/...`:
+### Images
 
-> [bastion_extwall_door.png](images/bastion/rooms/extwalls/bastion_extwall_door.png){:target="_blank"}  
-> [bastion_extwall_panel.png](images/bastion/rooms/extwalls/bastion_extwall_panel.png){:target="_blank"}  
-> [bastion_extwall_panelcorner.png](images/bastion/rooms/extwalls/bastion_extwall_panelcorner.png){:target="_blank"}  
-> [bastion_extwall_pillar.png](images/bastion/rooms/extwalls/bastion_extwall_pillar.png){:target="_blank"}  
-> [bastion_extwall_pillarcorner.png](images/bastion/rooms/extwalls/bastion_extwall_pillarcorner.png){:target="_blank"}  
-> [bastion_extwall_sidewall.png](images/bastion/rooms/extwalls/bastion_extwall_sidewall.png){:target="_blank"}  
-> [bastion_extwall_window.png](images/bastion/rooms/extwalls/bastion_extwall_window.png){:target="_blank"}  
-> [bastion_extwall_windowlrg.png](images/bastion/rooms/extwalls/bastion_extwall_windowlrg.png){:target="_blank"}  
+> [Bastion_Wall_Hallway_Door_Side](images/bastion/rooms/apothecary/bastion_wall_hallway_door_side.png){:target="_blank"}  
+> [Bastion_Apothecary_Floor_Tile02](images/bastion/rooms/apothecary/bastion_apothecary_floor_tile02.png){:target="_blank"}  
+> [Bastion_Roof_Roof3_Panel](images/bastion/rooms/apothecary/bastion_roof_roof3_panel.png){:target="_blank"}  
+> [Bastion_Roof_Roof3_Side](images/bastion/rooms/apothecary/bastion_roof_roof3_side.png){:target="_blank"}  
+> [Bastion_Apothecary_Floor_Tile03](images/bastion/rooms/apothecary/bastion_apothecary_floor_tile03.png){:target="_blank"}  
+> [Bastion_Apothecary_Floor_Tile01](images/bastion/rooms/apothecary/bastion_apothecary_floor_tile01.png){:target="_blank"}  
+> [Bastion_Apothecary_Wall_Tile01](images/bastion/rooms/apothecary/bastion_apothecary_wall_tile01.png){:target="_blank"}  
+> [Bastion_Apothecary_Wall_Tile02](images/bastion/rooms/apothecary/bastion_apothecary_wall_tile02.png){:target="_blank"}  
+> [Bastion_Apothecary_Wall_SideWallFront01](images/bastion/rooms/apothecary/bastion_apothecary_wall_sidewallfront01.png){:target="_blank"}  
+> [Bastion_Apothecary_Wall_SideWallTop](images/bastion/rooms/apothecary/bastion_apothecary_wall_sidewalltop.png){:target="_blank"}  
+> [Bastion_Apothecary_Doodad_RugSmall](images/bastion/rooms/apothecary/bastion_apothecary_doodad_rugsmall.png){:target="_blank"}  
+> [Bastion_Apothecary_Doodad_RugLarge](images/bastion/rooms/apothecary/bastion_apothecary_doodad_ruglarge.png){:target="_blank"}  
+> [Bastion_Apothecary_Doodad_NotaryDesk1](images/bastion/rooms/apothecary/bastion_apothecary_doodad_notarydesk1.png){:target="_blank"}  
+> [Bastion_Apothecary_Doodad_Ladder](images/bastion/rooms/apothecary/bastion_apothecary_doodad_ladder.png){:target="_blank"}  
+> [Bastion_Apothecary_Doodad_VertTable1](images/bastion/rooms/apothecary/bastion_apothecary_doodad_verttable1.png){:target="_blank"}  
+> [Bastion_Apothecary_Doodad_VertTable2](images/bastion/rooms/apothecary/bastion_apothecary_doodad_verttable2.png){:target="_blank"}  
+> [Bastion_Apothecary_Doodad_WallPlant](images/bastion/rooms/apothecary/bastion_apothecary_doodad_wallplant.png){:target="_blank"}  
+> [Bastion_Apothecary_Doodad_Supplies1](images/bastion/rooms/apothecary/bastion_apothecary_doodad_supplies1.png){:target="_blank"}  
+> [Bastion_Apothecary_Doodad_Supplies2](images/bastion/rooms/apothecary/bastion_apothecary_doodad_supplies2.png){:target="_blank"}  
+> [Bastion_Apothecary_Doodad_Supplies3](images/bastion/rooms/apothecary/bastion_apothecary_doodad_supplies3.png){:target="_blank"}  
+> [Bastion_Apothecary_Doodad_Supplies4](images/bastion/rooms/apothecary/bastion_apothecary_doodad_supplies4.png){:target="_blank"}  
+> [Bastion_Apothecary_Doodad_Baskets](images/bastion/rooms/apothecary/bastion_apothecary_doodad_baskets.png){:target="_blank"}  
+> [Bastion_Apothecary_Doodad_Chair](images/bastion/rooms/apothecary/bastion_apothecary_doodad_chair.png){:target="_blank"}  
+> [Bastion_Apothecary_Doodad_Couch](images/bastion/rooms/apothecary/bastion_apothecary_doodad_couch.png){:target="_blank"}  
+> [Bastion_Apothecary_Wall_SideWallFront](images/bastion/rooms/apothecary/bastion_apothecary_wall_sidewallfront.png){:target="_blank"}  
+> [Bastion_ExtWall_Panel](images/bastion/rooms/apothecary/bastion_extwall_panel.png){:target="_blank"}  
+> [Bastion_ExtWall_Window](images/bastion/rooms/apothecary/bastion_extwall_window.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_HorzSide](images/bastion/rooms/apothecary/bastion_roof_hallroof_horzside.png){:target="_blank"}  
 
-## Guild
+## Exterior
 
-Some graphics were found that had the format `Bastion/Rooms/Guild/...`:
+The walls surrounding the various bastion rooms.
 
-> [bastion_doodad_guildwindow.png](images/bastion/rooms/guild/bastion_doodad_guildwindow.png){:target="_blank"}  
-> [bastion_doodad_largewoodentable.png](images/bastion/rooms/guild/bastion_doodad_largewoodentable.png){:target="_blank"}  
-> [bastion_doodad_woodenchair.png](images/bastion/rooms/guild/bastion_doodad_woodenchair.png){:target="_blank"}  
-> [bastion_floor_woodrockmix_panelfull.png](images/bastion/rooms/guild/bastion_floor_woodrockmix_panelfull.png){:target="_blank"}  
-> [bastion_floor_woodrockmix_panelsmall.png](images/bastion/rooms/guild/bastion_floor_woodrockmix_panelsmall.png){:target="_blank"}  
-> [bastion_guild_doodad_banner1.png](images/bastion/rooms/guild/bastion_guild_doodad_banner1.png){:target="_blank"}  
-> [bastion_guild_doodad_banner2.png](images/bastion/rooms/guild/bastion_guild_doodad_banner2.png){:target="_blank"}  
-> [bastion_guild_doodad_banner3.png](images/bastion/rooms/guild/bastion_guild_doodad_banner3.png){:target="_blank"}  
-> [bastion_guild_doodad_bulletinboard.png](images/bastion/rooms/guild/bastion_guild_doodad_bulletinboard.png){:target="_blank"}  
-> [bastion_guild_doodad_chandelier.png](images/bastion/rooms/guild/bastion_guild_doodad_chandelier.png){:target="_blank"}  
-> [bastion_guild_doodad_checklist.png](images/bastion/rooms/guild/bastion_guild_doodad_checklist.png){:target="_blank"}  
-> [bastion_guild_doodad_diagonalchair.png](images/bastion/rooms/guild/bastion_guild_doodad_diagonalchair.png){:target="_blank"}  
-> [bastion_guild_doodad_journaltable.png](images/bastion/rooms/guild/bastion_guild_doodad_journaltable.png){:target="_blank"}  
-> [bastion_guild_doodad_maptable.png](images/bastion/rooms/guild/bastion_guild_doodad_maptable.png){:target="_blank"}  
-> [bastion_guild_doodad_rail1.png](images/bastion/rooms/guild/bastion_guild_doodad_rail1.png){:target="_blank"}  
-> [bastion_guild_doodad_rail2.png](images/bastion/rooms/guild/bastion_guild_doodad_rail2.png){:target="_blank"}  
-> [bastion_guild_doodad_rugrunner.png](images/bastion/rooms/guild/bastion_guild_doodad_rugrunner.png){:target="_blank"}  
-> [bastion_guild_doodad_rugside.png](images/bastion/rooms/guild/bastion_guild_doodad_rugside.png){:target="_blank"}  
-> [bastion_guild_doodad_torch.png](images/bastion/rooms/guild/bastion_guild_doodad_torch.png){:target="_blank"}  
-> [bastion_guild_doodad_trophies1.png](images/bastion/rooms/guild/bastion_guild_doodad_trophies1.png){:target="_blank"}  
-> [bastion_guild_doodad_trophies2.png](images/bastion/rooms/guild/bastion_guild_doodad_trophies2.png){:target="_blank"}  
-> [bastion_guild_floor_checkeredfloor.png](images/bastion/rooms/guild/bastion_guild_floor_checkeredfloor.png){:target="_blank"}  
-> [bastion_wall_blackrock_cutout.png](images/bastion/rooms/guild/bastion_wall_blackrock_cutout.png){:target="_blank"}  
-> [bastion_wall_blackrock_door_side.png](images/bastion/rooms/guild/bastion_wall_blackrock_door_side.png){:target="_blank"}  
-> [bastion_wall_blackrock_doorpanel.png](images/bastion/rooms/guild/bastion_wall_blackrock_doorpanel.png){:target="_blank"}  
-> [bastion_wall_blackrock_panel1.png](images/bastion/rooms/guild/bastion_wall_blackrock_panel1.png){:target="_blank"}  
-> [bastion_wall_blackrock_sidewallfront.png](images/bastion/rooms/guild/bastion_wall_blackrock_sidewallfront.png){:target="_blank"}  
-> [bastion_wall_blackrock_sidewalltop.png](images/bastion/rooms/guild/bastion_wall_blackrock_sidewalltop.png){:target="_blank"}  
-> [bastion_wall_greyrock_cutout.png](images/bastion/rooms/guild/bastion_wall_greyrock_cutout.png){:target="_blank"}  
-> [bastion_wall_greyrock_door_side.png](images/bastion/rooms/guild/bastion_wall_greyrock_door_side.png){:target="_blank"}  
-> [bastion_wall_greyrock_doorpanel.png](images/bastion/rooms/guild/bastion_wall_greyrock_doorpanel.png){:target="_blank"}  
-> [bastion_wall_greyrock_panel1.png](images/bastion/rooms/guild/bastion_wall_greyrock_panel1.png){:target="_blank"}  
-> [bastion_wall_greyrock_sidewallfront.png](images/bastion/rooms/guild/bastion_wall_greyrock_sidewallfront.png){:target="_blank"}  
-> [bastion_wall_greyrock_sidewalltop.png](images/bastion/rooms/guild/bastion_wall_greyrock_sidewalltop.png){:target="_blank"}  
+### Images
 
-## Hallway
+> [Bastion_ExtWall_PillarCorner](images/bastion/rooms/exterior/bastion_extwall_pillarcorner.png){:target="_blank"}  
+> [Bastion_Ext_StonePath](images/bastion/rooms/exterior/bastion_ext_stonepath.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_FlowerGroup](images/bastion/rooms/exterior/bastion_ext_doodad_flowergroup.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_GroundFlowers1](images/bastion/rooms/exterior/bastion_ext_doodad_groundflowers1.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_GrassTexture](images/bastion/rooms/exterior/bastion_ext_doodad_grasstexture.png){:target="_blank"}  
+> [Bastion_Ext_Parapet_Horz](images/bastion/rooms/exterior/bastion_ext_parapet_horz.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallDirtHill1](images/bastion/rooms/exterior/bastion_ext_doodad_walldirthill1.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallDirtHill2](images/bastion/rooms/exterior/bastion_ext_doodad_walldirthill2.png){:target="_blank"}  
+> [Bastion_ExtWall_PanelCorner](images/bastion/rooms/exterior/bastion_extwall_panelcorner.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_FloweringShrub1](images/bastion/rooms/exterior/bastion_ext_doodad_floweringshrub1.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_GroundShade4](images/bastion/rooms/exterior/bastion_ext_doodad_groundshade4.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Shrub1](images/bastion/rooms/exterior/bastion_ext_doodad_shrub1.png){:target="_blank"}  
+> [Bastion_ExtWall_SideWall](images/bastion/rooms/exterior/bastion_extwall_sidewall.png){:target="_blank"}  
+> [Bastion_ExtWall_Panel](images/bastion/rooms/exterior/bastion_extwall_panel.png){:target="_blank"}  
+> [Bastion_ExtWall_Pillar](images/bastion/rooms/exterior/bastion_extwall_pillar.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile](images/bastion/rooms/exterior/bastion_roof_inbetweentile.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile_Large](images/bastion/rooms/exterior/bastion_roof_inbetweentile_large.png){:target="_blank"}  
+> [Bastion_Ext_Gate](images/bastion/rooms/exterior/bastion_ext_gate.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_GroundShade1](images/bastion/rooms/exterior/bastion_ext_doodad_groundshade1.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_GroundShade2](images/bastion/rooms/exterior/bastion_ext_doodad_groundshade2.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_GroundShade3](images/bastion/rooms/exterior/bastion_ext_doodad_groundshade3.png){:target="_blank"}  
+> [Bastion_Ext_Cliffs_Down](images/bastion/rooms/exterior/bastion_ext_cliffs_down.png){:target="_blank"}  
+> [Bastion_Ext_Cliffs_Straight](images/bastion/rooms/exterior/bastion_ext_cliffs_straight.png){:target="_blank"}  
+> [Bastion_Ext_Cliffs_Up](images/bastion/rooms/exterior/bastion_ext_cliffs_up.png){:target="_blank"}  
+> [Bastion_Ext_Parapet_Vert](images/bastion/rooms/exterior/bastion_ext_parapet_vert.png){:target="_blank"}  
+> [Bastion_Ext_Parapet_LowerCorner](images/bastion/rooms/exterior/bastion_ext_parapet_lowercorner.png){:target="_blank"}  
+> [Bastion_Ext_Parapet_UpperCorner](images/bastion/rooms/exterior/bastion_ext_parapet_uppercorner.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_BGTrees](images/bastion/rooms/exterior/bastion_ext_doodad_bgtrees.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Tree1](images/bastion/rooms/exterior/bastion_ext_doodad_tree1.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Tree2](images/bastion/rooms/exterior/bastion_ext_doodad_tree2.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Tree3](images/bastion/rooms/exterior/bastion_ext_doodad_tree3.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Tree4](images/bastion/rooms/exterior/bastion_ext_doodad_tree4.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Tree5](images/bastion/rooms/exterior/bastion_ext_doodad_tree5.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Tree6](images/bastion/rooms/exterior/bastion_ext_doodad_tree6.png){:target="_blank"}  
+> [Bastion_Ext_Bridge_Panel](images/bastion/rooms/exterior/bastion_ext_bridge_panel.png){:target="_blank"}  
+> [Bastion_Ext_BridgePillar](images/bastion/rooms/exterior/bastion_ext_bridgepillar.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Shrub2](images/bastion/rooms/exterior/bastion_ext_doodad_shrub2.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Shrub3](images/bastion/rooms/exterior/bastion_ext_doodad_shrub3.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Rock3](images/bastion/rooms/exterior/bastion_ext_doodad_rock3.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Rock1](images/bastion/rooms/exterior/bastion_ext_doodad_rock1.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Rock2](images/bastion/rooms/exterior/bastion_ext_doodad_rock2.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Bush4](images/bastion/rooms/exterior/bastion_ext_doodad_bush4.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Bush2](images/bastion/rooms/exterior/bastion_ext_doodad_bush2.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Bush3](images/bastion/rooms/exterior/bastion_ext_doodad_bush3.png){:target="_blank"}  
+> [Bastion_Wall_Hallway_SideWallTop](images/bastion/rooms/exterior/bastion_wall_hallway_sidewalltop.png){:target="_blank"}  
+> [Bastion_Wall_Hallway_SideWallTopCorner](images/bastion/rooms/exterior/bastion_wall_hallway_sidewalltopcorner.png){:target="_blank"}  
+> [Bastion_Ext_Bridge_EndCap](images/bastion/rooms/exterior/bastion_ext_bridge_endcap.png){:target="_blank"}  
+> [Bastion_Ext_ParapetTower](images/bastion/rooms/exterior/bastion_ext_parapettower.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WhiteFlowerMulti](images/bastion/rooms/exterior/bastion_ext_doodad_whiteflowermulti.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_StoneCircle](images/bastion/rooms/exterior/bastion_ext_doodad_stonecircle.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_FloweringShrub2](images/bastion/rooms/exterior/bastion_ext_doodad_floweringshrub2.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Well](images/bastion/rooms/exterior/bastion_ext_doodad_well.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Fountain](images/bastion/rooms/exterior/bastion_ext_doodad_fountain.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallDirtHill3](images/bastion/rooms/exterior/bastion_ext_doodad_walldirthill3.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallVinesLrg1](images/bastion/rooms/exterior/bastion_ext_doodad_wallvineslrg1.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallVinesLrg2](images/bastion/rooms/exterior/bastion_ext_doodad_wallvineslrg2.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallVinesLrg3](images/bastion/rooms/exterior/bastion_ext_doodad_wallvineslrg3.png){:target="_blank"}  
+> [Bastion_ExtWall_Window](images/bastion/rooms/exterior/bastion_extwall_window.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallVines6](images/bastion/rooms/exterior/bastion_ext_doodad_wallvines6.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallVines4](images/bastion/rooms/exterior/bastion_ext_doodad_wallvines4.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallVines3](images/bastion/rooms/exterior/bastion_ext_doodad_wallvines3.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallVines2](images/bastion/rooms/exterior/bastion_ext_doodad_wallvines2.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_OrangeFlowersMulti](images/bastion/rooms/exterior/bastion_ext_doodad_orangeflowersmulti.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_PurpleFlowersMulti](images/bastion/rooms/exterior/bastion_ext_doodad_purpleflowersmulti.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_OrangeFlower](images/bastion/rooms/exterior/bastion_ext_doodad_orangeflower.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_GroundTexture1](images/bastion/rooms/exterior/bastion_ext_doodad_groundtexture1.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_GroundTexture2](images/bastion/rooms/exterior/bastion_ext_doodad_groundtexture2.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_GroundTexture3](images/bastion/rooms/exterior/bastion_ext_doodad_groundtexture3.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_BerryBush3](images/bastion/rooms/exterior/bastion_ext_doodad_berrybush3.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_ShrubnTreeMd](images/bastion/rooms/exterior/bastion_ext_doodad_shrubntreemd.png){:target="_blank"}  
+> [Bastion_Roof_StoneDecor](images/bastion/rooms/exterior/bastion_roof_stonedecor.png){:target="_blank"}  
+> [Bastion_Roof_MossBlob](images/bastion/rooms/exterior/bastion_roof_mossblob.png){:target="_blank"}  
+> [Bastion_Roof_MossCorner1](images/bastion/rooms/exterior/bastion_roof_mosscorner1.png){:target="_blank"}  
+> [Bastion_Roof_PatternTIle](images/bastion/rooms/exterior/bastion_roof_patterntile.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_RaisedPond](images/bastion/rooms/exterior/bastion_ext_doodad_raisedpond.png){:target="_blank"}  
+> [Bastion_Menagerie_Doodad_FishShadow](images/bastion/rooms/exterior/bastion_menagerie_doodad_fishshadow.webp){:target="_blank"} (animated)  
 
-Some graphics were found that had the format `Bastion/Rooms/Hallway/...`:
+## Guildhall
 
-> [bastion_floor_hallway.png](images/bastion/rooms/hallway/bastion_floor_hallway.png){:target="_blank"}  
-> [bastion_hallway_floor_shadow.png](images/bastion/rooms/hallway/bastion_hallway_floor_shadow.png){:target="_blank"}  
-> [bastion_wall_hallway_cutout.png](images/bastion/rooms/hallway/bastion_wall_hallway_cutout.png){:target="_blank"}  
-> [bastion_wall_hallway_door_side.png](images/bastion/rooms/hallway/bastion_wall_hallway_door_side.png){:target="_blank"}  
-> [bastion_wall_hallway_doorpanel.png](images/bastion/rooms/hallway/bastion_wall_hallway_doorpanel.png){:target="_blank"}  
-> [bastion_wall_hallway_panel1.png](images/bastion/rooms/hallway/bastion_wall_hallway_panel1.png){:target="_blank"}  
-> [bastion_wall_hallway_panel2.png](images/bastion/rooms/hallway/bastion_wall_hallway_panel2.png){:target="_blank"}  
-> [bastion_wall_hallway_sidewalltop.png](images/bastion/rooms/hallway/bastion_wall_hallway_sidewalltop.png){:target="_blank"}  
-> [bastion_wall_hallway_sidewalltopcorner.png](images/bastion/rooms/hallway/bastion_wall_hallway_sidewalltopcorner.png){:target="_blank"}  
-> [bastion_wall_hallway_sidewalltopcorner2.png](images/bastion/rooms/hallway/bastion_wall_hallway_sidewalltopcorner2.png){:target="_blank"}  
+Complete adventures, variants, quests, and achievements to progress in Idle Champions of the Forgotten Realms!
 
-## Legendaryforge
+### Upgrading Unlocks
 
-Some graphics were found that had the format `Bastion/Rooms/Legendaryforge/...`:
+> Complete 4 unique adventures: Tomb of Annihilation campaign and Tales of the Champions campaign  
+> Complete 15 unique adventures: Waterdeep: Dragon Heist campaign  
+> Complete 25 unique adventures: Baldur's Gate: Descent into Avernus campaign  
+> Complete 35 unique adventures: Icewind Dale: Rime of the Frostmaiden campaign  
+> Complete 50 unique adventures: The Wild Beyond the Witchlight campaign  
+> Complete 65 unique adventures: Light of Xaryxis campaign  
+> Complete 80 unique adventures: Turn of Fortune's Wheel campaign  
+> Complete 100 unique adventures: Vecna: Eve of Ruin campaign
 
-> [bastion_forge_doodad_anvil.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_anvil.png){:target="_blank"}  
-> [bastion_forge_doodad_banner.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_banner.png){:target="_blank"}  
-> [bastion_forge_doodad_barrels.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_barrels.png){:target="_blank"}  
-> [bastion_forge_doodad_dragonforge.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_dragonforge.png){:target="_blank"}  
-> [bastion_forge_doodad_pillar.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_pillar.png){:target="_blank"}  
-> [bastion_forge_doodad_sconce.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_sconce.png){:target="_blank"}  
-> [bastion_forge_doodad_smallforge.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_smallforge.png){:target="_blank"}  
-> [bastion_forge_doodad_tableblack.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_tableblack.png){:target="_blank"}  
-> [bastion_forge_doodad_tableblue.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_tableblue.png){:target="_blank"}  
-> [bastion_forge_doodad_tablegreen.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_tablegreen.png){:target="_blank"}  
-> [bastion_forge_doodad_tablered.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_tablered.png){:target="_blank"}  
-> [bastion_forge_doodad_tablewhite.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_tablewhite.png){:target="_blank"}  
-> [bastion_forge_doodad_upgradesdialogue.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_upgradesdialogue.png){:target="_blank"}  
-> [bastion_forge_doodad_wallhammers.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_wallhammers.png){:target="_blank"}  
-> [bastion_forge_doodad_wallshield.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_wallshield.png){:target="_blank"}  
-> [bastion_forge_doodad_wallswords.png](images/bastion/rooms/legendaryforge/bastion_forge_doodad_wallswords.png){:target="_blank"}  
-> [bastion_forge_floor_browntilesmall.png](images/bastion/rooms/legendaryforge/bastion_forge_floor_browntilesmall.png){:target="_blank"}  
-> [bastion_forge_floor_browntilesmalllarge.png](images/bastion/rooms/legendaryforge/bastion_forge_floor_browntilesmalllarge.png){:target="_blank"}  
-> [bastion_forge_floor_centerdetail.png](images/bastion/rooms/legendaryforge/bastion_forge_floor_centerdetail.png){:target="_blank"}  
-> [bastion_forge_floor_marble.png](images/bastion/rooms/legendaryforge/bastion_forge_floor_marble.png){:target="_blank"}  
-> [bastion_forge_floor_stairs.png](images/bastion/rooms/legendaryforge/bastion_forge_floor_stairs.png){:target="_blank"}  
-> [bastion_forge_lockeddoor.png](images/bastion/rooms/legendaryforge/bastion_forge_lockeddoor.png){:target="_blank"}  
-> [bastion_forge_wall_frontwalldoor.png](images/bastion/rooms/legendaryforge/bastion_forge_wall_frontwalldoor.png){:target="_blank"}  
-> [bastion_forge_wall_frontwallpanel.png](images/bastion/rooms/legendaryforge/bastion_forge_wall_frontwallpanel.png){:target="_blank"}  
-> [bastion_forge_wall_panel01.png](images/bastion/rooms/legendaryforge/bastion_forge_wall_panel01.png){:target="_blank"}  
-> [bastion_forge_wall_sidewall.png](images/bastion/rooms/legendaryforge/bastion_forge_wall_sidewall.png){:target="_blank"}  
-> [bastion_forge_wall_sidewallfront.png](images/bastion/rooms/legendaryforge/bastion_forge_wall_sidewallfront.png){:target="_blank"}  
+### Images
+
+> [Bastion_Floor_WoodRockMix_PanelSmall](images/bastion/rooms/guildhall/bastion_floor_woodrockmix_panelsmall.png){:target="_blank"}  
+> [Bastion_Floor_WoodRockMix_PanelFull](images/bastion/rooms/guildhall/bastion_floor_woodrockmix_panelfull.png){:target="_blank"}  
+> [Bastion_Roof_Roof2_Side](images/bastion/rooms/guildhall/bastion_roof_roof2_side.png){:target="_blank"}  
+> [Bastion_Roof_Roof2_Panel](images/bastion/rooms/guildhall/bastion_roof_roof2_panel.png){:target="_blank"}  
+> [Bastion_ExtWall_Panel](images/bastion/rooms/guildhall/bastion_extwall_panel.png){:target="_blank"}  
+> [Bastion_ExtWall_Door](images/bastion/rooms/guildhall/bastion_extwall_door.png){:target="_blank"}  
+> [Bastion_ExtWall_Window](images/bastion/rooms/guildhall/bastion_extwall_window.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_HorzSide](images/bastion/rooms/guildhall/bastion_roof_hallroof_horzside.png){:target="_blank"}  
+> [Bastion_Wall_BlackRock_DoorPanel](images/bastion/rooms/guildhall/bastion_wall_blackrock_doorpanel.png){:target="_blank"}  
+> [Bastion_Wall_BlackRock_CutOut](images/bastion/rooms/guildhall/bastion_wall_blackrock_cutout.png){:target="_blank"}  
+> [Bastion_Wall_BlackRock_Panel1](images/bastion/rooms/guildhall/bastion_wall_blackrock_panel1.png){:target="_blank"}  
+> [Bastion_Wall_BlackRock_SideWallTop](images/bastion/rooms/guildhall/bastion_wall_blackrock_sidewalltop.png){:target="_blank"}  
+> [Bastion_Wall_BlackRock_SideWallFront](images/bastion/rooms/guildhall/bastion_wall_blackrock_sidewallfront.png){:target="_blank"}  
+> [Bastion_Guild_Doodad_Chandelier](images/bastion/rooms/guildhall/bastion_guild_doodad_chandelier.png){:target="_blank"}  
+> [Bastion_Guild_Doodad_DiagonalChair](images/bastion/rooms/guildhall/bastion_guild_doodad_diagonalchair.png){:target="_blank"}  
+> [Bastion_Guild_Doodad_Rail1](images/bastion/rooms/guildhall/bastion_guild_doodad_rail1.png){:target="_blank"}  
+> [Bastion_Guild_Doodad_Rail2](images/bastion/rooms/guildhall/bastion_guild_doodad_rail2.png){:target="_blank"}  
+> [Bastion_Guild_Doodad_Banner1](images/bastion/rooms/guildhall/bastion_guild_doodad_banner1.png){:target="_blank"}  
+> [Bastion_Guild_Doodad_Banner2](images/bastion/rooms/guildhall/bastion_guild_doodad_banner2.png){:target="_blank"}  
+> [Bastion_Guild_Doodad_Banner3](images/bastion/rooms/guildhall/bastion_guild_doodad_banner3.png){:target="_blank"}  
+> [Bastion_Guild_Doodad_Torch](images/bastion/rooms/guildhall/bastion_guild_doodad_torch.png){:target="_blank"}  
+> [Bastion_Library_Doodad_Plant](images/bastion/rooms/guildhall/bastion_library_doodad_plant.png){:target="_blank"}  
+> [Bastion_Wall_BlackRock_Door_Side](images/bastion/rooms/guildhall/bastion_wall_blackrock_door_side.png){:target="_blank"}  
+> [Bastion_Guild_Floor_CheckeredFloor](images/bastion/rooms/guildhall/bastion_guild_floor_checkeredfloor.png){:target="_blank"}  
+> [Bastion_Guild_Doodad_RugRunner](images/bastion/rooms/guildhall/bastion_guild_doodad_rugrunner.png){:target="_blank"}  
+> [Bastion_Guild_Doodad_RugSide](images/bastion/rooms/guildhall/bastion_guild_doodad_rugside.png){:target="_blank"}  
+
+## Hallways
+
+The hallways connecting the various bastion rooms.
+
+### Images
+
+> [Bastion_ExtWall_SideWall](images/bastion/rooms/hallways/bastion_extwall_sidewall.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile](images/bastion/rooms/hallways/bastion_roof_inbetweentile.png){:target="_blank"}  
+> [Bastion_Floor_Hallway](images/bastion/rooms/hallways/bastion_floor_hallway.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_Horz](images/bastion/rooms/hallways/bastion_roof_hallroof_horz.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_Vert](images/bastion/rooms/hallways/bastion_roof_hallroof_vert.png){:target="_blank"}  
+> [Bastion_Wall_Hallway_Door_Side](images/bastion/rooms/hallways/bastion_wall_hallway_door_side.png){:target="_blank"}  
+> [Bastion_Wall_Hallway_Panel1](images/bastion/rooms/hallways/bastion_wall_hallway_panel1.png){:target="_blank"}  
+> [Bastion_Wall_Hallway_CutOut](images/bastion/rooms/hallways/bastion_wall_hallway_cutout.png){:target="_blank"}  
+> [Bastion_Wall_Hallway_Panel2](images/bastion/rooms/hallways/bastion_wall_hallway_panel2.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_Vert_EndCapBottom](images/bastion/rooms/hallways/bastion_roof_hallroof_vert_endcapbottom.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile_Large](images/bastion/rooms/hallways/bastion_roof_inbetweentile_large.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_Vert_EndCapTop](images/bastion/rooms/hallways/bastion_roof_hallroof_vert_endcaptop.png){:target="_blank"}  
+> [Bastion_Hallway_Floor_Shadow](images/bastion/rooms/hallways/bastion_hallway_floor_shadow.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_HorzSide](images/bastion/rooms/hallways/bastion_roof_hallroof_horzside.png){:target="_blank"}  
+> [Bastion_Roof_MossCorner1](images/bastion/rooms/hallways/bastion_roof_mosscorner1.png){:target="_blank"}  
+
+## Legendary Forge
+
+Unlocks the Legendary Forge, which allows you to upgrade the effects of your Legendary Equipment.
+
+### Unlock Requirements
+
+> Obtain 1,000 Scales of Tiamat
+
+### Images
+
+> [Bastion_Roof_InbetweenTile](images/bastion/rooms/legendaryforge/bastion_roof_inbetweentile.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile_Large](images/bastion/rooms/legendaryforge/bastion_roof_inbetweentile_large.png){:target="_blank"}  
+> [Bastion_Forge_Wall_Panel01](images/bastion/rooms/legendaryforge/bastion_forge_wall_panel01.png){:target="_blank"}  
+> [Bastion_Forge_Wall_FrontWallPanel](images/bastion/rooms/legendaryforge/bastion_forge_wall_frontwallpanel.png){:target="_blank"}  
+> [Bastion_Forge_Wall_SideWallFront](images/bastion/rooms/legendaryforge/bastion_forge_wall_sidewallfront.png){:target="_blank"}  
+> [Bastion_Forge_Wall_SideWall](images/bastion/rooms/legendaryforge/bastion_forge_wall_sidewall.png){:target="_blank"}  
+> [Bastion_Forge_Floor_Marble](images/bastion/rooms/legendaryforge/bastion_forge_floor_marble.png){:target="_blank"}  
+> [Bastion_Forge_Floor_BrownTileSmallLarge](images/bastion/rooms/legendaryforge/bastion_forge_floor_browntilesmalllarge.png){:target="_blank"}  
+> [Bastion_Forge_Floor_BrownTileSmall](images/bastion/rooms/legendaryforge/bastion_forge_floor_browntilesmall.png){:target="_blank"}  
+> [Bastion_Forge_Floor_CenterDetail](images/bastion/rooms/legendaryforge/bastion_forge_floor_centerdetail.png){:target="_blank"}  
+> [Bastion_Forge_Floor_Stairs](images/bastion/rooms/legendaryforge/bastion_forge_floor_stairs.png){:target="_blank"}  
+> [Bastion_Forge_Doodad_Anvil](images/bastion/rooms/legendaryforge/bastion_forge_doodad_anvil.png){:target="_blank"}  
+> [Bastion_Forge_Doodad_Pillar](images/bastion/rooms/legendaryforge/bastion_forge_doodad_pillar.png){:target="_blank"}  
+> [Bastion_Forge_Doodad_Sconce](images/bastion/rooms/legendaryforge/bastion_forge_doodad_sconce.png){:target="_blank"}  
+> [Bastion_Forge_Doodad_Banner](images/bastion/rooms/legendaryforge/bastion_forge_doodad_banner.png){:target="_blank"}  
+> [Bastion_Forge_Doodad_Barrels](images/bastion/rooms/legendaryforge/bastion_forge_doodad_barrels.png){:target="_blank"}  
+> [Bastion_Forge_Doodad_SmallForge](images/bastion/rooms/legendaryforge/bastion_forge_doodad_smallforge.png){:target="_blank"}  
+> [Bastion_Forge_Doodad_TableBlack](images/bastion/rooms/legendaryforge/bastion_forge_doodad_tableblack.png){:target="_blank"}  
+> [Bastion_Forge_Doodad_TableBlue](images/bastion/rooms/legendaryforge/bastion_forge_doodad_tableblue.png){:target="_blank"}  
+> [Bastion_Forge_Doodad_TableGreen](images/bastion/rooms/legendaryforge/bastion_forge_doodad_tablegreen.png){:target="_blank"}  
+> [Bastion_Forge_Doodad_TableRed](images/bastion/rooms/legendaryforge/bastion_forge_doodad_tablered.png){:target="_blank"}  
+> [Bastion_Forge_Doodad_TableWhite](images/bastion/rooms/legendaryforge/bastion_forge_doodad_tablewhite.png){:target="_blank"}  
+> [Bastion_Forge_Doodad_WallHammers](images/bastion/rooms/legendaryforge/bastion_forge_doodad_wallhammers.png){:target="_blank"}  
+> [Bastion_Forge_Doodad_WallShield](images/bastion/rooms/legendaryforge/bastion_forge_doodad_wallshield.png){:target="_blank"}  
+> [Bastion_Forge_Doodad_WallSwords](images/bastion/rooms/legendaryforge/bastion_forge_doodad_wallswords.png){:target="_blank"}  
+> [Bastion_Roof_Roof1_Side](images/bastion/rooms/legendaryforge/bastion_roof_roof1_side.png){:target="_blank"}  
+> [Bastion_Roof_Roof1_Panel](images/bastion/rooms/legendaryforge/bastion_roof_roof1_panel.png){:target="_blank"}  
+> [Bastion_Forge_LockedDoor](images/bastion/rooms/legendaryforge/bastion_forge_lockeddoor.png){:target="_blank"}  
+> [Bastion_ExtWall_SideWall](images/bastion/rooms/legendaryforge/bastion_extwall_sidewall.png){:target="_blank"}  
+> [Bastion_Wall_Hallway_SideWallTop](images/bastion/rooms/legendaryforge/bastion_wall_hallway_sidewalltop.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_Vert](images/bastion/rooms/legendaryforge/bastion_roof_hallroof_vert.png){:target="_blank"}  
+> [Bastion_Roof_StoneDecor](images/bastion/rooms/legendaryforge/bastion_roof_stonedecor.png){:target="_blank"}  
+> [Bastion_Roof_PatternTIle](images/bastion/rooms/legendaryforge/bastion_roof_patterntile.png){:target="_blank"}  
+> [Bastion_Roof_MossCorner2](images/bastion/rooms/legendaryforge/bastion_roof_mosscorner2.png){:target="_blank"}  
+> [Bastion_Roof_MossBlob](images/bastion/rooms/legendaryforge/bastion_roof_mossblob.png){:target="_blank"}  
+> [Bastion_Roof_MossCorner1](images/bastion/rooms/legendaryforge/bastion_roof_mosscorner1.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_Vert_EndCapTop](images/bastion/rooms/legendaryforge/bastion_roof_hallroof_vert_endcaptop.png){:target="_blank"}  
 
 ## Library
 
-Some graphics were found that had the format `Bastion/Rooms/Library/...`:
+Unlocks Collections, which tracks your completion progress through the game, as well as the Bastion Buff, which increases the damage of all your parties based on your total Bastion level.
 
-> [bastion_library_doodad_bastionbuff.png](images/bastion/rooms/library/bastion_library_doodad_bastionbuff.png){:target="_blank"}  
-> [bastion_library_doodad_bookshelves01.png](images/bastion/rooms/library/bastion_library_doodad_bookshelves01.png){:target="_blank"}  
-> [bastion_library_doodad_bookshelves02.png](images/bastion/rooms/library/bastion_library_doodad_bookshelves02.png){:target="_blank"}  
-> [bastion_library_doodad_bookshelves03.png](images/bastion/rooms/library/bastion_library_doodad_bookshelves03.png){:target="_blank"}  
-> [bastion_library_doodad_chair01.png](images/bastion/rooms/library/bastion_library_doodad_chair01.png){:target="_blank"}  
-> [bastion_library_doodad_chair02.png](images/bastion/rooms/library/bastion_library_doodad_chair02.png){:target="_blank"}  
-> [bastion_library_doodad_collections.png](images/bastion/rooms/library/bastion_library_doodad_collections.png){:target="_blank"}  
-> [bastion_library_doodad_door.png](images/bastion/rooms/library/bastion_library_doodad_door.png){:target="_blank"}  
-> [bastion_library_doodad_plant.png](images/bastion/rooms/library/bastion_library_doodad_plant.png){:target="_blank"}  
-> [bastion_library_doodad_rug.png](images/bastion/rooms/library/bastion_library_doodad_rug.png){:target="_blank"}  
-> [bastion_library_doodad_table01.png](images/bastion/rooms/library/bastion_library_doodad_table01.png){:target="_blank"}  
-> [bastion_library_doodad_table02.png](images/bastion/rooms/library/bastion_library_doodad_table02.png){:target="_blank"}  
-> [bastion_library_floor_panel01.png](images/bastion/rooms/library/bastion_library_floor_panel01.png){:target="_blank"}  
-> [bastion_library_floor_panel02.png](images/bastion/rooms/library/bastion_library_floor_panel02.png){:target="_blank"}  
-> [bastion_library_floor_shadow.png](images/bastion/rooms/library/bastion_library_floor_shadow.png){:target="_blank"}  
-> [bastion_library_wall_balcony01.png](images/bastion/rooms/library/bastion_library_wall_balcony01.png){:target="_blank"}  
-> [bastion_library_wall_balcony02.png](images/bastion/rooms/library/bastion_library_wall_balcony02.png){:target="_blank"}  
-> [bastion_library_wall_balcony03.png](images/bastion/rooms/library/bastion_library_wall_balcony03.png){:target="_blank"}  
-> [bastion_library_wall_fireplace.webp](images/bastion/rooms/library/bastion_library_wall_fireplace.webp){:target="_blank"} (animated)  
-> [bastion_library_wall_frontwallpanel.png](images/bastion/rooms/library/bastion_library_wall_frontwallpanel.png){:target="_blank"}  
-> [bastion_library_wall_panel01.png](images/bastion/rooms/library/bastion_library_wall_panel01.png){:target="_blank"}  
-> [bastion_library_wall_railing.png](images/bastion/rooms/library/bastion_library_wall_railing.png){:target="_blank"}  
-> [bastion_library_wall_shadow.png](images/bastion/rooms/library/bastion_library_wall_shadow.png){:target="_blank"}  
-> [bastion_library_wall_shelves.png](images/bastion/rooms/library/bastion_library_wall_shelves.png){:target="_blank"}  
-> [bastion_library_wall_sidewallfront.png](images/bastion/rooms/library/bastion_library_wall_sidewallfront.png){:target="_blank"}  
-> [bastion_library_wall_sidewalltop.png](images/bastion/rooms/library/bastion_library_wall_sidewalltop.png){:target="_blank"}  
-> [bastion_library_wall_stairs.png](images/bastion/rooms/library/bastion_library_wall_stairs.png){:target="_blank"}  
-> [bastion_library_wall_stairs_railing.png](images/bastion/rooms/library/bastion_library_wall_stairs_railing.png){:target="_blank"}  
-> [bastion_library_wall_window.png](images/bastion/rooms/library/bastion_library_wall_window.png){:target="_blank"}  
+### Unlock Requirements
+
+> Complete 20 unique adventures
+
+### Images
+
+> [Bastion_Library_Floor_Panel02](images/bastion/rooms/library/bastion_library_floor_panel02.png){:target="_blank"}  
+> [Bastion_Library_Floor_Panel01](images/bastion/rooms/library/bastion_library_floor_panel01.png){:target="_blank"}  
+> [Bastion_Library_Wall_Panel01](images/bastion/rooms/library/bastion_library_wall_panel01.png){:target="_blank"}  
+> [Bastion_Library_Wall_Fireplace](images/bastion/rooms/library/bastion_library_wall_fireplace.webp){:target="_blank"} (animated)  
+> [Bastion_Tavern_Doodad_FireplaceFire](images/bastion/rooms/library/bastion_tavern_doodad_fireplacefire.png){:target="_blank"}  
+> [Bastion_Library_Wall_Window](images/bastion/rooms/library/bastion_library_wall_window.png){:target="_blank"}  
+> [Bastion_Library_Doodad_Rug](images/bastion/rooms/library/bastion_library_doodad_rug.png){:target="_blank"}  
+> [Bastion_Library_Wall_SideWallTop](images/bastion/rooms/library/bastion_library_wall_sidewalltop.png){:target="_blank"}  
+> [Bastion_Library_Wall_SideWallFront](images/bastion/rooms/library/bastion_library_wall_sidewallfront.png){:target="_blank"}  
+> [Bastion_Library_Wall_FrontWallPanel](images/bastion/rooms/library/bastion_library_wall_frontwallpanel.png){:target="_blank"}  
+> [Bastion_Library_Doodad_Door](images/bastion/rooms/library/bastion_library_doodad_door.png){:target="_blank"}  
+> [Bastion_Library_Wall_Stairs](images/bastion/rooms/library/bastion_library_wall_stairs.png){:target="_blank"}  
+> [Bastion_Library_Wall_Balcony01](images/bastion/rooms/library/bastion_library_wall_balcony01.png){:target="_blank"}  
+> [Bastion_Library_Wall_Balcony02](images/bastion/rooms/library/bastion_library_wall_balcony02.png){:target="_blank"}  
+> [Bastion_Library_Wall_Balcony03](images/bastion/rooms/library/bastion_library_wall_balcony03.png){:target="_blank"}  
+> [Bastion_Library_Wall_Railing](images/bastion/rooms/library/bastion_library_wall_railing.png){:target="_blank"}  
+> [Bastion_Library_Wall_Shelves](images/bastion/rooms/library/bastion_library_wall_shelves.png){:target="_blank"}  
+> [Bastion_Library_Wall_Shadow](images/bastion/rooms/library/bastion_library_wall_shadow.png){:target="_blank"}  
+> [Bastion_Library_Doodad_BookShelves01](images/bastion/rooms/library/bastion_library_doodad_bookshelves01.png){:target="_blank"}  
+> [Bastion_Library_Doodad_BookShelves02](images/bastion/rooms/library/bastion_library_doodad_bookshelves02.png){:target="_blank"}  
+> [Bastion_Library_Doodad_BookShelves03](images/bastion/rooms/library/bastion_library_doodad_bookshelves03.png){:target="_blank"}  
+> [Bastion_Library_Doodad_Chair01](images/bastion/rooms/library/bastion_library_doodad_chair01.png){:target="_blank"}  
+> [Bastion_Library_Doodad_Chair02](images/bastion/rooms/library/bastion_library_doodad_chair02.png){:target="_blank"}  
+> [Bastion_Library_Doodad_Plant](images/bastion/rooms/library/bastion_library_doodad_plant.png){:target="_blank"}  
+> [Bastion_Library_Doodad_Table01](images/bastion/rooms/library/bastion_library_doodad_table01.png){:target="_blank"}  
+> [Bastion_Library_Doodad_Table02](images/bastion/rooms/library/bastion_library_doodad_table02.png){:target="_blank"}  
+> [Bastion_Roof_Roof2_Side](images/bastion/rooms/library/bastion_roof_roof2_side.png){:target="_blank"}  
+> [Bastion_Roof_Roof2_Panel](images/bastion/rooms/library/bastion_roof_roof2_panel.png){:target="_blank"}  
+> [Bastion_Roof_SmallTopper](images/bastion/rooms/library/bastion_roof_smalltopper.png){:target="_blank"}  
+> [Bastion_Library_Wall_Stairs_Railing](images/bastion/rooms/library/bastion_library_wall_stairs_railing.png){:target="_blank"}  
+> [Bastion_ExtWall_Panel](images/bastion/rooms/library/bastion_extwall_panel.png){:target="_blank"}  
+> [Bastion_ExtWall_Window](images/bastion/rooms/library/bastion_extwall_window.png){:target="_blank"}  
+> [Bastion_TrainingYard_Floor_Shadow](images/bastion/rooms/library/bastion_trainingyard_floor_shadow.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_HorzSide](images/bastion/rooms/library/bastion_roof_hallroof_horzside.png){:target="_blank"}  
 
 ## Menagerie
 
-Some graphics were found that had the format `Bastion/Rooms/Menagerie/...`:
+Unlocks Familiars, which can be used to automate certain clicking tasks, such as manually attacking enemies, leveling up Champions, activating ultimates, and enabling auto-progress.
 
-> [bastion_menagerie_doodad_familiarencyclopedia.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_familiarencyclopedia.png){:target="_blank"}  
-> [bastion_menagerie_doodad_familiarshop.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_familiarshop.png){:target="_blank"}  
-> [bastion_menagerie_doodad_fishshadow.webp](images/bastion/rooms/menagerie/bastion_menagerie_doodad_fishshadow.webp){:target="_blank"} (animated)  
-> [bastion_menagerie_doodad_flower01.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_flower01.png){:target="_blank"}  
-> [bastion_menagerie_doodad_flower02.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_flower02.png){:target="_blank"}  
-> [bastion_menagerie_doodad_flower03.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_flower03.png){:target="_blank"}  
-> [bastion_menagerie_doodad_flowergroup.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_flowergroup.png){:target="_blank"}  
-> [bastion_menagerie_doodad_grass01.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_grass01.png){:target="_blank"}  
-> [bastion_menagerie_doodad_grass02.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_grass02.png){:target="_blank"}  
-> [bastion_menagerie_doodad_hill01.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_hill01.png){:target="_blank"}  
-> [bastion_menagerie_doodad_hill02.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_hill02.png){:target="_blank"}  
-> [bastion_menagerie_doodad_leaves.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_leaves.png){:target="_blank"}  
-> [bastion_menagerie_doodad_pool.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_pool.png){:target="_blank"}  
-> [bastion_menagerie_doodad_rosebushorange.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_rosebushorange.png){:target="_blank"}  
-> [bastion_menagerie_doodad_rosebushpink.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_rosebushpink.png){:target="_blank"}  
-> [bastion_menagerie_doodad_tree.png](images/bastion/rooms/menagerie/bastion_menagerie_doodad_tree.png){:target="_blank"}  
-> [bastion_menagerie_floor_panel.png](images/bastion/rooms/menagerie/bastion_menagerie_floor_panel.png){:target="_blank"}  
-> [bastion_menagerie_wall_corner.png](images/bastion/rooms/menagerie/bastion_menagerie_wall_corner.png){:target="_blank"}  
-> [bastion_menagerie_wall_frontwallpanel.png](images/bastion/rooms/menagerie/bastion_menagerie_wall_frontwallpanel.png){:target="_blank"}  
-> [bastion_menagerie_wall_panel.png](images/bastion/rooms/menagerie/bastion_menagerie_wall_panel.png){:target="_blank"}  
+### Unlock Requirements
 
-## Misc
+> Obtain a Familiar or Reach Area 65 in any adventure
 
-Some graphics were found that had the format `Bastion/Rooms/Misc/...`:
+### Images
 
-> [bastion_misc_candleglow.webp](images/bastion/rooms/misc/bastion_misc_candleglow.webp){:target="_blank"} (animated)  
+> [Bastion_Menagerie_Floor_Panel](images/bastion/rooms/menagerie/bastion_menagerie_floor_panel.png){:target="_blank"}  
+> [Bastion_Menagerie_Wall_Panel](images/bastion/rooms/menagerie/bastion_menagerie_wall_panel.png){:target="_blank"}  
+> [Bastion_Wall_GreyRock_SideWallTop](images/bastion/rooms/menagerie/bastion_wall_greyrock_sidewalltop.png){:target="_blank"}  
+> [Bastion_Wall_Hallway_Door_Side](images/bastion/rooms/menagerie/bastion_wall_hallway_door_side.png){:target="_blank"}  
+> [Bastion_Menagerie_Doodad_Pool](images/bastion/rooms/menagerie/bastion_menagerie_doodad_pool.png){:target="_blank"}  
+> [Bastion_Menagerie_Wall_FrontWallPanel](images/bastion/rooms/menagerie/bastion_menagerie_wall_frontwallpanel.png){:target="_blank"}  
+> [Bastion_Menagerie_Doodad_Tree](images/bastion/rooms/menagerie/bastion_menagerie_doodad_tree.png){:target="_blank"}  
+> [Bastion_Menagerie_Doodad_Hill01](images/bastion/rooms/menagerie/bastion_menagerie_doodad_hill01.png){:target="_blank"}  
+> [Bastion_Menagerie_Doodad_Hill02](images/bastion/rooms/menagerie/bastion_menagerie_doodad_hill02.png){:target="_blank"}  
+> [Bastion_Menagerie_Doodad_RoseBushPink](images/bastion/rooms/menagerie/bastion_menagerie_doodad_rosebushpink.png){:target="_blank"}  
+> [Bastion_Menagerie_Doodad_RoseBushOrange](images/bastion/rooms/menagerie/bastion_menagerie_doodad_rosebushorange.png){:target="_blank"}  
+> [Bastion_Menagerie_Doodad_FlowerGroup](images/bastion/rooms/menagerie/bastion_menagerie_doodad_flowergroup.png){:target="_blank"}  
+> [Bastion_Menagerie_Doodad_Flower03](images/bastion/rooms/menagerie/bastion_menagerie_doodad_flower03.png){:target="_blank"}  
+> [Bastion_Roof_Roof3_Side](images/bastion/rooms/menagerie/bastion_roof_roof3_side.png){:target="_blank"}  
+> [Bastion_Roof_Roof3_Panel](images/bastion/rooms/menagerie/bastion_roof_roof3_panel.png){:target="_blank"}  
+> [Bastion_Roof_BigTopper](images/bastion/rooms/menagerie/bastion_roof_bigtopper.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile_Large](images/bastion/rooms/menagerie/bastion_roof_inbetweentile_large.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile](images/bastion/rooms/menagerie/bastion_roof_inbetweentile.png){:target="_blank"}  
+> [Bastion_Menagerie_Doodad_FishShadow](images/bastion/rooms/menagerie/bastion_menagerie_doodad_fishshadow.webp){:target="_blank"} (animated)  
+> [Bastion_Roof_HallRoof_HorzSide](images/bastion/rooms/menagerie/bastion_roof_hallroof_horzside.png){:target="_blank"}  
+> [Bastion_Roof_PatternTIle](images/bastion/rooms/menagerie/bastion_roof_patterntile.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallVinesLrg3](images/bastion/rooms/menagerie/bastion_ext_doodad_wallvineslrg3.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallVinesLrg2](images/bastion/rooms/menagerie/bastion_ext_doodad_wallvineslrg2.png){:target="_blank"}  
+> [Bastion_Roof_MossCorner1](images/bastion/rooms/menagerie/bastion_roof_mosscorner1.png){:target="_blank"}  
 
 ## Observatory
 
-Some graphics were found that had the format `Bastion/Rooms/Observatory/...`:
+Unlocks access to Events, which are limited time campaigns that allow you to recruit new Champions and gear up existing ones. Events start on the first Wednesday of every month.
 
-*This room is known to be associated with the Events system.*
+### Unlock Requirements
 
-> [bastion_observatory_doodad_calendar.png](images/bastion/rooms/observatory/bastion_observatory_doodad_calendar.png){:target="_blank"}  
-> [bastion_observatory_doodad_candlestick.png](images/bastion/rooms/observatory/bastion_observatory_doodad_candlestick.png){:target="_blank"}  
-> [bastion_observatory_doodad_chair.png](images/bastion/rooms/observatory/bastion_observatory_doodad_chair.png){:target="_blank"}  
-> [bastion_observatory_doodad_crystal.png](images/bastion/rooms/observatory/bastion_observatory_doodad_crystal.png){:target="_blank"}  
-> [bastion_observatory_doodad_mirror.png](images/bastion/rooms/observatory/bastion_observatory_doodad_mirror.png){:target="_blank"}  
-> [bastion_observatory_doodad_painting.png](images/bastion/rooms/observatory/bastion_observatory_doodad_painting.png){:target="_blank"}  
-> [bastion_observatory_doodad_scryeball.png](images/bastion/rooms/observatory/bastion_observatory_doodad_scryeball.png){:target="_blank"}  
-> [bastion_observatory_doodad_scryeball_anim.png](images/bastion/rooms/observatory/bastion_observatory_doodad_scryeball_anim.png){:target="_blank"}  
-> [bastion_observatory_doodad_tabard.png](images/bastion/rooms/observatory/bastion_observatory_doodad_tabard.png){:target="_blank"}  
-> [bastion_observatory_floor_door.png](images/bastion/rooms/observatory/bastion_observatory_floor_door.png){:target="_blank"}  
-> [bastion_observatory_floor_floor.png](images/bastion/rooms/observatory/bastion_observatory_floor_floor.png){:target="_blank"}  
-> [bastion_observatory_floor_starcircle.png](images/bastion/rooms/observatory/bastion_observatory_floor_starcircle.png){:target="_blank"}  
-> [bastion_observatory_wall_frontwallpanel.png](images/bastion/rooms/observatory/bastion_observatory_wall_frontwallpanel.png){:target="_blank"}  
-> [bastion_observatory_wall_panel01.png](images/bastion/rooms/observatory/bastion_observatory_wall_panel01.png){:target="_blank"}  
-> [bastion_observatory_wall_panel02.png](images/bastion/rooms/observatory/bastion_observatory_wall_panel02.png){:target="_blank"}  
-> [bastion_observatory_wall_panel03.png](images/bastion/rooms/observatory/bastion_observatory_wall_panel03.png){:target="_blank"}  
-> [bastion_observatory_wall_sidewalltop.png](images/bastion/rooms/observatory/bastion_observatory_wall_sidewalltop.png){:target="_blank"}  
+> Complete 3 unique adventures
+
+### Images
+
+> [Bastion_Observatory_Wall_SideWallTop](images/bastion/rooms/observatory/bastion_observatory_wall_sidewalltop.png){:target="_blank"}  
+> [Bastion_Observatory_Floor_Floor](images/bastion/rooms/observatory/bastion_observatory_floor_floor.png){:target="_blank"}  
+> [Bastion_Observatory_Floor_Door](images/bastion/rooms/observatory/bastion_observatory_floor_door.png){:target="_blank"}  
+> [Bastion_Observatory_Floor_StarCircle](images/bastion/rooms/observatory/bastion_observatory_floor_starcircle.png){:target="_blank"}  
+> [Bastion_Observatory_Wall_FrontWallPanel](images/bastion/rooms/observatory/bastion_observatory_wall_frontwallpanel.png){:target="_blank"}  
+> [Bastion_Observatory_Doodad_Crystal](images/bastion/rooms/observatory/bastion_observatory_doodad_crystal.png){:target="_blank"}  
+> [Bastion_Observatory_Wall_Panel](images/bastion/rooms/observatory/bastion_observatory_wall_panel.png){:target="_blank"}  
+> [Bastion_Observatory_Wall_DecoPartial](images/bastion/rooms/observatory/bastion_observatory_wall_decopartial.png){:target="_blank"}  
+> [Bastion_Observatory_Wall_Deco](images/bastion/rooms/observatory/bastion_observatory_wall_deco.png){:target="_blank"}  
+> [Bastion_Observatory_Doodad_CandleStick](images/bastion/rooms/observatory/bastion_observatory_doodad_candlestick.png){:target="_blank"}  
+> [Bastion_Observatory_Doodad_Mirror](images/bastion/rooms/observatory/bastion_observatory_doodad_mirror.png){:target="_blank"}  
+> [Bastion_Observatory_Doodad_Painting](images/bastion/rooms/observatory/bastion_observatory_doodad_painting.png){:target="_blank"}  
+> [Bastion_Observatory_Doodad_ScryeBall](images/bastion/rooms/observatory/bastion_observatory_doodad_scryeball.png){:target="_blank"}  
+> [Bastion_Observatory_Doodad_Tabard](images/bastion/rooms/observatory/bastion_observatory_doodad_tabard.png){:target="_blank"}  
+> [Bastion_Roof_Roof1_Side](images/bastion/rooms/observatory/bastion_roof_roof1_side.png){:target="_blank"}  
+> [Bastion_Roof_Roof1_Panel](images/bastion/rooms/observatory/bastion_roof_roof1_panel.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile_Large](images/bastion/rooms/observatory/bastion_roof_inbetweentile_large.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile](images/bastion/rooms/observatory/bastion_roof_inbetweentile.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_HorzSide](images/bastion/rooms/observatory/bastion_roof_hallroof_horzside.png){:target="_blank"}  
+> [Bastion_Roof_PatternTIle](images/bastion/rooms/observatory/bastion_roof_patterntile.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallVines4](images/bastion/rooms/observatory/bastion_ext_doodad_wallvines4.png){:target="_blank"}  
+> [Bastion_Roof_MossBlob](images/bastion/rooms/observatory/bastion_roof_mossblob.png){:target="_blank"}  
+> [Bastion_Roof_MossCorner2](images/bastion/rooms/observatory/bastion_roof_mosscorner2.png){:target="_blank"}  
 
 ## Parlor
 
-Some graphics were found that had the format `Bastion/Rooms/Parlor/...`:
+Unlocks Patrons, which allow you to re-run variants with new restrictions, and award global buffs and items based on your patron progression.
 
-*This room is known to be associated with the Patrons system.*
+### Unlock Requirements
 
-> [bastion_parlor_doodad_blackstaff.png](images/bastion/rooms/parlor/bastion_parlor_doodad_blackstaff.png){:target="_blank"}  
-> [bastion_parlor_doodad_cabinet.png](images/bastion/rooms/parlor/bastion_parlor_doodad_cabinet.png){:target="_blank"}  
-> [bastion_parlor_doodad_chair.png](images/bastion/rooms/parlor/bastion_parlor_doodad_chair.png){:target="_blank"}  
-> [bastion_parlor_doodad_chandelier.png](images/bastion/rooms/parlor/bastion_parlor_doodad_chandelier.png){:target="_blank"}  
-> [bastion_parlor_doodad_couch1.png](images/bastion/rooms/parlor/bastion_parlor_doodad_couch1.png){:target="_blank"}  
-> [bastion_parlor_doodad_couch2.png](images/bastion/rooms/parlor/bastion_parlor_doodad_couch2.png){:target="_blank"}  
-> [bastion_parlor_doodad_couch3.png](images/bastion/rooms/parlor/bastion_parlor_doodad_couch3.png){:target="_blank"}  
-> [bastion_parlor_doodad_door.png](images/bastion/rooms/parlor/bastion_parlor_doodad_door.png){:target="_blank"}  
-> [bastion_parlor_doodad_fernlarge.png](images/bastion/rooms/parlor/bastion_parlor_doodad_fernlarge.png){:target="_blank"}  
-> [bastion_parlor_doodad_fernsmall.png](images/bastion/rooms/parlor/bastion_parlor_doodad_fernsmall.png){:target="_blank"}  
-> [bastion_parlor_doodad_fireplace.png](images/bastion/rooms/parlor/bastion_parlor_doodad_fireplace.png){:target="_blank"}  
-> [bastion_parlor_doodad_leafyshrub.png](images/bastion/rooms/parlor/bastion_parlor_doodad_leafyshrub.png){:target="_blank"}  
-> [bastion_parlor_doodad_patrontable1.png](images/bastion/rooms/parlor/bastion_parlor_doodad_patrontable1.png){:target="_blank"}  
-> [bastion_parlor_doodad_patrontable2.png](images/bastion/rooms/parlor/bastion_parlor_doodad_patrontable2.png){:target="_blank"}  
-> [bastion_parlor_doodad_portraitelminster.png](images/bastion/rooms/parlor/bastion_parlor_doodad_portraitelminster.png){:target="_blank"}  
-> [bastion_parlor_doodad_portraitmirt.png](images/bastion/rooms/parlor/bastion_parlor_doodad_portraitmirt.png){:target="_blank"}  
-> [bastion_parlor_doodad_portraitstrahd.png](images/bastion/rooms/parlor/bastion_parlor_doodad_portraitstrahd.png){:target="_blank"}  
-> [bastion_parlor_doodad_portraitvajra.png](images/bastion/rooms/parlor/bastion_parlor_doodad_portraitvajra.png){:target="_blank"}  
-> [bastion_parlor_doodad_portraitzariel.png](images/bastion/rooms/parlor/bastion_parlor_doodad_portraitzariel.png){:target="_blank"}  
-> [bastion_parlor_doodad_roses.png](images/bastion/rooms/parlor/bastion_parlor_doodad_roses.png){:target="_blank"}  
-> [bastion_parlor_doodad_rug.png](images/bastion/rooms/parlor/bastion_parlor_doodad_rug.png){:target="_blank"}  
-> [bastion_parlor_doodad_shelvesleft.png](images/bastion/rooms/parlor/bastion_parlor_doodad_shelvesleft.png){:target="_blank"}  
-> [bastion_parlor_doodad_shelvesright.png](images/bastion/rooms/parlor/bastion_parlor_doodad_shelvesright.png){:target="_blank"}  
-> [bastion_parlor_doodad_shrub.png](images/bastion/rooms/parlor/bastion_parlor_doodad_shrub.png){:target="_blank"}  
-> [bastion_parlor_doodad_sidetable.png](images/bastion/rooms/parlor/bastion_parlor_doodad_sidetable.png){:target="_blank"}  
-> [bastion_parlor_doodad_telescope.png](images/bastion/rooms/parlor/bastion_parlor_doodad_telescope.png){:target="_blank"}  
-> [bastion_parlor_doodad_throne.png](images/bastion/rooms/parlor/bastion_parlor_doodad_throne.png){:target="_blank"}  
-> [bastion_parlor_doodad_urn1.png](images/bastion/rooms/parlor/bastion_parlor_doodad_urn1.png){:target="_blank"}  
-> [bastion_parlor_floor_panel01.png](images/bastion/rooms/parlor/bastion_parlor_floor_panel01.png){:target="_blank"}  
-> [bastion_parlor_floor_panel02.png](images/bastion/rooms/parlor/bastion_parlor_floor_panel02.png){:target="_blank"}  
-> [bastion_parlor_floor_panel03.png](images/bastion/rooms/parlor/bastion_parlor_floor_panel03.png){:target="_blank"}  
-> [bastion_parlor_wall_frontwallpanel.png](images/bastion/rooms/parlor/bastion_parlor_wall_frontwallpanel.png){:target="_blank"}  
-> [bastion_parlor_wall_panel01.png](images/bastion/rooms/parlor/bastion_parlor_wall_panel01.png){:target="_blank"}  
-> [bastion_parlor_wall_shadow.png](images/bastion/rooms/parlor/bastion_parlor_wall_shadow.png){:target="_blank"}  
-> [bastion_parlor_wall_sidewallfront.png](images/bastion/rooms/parlor/bastion_parlor_wall_sidewallfront.png){:target="_blank"}  
-> [bastion_parlor_wall_sidewalltop.png](images/bastion/rooms/parlor/bastion_parlor_wall_sidewalltop.png){:target="_blank"}  
-> [bastion_parlor_wall_window.png](images/bastion/rooms/parlor/bastion_parlor_wall_window.png){:target="_blank"}  
+> Have 20 Champions unlocked  
+> Have 2,000 total item levels across all Champions
+
+### Images
+
+> [Bastion_ExtWall_Pillar](images/bastion/rooms/parlor/bastion_extwall_pillar.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile](images/bastion/rooms/parlor/bastion_roof_inbetweentile.png){:target="_blank"}  
+> [Bastion_Parlor_Floor_Panel01](images/bastion/rooms/parlor/bastion_parlor_floor_panel01.png){:target="_blank"}  
+> [Bastion_Parlor_Floor_Panel03](images/bastion/rooms/parlor/bastion_parlor_floor_panel03.png){:target="_blank"}  
+> [Bastion_Parlor_Floor_Panel02](images/bastion/rooms/parlor/bastion_parlor_floor_panel02.png){:target="_blank"}  
+> [Bastion_Parlor_Wall_Panel01](images/bastion/rooms/parlor/bastion_parlor_wall_panel01.png){:target="_blank"}  
+> [Bastion_Parlor_Wall_FrontWallPanel](images/bastion/rooms/parlor/bastion_parlor_wall_frontwallpanel.png){:target="_blank"}  
+> [Bastion_Parlor_Wall_SideWallFront](images/bastion/rooms/parlor/bastion_parlor_wall_sidewallfront.png){:target="_blank"}  
+> [Bastion_Parlor_Wall_SideWallTop](images/bastion/rooms/parlor/bastion_parlor_wall_sidewalltop.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_Door](images/bastion/rooms/parlor/bastion_parlor_doodad_door.png){:target="_blank"}  
+> [Bastion_Parlor_Wall_Window](images/bastion/rooms/parlor/bastion_parlor_wall_window.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_Fireplace](images/bastion/rooms/parlor/bastion_parlor_doodad_fireplace.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_Blackstaff](images/bastion/rooms/parlor/bastion_parlor_doodad_blackstaff.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_PortraitElminster](images/bastion/rooms/parlor/bastion_parlor_doodad_portraitelminster.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_PortraitMirt](images/bastion/rooms/parlor/bastion_parlor_doodad_portraitmirt.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_PortraitStrahd](images/bastion/rooms/parlor/bastion_parlor_doodad_portraitstrahd.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_PortraitVajra](images/bastion/rooms/parlor/bastion_parlor_doodad_portraitvajra.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_PortraitZariel](images/bastion/rooms/parlor/bastion_parlor_doodad_portraitzariel.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_ShelvesLeft](images/bastion/rooms/parlor/bastion_parlor_doodad_shelvesleft.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_ShelvesRight](images/bastion/rooms/parlor/bastion_parlor_doodad_shelvesright.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_Cabinet](images/bastion/rooms/parlor/bastion_parlor_doodad_cabinet.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_Roses](images/bastion/rooms/parlor/bastion_parlor_doodad_roses.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_Telescope](images/bastion/rooms/parlor/bastion_parlor_doodad_telescope.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_Chandelier](images/bastion/rooms/parlor/bastion_parlor_doodad_chandelier.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_Chair](images/bastion/rooms/parlor/bastion_parlor_doodad_chair.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_Couch1](images/bastion/rooms/parlor/bastion_parlor_doodad_couch1.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_Couch2](images/bastion/rooms/parlor/bastion_parlor_doodad_couch2.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_Couch3](images/bastion/rooms/parlor/bastion_parlor_doodad_couch3.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_FernLarge](images/bastion/rooms/parlor/bastion_parlor_doodad_fernlarge.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_FernSmall](images/bastion/rooms/parlor/bastion_parlor_doodad_fernsmall.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_LeafyShrub](images/bastion/rooms/parlor/bastion_parlor_doodad_leafyshrub.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_PatronTable1](images/bastion/rooms/parlor/bastion_parlor_doodad_patrontable1.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_PatronTable2](images/bastion/rooms/parlor/bastion_parlor_doodad_patrontable2.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_Rug](images/bastion/rooms/parlor/bastion_parlor_doodad_rug.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_Shrub](images/bastion/rooms/parlor/bastion_parlor_doodad_shrub.png){:target="_blank"}  
+> [Bastion_Parlor_Doodad_Urn1](images/bastion/rooms/parlor/bastion_parlor_doodad_urn1.png){:target="_blank"}  
+> [Bastion_Roof_Roof1_Side](images/bastion/rooms/parlor/bastion_roof_roof1_side.png){:target="_blank"}  
+> [Bastion_Roof_Roof1_Panel](images/bastion/rooms/parlor/bastion_roof_roof1_panel.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile_Large](images/bastion/rooms/parlor/bastion_roof_inbetweentile_large.png){:target="_blank"}  
+> [Bastion_ExtWall_Panel](images/bastion/rooms/parlor/bastion_extwall_panel.png){:target="_blank"}  
+> [Bastion_Tavern_Doodad_FireplaceFire](images/bastion/rooms/parlor/bastion_tavern_doodad_fireplacefire.png){:target="_blank"}  
+> [Bastion_ExtWall_Window](images/bastion/rooms/parlor/bastion_extwall_window.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_HorzSide](images/bastion/rooms/parlor/bastion_roof_hallroof_horzside.png){:target="_blank"}  
+> [Bastion_Roof_PatternTIle](images/bastion/rooms/parlor/bastion_roof_patterntile.png){:target="_blank"}  
+> [Bastion_Roof_StoneDecor](images/bastion/rooms/parlor/bastion_roof_stonedecor.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallVinesLrg3](images/bastion/rooms/parlor/bastion_ext_doodad_wallvineslrg3.png){:target="_blank"}  
+> [Bastion_Roof_MossCorner1](images/bastion/rooms/parlor/bastion_roof_mosscorner1.png){:target="_blank"}  
+> [Bastion_ExtWall_SideWall](images/bastion/rooms/parlor/bastion_extwall_sidewall.png){:target="_blank"}  
 
 ## Reliquary
 
-Some graphics were found that had the format `Bastion/Rooms/Reliquary/...`:
+Unlocks Blessings, which are campaign specific or global buffs that you purchase using Divine Favor. You earn Divine Favor based on the total amount of gold you collect in each adventure you complete.
 
-> [bastion_reliquary_blessingsflame.webp](images/bastion/rooms/reliquary/bastion_reliquary_blessingsflame.webp){:target="_blank"} (animated)  
-> [bastion_reliquary_doodad_altar.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_altar.png){:target="_blank"}  
-> [bastion_reliquary_doodad_altarstand01.webp](images/bastion/rooms/reliquary/bastion_reliquary_doodad_altarstand01.webp){:target="_blank"} (animated)  
-> [bastion_reliquary_doodad_altarstand02.webp](images/bastion/rooms/reliquary/bastion_reliquary_doodad_altarstand02.webp){:target="_blank"} (animated)  
-> [bastion_reliquary_doodad_altarstand03.webp](images/bastion/rooms/reliquary/bastion_reliquary_doodad_altarstand03.webp){:target="_blank"} (animated)  
-> [bastion_reliquary_doodad_altarstand04.webp](images/bastion/rooms/reliquary/bastion_reliquary_doodad_altarstand04.webp){:target="_blank"} (animated)  
-> [bastion_reliquary_doodad_altarstand05.webp](images/bastion/rooms/reliquary/bastion_reliquary_doodad_altarstand05.webp){:target="_blank"} (animated)  
-> [bastion_reliquary_doodad_altarstand06.webp](images/bastion/rooms/reliquary/bastion_reliquary_doodad_altarstand06.webp){:target="_blank"} (animated)  
-> [bastion_reliquary_doodad_altarstand07.webp](images/bastion/rooms/reliquary/bastion_reliquary_doodad_altarstand07.webp){:target="_blank"} (animated)  
-> [bastion_reliquary_doodad_altarstand08.webp](images/bastion/rooms/reliquary/bastion_reliquary_doodad_altarstand08.webp){:target="_blank"} (animated)  
-> [bastion_reliquary_doodad_altarstand09.webp](images/bastion/rooms/reliquary/bastion_reliquary_doodad_altarstand09.webp){:target="_blank"} (animated)  
-> [bastion_reliquary_doodad_altarstand10.webp](images/bastion/rooms/reliquary/bastion_reliquary_doodad_altarstand10.webp){:target="_blank"} (animated)  
-> [bastion_reliquary_doodad_altarstand11.webp](images/bastion/rooms/reliquary/bastion_reliquary_doodad_altarstand11.webp){:target="_blank"} (animated)  
-> [bastion_reliquary_doodad_beads01.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_beads01.png){:target="_blank"}  
-> [bastion_reliquary_doodad_beads02.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_beads02.png){:target="_blank"}  
-> [bastion_reliquary_doodad_blanket.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_blanket.png){:target="_blank"}  
-> [bastion_reliquary_doodad_candlestick.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_candlestick.png){:target="_blank"}  
-> [bastion_reliquary_doodad_curtain01.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_curtain01.png){:target="_blank"}  
-> [bastion_reliquary_doodad_curtain02.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_curtain02.png){:target="_blank"}  
-> [bastion_reliquary_doodad_curtain03.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_curtain03.png){:target="_blank"}  
-> [bastion_reliquary_doodad_curtain04.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_curtain04.png){:target="_blank"}  
-> [bastion_reliquary_doodad_curtain05.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_curtain05.png){:target="_blank"}  
-> [bastion_reliquary_doodad_jar01.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_jar01.png){:target="_blank"}  
-> [bastion_reliquary_doodad_jar02.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_jar02.png){:target="_blank"}  
-> [bastion_reliquary_doodad_jar03.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_jar03.png){:target="_blank"}  
-> [bastion_reliquary_doodad_jar04.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_jar04.png){:target="_blank"}  
-> [bastion_reliquary_doodad_jar05.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_jar05.png){:target="_blank"}  
-> [bastion_reliquary_doodad_jar06.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_jar06.png){:target="_blank"}  
-> [bastion_reliquary_doodad_jar07.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_jar07.png){:target="_blank"}  
-> [bastion_reliquary_doodad_jar08.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_jar08.png){:target="_blank"}  
-> [bastion_reliquary_doodad_lights.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_lights.png){:target="_blank"}  
-> [bastion_reliquary_doodad_pillow01.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_pillow01.png){:target="_blank"}  
-> [bastion_reliquary_doodad_pillow02.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_pillow02.png){:target="_blank"}  
-> [bastion_reliquary_doodad_pillow03.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_pillow03.png){:target="_blank"}  
-> [bastion_reliquary_doodad_pillow04.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_pillow04.png){:target="_blank"}  
-> [bastion_reliquary_doodad_pillow05.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_pillow05.png){:target="_blank"}  
-> [bastion_reliquary_doodad_scrolls.png](images/bastion/rooms/reliquary/bastion_reliquary_doodad_scrolls.png){:target="_blank"}  
-> [bastion_reliquary_floor_altar.png](images/bastion/rooms/reliquary/bastion_reliquary_floor_altar.png){:target="_blank"}  
-> [bastion_reliquary_floor_carpet.png](images/bastion/rooms/reliquary/bastion_reliquary_floor_carpet.png){:target="_blank"}  
-> [bastion_reliquary_floor_door.png](images/bastion/rooms/reliquary/bastion_reliquary_floor_door.png){:target="_blank"}  
-> [bastion_reliquary_floor_tile.png](images/bastion/rooms/reliquary/bastion_reliquary_floor_tile.png){:target="_blank"}  
-> [bastion_reliquary_general_backwallgradient.png](images/bastion/rooms/reliquary/bastion_reliquary_general_backwallgradient.png){:target="_blank"}  
-> [bastion_reliquary_general_glow.png](images/bastion/rooms/reliquary/bastion_reliquary_general_glow.png){:target="_blank"}  
-> [bastion_reliquary_wall_arch01.png](images/bastion/rooms/reliquary/bastion_reliquary_wall_arch01.png){:target="_blank"}  
-> [bastion_reliquary_wall_arch02.png](images/bastion/rooms/reliquary/bastion_reliquary_wall_arch02.png){:target="_blank"}  
-> [bastion_reliquary_wall_arch03.png](images/bastion/rooms/reliquary/bastion_reliquary_wall_arch03.png){:target="_blank"}  
-> [bastion_reliquary_wall_arch04.png](images/bastion/rooms/reliquary/bastion_reliquary_wall_arch04.png){:target="_blank"}  
-> [bastion_reliquary_wall_archback.png](images/bastion/rooms/reliquary/bastion_reliquary_wall_archback.png){:target="_blank"}  
-> [bastion_reliquary_wall_archfront.png](images/bastion/rooms/reliquary/bastion_reliquary_wall_archfront.png){:target="_blank"}  
-> [bastion_reliquary_wall_sidewallfront.png](images/bastion/rooms/reliquary/bastion_reliquary_wall_sidewallfront.png){:target="_blank"}  
-> [bastion_reliquary_wall_sidewalltop.png](images/bastion/rooms/reliquary/bastion_reliquary_wall_sidewalltop.png){:target="_blank"}  
-> [bastion_reliquary_wall_tile.png](images/bastion/rooms/reliquary/bastion_reliquary_wall_tile.png){:target="_blank"}  
+### Unlock Requirements
+
+> Earn at least 10,000 Torm's Favor
+
+### Images
+
+> [Bastion_Roof_InbetweenTile_Large](images/bastion/rooms/reliquary/bastion_roof_inbetweentile_large.png){:target="_blank"}  
+> [Bastion_Reliquary_Floor_Tile](images/bastion/rooms/reliquary/bastion_reliquary_floor_tile.png){:target="_blank"}  
+> [Bastion_Reliquary_Wall_Tile](images/bastion/rooms/reliquary/bastion_reliquary_wall_tile.png){:target="_blank"}  
+> [Bastion_Reliquary_Wall_ArchBack](images/bastion/rooms/reliquary/bastion_reliquary_wall_archback.png){:target="_blank"}  
+> [Bastion_Reliquary_Wall_ArchFront](images/bastion/rooms/reliquary/bastion_reliquary_wall_archfront.png){:target="_blank"}  
+> [Bastion_Reliquary_Wall_Arch01](images/bastion/rooms/reliquary/bastion_reliquary_wall_arch01.png){:target="_blank"}  
+> [Bastion_Reliquary_Wall_Arch02](images/bastion/rooms/reliquary/bastion_reliquary_wall_arch02.png){:target="_blank"}  
+> [Bastion_Reliquary_Wall_Arch03](images/bastion/rooms/reliquary/bastion_reliquary_wall_arch03.png){:target="_blank"}  
+> [Bastion_Reliquary_Wall_Arch04](images/bastion/rooms/reliquary/bastion_reliquary_wall_arch04.png){:target="_blank"}  
+> [Bastion_Reliquary_Floor_Carpet](images/bastion/rooms/reliquary/bastion_reliquary_floor_carpet.png){:target="_blank"}  
+> [Bastion_Reliquary_Floor_Door](images/bastion/rooms/reliquary/bastion_reliquary_floor_door.png){:target="_blank"}  
+> [Bastion_Reliquary_Floor_Altar](images/bastion/rooms/reliquary/bastion_reliquary_floor_altar.png){:target="_blank"}  
+> [Bastion_Reliquary_Wall_SideWallTop](images/bastion/rooms/reliquary/bastion_reliquary_wall_sidewalltop.png){:target="_blank"}  
+> [Bastion_Reliquary_Wall_SideWallFront](images/bastion/rooms/reliquary/bastion_reliquary_wall_sidewallfront.png){:target="_blank"}  
+> [Bastion_Reliquary_Doodad_Beads01](images/bastion/rooms/reliquary/bastion_reliquary_doodad_beads01.png){:target="_blank"}  
+> [Bastion_Reliquary_Doodad_Beads02](images/bastion/rooms/reliquary/bastion_reliquary_doodad_beads02.png){:target="_blank"}  
+> [Bastion_Reliquary_Doodad_Blanket](images/bastion/rooms/reliquary/bastion_reliquary_doodad_blanket.png){:target="_blank"}  
+> [Bastion_Reliquary_Doodad_Candlestick](images/bastion/rooms/reliquary/bastion_reliquary_doodad_candlestick.png){:target="_blank"}  
+> [Bastion_Reliquary_Doodad_Curtain01](images/bastion/rooms/reliquary/bastion_reliquary_doodad_curtain01.png){:target="_blank"}  
+> [Bastion_Reliquary_Doodad_Curtain02](images/bastion/rooms/reliquary/bastion_reliquary_doodad_curtain02.png){:target="_blank"}  
+> [Bastion_Reliquary_Doodad_Curtain03](images/bastion/rooms/reliquary/bastion_reliquary_doodad_curtain03.png){:target="_blank"}  
+> [Bastion_Reliquary_Doodad_Curtain04](images/bastion/rooms/reliquary/bastion_reliquary_doodad_curtain04.png){:target="_blank"}  
+> [Bastion_Reliquary_Doodad_Curtain05](images/bastion/rooms/reliquary/bastion_reliquary_doodad_curtain05.png){:target="_blank"}  
+> [Bastion_Reliquary_Doodad_Pillow03](images/bastion/rooms/reliquary/bastion_reliquary_doodad_pillow03.png){:target="_blank"}  
+> [Bastion_Reliquary_Doodad_Pillow05](images/bastion/rooms/reliquary/bastion_reliquary_doodad_pillow05.png){:target="_blank"}  
+> [Bastion_Reliquary_Doodad_Scrolls](images/bastion/rooms/reliquary/bastion_reliquary_doodad_scrolls.png){:target="_blank"}  
+> [Bastion_Reliquary_General_Glow](images/bastion/rooms/reliquary/bastion_reliquary_general_glow.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile](images/bastion/rooms/reliquary/bastion_roof_inbetweentile.png){:target="_blank"}  
+> [Bastion_Roof_Roof2_Side](images/bastion/rooms/reliquary/bastion_roof_roof2_side.png){:target="_blank"}  
+> [Bastion_Roof_Roof2_Panel](images/bastion/rooms/reliquary/bastion_roof_roof2_panel.png){:target="_blank"}  
+> [Bastion_Roof_SmallTopper](images/bastion/rooms/reliquary/bastion_roof_smalltopper.png){:target="_blank"}  
+> [Bastion_Reliquary_General_BackWallGradient](images/bastion/rooms/reliquary/bastion_reliquary_general_backwallgradient.png){:target="_blank"}  
+> [Bastion_Reliquary_Doodad_Pillow04](images/bastion/rooms/reliquary/bastion_reliquary_doodad_pillow04.png){:target="_blank"}  
+> [Bastion_Reliquary_Doodad_Pillow01](images/bastion/rooms/reliquary/bastion_reliquary_doodad_pillow01.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_HorzSide](images/bastion/rooms/reliquary/bastion_roof_hallroof_horzside.png){:target="_blank"}  
+> [Bastion_Roof_PatternTIle](images/bastion/rooms/reliquary/bastion_roof_patterntile.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallVinesLrg3](images/bastion/rooms/reliquary/bastion_ext_doodad_wallvineslrg3.png){:target="_blank"}  
 
 ## Sanctuary
 
-Some graphics were found that had the format `Bastion/Rooms/Sanctuary/...`:
+Unlocks Time Gates, which allow you to spend Time Gate Pieces to unlock and collect Chests for any Champion normally unlocked via an Event.
 
-> [bastion_sanctuary_doodad_candle.webp](images/bastion/rooms/sanctuary/bastion_sanctuary_doodad_candle.webp){:target="_blank"} (animated)  
-> [bastion_sanctuary_doodad_tabard.png](images/bastion/rooms/sanctuary/bastion_sanctuary_doodad_tabard.png){:target="_blank"}  
-> [bastion_sanctuary_doodad_timegate.png](images/bastion/rooms/sanctuary/bastion_sanctuary_doodad_timegate.png){:target="_blank"}  
-> [bastion_sanctuary_floor_backpool.png](images/bastion/rooms/sanctuary/bastion_sanctuary_floor_backpool.png){:target="_blank"}  
-> [bastion_sanctuary_floor_door.png](images/bastion/rooms/sanctuary/bastion_sanctuary_floor_door.png){:target="_blank"}  
-> [bastion_sanctuary_floor_frontpool.png](images/bastion/rooms/sanctuary/bastion_sanctuary_floor_frontpool.png){:target="_blank"}  
-> [bastion_sanctuary_floor_tile.png](images/bastion/rooms/sanctuary/bastion_sanctuary_floor_tile.png){:target="_blank"}  
-> [bastion_sanctuary_floor_timegatepool.png](images/bastion/rooms/sanctuary/bastion_sanctuary_floor_timegatepool.png){:target="_blank"}  
-> [bastion_sanctuary_wall_altar01.webp](images/bastion/rooms/sanctuary/bastion_sanctuary_wall_altar01.webp){:target="_blank"} (animated)  
-> [bastion_sanctuary_wall_altar02.webp](images/bastion/rooms/sanctuary/bastion_sanctuary_wall_altar02.webp){:target="_blank"} (animated)  
-> [bastion_sanctuary_wall_altar03.webp](images/bastion/rooms/sanctuary/bastion_sanctuary_wall_altar03.webp){:target="_blank"} (animated)  
-> [bastion_sanctuary_wall_sidewallback01.png](images/bastion/rooms/sanctuary/bastion_sanctuary_wall_sidewallback01.png){:target="_blank"}  
-> [bastion_sanctuary_wall_sidewallback02.png](images/bastion/rooms/sanctuary/bastion_sanctuary_wall_sidewallback02.png){:target="_blank"}  
-> [bastion_sanctuary_wall_sidewallback03.png](images/bastion/rooms/sanctuary/bastion_sanctuary_wall_sidewallback03.png){:target="_blank"}  
-> [bastion_sanctuary_wall_sidewallfront.png](images/bastion/rooms/sanctuary/bastion_sanctuary_wall_sidewallfront.png){:target="_blank"}  
-> [bastion_sanctuary_wall_sidewalltop.png](images/bastion/rooms/sanctuary/bastion_sanctuary_wall_sidewalltop.png){:target="_blank"}  
-> [bastion_sanctuary_wall_tile.png](images/bastion/rooms/sanctuary/bastion_sanctuary_wall_tile.png){:target="_blank"}  
+### Unlock Requirements
+
+> Obtain 6 Time Gate Pieces
+
+### Images
+
+> [Bastion_Sanctuary_Wall_SideWallFront](images/bastion/rooms/sanctuary/bastion_sanctuary_wall_sidewallfront.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile_Large](images/bastion/rooms/sanctuary/bastion_roof_inbetweentile_large.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile](images/bastion/rooms/sanctuary/bastion_roof_inbetweentile.png){:target="_blank"}  
+> [Bastion_Sanctuary_Wall_Tile](images/bastion/rooms/sanctuary/bastion_sanctuary_wall_tile.png){:target="_blank"}  
+> [Bastion_Sanctuary_Wall_SideWallBack02](images/bastion/rooms/sanctuary/bastion_sanctuary_wall_sidewallback02.png){:target="_blank"}  
+> [Bastion_Sanctuary_Wall_SideWallBack03](images/bastion/rooms/sanctuary/bastion_sanctuary_wall_sidewallback03.png){:target="_blank"}  
+> [Bastion_Sanctuary_Wall_SideWallTop](images/bastion/rooms/sanctuary/bastion_sanctuary_wall_sidewalltop.png){:target="_blank"}  
+> [Bastion_Sanctuary_Floor_Door](images/bastion/rooms/sanctuary/bastion_sanctuary_floor_door.png){:target="_blank"}  
+> [Bastion_Sanctuary_Floor_Tile](images/bastion/rooms/sanctuary/bastion_sanctuary_floor_tile.png){:target="_blank"}  
+> [Bastion_Sanctuary_Wall_Altar03](images/bastion/rooms/sanctuary/bastion_sanctuary_wall_altar03.webp){:target="_blank"} (animated)  
+> [Bastion_Sanctuary_Floor_BackPool](images/bastion/rooms/sanctuary/bastion_sanctuary_floor_backpool.png){:target="_blank"}  
+> [Bastion_Sanctuary_Floor_FrontPool](images/bastion/rooms/sanctuary/bastion_sanctuary_floor_frontpool.png){:target="_blank"}  
+> [Bastion_Sanctuary_Floor_TimeGatePool](images/bastion/rooms/sanctuary/bastion_sanctuary_floor_timegatepool.png){:target="_blank"}  
+> [Bastion_Sanctuary_Doodad_Tabard](images/bastion/rooms/sanctuary/bastion_sanctuary_doodad_tabard.png){:target="_blank"}  
+> [Bastion_Sanctuary_Doodad_Candle](images/bastion/rooms/sanctuary/bastion_sanctuary_doodad_candle.webp){:target="_blank"} (animated)  
+> [Bastion_Roof_Roof3_Side](images/bastion/rooms/sanctuary/bastion_roof_roof3_side.png){:target="_blank"}  
+> [Bastion_Roof_Roof3_Panel](images/bastion/rooms/sanctuary/bastion_roof_roof3_panel.png){:target="_blank"}  
+> [Bastion_Sanctuary_Wall_SideWallBack01](images/bastion/rooms/sanctuary/bastion_sanctuary_wall_sidewallback01.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_HorzSide](images/bastion/rooms/sanctuary/bastion_roof_hallroof_horzside.png){:target="_blank"}  
+> [Bastion_Roof_PatternTIle](images/bastion/rooms/sanctuary/bastion_roof_patterntile.png){:target="_blank"}  
+> [Bastion_Roof_StoneDecor](images/bastion/rooms/sanctuary/bastion_roof_stonedecor.png){:target="_blank"}  
+> [Bastion_Roof_MossBlob](images/bastion/rooms/sanctuary/bastion_roof_mossblob.png){:target="_blank"}  
+> [Bastion_Roof_MossCorner2](images/bastion/rooms/sanctuary/bastion_roof_mosscorner2.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallVines2](images/bastion/rooms/sanctuary/bastion_ext_doodad_wallvines2.png){:target="_blank"}  
+> [Bastion_Sanctuary_Doodad_Candlelight](images/bastion/rooms/sanctuary/bastion_sanctuary_doodad_candlelight.png){:target="_blank"}  
 
 ## Tavern
 
-Some graphics were found that had the format `Bastion/Rooms/Tavern/...`:
+Collect Champions to fill your Tavern and unlock additional adventuring parties.
 
-> [bastion_doodad_antlerdeco.png](images/bastion/rooms/tavern/bastion_doodad_antlerdeco.png){:target="_blank"}  
-> [bastion_doodad_axedeco.png](images/bastion/rooms/tavern/bastion_doodad_axedeco.png){:target="_blank"}  
-> [bastion_doodad_backtable.png](images/bastion/rooms/tavern/bastion_doodad_backtable.png){:target="_blank"}  
-> [bastion_doodad_banner.png](images/bastion/rooms/tavern/bastion_doodad_banner.png){:target="_blank"}  
-> [bastion_doodad_banner2.png](images/bastion/rooms/tavern/bastion_doodad_banner2.png){:target="_blank"}  
-> [bastion_doodad_banner3.png](images/bastion/rooms/tavern/bastion_doodad_banner3.png){:target="_blank"}  
-> [bastion_doodad_banner4.png](images/bastion/rooms/tavern/bastion_doodad_banner4.png){:target="_blank"}  
-> [bastion_doodad_barrel.png](images/bastion/rooms/tavern/bastion_doodad_barrel.png){:target="_blank"}  
-> [bastion_doodad_barrelcloth.png](images/bastion/rooms/tavern/bastion_doodad_barrelcloth.png){:target="_blank"}  
-> [bastion_doodad_barreltap.png](images/bastion/rooms/tavern/bastion_doodad_barreltap.png){:target="_blank"}  
-> [bastion_doodad_bartop.png](images/bastion/rooms/tavern/bastion_doodad_bartop.png){:target="_blank"}  
-> [bastion_doodad_boardeco.png](images/bastion/rooms/tavern/bastion_doodad_boardeco.png){:target="_blank"}  
-> [bastion_doodad_bread.png](images/bastion/rooms/tavern/bastion_doodad_bread.png){:target="_blank"}  
-> [bastion_doodad_candle.webp](images/bastion/rooms/tavern/bastion_doodad_candle.webp){:target="_blank"} (animated)  
-> [bastion_doodad_diagonalchair.png](images/bastion/rooms/tavern/bastion_doodad_diagonalchair.png){:target="_blank"}  
-> [bastion_doodad_framedeco.png](images/bastion/rooms/tavern/bastion_doodad_framedeco.png){:target="_blank"}  
-> [bastion_doodad_jukebox.png](images/bastion/rooms/tavern/bastion_doodad_jukebox.png){:target="_blank"}  
-> [bastion_doodad_lantern.png](images/bastion/rooms/tavern/bastion_doodad_lantern.png){:target="_blank"}  
-> [bastion_doodad_longshelf.png](images/bastion/rooms/tavern/bastion_doodad_longshelf.png){:target="_blank"}  
-> [bastion_doodad_pint.png](images/bastion/rooms/tavern/bastion_doodad_pint.png){:target="_blank"}  
-> [bastion_doodad_pint2.png](images/bastion/rooms/tavern/bastion_doodad_pint2.png){:target="_blank"}  
-> [bastion_doodad_roundtable.png](images/bastion/rooms/tavern/bastion_doodad_roundtable.png){:target="_blank"}  
-> [bastion_doodad_rug.png](images/bastion/rooms/tavern/bastion_doodad_rug.png){:target="_blank"}  
-> [bastion_doodad_skulldeco.png](images/bastion/rooms/tavern/bastion_doodad_skulldeco.png){:target="_blank"}  
-> [bastion_doodad_standingcandle.png](images/bastion/rooms/tavern/bastion_doodad_standingcandle.png){:target="_blank"}  
-> [bastion_doodad_stool.png](images/bastion/rooms/tavern/bastion_doodad_stool.png){:target="_blank"}  
-> [bastion_doodad_winerack.png](images/bastion/rooms/tavern/bastion_doodad_winerack.png){:target="_blank"}  
-> [bastion_floor_woodhorz_panel1.png](images/bastion/rooms/tavern/bastion_floor_woodhorz_panel1.png){:target="_blank"}  
-> [bastion_floor_woodvertical_panel1.png](images/bastion/rooms/tavern/bastion_floor_woodvertical_panel1.png){:target="_blank"}  
-> [bastion_general_backwallgradient.png](images/bastion/rooms/tavern/bastion_general_backwallgradient.png){:target="_blank"}  
-> [bastion_tavern_doodad_barback.png](images/bastion/rooms/tavern/bastion_tavern_doodad_barback.png){:target="_blank"}  
-> [bastion_tavern_doodad_barrelsingle.png](images/bastion/rooms/tavern/bastion_tavern_doodad_barrelsingle.png){:target="_blank"}  
-> [bastion_tavern_doodad_barrelstack.png](images/bastion/rooms/tavern/bastion_tavern_doodad_barrelstack.png){:target="_blank"}  
-> [bastion_tavern_doodad_barside.png](images/bastion/rooms/tavern/bastion_tavern_doodad_barside.png){:target="_blank"}  
-> [bastion_tavern_doodad_fireplace.png](images/bastion/rooms/tavern/bastion_tavern_doodad_fireplace.png){:target="_blank"}  
-> [bastion_tavern_doodad_fireplacefire.png](images/bastion/rooms/tavern/bastion_tavern_doodad_fireplacefire.png){:target="_blank"}  
-> [bastion_tavern_doodad_fireplacefloorglow.png](images/bastion/rooms/tavern/bastion_tavern_doodad_fireplacefloorglow.png){:target="_blank"}  
-> [bastion_tavern_doodad_lightstring1.png](images/bastion/rooms/tavern/bastion_tavern_doodad_lightstring1.png){:target="_blank"}  
-> [bastion_tavern_doodad_lightstring2.png](images/bastion/rooms/tavern/bastion_tavern_doodad_lightstring2.png){:target="_blank"}  
-> [bastion_tavern_doodad_lightstring3.png](images/bastion/rooms/tavern/bastion_tavern_doodad_lightstring3.png){:target="_blank"}  
-> [bastion_tavern_doodad_partytable.png](images/bastion/rooms/tavern/bastion_tavern_doodad_partytable.png){:target="_blank"}  
-> [bastion_tavern_doodad_sacks.png](images/bastion/rooms/tavern/bastion_tavern_doodad_sacks.png){:target="_blank"}  
-> [bastion_tavern_doodad_stage.png](images/bastion/rooms/tavern/bastion_tavern_doodad_stage.png){:target="_blank"}  
-> [bastion_tavern_doodad_stainedglasswindow.png](images/bastion/rooms/tavern/bastion_tavern_doodad_stainedglasswindow.png){:target="_blank"}  
-> [bastion_tavern_doodad_stainglassglow.png](images/bastion/rooms/tavern/bastion_tavern_doodad_stainglassglow.png){:target="_blank"}  
-> [bastion_tavern_doodad_tablesetting1.png](images/bastion/rooms/tavern/bastion_tavern_doodad_tablesetting1.png){:target="_blank"}  
-> [bastion_tavern_doodad_tablesetting2.png](images/bastion/rooms/tavern/bastion_tavern_doodad_tablesetting2.png){:target="_blank"}  
-> [bastion_tavern_doodad_tablesetting3.png](images/bastion/rooms/tavern/bastion_tavern_doodad_tablesetting3.png){:target="_blank"}  
-> [bastion_tavern_doodad_tablesetting4.png](images/bastion/rooms/tavern/bastion_tavern_doodad_tablesetting4.png){:target="_blank"}  
-> [bastion_tavern_doodad_wallmap.png](images/bastion/rooms/tavern/bastion_tavern_doodad_wallmap.png){:target="_blank"}  
-> [bastion_tavern_doodad_wallsword.png](images/bastion/rooms/tavern/bastion_tavern_doodad_wallsword.png){:target="_blank"}  
-> [bastion_tavern_doodad_winebottle.png](images/bastion/rooms/tavern/bastion_tavern_doodad_winebottle.png){:target="_blank"}  
-> [bastion_tavern_doodad_winespills.png](images/bastion/rooms/tavern/bastion_tavern_doodad_winespills.png){:target="_blank"}  
-> [bastion_tavern_doodads_wallvines.png](images/bastion/rooms/tavern/bastion_tavern_doodads_wallvines.png){:target="_blank"}  
-> [bastion_tavern_doodads_wallvines_corner.png](images/bastion/rooms/tavern/bastion_tavern_doodads_wallvines_corner.png){:target="_blank"}  
-> [bastion_tavern_floor_balconypiece.png](images/bastion/rooms/tavern/bastion_tavern_floor_balconypiece.png){:target="_blank"}  
-> [bastion_tavern_floor_balconystairs.png](images/bastion/rooms/tavern/bastion_tavern_floor_balconystairs.png){:target="_blank"}  
-> [bastion_tavern_floor_stairrailing.png](images/bastion/rooms/tavern/bastion_tavern_floor_stairrailing.png){:target="_blank"}  
-> [bastion_tavern_wall_balconyrailing.png](images/bastion/rooms/tavern/bastion_tavern_wall_balconyrailing.png){:target="_blank"}  
-> [bastion_wall_tavern_cutout.png](images/bastion/rooms/tavern/bastion_wall_tavern_cutout.png){:target="_blank"}  
-> [bastion_wall_tavern_panel1.png](images/bastion/rooms/tavern/bastion_wall_tavern_panel1.png){:target="_blank"}  
-> [bastion_wall_tavern_sidewallcorner.png](images/bastion/rooms/tavern/bastion_wall_tavern_sidewallcorner.png){:target="_blank"}  
-> [bastion_wall_tavern_sidewallfront.png](images/bastion/rooms/tavern/bastion_wall_tavern_sidewallfront.png){:target="_blank"}  
-> [bastion_wall_tavern_sidewalltop.png](images/bastion/rooms/tavern/bastion_wall_tavern_sidewalltop.png){:target="_blank"}  
+### Upgrading Unlocks
+
+> Have at least two Champions in every bench seat: Second adventuring party  
+> Have at least three Champions in every bench seat: Third adventuring party  
+> Have at least four Champions in every bench seat: Fourth adventuring party
+
+### Images
+
+> [Bastion_Floor_WoodHorz_Panel1](images/bastion/rooms/tavern/bastion_floor_woodhorz_panel1.png){:target="_blank"}  
+> [Bastion_Floor_WoodVertical_Panel1](images/bastion/rooms/tavern/bastion_floor_woodvertical_panel1.png){:target="_blank"}  
+> [Bastion_Wall_Hallway_Door_Side](images/bastion/rooms/tavern/bastion_wall_hallway_door_side.png){:target="_blank"}  
+> [Bastion_Wall_Tavern_Panel1](images/bastion/rooms/tavern/bastion_wall_tavern_panel1.png){:target="_blank"}  
+> [Bastion_Tradehall_Wall_FrontWallPanel](images/bastion/rooms/tavern/bastion_tradehall_wall_frontwallpanel.png){:target="_blank"}  
+> [Bastion_Tradehall_Wall_SideWallFront](images/bastion/rooms/tavern/bastion_tradehall_wall_sidewallfront.png){:target="_blank"}  
+> [Bastion_Tradehall_Wall_SideWallTop](images/bastion/rooms/tavern/bastion_tradehall_wall_sidewalltop.png){:target="_blank"}  
+> [Bastion_Wall_Tavern_SideWallCorner](images/bastion/rooms/tavern/bastion_wall_tavern_sidewallcorner.png){:target="_blank"}  
+> [Bastion_Tradehall_General_BackWallGradient](images/bastion/rooms/tavern/bastion_tradehall_general_backwallgradient.png){:target="_blank"}  
+> [Bastion_Doodad_RoundTable](images/bastion/rooms/tavern/bastion_doodad_roundtable.png){:target="_blank"}  
+> [Bastion_Roof_Roof1_Side](images/bastion/rooms/tavern/bastion_roof_roof1_side.png){:target="_blank"}  
+> [Bastion_Roof_Roof1_Panel](images/bastion/rooms/tavern/bastion_roof_roof1_panel.png){:target="_blank"}  
+> [Bastion_Roof_SmallTopper](images/bastion/rooms/tavern/bastion_roof_smalltopper.png){:target="_blank"}  
+> [Bastion_Roof_MediumTopper](images/bastion/rooms/tavern/bastion_roof_mediumtopper.png){:target="_blank"}  
+> [Bastion_Tavern_Doodad_BarBack](images/bastion/rooms/tavern/bastion_tavern_doodad_barback.png){:target="_blank"}  
+> [Bastion_Tavern_Doodad_FireplaceFloorGlow](images/bastion/rooms/tavern/bastion_tavern_doodad_fireplacefloorglow.png){:target="_blank"}  
+> [Bastion_Tavern_Doodad_LightStrings](images/bastion/rooms/tavern/bastion_tavern_doodad_lightstrings.png){:target="_blank"}  
+> [Bastion_Tavern_Floor_BalconyPiece](images/bastion/rooms/tavern/bastion_tavern_floor_balconypiece.png){:target="_blank"}  
+> [Bastion_Tavern_Floor_BalconyStairs](images/bastion/rooms/tavern/bastion_tavern_floor_balconystairs.png){:target="_blank"}  
+> [Bastion_Tavern_Floor_StairRailing](images/bastion/rooms/tavern/bastion_tavern_floor_stairrailing.png){:target="_blank"}  
+> [Bastion_Tavern_Doodads_WallVines_Corner](images/bastion/rooms/tavern/bastion_tavern_doodads_wallvines_corner.png){:target="_blank"}  
+> [Bastion_Tavern_Doodad_BarrelStack](images/bastion/rooms/tavern/bastion_tavern_doodad_barrelstack.png){:target="_blank"}  
+> [Bastion_Tavern_Doodad_BarrelSingle](images/bastion/rooms/tavern/bastion_tavern_doodad_barrelsingle.png){:target="_blank"}  
+> [Bastion_Tavern_Wall_BalconyRailing](images/bastion/rooms/tavern/bastion_tavern_wall_balconyrailing.png){:target="_blank"}  
+> [Bastion_Tavern_Doodad_Stage](images/bastion/rooms/tavern/bastion_tavern_doodad_stage.png){:target="_blank"}  
+> [Bastion_Doodad_Rug](images/bastion/rooms/tavern/bastion_doodad_rug.png){:target="_blank"}  
+> [Bastion_Doodad_Lantern](images/bastion/rooms/tavern/bastion_doodad_lantern.png){:target="_blank"}  
+> [Bastion_Doodad_BackTable](images/bastion/rooms/tavern/bastion_doodad_backtable.png){:target="_blank"}  
+> [Bastion_Tavern_Doodad_StainedGlassWindow](images/bastion/rooms/tavern/bastion_tavern_doodad_stainedglasswindow.png){:target="_blank"}  
+> [Bastion_Tavern_Doodad_StainglassGlow](images/bastion/rooms/tavern/bastion_tavern_doodad_stainglassglow.png){:target="_blank"}  
+> [Bastion_Tavern_Doodad_WallMap](images/bastion/rooms/tavern/bastion_tavern_doodad_wallmap.png){:target="_blank"}  
+> [Bastion_Doodad_BarrelTap](images/bastion/rooms/tavern/bastion_doodad_barreltap.png){:target="_blank"}  
+> [Bastion_Doodad_BarrelCloth](images/bastion/rooms/tavern/bastion_doodad_barrelcloth.png){:target="_blank"}  
+> [Bastion_Tavern_Doodad_Winespills](images/bastion/rooms/tavern/bastion_tavern_doodad_winespills.png){:target="_blank"}  
+> [Bastion_Doodad_FrameDeco](images/bastion/rooms/tavern/bastion_doodad_framedeco.png){:target="_blank"}  
+> [Bastion_Doodad_StandingCandle](images/bastion/rooms/tavern/bastion_doodad_standingcandle.png){:target="_blank"}  
+> [Bastion_Doodad_SkullDeco](images/bastion/rooms/tavern/bastion_doodad_skulldeco.png){:target="_blank"}  
+> [Bastion_Tavern_Doodad_Sacks](images/bastion/rooms/tavern/bastion_tavern_doodad_sacks.png){:target="_blank"}  
+> [Bastion_Tavern_Doodad_TableSetting3](images/bastion/rooms/tavern/bastion_tavern_doodad_tablesetting3.png){:target="_blank"}  
+> [Bastion_Tavern_Doodad_WallSword](images/bastion/rooms/tavern/bastion_tavern_doodad_wallsword.png){:target="_blank"}  
+> [Bastion_Tavern_Doodad_Fireplace](images/bastion/rooms/tavern/bastion_tavern_doodad_fireplace.png){:target="_blank"}  
+> [Bastion_Tavern_Doodad_FireplaceFire](images/bastion/rooms/tavern/bastion_tavern_doodad_fireplacefire.png){:target="_blank"}  
+> [Bastion_ExtWall_Panel](images/bastion/rooms/tavern/bastion_extwall_panel.png){:target="_blank"}  
+> [Bastion_ExtWall_Window](images/bastion/rooms/tavern/bastion_extwall_window.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_HorzSide](images/bastion/rooms/tavern/bastion_roof_hallroof_horzside.png){:target="_blank"}  
 
 ## Tradehall
 
-Some graphics were found that had the format `Bastion/Rooms/Tradehall/...`:
+Grants access to the Shop, where you can use Gems, Platinum, and other currencies to unlock Champions and Chests, along with Skins, Familiars, Feats, and various other useful items.
 
-> [bastion_tradehall_doodad_arrows.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_arrows.png){:target="_blank"}  
-> [bastion_tradehall_doodad_banner.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_banner.png){:target="_blank"}  
-> [bastion_tradehall_doodad_boxes1.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_boxes1.png){:target="_blank"}  
-> [bastion_tradehall_doodad_boxes2.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_boxes2.png){:target="_blank"}  
-> [bastion_tradehall_doodad_boxes3.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_boxes3.png){:target="_blank"}  
-> [bastion_tradehall_doodad_candellamp.webp](images/bastion/rooms/tradehall/bastion_tradehall_doodad_candellamp.webp){:target="_blank"} (animated)  
-> [bastion_tradehall_doodad_carpet.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_carpet.png){:target="_blank"}  
-> [bastion_tradehall_doodad_changerooms.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_changerooms.png){:target="_blank"}  
-> [bastion_tradehall_doodad_chest1.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_chest1.png){:target="_blank"}  
-> [bastion_tradehall_doodad_chest2.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_chest2.png){:target="_blank"}  
-> [bastion_tradehall_doodad_chest3.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_chest3.png){:target="_blank"}  
-> [bastion_tradehall_doodad_clothingrack.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_clothingrack.png){:target="_blank"}  
-> [bastion_tradehall_doodad_crates.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_crates.png){:target="_blank"}  
-> [bastion_tradehall_doodad_masktable.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_masktable.png){:target="_blank"}  
-> [bastion_tradehall_doodad_mirror.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_mirror.png){:target="_blank"}  
-> [bastion_tradehall_doodad_petpodiums.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_petpodiums.png){:target="_blank"}  
-> [bastion_tradehall_doodad_pillow.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_pillow.png){:target="_blank"}  
-> [bastion_tradehall_doodad_scrolls.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_scrolls.png){:target="_blank"}  
-> [bastion_tradehall_doodad_shelf1.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shelf1.png){:target="_blank"}  
-> [bastion_tradehall_doodad_shelf2.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shelf2.png){:target="_blank"}  
-> [bastion_tradehall_doodad_shelf3.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shelf3.png){:target="_blank"}  
-> [bastion_tradehall_doodad_shelf4.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shelf4.png){:target="_blank"}  
-> [bastion_tradehall_doodad_shelf5.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shelf5.png){:target="_blank"}  
-> [bastion_tradehall_doodad_shelf6.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shelf6.png){:target="_blank"}  
-> [bastion_tradehall_doodad_shelf7.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shelf7.png){:target="_blank"}  
-> [bastion_tradehall_doodad_shelf8.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shelf8.png){:target="_blank"}  
-> [bastion_tradehall_doodad_shelf9.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shelf9.png){:target="_blank"}  
-> [bastion_tradehall_doodad_shield1.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shield1.png){:target="_blank"}  
-> [bastion_tradehall_doodad_shield2.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shield2.png){:target="_blank"}  
-> [bastion_tradehall_doodad_shield3.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shield3.png){:target="_blank"}  
-> [bastion_tradehall_doodad_shield4.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shield4.png){:target="_blank"}  
-> [bastion_tradehall_doodad_shoptable.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shoptable.png){:target="_blank"}  
-> [bastion_tradehall_doodad_spears.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_spears.png){:target="_blank"}  
-> [bastion_tradehall_doodad_swords.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_swords.png){:target="_blank"}  
-> [bastion_tradehall_doodad_table1.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_table1.png){:target="_blank"}  
-> [bastion_tradehall_doodad_table2.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_table2.png){:target="_blank"}  
-> [bastion_tradehall_doodad_tanktable.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_tanktable.png){:target="_blank"}  
-> [bastion_tradehall_doodad_wand.png](images/bastion/rooms/tradehall/bastion_tradehall_doodad_wand.png){:target="_blank"}  
-> [bastion_tradehall_floor_door.png](images/bastion/rooms/tradehall/bastion_tradehall_floor_door.png){:target="_blank"}  
-> [bastion_tradehall_floor_floortile.png](images/bastion/rooms/tradehall/bastion_tradehall_floor_floortile.png){:target="_blank"}  
-> [bastion_tradehall_floor_stonecircle.png](images/bastion/rooms/tradehall/bastion_tradehall_floor_stonecircle.png){:target="_blank"}  
-> [bastion_tradehall_general_backwallgradient.png](images/bastion/rooms/tradehall/bastion_tradehall_general_backwallgradient.png){:target="_blank"}  
-> [bastion_tradehall_wall_frontwallpanel.png](images/bastion/rooms/tradehall/bastion_tradehall_wall_frontwallpanel.png){:target="_blank"}  
-> [bastion_tradehall_wall_panel.png](images/bastion/rooms/tradehall/bastion_tradehall_wall_panel.png){:target="_blank"}  
-> [bastion_tradehall_wall_sidewallfront.png](images/bastion/rooms/tradehall/bastion_tradehall_wall_sidewallfront.png){:target="_blank"}  
-> [bastion_tradehall_wall_sidewalltop.png](images/bastion/rooms/tradehall/bastion_tradehall_wall_sidewalltop.png){:target="_blank"}  
+### Images
 
-## Trainingyard
+> [Bastion_Floor_WoodHorz_Panel1](images/bastion/rooms/tradehall/bastion_floor_woodhorz_panel1.png){:target="_blank"}  
+> [Bastion_Tradehall_Wall_Panel](images/bastion/rooms/tradehall/bastion_tradehall_wall_panel.png){:target="_blank"}  
+> [Bastion_Wall_Hallway_Door_Side](images/bastion/rooms/tradehall/bastion_wall_hallway_door_side.png){:target="_blank"}  
+> [Bastion_Tradehall_General_BackWallGradient](images/bastion/rooms/tradehall/bastion_tradehall_general_backwallgradient.png){:target="_blank"}  
+> [Bastion_Tradehall_Wall_FrontWallPanel](images/bastion/rooms/tradehall/bastion_tradehall_wall_frontwallpanel.png){:target="_blank"}  
+> [Bastion_Tradehall_Wall_SideWallTop](images/bastion/rooms/tradehall/bastion_tradehall_wall_sidewalltop.png){:target="_blank"}  
+> [Bastion_Tradehall_Wall_SideWallFront](images/bastion/rooms/tradehall/bastion_tradehall_wall_sidewallfront.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Shelf2](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shelf2.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Shelf6](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shelf6.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Shelf7](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shelf7.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Shelf8](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shelf8.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Shield1](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shield1.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Shield2](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shield2.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Shield3](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shield3.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Shield4](images/bastion/rooms/tradehall/bastion_tradehall_doodad_shield4.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Spears](images/bastion/rooms/tradehall/bastion_tradehall_doodad_spears.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Swords](images/bastion/rooms/tradehall/bastion_tradehall_doodad_swords.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Table1](images/bastion/rooms/tradehall/bastion_tradehall_doodad_table1.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Table2](images/bastion/rooms/tradehall/bastion_tradehall_doodad_table2.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_TankTable](images/bastion/rooms/tradehall/bastion_tradehall_doodad_tanktable.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Arrows](images/bastion/rooms/tradehall/bastion_tradehall_doodad_arrows.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Banner](images/bastion/rooms/tradehall/bastion_tradehall_doodad_banner.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Boxes1](images/bastion/rooms/tradehall/bastion_tradehall_doodad_boxes1.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Boxes2](images/bastion/rooms/tradehall/bastion_tradehall_doodad_boxes2.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Boxes3](images/bastion/rooms/tradehall/bastion_tradehall_doodad_boxes3.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_CandelLamp](images/bastion/rooms/tradehall/bastion_tradehall_doodad_candellamp.webp){:target="_blank"} (animated)  
+> [Bastion_Tradehall_Doodad_Changerooms](images/bastion/rooms/tradehall/bastion_tradehall_doodad_changerooms.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Chest1](images/bastion/rooms/tradehall/bastion_tradehall_doodad_chest1.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_ClothingRack](images/bastion/rooms/tradehall/bastion_tradehall_doodad_clothingrack.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Crates](images/bastion/rooms/tradehall/bastion_tradehall_doodad_crates.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Chest3](images/bastion/rooms/tradehall/bastion_tradehall_doodad_chest3.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_MaskTable](images/bastion/rooms/tradehall/bastion_tradehall_doodad_masktable.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Mirror](images/bastion/rooms/tradehall/bastion_tradehall_doodad_mirror.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_PetPodiums](images/bastion/rooms/tradehall/bastion_tradehall_doodad_petpodiums.png){:target="_blank"}  
+> [Bastion_Roof_Roof1_Panel](images/bastion/rooms/tradehall/bastion_roof_roof1_panel.png){:target="_blank"}  
+> [Bastion_Roof_Roof1_Side](images/bastion/rooms/tradehall/bastion_roof_roof1_side.png){:target="_blank"}  
+> [Bastion_Roof_MediumTopper](images/bastion/rooms/tradehall/bastion_roof_mediumtopper.png){:target="_blank"}  
+> [Bastion_Roof_SmallTopper](images/bastion/rooms/tradehall/bastion_roof_smalltopper.png){:target="_blank"}  
+> [Bastion_Tradehall_Doodad_Carpet](images/bastion/rooms/tradehall/bastion_tradehall_doodad_carpet.png){:target="_blank"}  
+> [Bastion_Tradehall_Floor_StoneCircle](images/bastion/rooms/tradehall/bastion_tradehall_floor_stonecircle.png){:target="_blank"}  
+> [Bastion_ExtWall_Panel](images/bastion/rooms/tradehall/bastion_extwall_panel.png){:target="_blank"}  
+> [Bastion_ExtWall_Window](images/bastion/rooms/tradehall/bastion_extwall_window.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_HorzSide](images/bastion/rooms/tradehall/bastion_roof_hallroof_horzside.png){:target="_blank"}  
 
-Some graphics were found that had the format `Bastion/Rooms/Trainingyard/...`:
+## Training Yard
 
-> [bastion_doodad_infosign.png](images/bastion/rooms/trainingyard/bastion_doodad_infosign.png){:target="_blank"}  
-> [bastion_doodad_rosterboard.png](images/bastion/rooms/trainingyard/bastion_doodad_rosterboard.png){:target="_blank"}  
-> [bastion_trainingyard_doodad_arrowbucket.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_arrowbucket.png){:target="_blank"}  
-> [bastion_trainingyard_doodad_doodadpile01.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_doodadpile01.png){:target="_blank"}  
-> [bastion_trainingyard_doodad_doodadpile02.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_doodadpile02.png){:target="_blank"}  
-> [bastion_trainingyard_doodad_door.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_door.png){:target="_blank"}  
-> [bastion_trainingyard_doodad_fightpitgrass.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_fightpitgrass.png){:target="_blank"}  
-> [bastion_trainingyard_doodad_fightpittargetbig.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_fightpittargetbig.png){:target="_blank"}  
-> [bastion_trainingyard_doodad_fightpittargetsmall.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_fightpittargetsmall.png){:target="_blank"}  
-> [bastion_trainingyard_doodad_flag.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_flag.png){:target="_blank"}  
-> [bastion_trainingyard_doodad_targetdummy.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_targetdummy.png){:target="_blank"}  
-> [bastion_trainingyard_floor_panel.png](images/bastion/rooms/trainingyard/bastion_trainingyard_floor_panel.png){:target="_blank"}  
-> [bastion_trainingyard_floor_shadow.png](images/bastion/rooms/trainingyard/bastion_trainingyard_floor_shadow.png){:target="_blank"}  
-> [bastion_trainingyard_lockeddoor.png](images/bastion/rooms/trainingyard/bastion_trainingyard_lockeddoor.png){:target="_blank"}  
-> [bastion_trainingyard_wall_corner.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_corner.png){:target="_blank"}  
-> [bastion_trainingyard_wall_frontwallpanel.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_frontwallpanel.png){:target="_blank"}  
-> [bastion_trainingyard_wall_panel01.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_panel01.png){:target="_blank"}  
-> [bastion_trainingyard_wall_panel02.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_panel02.png){:target="_blank"}  
-> [bastion_trainingyard_wall_railing.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_railing.png){:target="_blank"}  
-> [bastion_trainingyard_wall_shadow.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_shadow.png){:target="_blank"}  
-> [bastion_trainingyard_wall_sidewallfront.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_sidewallfront.png){:target="_blank"}  
-> [bastion_trainingyard_wall_sidewalltop.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_sidewalltop.png){:target="_blank"}  
-> [bastion_trainingyard_wall_stairs.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_stairs.png){:target="_blank"}  
-> [bastion_trainingyard_wall_stairs_railing.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_stairs_railing.png){:target="_blank"}  
+Unlocks Formation Saves, which allow you to save a specific layout of Champions to be loaded later on.
 
-## Treasure
+### Unlock Requirements
 
-Some graphics were found that had the format `Bastion/Rooms/Treasure/...`:
+> Complete 10 unique adventures
 
-> [bastion_doodad_bluefirepit.png](images/bastion/rooms/treasure/bastion_doodad_bluefirepit.png){:target="_blank"}  
-> [bastion_doodad_bluefiresconce.png](images/bastion/rooms/treasure/bastion_doodad_bluefiresconce.png){:target="_blank"}  
-> [bastion_doodad_orangebanner.png](images/bastion/rooms/treasure/bastion_doodad_orangebanner.png){:target="_blank"}  
-> [bastion_doodad_treasurechestplatform.png](images/bastion/rooms/treasure/bastion_doodad_treasurechestplatform.png){:target="_blank"}  
-> [bastion_doodad_treasurepile1.png](images/bastion/rooms/treasure/bastion_doodad_treasurepile1.png){:target="_blank"}  
-> [bastion_doodad_treasurepile2.png](images/bastion/rooms/treasure/bastion_doodad_treasurepile2.png){:target="_blank"}  
-> [bastion_doodad_treasurepile3.png](images/bastion/rooms/treasure/bastion_doodad_treasurepile3.png){:target="_blank"}  
-> [bastion_doodad_treasurepile4.png](images/bastion/rooms/treasure/bastion_doodad_treasurepile4.png){:target="_blank"}  
-> [bastion_doodad_treasurepile5.png](images/bastion/rooms/treasure/bastion_doodad_treasurepile5.png){:target="_blank"}  
-> [bastion_doodad_treasureroompillar.png](images/bastion/rooms/treasure/bastion_doodad_treasureroompillar.png){:target="_blank"}  
-> [bastion_floor_treasureroom.png](images/bastion/rooms/treasure/bastion_floor_treasureroom.png){:target="_blank"}  
-> [bastion_floor_treasureroom_arcanastair.png](images/bastion/rooms/treasure/bastion_floor_treasureroom_arcanastair.png){:target="_blank"}  
-> [bastion_floor_treasureroom_middlecarpet.png](images/bastion/rooms/treasure/bastion_floor_treasureroom_middlecarpet.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_arcanaobject1.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_arcanaobject1.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_arcanaobject2.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_arcanaobject2.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_arcanaorb.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_arcanaorb.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_chandelier.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_chandelier.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_chestpopupshop.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_chestpopupshop.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_curtain.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_curtain.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_goldshield.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_goldshield.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_hanginglight1.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_hanginglight1.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_hanginglight2.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_hanginglight2.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_orangebanner.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_orangebanner.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_purplefirepit.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_purplefirepit.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_tiamatshadow.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_tiamatshadow.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_treasurebox.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_treasurebox.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_treasurepile6.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_treasurepile6.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_treasurepile7.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_treasurepile7.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_weaponstand1.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_weaponstand1.png){:target="_blank"}  
-> [bastion_treasureroom_doodad_weaponstand2.png](images/bastion/rooms/treasure/bastion_treasureroom_doodad_weaponstand2.png){:target="_blank"}  
-> [bastion_wall_treasureroom.png](images/bastion/rooms/treasure/bastion_wall_treasureroom.png){:target="_blank"}  
-> [bastion_wall_treasureroom_arcanastairwall.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_arcanastairwall.png){:target="_blank"}  
-> [bastion_wall_treasureroom_bookshelf1.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_bookshelf1.png){:target="_blank"}  
-> [bastion_wall_treasureroom_bookshelf2.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_bookshelf2.png){:target="_blank"}  
-> [bastion_wall_treasureroom_cutout.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_cutout.png){:target="_blank"}  
-> [bastion_wall_treasureroom_door_side.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_door_side.png){:target="_blank"}  
-> [bastion_wall_treasureroom_sidewall.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_sidewall.png){:target="_blank"}  
-> [bastion_wall_treasureroom_sidewallcorner.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_sidewallcorner.png){:target="_blank"}  
-> [bastion_wall_treasureroom_sidewallfront.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_sidewallfront.png){:target="_blank"}  
-> [bastion_wall_treasureroom_tiamatheads.png](images/bastion/rooms/treasure/bastion_wall_treasureroom_tiamatheads.png){:target="_blank"}  
+### Images
 
-## Warroom
+> [Bastion_TrainingYard_LockedDoor](images/bastion/rooms/trainingyard/bastion_trainingyard_lockeddoor.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile](images/bastion/rooms/trainingyard/bastion_roof_inbetweentile.png){:target="_blank"}  
+> [Bastion_ExtWall_SideWall](images/bastion/rooms/trainingyard/bastion_extwall_sidewall.png){:target="_blank"}  
+> [Bastion_Roof_Roof3_Panel](images/bastion/rooms/trainingyard/bastion_roof_roof3_panel.png){:target="_blank"}  
+> [Bastion_TrainingYard_Wall_Panel01](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_panel01.png){:target="_blank"}  
+> [Bastion_Wall_Hallway_Door_Side](images/bastion/rooms/trainingyard/bastion_wall_hallway_door_side.png){:target="_blank"}  
+> [Bastion_TrainingYard_Floor_Panel](images/bastion/rooms/trainingyard/bastion_trainingyard_floor_panel.png){:target="_blank"}  
+> [Bastion_TrainingYard_Wall_FrontWallPanel](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_frontwallpanel.png){:target="_blank"}  
+> [Bastion_TrainingYard_Wall_SideWallTop](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_sidewalltop.png){:target="_blank"}  
+> [Bastion_TrainingYard_Wall_Stairs](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_stairs.png){:target="_blank"}  
+> [Bastion_TrainingYard_Wall_Railing](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_railing.png){:target="_blank"}  
+> [Bastion_TrainingYard_Doodad_FightPitGrass](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_fightpitgrass.png){:target="_blank"}  
+> [Bastion_TrainingYard_Doodad_FightPitTargetBig](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_fightpittargetbig.png){:target="_blank"}  
+> [Bastion_TrainingYard_Doodad_FightPitTargetSmall](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_fightpittargetsmall.png){:target="_blank"}  
+> [Bastion_TrainingYard_Doodad_Flag](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_flag.png){:target="_blank"}  
+> [Bastion_TrainingYard_Doodad_TargetDummy](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_targetdummy.png){:target="_blank"}  
+> [Bastion_TrainingYard_Floor_Shadow](images/bastion/rooms/trainingyard/bastion_trainingyard_floor_shadow.png){:target="_blank"}  
+> [Bastion_TrainingYard_Doodad_DoodadPile02](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_doodadpile02.png){:target="_blank"}  
+> [Bastion_TrainingYard_Doodad_DoodadPile01](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_doodadpile01.png){:target="_blank"}  
+> [Bastion_TrainingYard_Wall_Shadow](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_shadow.png){:target="_blank"}  
+> [Bastion_TrainingYard_Doodad_ArrowBucket](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_arrowbucket.png){:target="_blank"}  
+> [Bastion_Roof_Roof3_Side](images/bastion/rooms/trainingyard/bastion_roof_roof3_side.png){:target="_blank"}  
+> [Bastion_Roof_BigTopper](images/bastion/rooms/trainingyard/bastion_roof_bigtopper.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile_Large](images/bastion/rooms/trainingyard/bastion_roof_inbetweentile_large.png){:target="_blank"}  
+> [Bastion_Wall_Hallway_SideWallTop](images/bastion/rooms/trainingyard/bastion_wall_hallway_sidewalltop.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_Vert](images/bastion/rooms/trainingyard/bastion_roof_hallroof_vert.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_Vert_EndCapTop](images/bastion/rooms/trainingyard/bastion_roof_hallroof_vert_endcaptop.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_HorzSide](images/bastion/rooms/trainingyard/bastion_roof_hallroof_horzside.png){:target="_blank"}  
+> [Bastion_Roof_StoneDecor](images/bastion/rooms/trainingyard/bastion_roof_stonedecor.png){:target="_blank"}  
+> [Bastion_Roof_PatternTIle](images/bastion/rooms/trainingyard/bastion_roof_patterntile.png){:target="_blank"}  
+> [Bastion_Roof_MossCorner1](images/bastion/rooms/trainingyard/bastion_roof_mosscorner1.png){:target="_blank"}  
 
-Some graphics were found that had the format `Bastion/Rooms/Warroom/...`:
+## Treasure Room
 
-> [bastion_warroom_doodad_banner.png](images/bastion/rooms/warroom/bastion_warroom_doodad_banner.png){:target="_blank"}  
-> [bastion_warroom_doodad_boxes01.png](images/bastion/rooms/warroom/bastion_warroom_doodad_boxes01.png){:target="_blank"}  
-> [bastion_warroom_doodad_boxes02.png](images/bastion/rooms/warroom/bastion_warroom_doodad_boxes02.png){:target="_blank"}  
-> [bastion_warroom_doodad_chandalier.webp](images/bastion/rooms/warroom/bastion_warroom_doodad_chandalier.webp){:target="_blank"} (animated)  
-> [bastion_warroom_doodad_dragonstatue.png](images/bastion/rooms/warroom/bastion_warroom_doodad_dragonstatue.png){:target="_blank"}  
-> [bastion_warroom_doodad_firepillar.webp](images/bastion/rooms/warroom/bastion_warroom_doodad_firepillar.webp){:target="_blank"} (animated)  
-> [bastion_warroom_doodad_pottedplant01.png](images/bastion/rooms/warroom/bastion_warroom_doodad_pottedplant01.png){:target="_blank"}  
-> [bastion_warroom_doodad_pottedplant02.png](images/bastion/rooms/warroom/bastion_warroom_doodad_pottedplant02.png){:target="_blank"}  
-> [bastion_warroom_doodad_stairrailing.png](images/bastion/rooms/warroom/bastion_warroom_doodad_stairrailing.png){:target="_blank"}  
-> [bastion_warroom_doodad_table01.png](images/bastion/rooms/warroom/bastion_warroom_doodad_table01.png){:target="_blank"}  
-> [bastion_warroom_doodad_table02.png](images/bastion/rooms/warroom/bastion_warroom_doodad_table02.png){:target="_blank"}  
-> [bastion_warroom_doodad_wartable.png](images/bastion/rooms/warroom/bastion_warroom_doodad_wartable.png){:target="_blank"}  
-> [bastion_warroom_doodad_window.png](images/bastion/rooms/warroom/bastion_warroom_doodad_window.png){:target="_blank"}  
-> [bastion_warroom_floor_carpet.png](images/bastion/rooms/warroom/bastion_warroom_floor_carpet.png){:target="_blank"}  
-> [bastion_warroom_floor_stairs.png](images/bastion/rooms/warroom/bastion_warroom_floor_stairs.png){:target="_blank"}  
-> [bastion_warroom_floor_tile.png](images/bastion/rooms/warroom/bastion_warroom_floor_tile.png){:target="_blank"}  
-> [bastion_warroom_general_backwallgradient.png](images/bastion/rooms/warroom/bastion_warroom_general_backwallgradient.png){:target="_blank"}  
-> [bastion_warroom_lockeddoor.png](images/bastion/rooms/warroom/bastion_warroom_lockeddoor.png){:target="_blank"}  
-> [bastion_warroom_wall_corner.png](images/bastion/rooms/warroom/bastion_warroom_wall_corner.png){:target="_blank"}  
-> [bastion_warroom_wall_halfwall.png](images/bastion/rooms/warroom/bastion_warroom_wall_halfwall.png){:target="_blank"}  
-> [bastion_warroom_wall_paintingwall.png](images/bastion/rooms/warroom/bastion_warroom_wall_paintingwall.png){:target="_blank"}  
-> [bastion_warroom_wall_roof01.png](images/bastion/rooms/warroom/bastion_warroom_wall_roof01.png){:target="_blank"}  
-> [bastion_warroom_wall_roof02.png](images/bastion/rooms/warroom/bastion_warroom_wall_roof02.png){:target="_blank"}  
-> [bastion_warroom_wall_roof03.png](images/bastion/rooms/warroom/bastion_warroom_wall_roof03.png){:target="_blank"}  
-> [bastion_warroom_wall_sidewallfront01.png](images/bastion/rooms/warroom/bastion_warroom_wall_sidewallfront01.png){:target="_blank"}  
-> [bastion_warroom_wall_sidewallfront02.png](images/bastion/rooms/warroom/bastion_warroom_wall_sidewallfront02.png){:target="_blank"}  
-> [bastion_warroom_wall_sidewalltop.png](images/bastion/rooms/warroom/bastion_warroom_wall_sidewalltop.png){:target="_blank"}  
-> [bastion_warroom_wall_tile.png](images/bastion/rooms/warroom/bastion_warroom_wall_tile.png){:target="_blank"}  
-> [bastion_warroom_wall_windowbig.png](images/bastion/rooms/warroom/bastion_warroom_wall_windowbig.png){:target="_blank"}  
+Open chests to obtain equipment, potions, and contracts to help gear up your Champions and provide temporary buffs during your adventures.
+
+### Images
+
+> [Bastion_Wall_TreasureRoom_ArcanaStairWall](images/bastion/rooms/treasureroom/bastion_wall_treasureroom_arcanastairwall.png){:target="_blank"}  
+> [Bastion_Floor_TreasureRoom](images/bastion/rooms/treasureroom/bastion_floor_treasureroom.png){:target="_blank"}  
+> [Bastion_Wall_TreasureRoom](images/bastion/rooms/treasureroom/bastion_wall_treasureroom.png){:target="_blank"}  
+> [Bastion_Doodad_TreasureRoomPillar](images/bastion/rooms/treasureroom/bastion_doodad_treasureroompillar.png){:target="_blank"}  
+> [Bastion_Wall_TreasureRoom_SideWall](images/bastion/rooms/treasureroom/bastion_wall_treasureroom_sidewall.png){:target="_blank"}  
+> [Bastion_Wall_TreasureRoom_SideWallCorner](images/bastion/rooms/treasureroom/bastion_wall_treasureroom_sidewallcorner.png){:target="_blank"}  
+> [Bastion_Wall_TreasureRoom_SideWallFront](images/bastion/rooms/treasureroom/bastion_wall_treasureroom_sidewallfront.png){:target="_blank"}  
+> [Bastion_Wall_TreasureRoom_Door_Side](images/bastion/rooms/treasureroom/bastion_wall_treasureroom_door_side.png){:target="_blank"}  
+> [Bastion_Wall_TreasureRoom_CutOut](images/bastion/rooms/treasureroom/bastion_wall_treasureroom_cutout.png){:target="_blank"}  
+> [Bastion_Doodad_BlueFirePit](images/bastion/rooms/treasureroom/bastion_doodad_bluefirepit.png){:target="_blank"}  
+> [Bastion_Doodad_BlueFireSconce](images/bastion/rooms/treasureroom/bastion_doodad_bluefiresconce.png){:target="_blank"}  
+> [Bastion_Doodad_TreasurePile1](images/bastion/rooms/treasureroom/bastion_doodad_treasurepile1.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile](images/bastion/rooms/treasureroom/bastion_roof_inbetweentile.png){:target="_blank"}  
+> [Bastion_Roof_Roof3_Side](images/bastion/rooms/treasureroom/bastion_roof_roof3_side.png){:target="_blank"}  
+> [Bastion_Roof_Roof3_Panel](images/bastion/rooms/treasureroom/bastion_roof_roof3_panel.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_HorzSide](images/bastion/rooms/treasureroom/bastion_roof_hallroof_horzside.png){:target="_blank"}  
+> [Bastion_Roof_PatternTIle](images/bastion/rooms/treasureroom/bastion_roof_patterntile.png){:target="_blank"}  
+> [Bastion_Roof_MossCorner1](images/bastion/rooms/treasureroom/bastion_roof_mosscorner1.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallVinesLrg2](images/bastion/rooms/treasureroom/bastion_ext_doodad_wallvineslrg2.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_WallVinesLrg3](images/bastion/rooms/treasureroom/bastion_ext_doodad_wallvineslrg3.png){:target="_blank"}  
+> [Bastion_TreasureRoom_Doodad_ArcanaObject1](images/bastion/rooms/treasureroom/bastion_treasureroom_doodad_arcanaobject1.png){:target="_blank"}  
+> [Bastion_TreasureRoom_Doodad_ArcanaObject2](images/bastion/rooms/treasureroom/bastion_treasureroom_doodad_arcanaobject2.png){:target="_blank"}  
+> [Bastion_TreasureRoom_Doodad_Chandelier](images/bastion/rooms/treasureroom/bastion_treasureroom_doodad_chandelier.png){:target="_blank"}  
+> [Bastion_TreasureRoom_Doodad_GoldShield](images/bastion/rooms/treasureroom/bastion_treasureroom_doodad_goldshield.png){:target="_blank"}  
+> [Bastion_TreasureRoom_Doodad_HangingLight1](images/bastion/rooms/treasureroom/bastion_treasureroom_doodad_hanginglight1.png){:target="_blank"}  
+> [Bastion_TreasureRoom_Doodad_HangingLight2](images/bastion/rooms/treasureroom/bastion_treasureroom_doodad_hanginglight2.png){:target="_blank"}  
+> [Bastion_TreasureRoom_Doodad_TiamatShadow](images/bastion/rooms/treasureroom/bastion_treasureroom_doodad_tiamatshadow.png){:target="_blank"}  
+> [Bastion_TreasureRoom_Doodad_WeaponStand1](images/bastion/rooms/treasureroom/bastion_treasureroom_doodad_weaponstand1.png){:target="_blank"}  
+> [Bastion_TreasureRoom_Doodad_WeaponStand2](images/bastion/rooms/treasureroom/bastion_treasureroom_doodad_weaponstand2.png){:target="_blank"}  
+> [Bastion_TreasureRoom_Doodad_PurpleFirePit](images/bastion/rooms/treasureroom/bastion_treasureroom_doodad_purplefirepit.png){:target="_blank"}  
+> [Bastion_Floor_TreasureRoom_ArcanaStair](images/bastion/rooms/treasureroom/bastion_floor_treasureroom_arcanastair.png){:target="_blank"}  
+> [Bastion_Floor_TreasureRoom_MiddleCarpet](images/bastion/rooms/treasureroom/bastion_floor_treasureroom_middlecarpet.png){:target="_blank"}  
+> [Bastion_Wall_TreasureRoom_BookShelf1](images/bastion/rooms/treasureroom/bastion_wall_treasureroom_bookshelf1.png){:target="_blank"}  
+> [Bastion_Wall_TreasureRoom_BookShelf2](images/bastion/rooms/treasureroom/bastion_wall_treasureroom_bookshelf2.png){:target="_blank"}  
+> [Bastion_TreasureRoom_Doodad_Curtain](images/bastion/rooms/treasureroom/bastion_treasureroom_doodad_curtain.png){:target="_blank"}  
+> [Bastion_Wall_TreasureRoom_TiamatHeads](images/bastion/rooms/treasureroom/bastion_wall_treasureroom_tiamatheads.png){:target="_blank"}  
+> [Bastion_TreasureRoom_Doodad_TreasurePile7](images/bastion/rooms/treasureroom/bastion_treasureroom_doodad_treasurepile7.png){:target="_blank"}  
+> [Bastion_TreasureRoom_Doodad_TreasurePile6](images/bastion/rooms/treasureroom/bastion_treasureroom_doodad_treasurepile6.png){:target="_blank"}  
+> [Bastion_Doodad_TreasurePile4](images/bastion/rooms/treasureroom/bastion_doodad_treasurepile4.png){:target="_blank"}  
+> [Bastion_Doodad_TreasurePile2](images/bastion/rooms/treasureroom/bastion_doodad_treasurepile2.png){:target="_blank"}  
+> [Bastion_Doodad_TreasurePile5](images/bastion/rooms/treasureroom/bastion_doodad_treasurepile5.png){:target="_blank"}  
+> [Bastion_Doodad_TreasurePile3](images/bastion/rooms/treasureroom/bastion_doodad_treasurepile3.png){:target="_blank"}  
+
+## War Room
+
+Unlocks the Trials of Mount Tiamat, which allows you to partake in Trials Campaigns to complete missions and earn Scales of Tiamat, craft Legendary Loot, open Arcana Chests, and more.
+
+### Unlock Requirements
+
+> Have 60+ Champions unlocked  
+> Have 20+ Champions equipped with fully epic gear
+
+### Images
+
+> [Bastion_Roof_InbetweenTile_Large](images/bastion/rooms/warroom/bastion_roof_inbetweentile_large.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile](images/bastion/rooms/warroom/bastion_roof_inbetweentile.png){:target="_blank"}  
+> [Bastion_Roof_Roof3_Side](images/bastion/rooms/warroom/bastion_roof_roof3_side.png){:target="_blank"}  
+> [Bastion_Roof_Roof3_Panel](images/bastion/rooms/warroom/bastion_roof_roof3_panel.png){:target="_blank"}  
+> [Bastion_WarRoom_Wall_Tile](images/bastion/rooms/warroom/bastion_warroom_wall_tile.png){:target="_blank"}  
+> [Bastion_WarRoom_Wall_PaintingWall](images/bastion/rooms/warroom/bastion_warroom_wall_paintingwall.png){:target="_blank"}  
+> [Bastion_WarRoom_Wall_Roof01](images/bastion/rooms/warroom/bastion_warroom_wall_roof01.png){:target="_blank"}  
+> [Bastion_WarRoom_Wall_Roof02](images/bastion/rooms/warroom/bastion_warroom_wall_roof02.png){:target="_blank"}  
+> [Bastion_WarRoom_Wall_Roof03](images/bastion/rooms/warroom/bastion_warroom_wall_roof03.png){:target="_blank"}  
+> [Bastion_WarRoom_Wall_SideWallTop](images/bastion/rooms/warroom/bastion_warroom_wall_sidewalltop.png){:target="_blank"}  
+> [Bastion_WarRoom_Wall_WindowBig](images/bastion/rooms/warroom/bastion_warroom_wall_windowbig.png){:target="_blank"}  
+> [Bastion_WarRoom_Floor_Tile](images/bastion/rooms/warroom/bastion_warroom_floor_tile.png){:target="_blank"}  
+> [Bastion_WarRoom_Wall_SideWallFront02](images/bastion/rooms/warroom/bastion_warroom_wall_sidewallfront02.png){:target="_blank"}  
+> [Bastion_WarRoom_Floor_Stairs](images/bastion/rooms/warroom/bastion_warroom_floor_stairs.png){:target="_blank"}  
+> [Bastion_WarRoom_Floor_Carpet](images/bastion/rooms/warroom/bastion_warroom_floor_carpet.png){:target="_blank"}  
+> [Bastion_WarRoom_General_BackWallGradient](images/bastion/rooms/warroom/bastion_warroom_general_backwallgradient.png){:target="_blank"}  
+> [Bastion_WarRoom_Doodad_Window](images/bastion/rooms/warroom/bastion_warroom_doodad_window.png){:target="_blank"}  
+> [Bastion_WarRoom_Doodad_Banner](images/bastion/rooms/warroom/bastion_warroom_doodad_banner.png){:target="_blank"}  
+> [Bastion_WarRoom_Doodad_DragonStatue](images/bastion/rooms/warroom/bastion_warroom_doodad_dragonstatue.png){:target="_blank"}  
+> [Bastion_WarRoom_Doodad_StairRailing](images/bastion/rooms/warroom/bastion_warroom_doodad_stairrailing.png){:target="_blank"}  
+> [Bastion_WarRoom_Doodad_PottedPlant01](images/bastion/rooms/warroom/bastion_warroom_doodad_pottedplant01.png){:target="_blank"}  
+> [Bastion_WarRoom_Doodad_PottedPlant02](images/bastion/rooms/warroom/bastion_warroom_doodad_pottedplant02.png){:target="_blank"}  
+> [Bastion_WarRoom_Doodad_Table01](images/bastion/rooms/warroom/bastion_warroom_doodad_table01.png){:target="_blank"}  
+> [Bastion_WarRoom_Doodad_Table02](images/bastion/rooms/warroom/bastion_warroom_doodad_table02.png){:target="_blank"}  
+> [Bastion_WarRoom_Doodad_Chandalier](images/bastion/rooms/warroom/bastion_warroom_doodad_chandalier.webp){:target="_blank"} (animated)  
+> [Bastion_WarRoom_Doodad_FirePillar](images/bastion/rooms/warroom/bastion_warroom_doodad_firepillar.webp){:target="_blank"} (animated)  
+> [Bastion_WarRoom_Doodad_Boxes01](images/bastion/rooms/warroom/bastion_warroom_doodad_boxes01.png){:target="_blank"}  
+> [Bastion_WarRoom_Doodad_Boxes02](images/bastion/rooms/warroom/bastion_warroom_doodad_boxes02.png){:target="_blank"}  
+> [Bastion_WarRoom_LockedDoor](images/bastion/rooms/warroom/bastion_warroom_lockeddoor.png){:target="_blank"}  
+> [Bastion_ExtWall_SideWall](images/bastion/rooms/warroom/bastion_extwall_sidewall.png){:target="_blank"}  
+> [Bastion_Wall_Hallway_SideWallTop](images/bastion/rooms/warroom/bastion_wall_hallway_sidewalltop.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_Vert](images/bastion/rooms/warroom/bastion_roof_hallroof_vert.png){:target="_blank"}  
+> [Bastion_Roof_MossCorner1](images/bastion/rooms/warroom/bastion_roof_mosscorner1.png){:target="_blank"}  
+> [Bastion_Roof_PatternTIle](images/bastion/rooms/warroom/bastion_roof_patterntile.png){:target="_blank"}  
+> [Bastion_Roof_StoneDecor](images/bastion/rooms/warroom/bastion_roof_stonedecor.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_Vert_EndCapTop](images/bastion/rooms/warroom/bastion_roof_hallroof_vert_endcaptop.png){:target="_blank"}  
+> [Bastion_Roof_MossCorner2](images/bastion/rooms/warroom/bastion_roof_mosscorner2.png){:target="_blank"}  
 
 ## Workshop
 
-Some graphics were found that had the format `Bastion/Rooms/Workshop/...`:
+Unlocks Modrons, which you can power up using Modron Pipes to massively buff the party it's assigned to, and Modron Automation, which allows you to automate the resets of your parties.
 
-> [bastion_workshop_doodad_anvil.png](images/bastion/rooms/workshop/bastion_workshop_doodad_anvil.png){:target="_blank"}  
-> [bastion_workshop_doodad_barrel01.png](images/bastion/rooms/workshop/bastion_workshop_doodad_barrel01.png){:target="_blank"}  
-> [bastion_workshop_doodad_barrel02.png](images/bastion/rooms/workshop/bastion_workshop_doodad_barrel02.png){:target="_blank"}  
-> [bastion_workshop_doodad_box01.png](images/bastion/rooms/workshop/bastion_workshop_doodad_box01.png){:target="_blank"}  
-> [bastion_workshop_doodad_box02.png](images/bastion/rooms/workshop/bastion_workshop_doodad_box02.png){:target="_blank"}  
-> [bastion_workshop_doodad_ceilinglamp.png](images/bastion/rooms/workshop/bastion_workshop_doodad_ceilinglamp.png){:target="_blank"}  
-> [bastion_workshop_doodad_crystalbucket01.png](images/bastion/rooms/workshop/bastion_workshop_doodad_crystalbucket01.png){:target="_blank"}  
-> [bastion_workshop_doodad_crystalbucket02.png](images/bastion/rooms/workshop/bastion_workshop_doodad_crystalbucket02.png){:target="_blank"}  
-> [bastion_workshop_doodad_firepitrectangle.webp](images/bastion/rooms/workshop/bastion_workshop_doodad_firepitrectangle.webp){:target="_blank"} (animated)  
-> [bastion_workshop_doodad_metalsheet.png](images/bastion/rooms/workshop/bastion_workshop_doodad_metalsheet.png){:target="_blank"}  
-> [bastion_workshop_doodad_modrondialog.png](images/bastion/rooms/workshop/bastion_workshop_doodad_modrondialog.png){:target="_blank"}  
-> [bastion_workshop_doodad_modrontable.png](images/bastion/rooms/workshop/bastion_workshop_doodad_modrontable.png){:target="_blank"}  
-> [bastion_workshop_doodad_pile01.png](images/bastion/rooms/workshop/bastion_workshop_doodad_pile01.png){:target="_blank"}  
-> [bastion_workshop_doodad_table01.png](images/bastion/rooms/workshop/bastion_workshop_doodad_table01.png){:target="_blank"}  
-> [bastion_workshop_doodad_table02.png](images/bastion/rooms/workshop/bastion_workshop_doodad_table02.png){:target="_blank"}  
-> [bastion_workshop_doodad_walllight.png](images/bastion/rooms/workshop/bastion_workshop_doodad_walllight.png){:target="_blank"}  
-> [bastion_workshop_floor_tile01.png](images/bastion/rooms/workshop/bastion_workshop_floor_tile01.png){:target="_blank"}  
-> [bastion_workshop_floor_tile02.png](images/bastion/rooms/workshop/bastion_workshop_floor_tile02.png){:target="_blank"}  
-> [bastion_workshop_floor_tile03.png](images/bastion/rooms/workshop/bastion_workshop_floor_tile03.png){:target="_blank"}  
-> [bastion_workshop_floor_vent.webp](images/bastion/rooms/workshop/bastion_workshop_floor_vent.webp){:target="_blank"} (animated)  
-> [bastion_workshop_lockeddoor.png](images/bastion/rooms/workshop/bastion_workshop_lockeddoor.png){:target="_blank"}  
-> [bastion_workshop_wall_pipe.png](images/bastion/rooms/workshop/bastion_workshop_wall_pipe.png){:target="_blank"}  
-> [bastion_workshop_wall_sidewallback01.png](images/bastion/rooms/workshop/bastion_workshop_wall_sidewallback01.png){:target="_blank"}  
-> [bastion_workshop_wall_sidewallfront01.png](images/bastion/rooms/workshop/bastion_workshop_wall_sidewallfront01.png){:target="_blank"}  
-> [bastion_workshop_wall_sidewallfront02.png](images/bastion/rooms/workshop/bastion_workshop_wall_sidewallfront02.png){:target="_blank"}  
-> [bastion_workshop_wall_sidewalltop.png](images/bastion/rooms/workshop/bastion_workshop_wall_sidewalltop.png){:target="_blank"}  
-> [bastion_workshop_wall_tile01.png](images/bastion/rooms/workshop/bastion_workshop_wall_tile01.png){:target="_blank"}  
-> [bastion_workshop_wall_tile02.png](images/bastion/rooms/workshop/bastion_workshop_wall_tile02.png){:target="_blank"}  
-> [bastion_workshop_wall_wallfront.png](images/bastion/rooms/workshop/bastion_workshop_wall_wallfront.png){:target="_blank"}  
+### Unlock Requirements
+
+> Tavern Level 2
+
+### Images
+
+> [Bastion_Workshop_Floor_Tile03](images/bastion/rooms/workshop/bastion_workshop_floor_tile03.png){:target="_blank"}  
+> [Bastion_Workshop_Wall_Tile01](images/bastion/rooms/workshop/bastion_workshop_wall_tile01.png){:target="_blank"}  
+> [Bastion_Workshop_Wall_Tile02](images/bastion/rooms/workshop/bastion_workshop_wall_tile02.png){:target="_blank"}  
+> [Bastion_Workshop_Wall_Tile02Fire](images/bastion/rooms/workshop/bastion_workshop_wall_tile02fire.png){:target="_blank"}  
+> [Bastion_Workshop_Floor_Tile02](images/bastion/rooms/workshop/bastion_workshop_floor_tile02.png){:target="_blank"}  
+> [Bastion_Workshop_Wall_SideWallTop](images/bastion/rooms/workshop/bastion_workshop_wall_sidewalltop.png){:target="_blank"}  
+> [Bastion_Workshop_Wall_SideWallBack01](images/bastion/rooms/workshop/bastion_workshop_wall_sidewallback01.png){:target="_blank"}  
+> [Bastion_Workshop_Wall_SideWallFront01](images/bastion/rooms/workshop/bastion_workshop_wall_sidewallfront01.png){:target="_blank"}  
+> [Bastion_Workshop_Wall_SideWallFront02](images/bastion/rooms/workshop/bastion_workshop_wall_sidewallfront02.png){:target="_blank"}  
+> [Bastion_Workshop_Wall_Pipe](images/bastion/rooms/workshop/bastion_workshop_wall_pipe.png){:target="_blank"}  
+> [Bastion_Workshop_Doodad_FirePitRectangle](images/bastion/rooms/workshop/bastion_workshop_doodad_firepitrectangle.webp){:target="_blank"} (animated)  
+> [Bastion_Workshop_Doodad_Anvil](images/bastion/rooms/workshop/bastion_workshop_doodad_anvil.png){:target="_blank"}  
+> [Bastion_Workshop_Doodad_CeilingLamp](images/bastion/rooms/workshop/bastion_workshop_doodad_ceilinglamp.png){:target="_blank"}  
+> [Bastion_Workshop_Doodad_CrystalBucket01](images/bastion/rooms/workshop/bastion_workshop_doodad_crystalbucket01.png){:target="_blank"}  
+> [Bastion_Workshop_Doodad_CrystalBucket02](images/bastion/rooms/workshop/bastion_workshop_doodad_crystalbucket02.png){:target="_blank"}  
+> [Bastion_Workshop_Doodad_MetalSheet](images/bastion/rooms/workshop/bastion_workshop_doodad_metalsheet.png){:target="_blank"}  
+> [Bastion_Workshop_Doodad_ModronTable](images/bastion/rooms/workshop/bastion_workshop_doodad_modrontable.png){:target="_blank"}  
+> [Bastion_Workshop_Doodad_Pile01](images/bastion/rooms/workshop/bastion_workshop_doodad_pile01.png){:target="_blank"}  
+> [Bastion_Workshop_Doodad_Table01](images/bastion/rooms/workshop/bastion_workshop_doodad_table01.png){:target="_blank"}  
+> [Bastion_Workshop_Doodad_Table02](images/bastion/rooms/workshop/bastion_workshop_doodad_table02.png){:target="_blank"}  
+> [Bastion_Workshop_Doodad_WallLight](images/bastion/rooms/workshop/bastion_workshop_doodad_walllight.png){:target="_blank"}  
+> [Bastion_Workshop_Floor_Vent](images/bastion/rooms/workshop/bastion_workshop_floor_vent.webp){:target="_blank"} (animated)  
+> [Bastion_Workshop_Floor_Tile01](images/bastion/rooms/workshop/bastion_workshop_floor_tile01.png){:target="_blank"}  
+> [Bastion_Roof_Roof3_Panel](images/bastion/rooms/workshop/bastion_roof_roof3_panel.png){:target="_blank"}  
+> [Bastion_Roof_Roof3_Side](images/bastion/rooms/workshop/bastion_roof_roof3_side.png){:target="_blank"}  
+> [Bastion_Roof_InbetweenTile_Large](images/bastion/rooms/workshop/bastion_roof_inbetweentile_large.png){:target="_blank"}  
+> [Bastion_Workshop_LockedDoor](images/bastion/rooms/workshop/bastion_workshop_lockeddoor.png){:target="_blank"}  
+> [Bastion_ExtWall_SideWall](images/bastion/rooms/workshop/bastion_extwall_sidewall.png){:target="_blank"}  
+> [Bastion_Wall_Hallway_SideWallTop](images/bastion/rooms/workshop/bastion_wall_hallway_sidewalltop.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_Vert](images/bastion/rooms/workshop/bastion_roof_hallroof_vert.png){:target="_blank"}  
+> [Bastion_Workshop_Floor_Vent_Smoke](images/bastion/rooms/workshop/bastion_workshop_floor_vent_smoke.png){:target="_blank"}  
+> [Bastion_Roof_PatternTIle](images/bastion/rooms/workshop/bastion_roof_patterntile.png){:target="_blank"}  
+> [Bastion_Roof_MossBlob](images/bastion/rooms/workshop/bastion_roof_mossblob.png){:target="_blank"}  
+> [Bastion_Roof_MossCorner1](images/bastion/rooms/workshop/bastion_roof_mosscorner1.png){:target="_blank"}  
+> [Bastion_Roof_MossCorner2](images/bastion/rooms/workshop/bastion_roof_mosscorner2.png){:target="_blank"}  
+> [Bastion_Roof_HallRoof_Vert_EndCapTop](images/bastion/rooms/workshop/bastion_roof_hallroof_vert_endcaptop.png){:target="_blank"}  
 
 # Text Defines
 
