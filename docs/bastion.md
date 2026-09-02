@@ -1311,6 +1311,7 @@ Some graphics were found that had the format `Bastion/Rooms/Legendaryforge/...`:
 > [bastion_forge_floor_centerdetail.png](images/bastion/rooms/legendaryforge/bastion_forge_floor_centerdetail.png){:target="_blank"}  
 > [bastion_forge_floor_marble.png](images/bastion/rooms/legendaryforge/bastion_forge_floor_marble.png){:target="_blank"}  
 > [bastion_forge_floor_stairs.png](images/bastion/rooms/legendaryforge/bastion_forge_floor_stairs.png){:target="_blank"}  
+> [bastion_forge_lockeddoor.png](images/bastion/rooms/legendaryforge/bastion_forge_lockeddoor.png){:target="_blank"}  
 > [bastion_forge_wall_frontwalldoor.png](images/bastion/rooms/legendaryforge/bastion_forge_wall_frontwalldoor.png){:target="_blank"}  
 > [bastion_forge_wall_frontwallpanel.png](images/bastion/rooms/legendaryforge/bastion_forge_wall_frontwallpanel.png){:target="_blank"}  
 > [bastion_forge_wall_panel01.png](images/bastion/rooms/legendaryforge/bastion_forge_wall_panel01.png){:target="_blank"}  
@@ -1653,6 +1654,8 @@ Some graphics were found that had the format `Bastion/Rooms/Tradehall/...`:
 
 Some graphics were found that had the format `Bastion/Rooms/Trainingyard/...`:
 
+> [bastion_doodad_infosign.png](images/bastion/rooms/trainingyard/bastion_doodad_infosign.png){:target="_blank"}  
+> [bastion_doodad_rosterboard.png](images/bastion/rooms/trainingyard/bastion_doodad_rosterboard.png){:target="_blank"}  
 > [bastion_trainingyard_doodad_arrowbucket.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_arrowbucket.png){:target="_blank"}  
 > [bastion_trainingyard_doodad_doodadpile01.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_doodadpile01.png){:target="_blank"}  
 > [bastion_trainingyard_doodad_doodadpile02.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_doodadpile02.png){:target="_blank"}  
@@ -1664,6 +1667,7 @@ Some graphics were found that had the format `Bastion/Rooms/Trainingyard/...`:
 > [bastion_trainingyard_doodad_targetdummy.png](images/bastion/rooms/trainingyard/bastion_trainingyard_doodad_targetdummy.png){:target="_blank"}  
 > [bastion_trainingyard_floor_panel.png](images/bastion/rooms/trainingyard/bastion_trainingyard_floor_panel.png){:target="_blank"}  
 > [bastion_trainingyard_floor_shadow.png](images/bastion/rooms/trainingyard/bastion_trainingyard_floor_shadow.png){:target="_blank"}  
+> [bastion_trainingyard_lockeddoor.png](images/bastion/rooms/trainingyard/bastion_trainingyard_lockeddoor.png){:target="_blank"}  
 > [bastion_trainingyard_wall_corner.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_corner.png){:target="_blank"}  
 > [bastion_trainingyard_wall_frontwallpanel.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_frontwallpanel.png){:target="_blank"}  
 > [bastion_trainingyard_wall_panel01.png](images/bastion/rooms/trainingyard/bastion_trainingyard_wall_panel01.png){:target="_blank"}  
@@ -1741,6 +1745,7 @@ Some graphics were found that had the format `Bastion/Rooms/Warroom/...`:
 > [bastion_warroom_floor_stairs.png](images/bastion/rooms/warroom/bastion_warroom_floor_stairs.png){:target="_blank"}  
 > [bastion_warroom_floor_tile.png](images/bastion/rooms/warroom/bastion_warroom_floor_tile.png){:target="_blank"}  
 > [bastion_warroom_general_backwallgradient.png](images/bastion/rooms/warroom/bastion_warroom_general_backwallgradient.png){:target="_blank"}  
+> [bastion_warroom_lockeddoor.png](images/bastion/rooms/warroom/bastion_warroom_lockeddoor.png){:target="_blank"}  
 > [bastion_warroom_wall_corner.png](images/bastion/rooms/warroom/bastion_warroom_wall_corner.png){:target="_blank"}  
 > [bastion_warroom_wall_halfwall.png](images/bastion/rooms/warroom/bastion_warroom_wall_halfwall.png){:target="_blank"}  
 > [bastion_warroom_wall_paintingwall.png](images/bastion/rooms/warroom/bastion_warroom_wall_paintingwall.png){:target="_blank"}  
@@ -1777,6 +1782,7 @@ Some graphics were found that had the format `Bastion/Rooms/Workshop/...`:
 > [bastion_workshop_floor_tile02.png](images/bastion/rooms/workshop/bastion_workshop_floor_tile02.png){:target="_blank"}  
 > [bastion_workshop_floor_tile03.png](images/bastion/rooms/workshop/bastion_workshop_floor_tile03.png){:target="_blank"}  
 > [bastion_workshop_floor_vent.webp](images/bastion/rooms/workshop/bastion_workshop_floor_vent.webp){:target="_blank"} (animated)  
+> [bastion_workshop_lockeddoor.png](images/bastion/rooms/workshop/bastion_workshop_lockeddoor.png){:target="_blank"}  
 > [bastion_workshop_wall_pipe.png](images/bastion/rooms/workshop/bastion_workshop_wall_pipe.png){:target="_blank"}  
 > [bastion_workshop_wall_sidewallback01.png](images/bastion/rooms/workshop/bastion_workshop_wall_sidewallback01.png){:target="_blank"}  
 > [bastion_workshop_wall_sidewallfront01.png](images/bastion/rooms/workshop/bastion_workshop_wall_sidewallfront01.png){:target="_blank"}  
@@ -1974,6 +1980,18 @@ Some graphics were found that had the format `Bastion/Rooms/Workshop/...`:
 
 > "key": "bastion_room_level_req",  
 > "contents": "The $roomName must be at Level $level"
+
+> "key": "bastion_opt_in_message",  
+> "contents": "To enable the Bastion, the game must be restarted. Your game will automatically close and will need to be reopened."
+
+> "key": "bastion_beta",  
+> "contents": "Bastion Beta"
+
+> "key": "bastion_opt_out_message",  
+> "contents": "To disable the Bastion, the game must be restarted. Your game will automatically close and will need to be reopened."
+
+> "key": "bastion_beta_setting",  
+> "contents": "Bastion Beta Opt In"
 
 [Back to Top](#top)
 
