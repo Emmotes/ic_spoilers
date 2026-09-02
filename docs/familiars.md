@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Sentry the Bear Portrait](images/familiars/sentrythebear.png)<span class="featTooltipContents">ID: 335**Sentry the Bear**Do not worry, Sentry is watching.<img src="images/familiars/sentrythebear.webp" alt="Sentry the Bear Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Sentry the Bear
-        </span>
-        <span class="skinTableSource">
-            Caramon, Guardian of the Future Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            02 Sept 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Watson the Treant Sapling Portrait](images/familiars/watsonthetreantsapling.png)<span class="featTooltipContents">ID: 336**Watson the Treant Sapling**One day, he'll be a real Treant!<img src="images/familiars/watsonthetreantsapling.webp" alt="Watson the Treant Sapling Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

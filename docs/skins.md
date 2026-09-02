@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Caramon, Guardian of the Future Portrait](images/skin_portraits/caramonguardianofthefuture.png)<span class="featTooltipContents">ID: 720**Caramon, Guardian of the Future (Caramon)**<img src="images/skin_models/caramonguardianofthefuture.webp" alt="Caramon, Guardian of the Future Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Caramon, Guardian of the Future
-        </span>
-        <span class="skinTableSource">
-            Caramon, Guardian of the Future Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            02 Sept 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dungeon Botanist Stoki Portrait](images/skin_portraits/dungeonbotaniststoki.png)<span class="featTooltipContents">ID: 722**Dungeon Botanist Stoki (Stoki)**<img src="images/skin_models/dungeonbotaniststoki.webp" alt="Dungeon Botanist Stoki Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dungeon Botanist Stoki
-        </span>
-        <span class="skinTableSource">
-            Dungeon Botanist Stoki Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            02 Sept 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Schoolyard Bruiser Bobby Portrait](images/skin_portraits/schoolyardbruiserbobby.png)<span class="featTooltipContents">ID: 721**Schoolyard Bruiser Bobby (Bobby)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/schoolyardbruiserbobby.webp" alt="Schoolyard Bruiser Bobby Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/schoolyardbruiserbobby-1.webp" alt="Schoolyard Bruiser Bobby Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Schoolyard Bruiser Bobby
-        </span>
-        <span class="skinTableSource">
-            Schoolyard Bruiser Bobby Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            02 Sept 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Professor of Beasts Wulfgar Portrait](images/skin_portraits/professorofbeastswulfgar.png)<span class="featTooltipContents">ID: 736**Professor of Beasts Wulfgar (Wulfgar)**<img src="images/skin_models/professorofbeastswulfgar.webp" alt="Professor of Beasts Wulfgar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -128,7 +77,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Freeblade Kitiara Portrait](images/skin_portraits/freebladekitiara.png)<span class="featTooltipContents">ID: 734**Freeblade Kitiara (Kitiara)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/freebladekitiara.webp" alt="Freeblade Kitiara Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/freebladekitiara-skie_ult_graphic.webp" alt="Freeblade Kitiara Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Freeblade Kitiara Portrait](images/skin_portraits/freebladekitiara.png)<span class="featTooltipContents">ID: 734**Freeblade Kitiara (Kitiara)**<img src="images/skin_models/freebladekitiara.webp" alt="Freeblade Kitiara Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Freeblade Kitiara
