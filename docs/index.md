@@ -23,34 +23,6 @@ These are the new event champions that are upcoming and all the information we k
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="caramon.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Caramon Majere Portrait Icon](images/caramon/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Caramon Majere
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Fighter of Heroes of the Lance</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Highharvestide - 2 September 2026</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐<br>Roadmapped 🗺️
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="kitiara.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -139,90 +111,6 @@ A list of champions that will be seeing reworks or rebalances in upcoming events
 Events will have either one rework OR three rebalances.
 
 <span class="indexChampionTableColumn">
-{::nomarkdown}
-<a href="stoki.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Stoki Portrait Icon](images/stoki/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Stoki
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Gnome Monk</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Highharvestide - 2 September 2026</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️<br>Roadmapped 🗺️
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
-<a href="pwent.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Thibbledorf Pwent Portrait Icon](images/pwent/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Thibbledorf Pwent
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dwarf Barbarian</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Highharvestide - 2 September 2026</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️<br>Roadmapped 🗺️
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
-<a href="corazon.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Corazón de Ballena Portrait Icon](images/corazon/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Corazón de Ballena
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Rogue of Oxventurers Guild</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Highharvestide - 2 September 2026</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️<br>Roadmapped 🗺️
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
 {::nomarkdown}
 <a href="avren.html">
 {:/nomarkdown}
@@ -452,111 +340,6 @@ Events will have either one rework OR three rebalances.
 These are the upcoming new and reworked/rebalanced champions and where they'll be found.  
 Events will have either one rework OR three rebalances.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
-## Highharvestide - 2 September 2026
-<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="caramon.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Caramon Majere Portrait Icon](images/caramon/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Caramon Majere
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Fighter of Heroes of the Lance</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐<br>Roadmapped 🗺️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
-<a href="stoki.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Stoki Portrait Icon](images/stoki/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Stoki
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Gnome Monk</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️<br>Roadmapped 🗺️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
-<a href="pwent.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Thibbledorf Pwent Portrait Icon](images/pwent/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Thibbledorf Pwent
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Dwarf Barbarian</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️<br>Roadmapped 🗺️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
-<a href="corazon.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Corazón de Ballena Portrait Icon](images/corazon/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Corazón de Ballena
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Rogue of Oxventurers Guild</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️<br>Roadmapped 🗺️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-</span>
-</div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Liars' Night - 7 October 2026
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
@@ -844,7 +627,6 @@ Events will have either one rework OR three rebalances.
 
 Miscellaneous spoilers with due dates.
 
-* Anniversary Celebration - 2 September 2026
 * Emergence 17 - 30 September 2026
 * [Bastion](bastion.md) - TBD September 2026
 * [Trials & Legendaries](trialsLegs.md) - ???
