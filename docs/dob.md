@@ -40,8 +40,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "gold_multiplier_mult,100",
+            "off_when_benched": true,
             "targets": [
                 "self"
+            ],
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "true",
+            "per_hero_targets": [
+                "adj"
             ],
             "show_bonus": true
         }
@@ -132,6 +139,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "buff_upgrade,100,20923",
+            "off_when_benched": true,
             "amount_expr": "upgrade_amount(20926,0)",
             "stacks_multiply": true,
             "amount_func": "mult",
@@ -192,6 +200,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "buff_upgrade,100,20923",
+            "off_when_benched": true,
             "amount_expr": "upgrade_amount(20927,0)",
             "stacks_multiply": true,
             "amount_func": "mult",
@@ -254,6 +263,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "buff_upgrade,100,20923",
+            "off_when_benched": true,
             "amount_expr": "upgrade_amount(20928,0)",
             "stacks_multiply": true,
             "amount_func": "mult",
@@ -307,7 +317,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2952,
     "flavour_text": "",
     "description": {
-        "desc": "Dob increases the attack bonus of Traveling Entertainer by $(not_buffed amount)% for each unique species in the formation, stacking multiplicatively and applied multiplicatively."
+        "desc": "Dob increases the attack bonus of Traveling Entertainer by $(amount)% for each unique species in the formation, stacking multiplicatively and applied multiplicatively."
     },
     "effect_keys": [
         {
@@ -316,6 +326,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "buff_upgrade,100,20923",
+            "off_when_benched": true,
             "amount_expr": "upgrade_amount(20929,0)",
             "stacks_multiply": true,
             "amount_func": "mult",
