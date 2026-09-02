@@ -151,7 +151,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Gutbuster Recruits** (Guess)
-> When a Champion adjacent to Pwent scores a critical hit, Pwent increases the effect of $(upgrade_name id) by 50%. This can multiplicatively stack up to 50 times, with the stacks being reduced by 50% on area change.
+> When a Champion adjacent to Pwent scores a critical hit, Pwent increases the effect of Can You SMELL That? by 50%. This can multiplicatively stack up to 50 times, with the stacks being reduced by 50% on area change.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -215,7 +215,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Bruenor, Me King!** (Guess)
-> While not a member of the Companions of the Hall, Pwent fully supports them in their quests. Your formation gains one Mithral Hall stack. Pwent increases the damage bonus of $(upgrade_name id___2) by 100% for each Mithral Hall stack you have, stacking multiplicatively.
+> While not a member of the Companions of the Hall, Pwent fully supports them in their quests. Your formation gains one Mithral Hall stack. Pwent increases the damage bonus of Can You SMELL That? by 100% for each Mithral Hall stack you have, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -274,7 +274,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Recruiting Drive** (Guess)
-> $(upgrade_name id) now triggers when non-adjacent Champions score critical hits, instead of adjacent Champions, but will also always trigger for any Dwarf Champions in the formation.
+> Gutbuster Recruits now triggers when non-adjacent Champions score critical hits, instead of adjacent Champions, but will also always trigger for any Dwarf Champions in the formation.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -324,7 +324,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Scents of Mithral Hall** (Guess)
-> Increases the effect of $(upgrade_name id) by 200% for each Dwarf Champion in the formation, stacking multiplicatively and including himself.
+> Increases the effect of Can You SMELL That? by 200% for each Dwarf Champion in the formation, stacking multiplicatively and including himself.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
