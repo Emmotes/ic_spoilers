@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2757**Feat**???: 2757</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![His Brother's Strength Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2757**His Brother's Strength**Remember, my brother! This happens because I choose it to happen! ~Raistlin<br><br><span style="color:var(--Flavescent)">Increases the effect of Caramon's Brother's Keeper ability by 80%. (Prestack)</span><code>buff_upgrade,80,20185</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2757</span>
+            <span style="margin-left:15px">His Brother's Strength</span>
+            <span style="margin-left:15px">Caramon</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -173,7 +174,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Demon Fist Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2743**Demon Fist**Fear the monk who has practiced one punch ten thousand times.<br><br><span style="color:var(--Flavescent)">Increases the effect of Stoki's Focused Strike ability by 80%.</span><code>buff_upgrade,80,16052,1</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Demon Fist Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2743**Demon Fist**Fear the monk who has practiced one punch ten thousand times.<br><br><span style="color:var(--Flavescent)">Increases the effect of Stoki's Focused Strike ability by 80%.</span><code>buff_upgrade,80,20260,1</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -244,7 +245,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Hyperhidrosis Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2744**Hyperhidrosis**What do ye mean 'too much sweat'!? Don't talk nonsense!<br><br><span style="color:var(--Flavescent)">Increases the effect of Pwent's $(upgrade_name id) ability by 80%.</span><code>buff_upgrade,80,20272</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Hyperhidrosis Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2744**Hyperhidrosis**What do ye mean 'too much sweat'!? Don't talk nonsense!<br><br><span style="color:var(--Flavescent)">Increases the effect of Pwent's Bruenor, Me King! ability by 80%. (Prestack)</span><code>buff_upgrade,80,20272</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -406,7 +407,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2777**Guided Strike**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Guided Strike Feat Portrait](images/featicons/critchanceincrease.png)<span class="itemTooltipContents">ID: 2777**Guided Strike**Watch and learn!<br><br><span style="color:var(--Flavescent)">Wulfgar increases his crit chance by 5% for each adjacent Champion.</span><code>effect_def,2985</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1325,7 +1326,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2780**Dire Resolve**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Dire Resolve Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2780**Dire Resolve**To destroy your enemy, sometimes you must become like them.<br><br><span style="color:var(--Flavescent)">Increases the effect of Turiel's Unflinching Hatred ability by 80%.</span><code>buff_upgrade,80,10660</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1467,7 +1468,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2782**Multiversal Allies**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Multiversal Allies Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2782**Multiversal Allies**Our bonds make us stronger.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -1590,7 +1591,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2783**Double Double**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Double Double Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2783**Double Double**Faerie Fire burn and granny's cauldron bubble...<br><br><span style="color:var(--Flavescent)">Increases the effect of Skylla's first set of Specializations by 80%.</span><code>buff_upgrades,80,17848,17849,17850</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>

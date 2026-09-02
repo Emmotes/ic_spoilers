@@ -9,23 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Guest Lecturer Volo Portrait](images/skin_portraits/guestlecturervolo.png)<span class="featTooltipContents">ID: 708**Guest Lecturer Volo (Volo)**<img src="images/skin_models/guestlecturervolo.webp" alt="Guest Lecturer Volo Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Guest Lecturer Volo
-        </span>
-        <span class="skinTableSource">
-            Anniversary Giveaway - Anniversary Celebration
-        </span>
-        <span class="skinTableCost">
-            Free?
-        </span>
-        <span class="skinTableDate">
-            02 Sept 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Caramon, Guardian of the Future Portrait](images/skin_portraits/caramonguardianofthefuture.png)<span class="featTooltipContents">ID: 720**Caramon, Guardian of the Future (Caramon)**<img src="images/skin_models/caramonguardianofthefuture.webp" alt="Caramon, Guardian of the Future Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -145,7 +128,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Freeblade Kitiara Portrait](images/skin_portraits/freebladekitiara.png)<span class="featTooltipContents">ID: 734**Freeblade Kitiara (Kitiara)**<img src="images/skin_models/freebladekitiara.webp" alt="Freeblade Kitiara Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Freeblade Kitiara Portrait](images/skin_portraits/freebladekitiara.png)<span class="featTooltipContents">ID: 734**Freeblade Kitiara (Kitiara)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/freebladekitiara.webp" alt="Freeblade Kitiara Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/freebladekitiara-skie_ult_graphic.webp" alt="Freeblade Kitiara Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Freeblade Kitiara

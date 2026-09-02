@@ -50,7 +50,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Stoki</span>
         </span>
         <span class="featTableIcon4">
-            ![Demon Fist Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2743**Demon Fist (Stoki)**Fear the monk who has practiced one punch ten thousand times.<br><br><span style="color:var(--Flavescent)">Increases the effect of Stoki's Focused Strike ability by 80%.</span><code>buff_upgrade,80,16052,1</code></span>Demon Fist
+            ![Demon Fist Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2743**Demon Fist (Stoki)**Fear the monk who has practiced one punch ten thousand times.<br><br><span style="color:var(--Flavescent)">Increases the effect of Stoki's Focused Strike ability by 80%.</span><code>buff_upgrade,80,20260,1</code></span>Demon Fist
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Stoki's Focused Strike ability by 80%.</span>
@@ -81,13 +81,30 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Caramon</span>
+        </span>
+        <span class="featTableIcon4">
+            ![His Brother's Strength Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2757**His Brother's Strength (Caramon)**Remember, my brother! This happens because I choose it to happen! ~Raistlin<br><br><span style="color:var(--Flavescent)">Increases the effect of Caramon's Brother's Keeper ability by 80%. (Prestack)</span><code>buff_upgrade,80,20185</code></span>His Brother's Strength
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Caramon's Brother's Keeper ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">02 Sept 2026<br>02 Dec 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Pwent</span>
         </span>
         <span class="featTableIcon4">
-            ![Hyperhidrosis Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2744**Hyperhidrosis (Pwent)**What do ye mean 'too much sweat'!? Don't talk nonsense!<br><br><span style="color:var(--Flavescent)">Increases the effect of Pwent's $(upgrade_name id) ability by 80%.</span><code>buff_upgrade,80,20272</code></span>Hyperhidrosis
+            ![Hyperhidrosis Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2744**Hyperhidrosis (Pwent)**What do ye mean 'too much sweat'!? Don't talk nonsense!<br><br><span style="color:var(--Flavescent)">Increases the effect of Pwent's Bruenor, Me King! ability by 80%. (Prestack)</span><code>buff_upgrade,80,20272</code></span>Hyperhidrosis
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Pwent's $(upgrade_name id) ability by 80%.</span>
+            <span class="featTableInner">Increases the effect of Pwent's Bruenor, Me King! ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -101,10 +118,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Wulfgar</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2777**Guided Strike (Wulfgar)**</span>Guided Strike
+            ![Guided Strike Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2777**Guided Strike (Wulfgar)**Watch and learn!<br><br><span style="color:var(--Flavescent)">Wulfgar increases his crit chance by 5% for each adjacent Champion.</span><code>effect_def,2985</code></span>Guided Strike
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Wulfgar increases his crit chance by 5% for each adjacent Champion.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -135,7 +152,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Eric</span>
         </span>
         <span class="featTableIcon5">
-            ![Weekend Warrior Icon](images/featicons/eric.png)<span class="featTooltipContents">ID: 2774**Weekend Warrior (Eric)**Is it Saturday yet? <br><br><span style="color:var(--Flavescent)">Eric increases the effect of his Trait specialization by 100% for each 5% of his current Corrupted Gem Scavenger cap that he has collected. Once all Champions in the formation have knocked back enemies at least 60 times in the current area, Eric's second specialization ability gains 1 additional stack(s). The requirement is reduced by a static 5 if it's the weekend (ie. a Weekend Promo Buff is active).</span><code>effect_def,2904</code></span>Weekend Warrior
+            ![Weekend Warrior Icon](images/featicons/eric.png)<span class="featTooltipContents">ID: 2774**Weekend Warrior (Eric)**Is it Saturday yet?<br><br><span style="color:var(--Flavescent)">Eric increases the effect of his Trait specialization by 100% for each 5% of his current Corrupted Gem Scavenger cap that he has collected. Once all Champions in the formation have knocked back enemies at least 60 times in the current area, Eric's second specialization ability gains 1 additional stack(s). The requirement is reduced by a static 5 if it's the weekend (ie. a Weekend Promo Buff is active).</span><code>effect_def,2904</code></span>Weekend Warrior
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Eric increases the effect of his Trait specialization by 100% for each 5% of his current Corrupted Gem Scavenger cap that he has collected. Once all Champions in the formation have knocked back enemies at least 60 times in the current area, Eric's second specialization ability gains 1 additional stack(s). The requirement is reduced by a static 5 if it's the weekend (ie. a Weekend Promo Buff is active).</span>
@@ -145,6 +162,91 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">23 Sept 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Raistlin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Consumptive Arcana Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2519**Consumptive Arcana (Raistlin)**Stand back. I have strength for one more spell. ~Raistlin<br><br><span style="color:var(--Flavescent)">Increases the health threshold of Debilitating Magic to trigger when Raistlin is above 80% health.</span><code>change_upgrade_data,18931</code></span>Consumptive Arcana
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the health threshold of Debilitating Magic to trigger when Raistlin is above 80% health.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Sept 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vengeful Promise Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1968**Vengeful Promise (Minthara)**Now there is freedom. Soon there will be vengeance.<br><br><span style="color:var(--Flavescent)">Increases the health bonus of the Unyielding component of Minthara's Oath of Vengeance ability by 80%.</span><code>buff_upgrade,80,15945,1</code></span>Vengeful Promise
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the health bonus of the Unyielding component of Minthara's Oath of Vengeance ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Sept 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Flint</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Unyielding Initiative Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2717**Unyielding Initiative (Flint)**I almost lost him, Tanis.<br><br><span style="color:var(--Flavescent)">Increases the Initiative and Follow Through stacks gained when Flint attacks to 2.</span><code>change_upgrade_data,20133,0</code></span>Unyielding Initiative
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the Initiative and Follow Through stacks gained when Flint attacks to 2.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Sept 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Caramon</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Scholar Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2762**Scholar (Caramon)**Your brains are in your sword-arm, my brother. ~Raistlin<br><br><span style="color:var(--Flavescent)">Increases the Intelligence score of Caramon by 2.</span><code>increase_ability_score,int,2</code></span>Scholar
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the Intelligence score of Caramon by 2.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Sept 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Umberto</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Long Story Short Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1851**Long Story Short (Umberto)**And that is how they THOUGHT they got away with it!<br><br><span style="color:var(--Flavescent)">Increases the maximum number of Ongoing Investigation's Clue Stacks by 50%.</span><code>buff_upgrade_effect_stacks_max_mult,50,15050</code></span>Long Story Short
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the maximum number of Ongoing Investigation's Clue Stacks by 50%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Sept 2026</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -179,6 +281,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">07 Oct 2026<br>07 Jan 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Krond</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Cantrip: Ascendant Fire Bolt Icon](images/featicons/krondfirebolt.png)<span class="featTooltipContents">ID: 2219**Cantrip: Ascendant Fire Bolt (Krond)**An ancient red dragon was among my finest masters. I slew her and took her flame for my own.<br><br><span style="color:var(--Flavescent)">Krond's base attacks shoot out 5 fire bolts, each dealing 300% of its base damage to up to five other random enemies.</span><code>krond_fire_bolt,300,5<br>change_base_attack,865</code></span>Cantrip: Ascendant Fire Bolt
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Krond's base attacks shoot out 5 fire bolts, each dealing 300% of its base damage to up to five other random enemies.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">14 Oct 2026<br>14 Jan 2027</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -220,10 +339,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Karlach</span>
         </span>
         <span class="featTableIcon5">
-            ![Astral-Touched Tadpole Icon](images/featicons/karlach.png)<span class="featTooltipContents">ID: 2802**Astral-Touched Tadpole (Karlach)**Stick it in my eye before I change my mind. <br><br><span style="color:var(--Flavescent)">Karlach adds up the total Constitution scores of all the Champions adjacent to her and increases the effect of The Fury of Avernus by 100% for every 4 CON she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,2930</code></span>Astral-Touched Tadpole
+            ![Astral-Touched Tadpole Icon](images/featicons/karlach.png)<span class="featTooltipContents">ID: 2802**Astral-Touched Tadpole (Karlach)**Stick it in my eye before I change my mind.<br><br><span style="color:var(--Flavescent)">Karlach adds up the total Constitution scores of herself and all the Champions adjacent to her. She increases the effect of The Fury of Avernus by 100% for every 4 CON she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,2930</code></span>Astral-Touched Tadpole
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Karlach adds up the total Constitution scores of all the Champions adjacent to her and increases the effect of The Fury of Avernus by 100% for every 4 CON she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>
+            <span class="featTableInner">Karlach adds up the total Constitution scores of herself and all the Champions adjacent to her. She increases the effect of The Fury of Avernus by 100% for every 4 CON she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum</span>
@@ -237,7 +356,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Widdle</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2779**Too Many Friends (Widdle)**</span>Too Many Friends
+            ![Too Many Friends Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2779**Too Many Friends (Widdle)**Back up, people! I need some breathing room!<code>todo<br>DevNote: New effect-Increase the effect of Tasty Friends by 100% if there are 3 or fewer Champions adjacent to Widdle.</code></span>Too Many Friends
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -254,10 +373,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Turiel</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2780**Dire Resolve (Turiel)**</span>Dire Resolve
+            ![Dire Resolve Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2780**Dire Resolve (Turiel)**To destroy your enemy, sometimes you must become like them.<br><br><span style="color:var(--Flavescent)">Increases the effect of Turiel's Unflinching Hatred ability by 80%.</span><code>buff_upgrade,80,10660</code></span>Dire Resolve
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Turiel's Unflinching Hatred ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -268,13 +387,30 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vengeful Assurance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1970**Vengeful Assurance (Minthara)**They will fall. It is simply a matter of patience.<br><br><span style="color:var(--Flavescent)">The Piercing component of Minthara's Oath of Vengeance ability removes an extra piece of armor or health.</span><code>buff_upgrade,100,15945,2</code></span>Vengeful Assurance
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">The Piercing component of Minthara's Oath of Vengeance ability removes an extra piece of armor or health.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">11 Nov 2026<br>11 Feb 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Sentry</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2782**Multiversal Allies (Sentry)**</span>Multiversal Allies
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2782**Multiversal Allies (Sentry)**Our bonds make us stronger.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -288,10 +424,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Skylla</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2783**Double Double (Skylla)**</span>Double Double
+            ![Double Double Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2783**Double Double (Skylla)**Faerie Fire burn and granny's cauldron bubble...<br><br><span style="color:var(--Flavescent)">Increases the effect of Skylla's first set of Specializations by 80%.</span><code>buff_upgrades,80,17848,17849,17850</code></span>Double Double
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Skylla's first set of Specializations by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -535,23 +671,6 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">Raistlin</span>
         </span>
         <span class="featTableIcon4">
-            ![Consumptive Arcana Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2519**Consumptive Arcana (Raistlin)**Stand back. I have strength for one more spell. ~Raistlin<br><br><span style="color:var(--Flavescent)">Increases the health threshold of Debilitating Magic to trigger when Raistlin is above 80% health.</span><code>change_upgrade_data,18931</code></span>Consumptive Arcana
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the health threshold of Debilitating Magic to trigger when Raistlin is above 80% health.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Raistlin</span>
-        </span>
-        <span class="featTableIcon4">
             ![Ruinous Arcana Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2520**Ruinous Arcana (Raistlin)**The spell worked, but I did not believe it would drain me like this. ~Raistlin<br><br><span style="color:var(--Flavescent)">Decreases the damage amount of Debilitating Magic to 0.5%.</span><code>change_upgrade_data,18931</code></span>Ruinous Arcana
         </span>
         <span class="featTableEffect">
@@ -753,6 +872,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Caramon</span>
+        </span>
+        <span class="featTableIcon3">
+            ![Durable Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">ID: 2760**Durable (Caramon)**Caramon must be giant by now. ~Kitiara<br><br><span style="color:var(--Flavescent)">Increases the Constitution score of Caramon by 1.</span><code>increase_ability_score,con,1</code></span>Durable
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the Constitution score of Caramon by 1.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Laurana</span>
         </span>
         <span class="featTableIcon4">
@@ -770,13 +906,13 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Flint</span>
+            <span class="featTableInner">Caramon</span>
         </span>
         <span class="featTableIcon4">
-            ![Unyielding Initiative Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2717**Unyielding Initiative (Flint)**I almost lost him, Tanis.<br><br><span style="color:var(--Flavescent)">Increases the Initiative and Follow Through stacks gained when Flint attacks to 2.</span><code>change_upgrade_data,20133,0</code></span>Unyielding Initiative
+            ![Tenacious Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2761**Tenacious (Caramon)**I didn't save his life. He came back for love of you. ~Zebulah<br><br><span style="color:var(--Flavescent)">Increases the Constitution score of Caramon by 2.</span><code>increase_ability_score,con,2</code></span>Tenacious
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the Initiative and Follow Through stacks gained when Flint attacks to 2.</span>
+            <span class="featTableInner">Increases the Constitution score of Caramon by 2.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -858,10 +994,10 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">Celeste</span>
         </span>
         <span class="featTableIcon5">
-            ![Neverwinter Memories Icon](images/featicons/celeste.png)<span class="featTooltipContents">ID: 2803**Neverwinter Memories (Celeste)**TBD<br><br><span style="color:var(--Flavescent)">Celeste gains the Hunter role and Undead become her favored foe. The effect of Crusader's Mantle is increased by 250% whenever any favored foe appears, stacking multiplicatively up to 10 times and resetting when changing areas. If at least 5 Champions in the formation have the Hunter role, the range of Crusader's Mantle and Mass Cure Wounds are increased by 1. Additionally, if there are at least 10 Hunter Champions in the formation, all enemies are considered Undead for the purposes of all Champions' Hunter mechanics.</span><code>effect_def,2954</code></span>Neverwinter Memories
+            ![Neverwinter Memories Icon](images/featicons/celeste.png)<span class="featTooltipContents">ID: 2803**Neverwinter Memories (Celeste)**The light of Selûne will cleanse away the wicked.<br><br><span style="color:var(--Flavescent)">Celeste gains the Hunter role and Undead become her favored foe. The effect of Crusader's Mantle is increased by 250% whenever any favored foe appears, stacking multiplicatively up to 10 times and resetting when changing areas. If at least 5 Champion(s) in the formation have the Hunter role, the range of Crusader's Mantle and Mass Cure Wounds are increased by 1. Additionally, if there are at least 10 Hunter Champion(s) in the formation, all enemies are considered Undead for the purposes of all Champions' Hunter mechanics.</span><code>effect_def,2954</code></span>Neverwinter Memories
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Celeste gains the Hunter role and Undead become her favored foe. The effect of Crusader's Mantle is increased by 250% whenever any favored foe appears, stacking multiplicatively up to 10 times and resetting when changing areas. If at least 5 Champions in the formation have the Hunter role, the range of Crusader's Mantle and Mass Cure Wounds are increased by 1. Additionally, if there are at least 10 Hunter Champions in the formation, all enemies are considered Undead for the purposes of all Champions' Hunter mechanics.</span>
+            <span class="featTableInner">Celeste gains the Hunter role and Undead become her favored foe. The effect of Crusader's Mantle is increased by 250% whenever any favored foe appears, stacking multiplicatively up to 10 times and resetting when changing areas. If at least 5 Champion(s) in the formation have the Hunter role, the range of Crusader's Mantle and Mass Cure Wounds are increased by 1. Additionally, if there are at least 10 Hunter Champion(s) in the formation, all enemies are considered Undead for the purposes of all Champions' Hunter mechanics.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -875,7 +1011,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">Dynaheir</span>
         </span>
         <span class="featTableIcon5">
-            ![True One Icon](images/featicons/dynaheir.png)<span class="featTooltipContents">ID: 2804**True One (Dynaheir)**TBD<br><br><span style="color:var(--Flavescent)">The effect of The Resolve of Rashemen is increased by 250% for each Hunter Champion in the formation. If there are at least 10 Hunter Champions in the formation, the CON requirement of The Resolve of Rashemen is reduced by 2 and the base effect is increased by 100%.</span><code>effect_def,2960</code></span>True One
+            ![True One Icon](images/featicons/dynaheir.png)<span class="featTooltipContents">ID: 2804**True One (Dynaheir)**No more mistakes, people. We can afford no more losses.<br><br><span style="color:var(--Flavescent)">The effect of The Resolve of Rashemen is increased by 250% for each Hunter Champion in the formation. If there are at least 10 Hunter Champions in the formation, the CON requirement of The Resolve of Rashemen is reduced by 2 and the base effect is increased by 100%.</span><code>effect_def,2960</code></span>True One
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">The effect of The Resolve of Rashemen is increased by 250% for each Hunter Champion in the formation. If there are at least 10 Hunter Champions in the formation, the CON requirement of The Resolve of Rashemen is reduced by 2 and the base effect is increased by 100%.</span>
@@ -892,7 +1028,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">Imoen</span>
         </span>
         <span class="featTableIcon5">
-            ![Heya! It's Me, Neomi! Icon](images/featicons/imoen.png)<span class="featTooltipContents">ID: 2805**Heya! It's Me, Neomi! (Imoen)**TBD<br><br><span style="color:var(--Flavescent)">Imoen gains a Rumors stack for each unique enemy type that is the Favored Foe of any Champion in the formation. The effect of Optimism is increased by 250% for each Rumors stack she has. If Imoen has at least 10 Rumors stacks, the base effect of Perseverance is increased by 25% and her Polymorph spell will sometimes transform its target into a helpless Potted Plant.</span><code>effect_def,2962</code></span>Heya! It's Me, Neomi!
+            ![Rumor Seeker Icon](images/featicons/imoen.png)<span class="featTooltipContents">ID: 2805**Rumor Seeker (Imoen)**You can call me Neomi. I'm not from around here.<br><br><span style="color:var(--Flavescent)">Imoen gains a Rumors stack for each unique enemy type that is the Favored Foe of any Champion in the formation. The effect of Optimism is increased by 250% for each Rumors stack she has. If Imoen has at least 10 Rumors stacks, the base effect of Perseverance is increased by 25% and her Polymorph spell will sometimes transform its target into a helpless Potted Plant.</span><code>effect_def,2962</code></span>Rumor Seeker
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Imoen gains a Rumors stack for each unique enemy type that is the Favored Foe of any Champion in the formation. The effect of Optimism is increased by 250% for each Rumors stack she has. If Imoen has at least 10 Rumors stacks, the base effect of Perseverance is increased by 25% and her Polymorph spell will sometimes transform its target into a helpless Potted Plant.</span>
@@ -957,23 +1093,6 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Stoki</span>
-        </span>
-        <span class="featTableIcon3">
-            ![Focus Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1239**Focus Up (Stoki)**Don't lose sight of what lies ahead.<br><br><span style="color:var(--Flavescent)">Stoki's Focus Points are only reduced by 33% when changing areas.</span><code>change_upgrade_data,16052,5</code></span>Focus Up
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Stoki's Focus Points are only reduced by 33% when changing areas.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Asharra</span>
         </span>
         <span class="featTableIcon4">
@@ -991,30 +1110,13 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Krond</span>
+            <span class="featTableInner">Stoki</span>
         </span>
-        <span class="featTableIcon4">
-            ![Cantrip: Ascendant Fire Bolt Icon](images/featicons/krondfirebolt.png)<span class="featTooltipContents">ID: 2219**Cantrip: Ascendant Fire Bolt (Krond)**An ancient red dragon was among my finest masters. I slew her and took her flame for my own.<br><br><span style="color:var(--Flavescent)">Krond's base attacks shoot out 5 fire bolts, each dealing 300% of its base damage to up to five other random enemies.</span><code>krond_fire_bolt,300,5<br>change_base_attack,865</code></span>Cantrip: Ascendant Fire Bolt
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Krond's base attacks shoot out 5 fire bolts, each dealing 300% of its base damage to up to five other random enemies.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Pwent</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Vicious Damage Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 1358**Vicious Damage (Pwent)**Tear them apart!<br><br><span style="color:var(--Flavescent)">Increases the damage of Pwent by 400%. Pwent's attacks prevent the target from healing for 10 seconds.</span><code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span>Vicious Damage
+        <span class="featTableIcon3">
+            ![Focus Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1239**Focus Up (Stoki)**Don't lose sight of what lies ahead.<br><br><span style="color:var(--Flavescent)">Stoki's Focus Points are only reduced by 33% when changing areas.</span><code>change_upgrade_data,20260,5</code></span>Focus Up
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of Pwent by 400%. Pwent's attacks prevent the target from healing for 10 seconds.</span>
+            <span class="featTableInner">Stoki's Focus Points are only reduced by 33% when changing areas.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -1178,6 +1280,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Pwent</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vicious Damage Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 1358**Vicious Damage (Pwent)**Tear them apart!<br><br><span style="color:var(--Flavescent)">Increases the damage of Pwent by 400%. Pwent's attacks prevent the target from healing for 10 seconds.</span><code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span>Vicious Damage
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of Pwent by 400%. Pwent's attacks prevent the target from healing for 10 seconds.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Vin Ursa</span>
         </span>
         <span class="featTableIcon3">
@@ -1236,40 +1355,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Krux's An Experienced Sailor ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Minthara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Vengeful Promise Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1968**Vengeful Promise (Minthara)**Now there is freedom. Soon there will be vengeance.<br><br><span style="color:var(--Flavescent)">Increases the health bonus of the Unyielding component of Minthara's Oath of Vengeance ability by 80%.</span><code>buff_upgrade,80,15945,1</code></span>Vengeful Promise
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the health bonus of the Unyielding component of Minthara's Oath of Vengeance ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Stoki</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Crane Strike Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1244**Crane Strike (Stoki)**A precise blow to the right area can paralyze a foe.<br><br><span style="color:var(--Flavescent)">Increases the stun chance of Stoki's Building Focus - Overflow ability by 80%.</span><code>buff_upgrade,80,16054,4</code></span>Crane Strike
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the stun chance of Stoki's Building Focus - Overflow ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -1402,10 +1487,10 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">Stoki</span>
         </span>
         <span class="featTableIcon4">
-            ![Viper's Sting Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2013**Viper's Sting (Stoki)**Twist the wrist just so to prolong the numbing effect.<br><br><span style="color:var(--Flavescent)">Increases the stun duration of Stoki's Building Focus - Overflow ability by 1 second.</span><code>change_upgrade_data,16054,4</code></span>Viper's Sting
+            ![Crane Strike Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1244**Crane Strike (Stoki)**A precise blow to the right area can paralyze a foe.<br><br><span style="color:var(--Flavescent)">Increases the stun chance of Stoki's Building Focus - Overflow ability by 80%.</span><code>buff_upgrade,80,20262,4</code></span>Crane Strike
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the stun duration of Stoki's Building Focus - Overflow ability by 1 second.</span>
+            <span class="featTableInner">Increases the stun chance of Stoki's Building Focus - Overflow ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -1450,30 +1535,13 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Minthara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Vengeful Assurance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1970**Vengeful Assurance (Minthara)**They will fall. It is simply a matter of patience.<br><br><span style="color:var(--Flavescent)">The Piercing component of Minthara's Oath of Vengeance ability removes an extra piece of armor or health.</span><code>buff_upgrade,100,15945,2</code></span>Vengeful Assurance
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">The Piercing component of Minthara's Oath of Vengeance ability removes an extra piece of armor or health.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Stoki</span>
         </span>
         <span class="featTableIcon4">
-            ![Bursting Blow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2014**Bursting Blow (Stoki)**Release the energy when the moment is right. Patience...<br><br><span style="color:var(--Flavescent)">Increases the BUD damage of Stoki's Building Focus - Explosion ability by 80%.</span><code>change_upgrade_data,16054,5</code></span>Bursting Blow
+            ![Viper's Sting Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2013**Viper's Sting (Stoki)**Twist the wrist just so to prolong the numbing effect.<br><br><span style="color:var(--Flavescent)">Increases the stun duration of Stoki's Building Focus - Overflow ability by 1 second.</span><code>change_upgrade_data,20262,4</code></span>Viper's Sting
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the BUD damage of Stoki's Building Focus - Explosion ability by 80%.</span>
+            <span class="featTableInner">Increases the stun duration of Stoki's Building Focus - Overflow ability by 1 second.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -1586,6 +1654,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Stoki</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Bursting Blow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2014**Bursting Blow (Stoki)**Release the energy when the moment is right. Patience...<br><br><span style="color:var(--Flavescent)">Increases the BUD damage of Stoki's Building Focus - Explosion ability by 80%.</span><code>change_upgrade_data,20262,5</code></span>Bursting Blow
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the BUD damage of Stoki's Building Focus - Explosion ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Umberto</span>
         </span>
         <span class="featTableIcon4">
@@ -1627,23 +1712,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the BUD damage of Lazaapz's Gauntlet Launcher from her Guardian Specialization by 100%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Umberto</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Long Story Short Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1851**Long Story Short (Umberto)**And that is how they THOUGHT they got away with it!<br><br><span style="color:var(--Flavescent)">Increases the maximum number of Ongoing Investigation's Clue Stacks by 50%.</span><code>buff_upgrade_effect_stacks_max_mult,50,15050</code></span>Long Story Short
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the maximum number of Ongoing Investigation's Clue Stacks by 50%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
