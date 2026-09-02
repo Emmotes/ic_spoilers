@@ -89,7 +89,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Volume Up** (Guess)
-> Increase the damage bonus of Hype based on the highest number of Hype stacks that Brig has ever had at once. The increase is 100% for every 3 Hype stack, stacking multiplicatively.
+> Increase the damage bonus of Hype based on the highest number of Hype stacks that Brig has ever had at once. The increase is 100% for every 3 Hype stacks, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -99,7 +99,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2940,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the damage bonus of Hype based on the highest number of Hype stacks that Brig has ever had at once. The increase is $amount% for every $per_hype_stack___2 Hype stack, stacking multiplicatively."
+        "desc": "Increase the damage bonus of Hype based on the highest number of Hype stacks that Brig has ever had at once. The increase is $amount% for every $per_hype_stack___2 Hype stacks, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -151,6 +151,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "buff_upgrade,200,20708,2",
+            "off_when_benched": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`bard`) || GetStat(`cha`) >= 16 || HasTag(`sirensreal`)",
@@ -194,7 +195,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "conditions": [
                 {
                     "condition": "not static_desc",
-                    "desc": "^^Seconds Since Last Enemy Defeated: $(brig_rally_chord_seconds_since_last_kill_v2)^Rallying Chord Hype Stacks: $(brig_rally_chord_stacks_v2)"
+                    "desc": "|^^Seconds Since Last Enemy Defeated: $(brig_rally_chord_seconds_since_last_kill_v2)^Rallying Chord Hype Stacks: $(brig_rally_chord_stacks_v2)"
                 }
             ]
         }
