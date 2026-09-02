@@ -1310,7 +1310,7 @@ The walls surrounding the various bastion rooms.
 
 Complete adventures, variants, quests, and achievements to progress in Idle Champions of the Forgotten Realms!
 
-### Upgrading Unlocks
+### Upgrading Requirements and Unlocks
 
 > Complete 4 unique adventures: Tomb of Annihilation campaign and Tales of the Champions campaign  
 > Complete 15 unique adventures: Waterdeep: Dragon Heist campaign  
@@ -1682,7 +1682,7 @@ Unlocks Time Gates, which allow you to spend Time Gate Pieces to unlock and coll
 
 Collect Champions to fill your Tavern and unlock additional adventuring parties.
 
-### Upgrading Unlocks
+### Upgrading Requirements and Unlocks
 
 > Have at least two Champions in every bench seat: Second adventuring party  
 > Have at least three Champions in every bench seat: Third adventuring party  
