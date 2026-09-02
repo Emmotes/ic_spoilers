@@ -1599,7 +1599,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Pwent Slot 4](images/exclusivities/ge_6387.png)<span class="itemTooltipContents">ID: 1192**Helm of Clangeddin's Wrath (Pwent)**When a dwarf enters tha bloodrage, stand clear.<br><br><span style="color:var(--Flavescent)">Increases the effect of Pwent's Gutbuster Recruits ability by 275%.</span><code>buff_upgrade,275,11494</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Pwent Slot 4](images/exclusivities/ge_6387.png)<span class="itemTooltipContents">ID: 1192**Helm of Clangeddin's Wrath (Pwent)**When a dwarf enters tha bloodrage, stand clear.<br><br><span style="color:var(--Flavescent)">Increases the effect of Pwent's Gutbuster Recruits ability by 275%.</span><code>buff_upgrade,275,20271</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
