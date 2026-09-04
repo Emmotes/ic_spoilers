@@ -195,7 +195,10 @@ Events will have either one rework OR three rebalances.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="penelope.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Penelope Portrait Icon](images/penelope/portrait.png)
         </span>
@@ -217,6 +220,9 @@ Events will have either one rework OR three rebalances.
             Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
     <span class="indexChampionTableRowNoHover">
         <span class="indexChampionTableIcon">
             ![Jang Sao Portrait Icon](images/jangsao/portrait.png)
@@ -492,7 +498,10 @@ Events will have either one rework OR three rebalances.
             ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
     </span>
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="penelope.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Penelope Portrait Icon](images/penelope/portrait.png)
         </span>
@@ -511,6 +520,9 @@ Events will have either one rework OR three rebalances.
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
     <span class="indexChampionTableRowNoHover">
         <span class="indexChampionTableIcon">
             ![Jang Sao Portrait Icon](images/jangsao/portrait.png)
