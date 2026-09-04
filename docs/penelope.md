@@ -35,7 +35,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2988,
     "flavour_text": "",
     "description": {
-        "desc": "Whenever Penelope attacks an enemy and doesn't kill it, all Champions deal $amount% additional damage against them. This effect can stack multiplicatively up to 3 times, with buffs applying to the post-stack damage."
+        "desc": "Whenever Penelope attacks an enemy and doesn't kill it, all Champions deal $(not_buffed amount)% additional damage against them. This effect can stack multiplicatively up to $max_stacks times, with buffs applying to the post-stack damage."
     },
     "effect_keys": [
         {
@@ -44,6 +44,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuffing_attack_ids": [
                 334
             ],
+            "max_stacks": 3,
             "debuff_effects": [
                 {
                     "effect_string": "increase_monster_damage,$amount",
@@ -55,11 +56,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     "active_graphic_y": -40,
                     "stacks_on_reapply": true,
                     "stacks_multiply": true,
-                    "max_stacks": 3,
+                    "max_stacks": "$max_stacks",
                     "stack_across_effects": false,
                     "use_collection_source": true
                 }
-            ]
+            ],
+            "use_computed_amount_for_description": true
         }
     ],
     "requirements": "",
@@ -93,7 +95,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "conditions": [
                 {
                     "condition": "not short_form",
-                    "desc": "^^Healing Charm: Penelope heals affected Champions for $(amount___2) HP every second.^^Tools for the Job Charm: Penelope increases the damage of all Champions by $(not_buffed amount___3)% for each Champion affected by this charm. This effect stacks multiplicatively."
+                    "desc": "^^Tools for the Job Charm (Healing, Support, and Gold Find champions): Penelope increases the damage of all Champions by $(amount)% for each Champion affected by this charm. This effect stacks multiplicatively.^^Healing Charm (Tanking champions): Penelope heals affected Champions for $(amount___3) HP every second."
                 }
             ]
         }
@@ -130,7 +132,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 }
             ],
             "amount_updated_listeners": [
-                "slot_changed"
+                "slot_changed",
+                "feat_changed",
+                "hero_tags_changed"
             ],
             "override_key_desc": "Healing Charm - Penelope heals $target for $amount every second"
         },
@@ -187,7 +191,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                     ]
                 }
             ],
-            "per_trigger_expr": "BroadcastTrigger(`penelope_support_trigger`, GetUpgradeStacks(21235, 4)) && BroadcastTrigger(`penelope_tanking_trigger`, GetUpgradeStacks(21235, 5))"
+            "per_trigger_expr": "BroadcastTrigger(`penelope_support_trigger`, GetUpgradeStacks(21235, 5)) && BroadcastTrigger(`penelope_tanking_trigger`, GetUpgradeStacks(21235, 4))"
         },
         {
             "apply_manually": true,
@@ -238,6 +242,693 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 9106,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "retain_on_slot_changed": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Insect Plague** (Guess)
+> Upon entering an area, Penelope summons 4 medium-sized, randomly positioned Insect Swarms on the enemy's side of the battlefield. Enemies who are in a Swarm are slowed by 100% and are afflicted by the Have You Met My Friends debuff. The slow effect can stack multiplicatively if an enemy is inside multiple Swarms. Every second an enemy is in a swarm, its slowing effect is reduced by 1%. When the slow effect reaches 40%, the swarm is dispersed and disappears.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2996,
+    "flavour_text": "",
+    "description": {
+        "desc": "Upon entering an area, Penelope summons 4 medium-sized, randomly positioned Insect Swarms on the enemy's side of the battlefield. Enemies who are in a Swarm are slowed by $(amount)% and are afflicted by the Have You Met My Friends debuff. The slow effect can stack multiplicatively if an enemy is inside multiple Swarms. Every second an enemy is in a swarm, its slowing effect is reduced by $(slow_reduction_per_second)%. When the slow effect reaches $(min_slow_amount)%, the swarm is dispersed and disappears."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_insect_plague_v2,100",
+            "spawn_rect": [
+                0,
+                0,
+                0.66,
+                0.05
+            ],
+            "default_slow_amount": 100,
+            "min_slow_amount": 40,
+            "slow_reduction_per_second": 1,
+            "aoe_radius": 150,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14700,0)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_insect_plague,100",
+            "spawn_rect": [
+                0,
+                0.05,
+                0.66,
+                0.5
+            ],
+            "default_slow_amount": 100,
+            "min_slow_amount": 40,
+            "slow_reduction_per_second": 1,
+            "aoe_radius": 150,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14700,1)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_insect_plague,100",
+            "spawn_rect": [
+                0,
+                0.5,
+                0.66,
+                0.95
+            ],
+            "default_slow_amount": 100,
+            "min_slow_amount": 40,
+            "slow_reduction_per_second": 1,
+            "aoe_radius": 150,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14700,2)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_insect_plague,100",
+            "spawn_rect": [
+                0,
+                0.95,
+                0.66,
+                1
+            ],
+            "default_slow_amount": 100,
+            "min_slow_amount": 40,
+            "slow_reduction_per_second": 1,
+            "aoe_radius": 150,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14700,3)",
+                    "use_collection_source": false
+                }
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+# Specialisations
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Keep Your Friends Close** (Guess)
+> Increases the effect of Have You Met My Friends by 150% for each Good Champion in the formation, stacking multiplicatively. The maximum stacks of Have You Met My Friends is increased by the number of eligible Champions.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2990,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increases the effect of Have You Met My Friends by $(amount)% for each Good Champion in the formation, stacking multiplicatively. The maximum stacks of Have You Met My Friends is increased by the number of eligible Champions."
+    },
+    "effect_keys": [
+        {
+            "show_description": false,
+            "off_when_benched": true,
+            "outgoing_buffs": false,
+            "effect_string": "pre_stack_amount,150"
+        },
+        {
+            "effect_string": "buff_upgrade_by_tag_mult,0,good,21233",
+            "amount_expr": "upgrade_amount(21237,0)",
+            "show_bonus": true,
+            "stacks_multiply": true,
+            "stack_title": "Good Champions"
+        },
+        {
+            "effect_string": "buff_upgrade_effect_stacks_max_add,1,21233",
+            "amount_func": "add",
+            "stack_func": "per_crusader",
+            "tag": "good",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "show_bonus": false,
+            "percent_values": false
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Good Champions in Formation: $num_stacks___2"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Keep Your Future Friends Closer** (Guess)
+> Increases the effect of Have You Met My Friends by 125% for each Evil Champion in the formation, stacking multiplicatively. The maximum stacks of Have You Met My Friends is increased by the number of eligible Champions.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2991,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increases the effect of Have You Met My Friends by $(amount)% for each Evil Champion in the formation, stacking multiplicatively. The maximum stacks of Have You Met My Friends is increased by the number of eligible Champions."
+    },
+    "effect_keys": [
+        {
+            "show_description": false,
+            "off_when_benched": true,
+            "outgoing_buffs": false,
+            "effect_string": "pre_stack_amount,125"
+        },
+        {
+            "effect_string": "buff_upgrade_by_tag_mult,0,evil,21233",
+            "amount_expr": "upgrade_amount(21238,0)",
+            "show_bonus": true,
+            "stacks_multiply": true,
+            "stack_title": "Evil Champions"
+        },
+        {
+            "effect_string": "buff_upgrade_effect_stacks_max_add,1,21233",
+            "amount_func": "add",
+            "stack_func": "per_crusader",
+            "tag": "evil",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "show_bonus": false,
+            "percent_values": false
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Evil Champions in Formation: $num_stacks___2"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Everybody Gets To Be Friends** (Guess)
+> Increases the effect of Have You Met My Friends by 70% for each Champion in the formation, stacking multiplicatively. The maximum stacks of Have You Met My Friends is increased by the number of eligible Champions.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2992,
+    "flavour_text": "",
+    "description": {
+        "desc": "Increases the effect of Have You Met My Friends by $(amount)% for each Champion in the formation, stacking multiplicatively. The maximum stacks of Have You Met My Friends is increased by the number of eligible Champions."
+    },
+    "effect_keys": [
+        {
+            "show_description": false,
+            "off_when_benched": true,
+            "outgoing_buffs": false,
+            "effect_string": "pre_stack_amount,70"
+        },
+        {
+            "effect_string": "buff_upgrade_per_crusader,0,21233",
+            "amount_expr": "upgrade_amount(21239,0)",
+            "show_bonus": true,
+            "stacks_multiply": true,
+            "stack_title": "Champions"
+        },
+        {
+            "effect_string": "buff_upgrade_effect_stacks_max_add,1,21233",
+            "amount_func": "add",
+            "stack_func": "per_crusader",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "show_bonus": false,
+            "percent_values": false
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
+        "spec_option_post_apply_info": "Champions in Formation: $num_stacks___2"
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Fury of the Fireflies** (Guess)
+> Each time one of Penelope's Insect Swarms is dispersed, the effect of Chwinga Mask is increased by 400%, stacking multiplicatively and resetting when you change areas.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2993,
+    "flavour_text": "",
+    "description": {
+        "desc": "Each time one of Penelope's Insect Swarms is dispersed, the effect of Chwinga Mask is increased by $(not_buffed amount)%, stacking multiplicatively and resetting when you change areas."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "buff_upgrade,400,14701",
+            "more_triggers": [
+                {
+                    "trigger": "on_broadcast_stacks,penelope_swarm_dispersed",
+                    "action": {
+                        "type": "add_stacks"
+                    }
+                },
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reset"
+                    }
+                }
+            ],
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "stack_title": "Dispersed Swarms Stacks"
+        },
+        {
+            "effect_string": "penelope_fury_of_the_fire_flies"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Splitting The Hive** (Guess)
+> Each time one of Penelope's Insect Swarms is dispersed, two smaller swarm appears randomly (preferring to appear on an enemy if possible, but not in the same place), damaging enemies in them for 30 seconds of BUD damage and slowing them using the same rules as the original Insect Plague. These smaller swarms do not spawn additional ones when they disperse.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2994,
+    "flavour_text": "",
+    "description": {
+        "desc": "Each time one of Penelope's Insect Swarms is dispersed, two smaller swarm appears randomly (preferring to appear on an enemy if possible, but not in the same place), damaging enemies in them for $(seconds_of_bud) seconds of BUD damage and slowing them using the same rules as the original Insect Plague. These smaller swarms do not spawn additional ones when they disperse."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_splitting_the_hive_v2,100",
+            "swarms_to_spawn": 2,
+            "spawn_rect": [
+                0,
+                0,
+                0.66,
+                0.25
+            ],
+            "default_slow_amount": 100,
+            "aoe_radius": 100,
+            "seconds_of_bud": 30,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(21234,0)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_splitting_the_hive,100",
+            "swarms_to_spawn": 2,
+            "spawn_rect": [
+                0,
+                0.25,
+                0.66,
+                0.5
+            ],
+            "default_slow_amount": 100,
+            "aoe_radius": 100,
+            "seconds_of_bud": 30,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14707,1)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_splitting_the_hive,100",
+            "swarms_to_spawn": 2,
+            "spawn_rect": [
+                0,
+                0.5,
+                0.66,
+                0.75
+            ],
+            "default_slow_amount": 100,
+            "aoe_radius": 100,
+            "seconds_of_bud": 30,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14707,2)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_splitting_the_hive,100",
+            "swarms_to_spawn": 2,
+            "spawn_rect": [
+                0,
+                0.75,
+                0.66,
+                1
+            ],
+            "default_slow_amount": 100,
+            "aoe_radius": 100,
+            "seconds_of_bud": 30,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14707,3)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_splitting_the_hive,100",
+            "swarms_to_spawn": 2,
+            "spawn_rect": [
+                0,
+                0,
+                0.66,
+                0.25
+            ],
+            "default_slow_amount": 100,
+            "aoe_radius": 100,
+            "seconds_of_bud": 30,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14707,0)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_splitting_the_hive,100",
+            "swarms_to_spawn": 2,
+            "spawn_rect": [
+                0,
+                0.25,
+                0.66,
+                0.5
+            ],
+            "default_slow_amount": 100,
+            "aoe_radius": 100,
+            "seconds_of_bud": 30,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14707,1)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_splitting_the_hive,100",
+            "swarms_to_spawn": 2,
+            "spawn_rect": [
+                0,
+                0.5,
+                0.66,
+                0.75
+            ],
+            "default_slow_amount": 100,
+            "aoe_radius": 100,
+            "seconds_of_bud": 30,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14707,2)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_splitting_the_hive,100",
+            "swarms_to_spawn": 2,
+            "spawn_rect": [
+                0,
+                0.75,
+                0.66,
+                1
+            ],
+            "default_slow_amount": 100,
+            "aoe_radius": 100,
+            "seconds_of_bud": 30,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14707,3)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_splitting_the_hive,100",
+            "swarms_to_spawn": 2,
+            "spawn_rect": [
+                0,
+                0,
+                0.66,
+                0.25
+            ],
+            "default_slow_amount": 100,
+            "aoe_radius": 100,
+            "seconds_of_bud": 30,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14707,0)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_splitting_the_hive,100",
+            "swarms_to_spawn": 2,
+            "spawn_rect": [
+                0,
+                0.25,
+                0.66,
+                0.5
+            ],
+            "default_slow_amount": 100,
+            "aoe_radius": 100,
+            "seconds_of_bud": 30,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14707,1)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_splitting_the_hive,100",
+            "swarms_to_spawn": 2,
+            "spawn_rect": [
+                0,
+                0.5,
+                0.66,
+                0.75
+            ],
+            "default_slow_amount": 100,
+            "aoe_radius": 100,
+            "seconds_of_bud": 30,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14707,2)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "show_description": false,
+            "effect_string": "penelope_splitting_the_hive,100",
+            "swarms_to_spawn": 2,
+            "spawn_rect": [
+                0,
+                0.75,
+                0.66,
+                1
+            ],
+            "default_slow_amount": 100,
+            "aoe_radius": 100,
+            "seconds_of_bud": 30,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(14707,3)",
+                    "use_collection_source": false
+                }
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Dance of the Ladybugs** (Guess)
+> Each time one of Penelope's Insect Swarms is dispersed, Penelope reduces the cooldown of all adjacent Champions ultimate abilities by 50% of its remaining cooldown.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 2995,
+    "flavour_text": "",
+    "description": {
+        "desc": "Each time one of Penelope's Insect Swarms is dispersed, Penelope reduces the cooldown of all adjacent Champions ultimate abilities by $(amount)% of its remaining cooldown."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "penelope_dance_of_the_ladybugs,50"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "retain_on_slot_changed": true
