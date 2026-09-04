@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/836.png">
-            <span class="weekendTooltipContents">ID: 836**Gold Distinguished Chest**Loot for: Flint, Raistlin, Jarlaxle, Bruenor and Caramon<code>"for_crusaders":[178,173,4,1,179]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Renown**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    04 September 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Caramon
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/flint.png')">
-                        <span class="weekendTableChampionNameplate">Flint</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 178**Flint Fireforge**Increases the effect of Flint's Forged Bonds ability by 200%. (Prestack)<code>buff_upgrade,200,20130</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/raistlin.png')">
-                        <span class="weekendTableChampionNameplate">Raistlin</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 173**Raistlin Majere**Increases the effect of Raistlin's Prodigy of High Sorcery ability by 200%.<code>buff_upgrade,200,18929</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/jarlaxle.png')">
-                        <span class="weekendTableChampionNameplate">Jarlaxle</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 4**Jarlaxle Baenre**Increases the effect of Jarlaxle's Master of Disguise and Master of Piracy by 200%.<code>buff_upgrades,200,52,2188</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/bruenor.png')">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 1**Bruenor Battlehammer**Increases the effect of Bruenor's Rally ability by 200%.<code>buff_upgrade,200,4</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/caramon.png')">
-                        <span class="weekendTableChampionNameplate">Caramon</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 179**Caramon Majere**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/837.png">
             <span class="weekendTooltipContents">ID: 837**Gold Trophy Chest**Loot for: Melf, Ellywick, Makos, Jamilah and Pwent<code>"for_crusaders":[59,83,9,11,50]</code></span>
         </span>
