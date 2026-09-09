@@ -1280,8 +1280,8 @@ The walls surrounding the various bastion rooms.
 > [Bastion_Ext_Doodad_WhiteFlowerMulti](images/bastion/rooms/exterior/bastion_ext_doodad_whiteflowermulti.png){:target="_blank"}  
 > [Bastion_Ext_Doodad_StoneCircle](images/bastion/rooms/exterior/bastion_ext_doodad_stonecircle.png){:target="_blank"}  
 > [Bastion_Ext_Doodad_FloweringShrub2](images/bastion/rooms/exterior/bastion_ext_doodad_floweringshrub2.png){:target="_blank"}  
-> [Bastion_Ext_Doodad_Well](images/bastion/rooms/exterior/bastion_ext_doodad_well.png){:target="_blank"}  
 > [Bastion_Ext_Doodad_Fountain](images/bastion/rooms/exterior/bastion_ext_doodad_fountain.png){:target="_blank"}  
+> [Bastion_Ext_Doodad_Well](images/bastion/rooms/exterior/bastion_ext_doodad_well.png){:target="_blank"}  
 > [Bastion_Ext_Doodad_WallDirtHill3](images/bastion/rooms/exterior/bastion_ext_doodad_walldirthill3.png){:target="_blank"}  
 > [Bastion_Ext_Doodad_WallVinesLrg1](images/bastion/rooms/exterior/bastion_ext_doodad_wallvineslrg1.png){:target="_blank"}  
 > [Bastion_Ext_Doodad_WallVinesLrg2](images/bastion/rooms/exterior/bastion_ext_doodad_wallvineslrg2.png){:target="_blank"}  
@@ -1717,7 +1717,6 @@ Collect Champions to fill your Tavern and unlock additional adventuring parties.
 > [Bastion_Tavern_Doodad_Stage](images/bastion/rooms/tavern/bastion_tavern_doodad_stage.png){:target="_blank"}  
 > [Bastion_Doodad_Rug](images/bastion/rooms/tavern/bastion_doodad_rug.png){:target="_blank"}  
 > [Bastion_Doodad_Lantern](images/bastion/rooms/tavern/bastion_doodad_lantern.png){:target="_blank"}  
-> [Bastion_Doodad_BackTable](images/bastion/rooms/tavern/bastion_doodad_backtable.png){:target="_blank"}  
 > [Bastion_Tavern_Doodad_StainedGlassWindow](images/bastion/rooms/tavern/bastion_tavern_doodad_stainedglasswindow.png){:target="_blank"}  
 > [Bastion_Tavern_Doodad_StainglassGlow](images/bastion/rooms/tavern/bastion_tavern_doodad_stainglassglow.png){:target="_blank"}  
 > [Bastion_Tavern_Doodad_WallMap](images/bastion/rooms/tavern/bastion_tavern_doodad_wallmap.png){:target="_blank"}  
