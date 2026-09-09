@@ -113,7 +113,9 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
         {
             "type": "melee_attack",
             "no_damage_display": true,
-            "animation_sequence_name": "idle"
+            "animation_sequence_name": "idle",
+            "alternate_charge_sequence": "idle",
+            "charge_manually": true
         }
     ],
     "tags": [
@@ -148,9 +150,15 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
     "cooldown": 360,
     "animations": [
         {
-            "type": "melee_attack",
-            "target_offset_x": -34,
-            "damage_frame": 2
+            "type": "morte_ultimate",
+            "projectile_data": {
+                "projectile": "empty",
+                "projectile_details": {
+                    "type": "ranged_attack",
+                    "projectile_hit_graphic_id": 31449,
+                    "impact_offset_y": -40
+                }
+            }
         }
     ],
     "tags": [
@@ -239,8 +247,8 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31388,
+    "large_graphic_id": 31382,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -290,8 +298,8 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31392,
+    "large_graphic_id": 31386,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -344,12 +352,13 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
             "enrage_pre_add": 0,
             "enrage_mult": 1,
             "enrage_post_add": 0,
+            "overlay_graphic_id": 31447,
             "broadcast_name": "morte_evasion"
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31390,
+    "large_graphic_id": 31384,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -396,8 +405,8 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31389,
+    "large_graphic_id": 31383,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -413,7 +422,7 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Heads Up Chief** (Guess)
-> When he has at least $if_amount stack of Evasion and is in the front-most column of the formation, Morte reduces the damage taken by all other Champions in the formation by 75%. Regardless of his position in the formation, if Morte has at least 40 Evasion stacks, and any Champion other than Morte is defeated, Morte instantly expends 40 Evasion stacks and revives that Champion.
+> When he has at least 1 stack of Evasion and is in the front-most column of the formation, Morte reduces the damage taken by all other Champions in the formation by 75%. Regardless of his position in the formation, if Morte has at least 40 Evasion stacks, and any Champion other than Morte is defeated, Morte instantly expends 40 Evasion stacks and revives that Champion at full health.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -421,7 +430,7 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
     "id": 2977,
     "flavour_text": "",
     "description": {
-        "desc": "When he has at least $if_amount stack of Evasion and is in the front-most column of the formation, Morte reduces the damage taken by all other Champions in the formation by 75%. Regardless of his position in the formation, if Morte has at least 40 Evasion stacks, and any Champion other than Morte is defeated, Morte instantly expends 40 Evasion stacks and revives that Champion."
+        "desc": "When he has at least $if_amount___2 stack of Evasion and is in the front-most column of the formation, Morte reduces the damage taken by all other Champions in the formation by $amount___2%. Regardless of his position in the formation, if Morte has at least 40 Evasion stacks, and any Champion other than Morte is defeated, Morte instantly expends 40 Evasion stacks and revives that Champion at full health."
     },
     "effect_keys": [
         {
@@ -442,7 +451,8 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
             "amount_updated_listeners": [
                 "slot_changed"
             ],
-            "off_when_benched": true
+            "off_when_benched": true,
+            "show_bonus": false
         },
         {
             "effect_string": "damage_reduction,75",
@@ -466,14 +476,14 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31391,
+    "large_graphic_id": 31385,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -491,7 +501,7 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
     "id": 2978,
     "flavour_text": "",
     "description": {
-        "desc": "Morte increases the effect of Biting Wit by $amount% for each adventure, variant, and Patron variant you have completed in the Turn of Fortune's Wheel campaign, stacking multiplicatively."
+        "desc": "Morte increases the effect of Biting Wit by $(not_buffed amount)% for each adventure, variant, and Patron variant you have completed in the Turn of Fortune's Wheel campaign, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -504,15 +514,15 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
             "stat": "FortunesWheelAdventuresCompleted",
             "ided_stat_id": 29,
             "ided_stat_handler": "CompletedAdventuresVariantsAndPatronVariants",
-            "stack_title": "Turn of Fortune's Wheel Adventures Completed",
+            "stack_title": "Fortune's Wheel Adventures Completed",
             "amount_updated_listeners": [
-                "stat_changed,XaryxisAdventuresCompleted"
+                "stat_changed,FortunesWheelAdventuresCompleted"
             ]
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31393,
+    "large_graphic_id": 31387,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -557,8 +567,8 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31396,
+    "large_graphic_id": 31396,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -602,8 +612,8 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31398,
+    "large_graphic_id": 31398,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -647,8 +657,8 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31394,
+    "large_graphic_id": 31394,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -688,8 +698,8 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31399,
+    "large_graphic_id": 31399,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -705,7 +715,7 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Dodgy Tactics** (Guess)
-> Morte requires and consumes twice as many Evasion stacks when he dodges an attack, but the base effect of Litany of Curses is increased by 10% for 20957 seconds after he does so. Does not stack, but the timer resets if he dodges again before it expires.
+> Morte requires and consumes twice as many Evasion stacks when he dodges an attack, but the base effect of Litany of Curses is increased by 10% for 5 seconds after he does so. Does not stack, but the timer resets if he dodges again before it expires.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -713,7 +723,7 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
     "id": 2983,
     "flavour_text": "",
     "description": {
-        "desc": "Morte requires and consumes twice as many Evasion stacks when he dodges an attack, but the base effect of Litany of Curses is increased by $amount___3% for $time seconds after he does so. Does not stack, but the timer resets if he dodges again before it expires."
+        "desc": "Morte requires and consumes twice as many Evasion stacks when he dodges an attack, but the base effect of Litany of Curses is increased by $amount___3% for $time___2 seconds after he does so. Does not stack, but the timer resets if he dodges again before it expires."
     },
     "effect_keys": [
         {
@@ -737,8 +747,8 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31395,
+    "large_graphic_id": 31395,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -784,8 +794,8 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31397,
+    "large_graphic_id": 31397,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -875,30 +885,27 @@ Unknown.
 > Pay respects to the heroes of olde during the Feast of the Moon.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: Skittering Skulls** (Complete Area 75)
+![Skittering Skulls Icon](images/morte/31378.png) **Variant 1: Skittering Skulls** (Complete Area 75)
 > Morte starts in the formation. He can be moved, but not removed.  
 > You may only use Champions who qualify for one of Morte's specialization choices (which is a pretty broad selection)  
 > These are female, non-binary, undead, non-standard species, rogues, chaotic, or evil Champions.  
 > 1 Skullface Spider spawn with each wave. These enemies do not count toward quest progress or drop gold, and move 50% faster and deal 100% more damage.  
 > An additional Skullface Spider spawns with each wave for every 100 areas completed.  
-> <b>Getting to Know Morte:</b> Morte has a wide variety of Champions he specializes in working with. What can we say? He's pretty friendly for a talking skull.  
-> 
+> <b>Getting to Know Morte:</b> Morte has a wide variety of Champions he specializes in working with. What can we say? He's pretty friendly for a talking skull.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: Cacophony of Curses** (Complete Area 125)
+![Cacophony of Curses Icon](images/morte/31379.png) **Variant 2: Cacophony of Curses** (Complete Area 125)
 > Morte starts in the formation with Litany of Curses unlocked. He can be moved, but not removed.  
 > Enemies without any debuffs on them only take 1 damage from all attacks.  
 > A friend of Morte's takes up a slot in the formation. Champions adjacent to the Flaming Skull are unnerved and have their base attack cooldown increased by 3 seconds.  
-> <b>Getting to Know Morte:</b> Morte causes enemies he attacks to take more damage based on the number of debuffs they currently have. Fill your formation with Debuffing Champions to take advantage of this!  
-> 
+> <b>Getting to Know Morte:</b> Morte causes enemies he attacks to take more damage based on the number of debuffs they currently have. Fill your formation with Debuffing Champions to take advantage of this!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: Dodge This, Deaders! ** (Complete Area 175)
+![Dodge This, Deaders! Icon](images/morte/31376.png) **Variant 3: Dodge This, Deaders!** (Complete Area 175)
 > Morte starts in the formation with Give 'em the Laugh unlocked. He can be moved, but not removed.  
 > You may only use a maximum of five Champions in your formation who do not have the Debuff role. If you have more than five, the damage of all Champions is set to 0.  
 > All enemies move 300% faster and deal 40% of their target's max health with each successful hit.  
-> <b>Getting to Know Morte:</b> Morte can evade attacks entirely with his Give 'em the Laugh ability. He recovers Evasion stacks faster for each Debuff Champion in the formation, but his max Evasion stacks are higher for each non-Debuff Champion.  
-> 
+> <b>Getting to Know Morte:</b> Morte can evade attacks entirely with his Give 'em the Laugh ability. He recovers Evasion stacks faster for each Debuff Champion in the formation, but his max Evasion stacks are higher for each non-Debuff Champion.
 </div></div>
 
 # Other Champion Images
