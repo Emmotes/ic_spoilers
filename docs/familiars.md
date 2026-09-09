@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Watson the Treant Sapling Portrait](images/familiars/watsonthetreantsapling.png)<span class="featTooltipContents">ID: 336**Watson the Treant Sapling**One day, he'll be a real Treant!<img src="images/familiars/watsonthetreantsapling.webp" alt="Watson the Treant Sapling Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Watson the Treant Sapling
-        </span>
-        <span class="skinTableSource">
-            Watson the Treant Sapling Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            2,380p
-        </span>
-        <span class="skinTableDate">
-            09 Sept 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Cinder Scholar Salamander Portrait](images/familiars/cinderscholarsalamander.png)<span class="featTooltipContents">ID: 337**Cinder Scholar Salamander**Only the best fire resistant parchment for this one!<img src="images/familiars/cinderscholarsalamander.webp" alt="Cinder Scholar Salamander Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

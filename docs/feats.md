@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Pwent</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Hyperhidrosis Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2744**Hyperhidrosis (Pwent)**What do ye mean 'too much sweat'!? Don't talk nonsense!<br><br><span style="color:var(--Flavescent)">Increases the effect of Pwent's Bruenor, Me King! ability by 80%. (Prestack)</span><code>buff_upgrade,80,20272</code></span>Hyperhidrosis
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Pwent's Bruenor, Me King! ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">09 Sept 2026<br>09 Dec 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Wulfgar</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Guided Strike Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2777**Guided Strike (Wulfgar)**Watch and learn!<br><br><span style="color:var(--Flavescent)">Wulfgar increases his crit chance by 5% for each adjacent Champion.</span><code>effect_def,2985</code></span>Guided Strike
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Wulfgar increases his crit chance by 5% for each adjacent Champion.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">09 Sept 2026<br>09 Dec 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Cazrin</span>
         </span>
         <span class="featTableIcon4">
@@ -366,6 +332,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">18 Nov 2026<br>18 Feb 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Regis</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2853**TBD Regis (Regis)**</span>TBD Regis
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">02 Dec 2026</span>
         </span>
     </span>
 </span>
@@ -947,6 +930,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">The effect of The Resolve of Rashemen is increased by 250% for each Hunter Champion in the formation. If there are at least 10 Hunter Champions in the formation, the CON requirement of The Resolve of Rashemen is reduced by 2 and the base effect is increased by 100%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Gale</span>
+        </span>
+        <span class="featTableIcon5">
+            ![Astral-Touched Tadpole Icon](images/featicons/laezel.png)<span class="featTooltipContents">ID: 2852**Astral-Touched Tadpole (Gale)**If this is what the fates have offered to aid our cause, then who am I to refuse?<br><br><span style="color:var(--Flavescent)">Gale adds up the total Intelligence scores of himself and all the Champions adjacent to him. He increases the effect of Archmage's Insight by 100% for every 5 INT he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,3005</code></span>Astral-Touched Tadpole
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Gale adds up the total Intelligence scores of himself and all the Champions adjacent to him. He increases the effect of Archmage's Insight by 100% for every 5 INT he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
