@@ -27,7 +27,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Have You Met My Friends** (Guess)
-> Whenever Penelope attacks an enemy and doesn't kill it, all Champions deal 500% additional damage against them. This effect can stack multiplicatively up to 3 times, with buffs applying to the post-stack damage.
+> Whenever Penelope attacks an enemy and doesn't kill it, all Champions deal 500% additional damage against them. This effect can stack multiplicatively up to $(upgrade_stacks_total 21233,1) times, with buffs applying to the post-stack damage.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -35,7 +35,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2988,
     "flavour_text": "",
     "description": {
-        "desc": "Whenever Penelope attacks an enemy and doesn't kill it, all Champions deal $(not_buffed amount)% additional damage against them. This effect can stack multiplicatively up to $max_stacks times, with buffs applying to the post-stack damage."
+        "desc": "Whenever Penelope attacks an enemy and doesn't kill it, all Champions deal $(not_buffed amount)% additional damage against them. This effect can stack multiplicatively up to $(upgrade_stacks_total 21233,1) times, with buffs applying to the post-stack damage.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "(not static_desc)^(has_bonus)",
+                    "desc": "^^Bonus damage at max stacks: $(active_upgrade_value 21233,1)%"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -48,7 +56,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "increase_monster_damage,$amount",
-                    "stack_count_debug": true,
+                    "stack_count_debug": false,
                     "default_stacks": 1,
                     "active_graphic_id": 664,
                     "manual_stacking": true,
@@ -62,6 +70,21 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 }
             ],
             "use_computed_amount_for_description": true
+        },
+        {
+            "effect_string": "penelope_amount_at_max_stacks,500",
+            "amount_func": "mult",
+            "off_when_benched": true,
+            "stacks_multiply": true,
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "3 + as_int(GetUpgradeStacks(21237,2)) + as_int(GetUpgradeStacks(21238,2)) + as_int(GetUpgradeStacks(21239,2))",
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "show_bonus": false,
+            "show_stacks": false
         }
     ],
     "requirements": "",
@@ -70,7 +93,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "retain_on_slot_changed": true
+        "retain_on_slot_changed": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": false
     }
 }
 </pre>
@@ -264,13 +289,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2996,
     "flavour_text": "",
     "description": {
-        "desc": "Upon entering an area, Penelope summons 4 medium-sized, randomly positioned Insect Swarms on the enemy's side of the battlefield. Enemies who are in a Swarm are slowed by $(amount)% and are afflicted by the Have You Met My Friends debuff. The slow effect can stack multiplicatively if an enemy is inside multiple Swarms. Every second an enemy is in a swarm, its slowing effect is reduced by $(slow_reduction_per_second)%. When the slow effect reaches $(min_slow_amount)%, the swarm is dispersed and disappears."
+        "desc": "Upon entering an area, Penelope summons $num_swarms_for_description medium-sized, randomly positioned Insect Swarms on the enemy's side of the battlefield. Enemies who are in a Swarm are slowed by $default_slow_amount% and are afflicted by the Have You Met My Friends debuff. The slow effect can stack multiplicatively if an enemy is inside multiple Swarms. Every second an enemy is in a swarm, its slowing effect is reduced by $(slow_reduction_per_second)%. When the slow effect reaches $(min_slow_amount)%, the swarm is dispersed and disappears."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
+            "num_swarms_for_description": 4,
             "show_description": false,
-            "effect_string": "penelope_insect_plague_v2,100",
+            "effect_string": "penelope_insect_plague,100",
             "spawn_rect": [
                 0,
                 0,
@@ -280,11 +306,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "default_slow_amount": 100,
             "min_slow_amount": 40,
             "slow_reduction_per_second": 1,
+            "keep_reducing_when_empty": false,
             "aoe_radius": 150,
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(14700,0)",
+                    "amount_expr": "upgrade_amount(21234,0)",
                     "use_collection_source": false
                 }
             ]
@@ -306,7 +333,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(14700,1)",
+                    "amount_expr": "upgrade_amount(21234,1)",
                     "use_collection_source": false
                 }
             ]
@@ -328,7 +355,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(14700,2)",
+                    "amount_expr": "upgrade_amount(21234,2)",
                     "use_collection_source": false
                 }
             ]
@@ -350,7 +377,53 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(14700,3)",
+                    "amount_expr": "upgrade_amount(21234,3)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "is_default_enabled": false,
+            "show_description": false,
+            "effect_string": "penelope_insect_plague,100",
+            "spawn_rect": [
+                0,
+                0,
+                0.66,
+                0.05
+            ],
+            "default_slow_amount": 100,
+            "min_slow_amount": 40,
+            "slow_reduction_per_second": 1,
+            "aoe_radius": 150,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(21234,4)",
+                    "use_collection_source": false
+                }
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "is_default_enabled": false,
+            "show_description": false,
+            "effect_string": "penelope_insect_plague,100",
+            "spawn_rect": [
+                0,
+                0,
+                0.66,
+                0.05
+            ],
+            "default_slow_amount": 100,
+            "min_slow_amount": 40,
+            "slow_reduction_per_second": 1,
+            "aoe_radius": 150,
+            "debuff_effects": [
+                {
+                    "effect_string": "monster_speed_reduce,0",
+                    "amount_expr": "upgrade_amount(21234,5)",
                     "use_collection_source": false
                 }
             ]
@@ -403,7 +476,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stack_title": "Good Champions"
         },
         {
-            "effect_string": "buff_upgrade_effect_stacks_max_add,1,21233",
+            "effect_string": "buff_upgrade_effect_stacks_max_add,1,21233,0",
             "amount_func": "add",
             "stack_func": "per_crusader",
             "tag": "good",
@@ -463,7 +536,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stack_title": "Evil Champions"
         },
         {
-            "effect_string": "buff_upgrade_effect_stacks_max_add,1,21233",
+            "effect_string": "buff_upgrade_effect_stacks_max_add,1,21233,0",
             "amount_func": "add",
             "stack_func": "per_crusader",
             "tag": "evil",
@@ -523,7 +596,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stack_title": "Champions"
         },
         {
-            "effect_string": "buff_upgrade_effect_stacks_max_add,1,21233",
+            "effect_string": "buff_upgrade_effect_stacks_max_add,1,21233,0",
             "amount_func": "add",
             "stack_func": "per_crusader",
             "amount_updated_listeners": [
@@ -624,8 +697,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "off_when_benched": true,
             "show_description": false,
-            "effect_string": "penelope_splitting_the_hive_v2,100",
-            "swarms_to_spawn": 2,
+            "effect_string": "penelope_splitting_the_hive,100",
             "spawn_rect": [
                 0,
                 0,
@@ -633,12 +705,14 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 0.25
             ],
             "default_slow_amount": 100,
+            "slow_reduction_per_second": 1,
+            "keep_reducing_when_empty": false,
             "aoe_radius": 100,
             "seconds_of_bud": 30,
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(21234,0)",
+                    "amount_expr": "upgrade_amount(14707,0)",
                     "use_collection_source": false
                 }
             ]
@@ -647,7 +721,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_splitting_the_hive,100",
-            "swarms_to_spawn": 2,
             "spawn_rect": [
                 0,
                 0.25,
@@ -669,7 +742,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_splitting_the_hive,100",
-            "swarms_to_spawn": 2,
             "spawn_rect": [
                 0,
                 0.5,
@@ -691,7 +763,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_splitting_the_hive,100",
-            "swarms_to_spawn": 2,
             "spawn_rect": [
                 0,
                 0.75,
@@ -713,7 +784,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_splitting_the_hive,100",
-            "swarms_to_spawn": 2,
             "spawn_rect": [
                 0,
                 0,
@@ -735,7 +805,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_splitting_the_hive,100",
-            "swarms_to_spawn": 2,
             "spawn_rect": [
                 0,
                 0.25,
@@ -757,7 +826,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_splitting_the_hive,100",
-            "swarms_to_spawn": 2,
             "spawn_rect": [
                 0,
                 0.5,
@@ -779,7 +847,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_splitting_the_hive,100",
-            "swarms_to_spawn": 2,
             "spawn_rect": [
                 0,
                 0.75,
@@ -801,7 +868,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_splitting_the_hive,100",
-            "swarms_to_spawn": 2,
             "spawn_rect": [
                 0,
                 0,
@@ -823,7 +889,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_splitting_the_hive,100",
-            "swarms_to_spawn": 2,
             "spawn_rect": [
                 0,
                 0.25,
@@ -845,7 +910,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_splitting_the_hive,100",
-            "swarms_to_spawn": 2,
             "spawn_rect": [
                 0,
                 0.5,
@@ -867,7 +931,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true,
             "show_description": false,
             "effect_string": "penelope_splitting_the_hive,100",
-            "swarms_to_spawn": 2,
             "spawn_rect": [
                 0,
                 0.75,
