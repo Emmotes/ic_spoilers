@@ -1882,8 +1882,7 @@ Unlocks the Trials of Mount Tiamat, which allows you to partake in Trials Campai
 
 ### Unlock Requirements
 
-> Have 60+ Champions unlocked  
-> Have 20+ Champions equipped with fully epic gear
+> Complete the final Descent Into Avernus campaign adventure: 'Elturel's Last Stand'
 
 ### Images
 
