@@ -69,12 +69,23 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Tanthalas Half-Elven Console Portrait](images/tanis/console.png)Console Portrait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Tanthalas Half-Elven Gold Chest Icon](images/tanis/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Tanthalas Half-Elven Silver Chest Icon](images/tanis/chest_silver.png)Silver Chest Icon
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 [Back to Top](#top)
 
