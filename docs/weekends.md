@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/837.png">
-            <span class="weekendTooltipContents">ID: 837**Gold Trophy Chest**Loot for: Melf, Ellywick, Makos, Jamilah and Pwent<code>"for_crusaders":[59,83,9,11,50]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Contest of Champions**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    11 September 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Pwent
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/melf.png')">
-                        <span class="weekendTableChampionNameplate">Melf</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 59**Melf**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/ellywick.png')">
-                        <span class="weekendTableChampionNameplate">Ellywick</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 83**Ellywick Tumblestrum**All Champions damage +200%.<code>global_dps_multiplier_mult,200</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/makos.png')">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 9**Makos**Increases the effect of Makos's Dark Blessing and Dark Luck by 200%.<code>buff_upgrades,200,140,139</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/jamilah.png')">
-                        <span class="weekendTableChampionNameplate">Jamilah</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 11**Jamilah**Increases the effect of Jamilah's Berserker Confidence and Frontline Fighter by 200%.<code>buff_upgrades,200,2198,238</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/pwent.png')">
-                        <span class="weekendTableChampionNameplate">Pwent</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 50**Thibbledorf Pwent**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/838.png">
             <span class="weekendTooltipContents">ID: 838**Gold Galaxy Chest**Loot for: Prudence, Rust, Nayeli, Tyril and Corazón<code>"for_crusaders":[84,94,3,10,85]</code></span>
         </span>
