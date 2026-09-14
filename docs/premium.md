@@ -819,12 +819,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2811**Feat**???: 2811</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor</span>
+            <span style="margin-left:15px">???: 2811</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -942,7 +941,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 739**Midnight Turiel (Turiel)**</span></span>
+            <span class="tooltipHolder">![Midnight Turiel Skin Portrait](images/premiums/skin_739.png)<span class="itemTooltipContents">ID: 739**Midnight Turiel (Turiel)**<img src="images/premiums/skin_739.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1207,7 +1206,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 742**Frostbite Skylla (Skylla)**</span></span>
+            <span class="tooltipHolder">![Frostbite Skylla Skin Portrait](images/premiums/skin_742.png)<span class="itemTooltipContents">ID: 742**Frostbite Skylla (Skylla)**<img src="images/premiums/skin_742.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1269,7 +1268,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 345**Frost the Chwinga**Chwingas prefer to move about unseen, which is even easier in the snow of Icewind Dale.</span></span>
+            <span class="tooltipHolder">![Frost the Chwinga Familiar Portrait](images/premiums/familiar_345.png)<span class="itemTooltipContents">ID: 345**Frost the Chwinga**Chwingas prefer to move about unseen, which is even easier in the snow of Icewind Dale.<img src="images/premiums/familiar_345.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

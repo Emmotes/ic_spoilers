@@ -315,7 +315,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 739**Midnight Turiel (Turiel)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Midnight Turiel Portrait](images/skin_portraits/midnightturiel.png)<span class="featTooltipContents">ID: 739**Midnight Turiel (Turiel)**<img src="images/skin_models/midnightturiel.webp" alt="Midnight Turiel Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Midnight Turiel
@@ -383,7 +383,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 742**Frostbite Skylla (Skylla)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Frostbite Skylla Portrait](images/skin_portraits/frostbiteskylla.png)<span class="featTooltipContents">ID: 742**Frostbite Skylla (Skylla)**<img src="images/skin_models/frostbiteskylla.webp" alt="Frostbite Skylla Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Frostbite Skylla
