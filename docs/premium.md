@@ -575,7 +575,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 737**Mummy Krond (Krond)**</span></span>
+            <span class="tooltipHolder">![Mummy Krond Skin Portrait](images/premiums/skin_737.png)<span class="itemTooltipContents">ID: 737**Mummy Krond (Krond)**<img src="images/premiums/skin_737.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -870,7 +870,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 738**Widdle Stardust (Widdle)**</span></span>
+            <span class="tooltipHolder">![Widdle Stardust Skin Portrait](images/premiums/skin_738.png)<span class="itemTooltipContents">ID: 738**Widdle Stardust (Widdle)**<img src="images/premiums/skin_738.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1083,7 +1083,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 741**Starlit Sentry (Sentry)**</span></span>
+            <span class="tooltipHolder">![Starlit Sentry Skin Portrait](images/premiums/skin_741.png)<span class="itemTooltipContents">ID: 741**Starlit Sentry (Sentry)**<img src="images/premiums/skin_741.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

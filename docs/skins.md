@@ -111,7 +111,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 737**Mummy Krond (Krond)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Mummy Krond Portrait](images/skin_portraits/mummykrond.png)<span class="featTooltipContents">ID: 737**Mummy Krond (Krond)**<img src="images/skin_models/mummykrond.webp" alt="Mummy Krond Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Mummy Krond
@@ -332,7 +332,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 738**Widdle Stardust (Widdle)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Widdle Stardust Portrait](images/skin_portraits/widdlestardust.png)<span class="featTooltipContents">ID: 738**Widdle Stardust (Widdle)**<img src="images/skin_models/widdlestardust.webp" alt="Widdle Stardust Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Widdle Stardust
@@ -366,7 +366,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 741**Starlit Sentry (Sentry)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Starlit Sentry Portrait](images/skin_portraits/starlitsentry.png)<span class="featTooltipContents">ID: 741**Starlit Sentry (Sentry)**<img src="images/skin_models/starlitsentry.webp" alt="Starlit Sentry Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Starlit Sentry
