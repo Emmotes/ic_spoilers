@@ -92,7 +92,24 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 343**Slick the Dohwar**Who needs to fly when you can glide!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 346**Dr. Floof, the Conjured Almiraj**Dr. Floof is a dedicated healer, despite his tendency to prescribe laughter.</span></span>
+        </span>
+        <span class="skinTableName">
+            Dr. Floof, the Conjured Almiraj
+        </span>
+        <span class="skinTableSource">
+            Dr. Floof, the Conjured Almiraj Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            $5.99
+        </span>
+        <span class="skinTableDate">
+            02 Nov 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Slick the Dohwar Portrait](images/familiars/slickthedohwar.png)<span class="featTooltipContents">ID: 343**Slick the Dohwar**Who needs to fly when you can glide!<img src="images/familiars/slickthedohwar.webp" alt="Slick the Dohwar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Slick the Dohwar
@@ -109,7 +126,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 344**Lady Icekiss**The god of cold indifference who embodies winter's cruelty.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Lady Icekiss Portrait](images/familiars/ladyicekiss.png)<span class="featTooltipContents">ID: 344**Lady Icekiss**The god of cold indifference who embodies winter's cruelty.<img src="images/familiars/ladyicekiss.webp" alt="Lady Icekiss Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Lady Icekiss
@@ -139,6 +156,57 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             18 Nov 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 347**Tanis the Red-Pelted Fox**Tanis had to remind himself that even though squirrels taste as good as rabbits, he probably shouldn't eat squirrel Tasslehoff…</span></span>
+        </span>
+        <span class="skinTableName">
+            Tanis the Red-Pelted Fox
+        </span>
+        <span class="skinTableSource">
+            Dragon Army Tanis Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            02 Dec 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 348**Avatar of Lolth**One of the most accursed of the Spider Queen’s gifts is transformation into a drider.</span></span>
+        </span>
+        <span class="skinTableName">
+            Avatar of Lolth
+        </span>
+        <span class="skinTableSource">
+            Avatar of Lolth Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            09 Dec 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 349**Sage the Elemental Owl**Beware his icicle wingspan!</span></span>
+        </span>
+        <span class="skinTableName">
+            Sage the Elemental Owl
+        </span>
+        <span class="skinTableSource">
+            Sage the Elemental Owl Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,140p
+        </span>
+        <span class="skinTableDate">
+            16 Dec 2026
         </span>
     </span>
 </span>

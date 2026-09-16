@@ -336,19 +336,70 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Regis</span>
+            <span class="featTableInner">Krull</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2853**TBD Regis (Regis)**</span>TBD Regis
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2781**TBD Krull Feat (Do not translate) (Krull)**</span>TBD Krull Feat (Do not translate)
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">02 Dec 2026</span>
+            <span class="featTableInner">02 Dec 2026<br>02 Mar 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Regis</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2853**TBD Regis Feat (Do not translate) (Regis)**</span>TBD Regis Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">02 Dec 2026<br>02 Mar 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Shadowheart</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2778**TBD Shadowheart Feat (Do not translate) (Shadowheart)**</span>TBD Shadowheart Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">09 Dec 2026<br>09 Mar 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Yorven</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2872**TBD Yorven Feat (Do not translate) (Yorven)**</span>TBD Yorven Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">16 Dec 2026<br>16 Mar 2027</span>
         </span>
     </span>
 </span>

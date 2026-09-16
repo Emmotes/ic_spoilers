@@ -43,7 +43,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Scholar of the Nine Hells Karlach Portrait](images/skin_portraits/scholaroftheninehellskarlach.png)<span class="featTooltipContents">ID: 725**Scholar of the Nine Hells Karlach (Karlach)**<img src="images/skin_models/scholaroftheninehellskarlach.webp" alt="Scholar of the Nine Hells Karlach Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Scholar of the Nine Hells Karlach Portrait](images/skin_portraits/scholaroftheninehellskarlach.png)<span class="featTooltipContents">ID: 725**Scholar of the Nine Hells Karlach (Karlach)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/scholaroftheninehellskarlach.webp" alt="Scholar of the Nine Hells Karlach Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/scholaroftheninehellskarlach-infernal_engine.webp" alt="Scholar of the Nine Hells Karlach Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Scholar of the Nine Hells Karlach
@@ -396,6 +396,74 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             18 Nov 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 756**Gladiator Krull (Krull)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Gladiator Krull
+        </span>
+        <span class="skinTableSource">
+            Gladiator Krull Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            02 Dec 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 757**Regis Goblin Shaman Kllug (Regis)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Regis Goblin Shaman Kllug
+        </span>
+        <span class="skinTableSource">
+            Regis Goblin Shaman Kllug Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            02 Dec 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 758**Infernal Shadowheart (Shadowheart)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Infernal Shadowheart
+        </span>
+        <span class="skinTableSource">
+            Infernal Shadowheart Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            09 Dec 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 759**Feywild Fairytale Yorven (Yorven)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Feywild Fairytale Yorven
+        </span>
+        <span class="skinTableSource">
+            Feywild Fairytale Yorven Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            16 Dec 2026
         </span>
     </span>
 </span>
