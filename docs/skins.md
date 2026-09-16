@@ -9,23 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Shadow Studies Cazrin Portrait](images/skin_portraits/shadowstudiescazrin.png)<span class="featTooltipContents">ID: 724**Shadow Studies Cazrin (Cazrin)**<img src="images/skin_models/shadowstudiescazrin.webp" alt="Shadow Studies Cazrin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Shadow Studies Cazrin
-        </span>
-        <span class="skinTableSource">
-            Shadow Studies Cazrin Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            16 Sept 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Alchemical Savant Presto Portrait](images/skin_portraits/alchemicalsavantpresto.png)<span class="featTooltipContents">ID: 743**Alchemical Savant Presto (Presto)**<img src="images/skin_models/alchemicalsavantpresto.webp" alt="Alchemical Savant Presto Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

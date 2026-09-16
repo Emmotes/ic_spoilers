@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Cinder Scholar Salamander Portrait](images/familiars/cinderscholarsalamander.png)<span class="featTooltipContents">ID: 337**Cinder Scholar Salamander**Only the best fire resistant parchment for this one!<img src="images/familiars/cinderscholarsalamander.webp" alt="Cinder Scholar Salamander Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Cinder Scholar Salamander
-        </span>
-        <span class="skinTableSource">
-            Cinder Scholar Salamander Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,140p
-        </span>
-        <span class="skinTableDate">
-            16 Sept 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Scout the Cooper's Hawk Portrait](images/familiars/scoutthecoopershawk.png)<span class="featTooltipContents">ID: 338**Scout the Cooper's Hawk**This agile hunter awaits her master's signal. Only then can she strike.<img src="images/familiars/scoutthecoopershawk.webp" alt="Scout the Cooper's Hawk Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
