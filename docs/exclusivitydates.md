@@ -356,6 +356,23 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">09 Dec 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Cazrin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Cazrin Family Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2745**Cazrin Family (Cazrin)**You know, I think she loves us. I do! In her own very gross way.<br><br><span style="color:var(--Flavescent)">Increases the effect of Cazrin's Unctuous Uggie ability by 80%.</span><code>buff_upgrade,80,17675</code></span>Cazrin Family
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Cazrin's Unctuous Uggie ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">16 Dec 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
