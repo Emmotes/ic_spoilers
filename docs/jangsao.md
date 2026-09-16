@@ -85,7 +85,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Star Collector** (Guess)
-> Each time an enemy is defeated, there is a $(amount___4)% chance it drops a star. Jang Sao collects these stars and increases the effect of The Mysterious Wanderer by 1% for each star collected over all adventures, stacking additively. For every order of magnitude of stars collected, the base buff is multiplied by 1. Caps at 4000000000 stacks.
+> Each time an enemy is defeated, there is a 1% chance it drops a star. Jang Sao collects these stars and increases the effect of The Mysterious Wanderer by 1% for each star collected over all adventures, stacking additively. For every order of magnitude of stars collected, the base buff is multiplied by 10. Caps at 4000000000 stacks.  
+> Actual base buff: 1%.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -93,25 +94,30 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2998,
     "flavour_text": "",
     "description": {
-        "desc": "Each time an enemy is defeated, there is a $(amount___4)% chance it drops a star. Jang Sao collects these stars and increases the effect of The Mysterious Wanderer by $(amount___2)% for each star collected over all adventures, stacking additively. For every order of magnitude of stars collected, the base buff is multiplied by $order_of_mag_mult___2. Caps at $max_stacks___3 stacks."
+        "desc": "Each time an enemy is defeated, there is a $(amount___5)% chance it drops a star. Jang Sao collects these stars and increases the effect of The Mysterious Wanderer by 1% for each star collected over all adventures, stacking additively. For every order of magnitude of stars collected, the base buff is multiplied by $order_of_mag_mult. Caps at $max_stacks___3 stacks.^^Actual base buff: $(amount___2)%"
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,900,21245",
+            "effect_string": "buff_upgrade,900,21245,1",
+            "off_when_benched": true,
             "stack_title": "Total Stars Order of Magnitude",
             "stacks_multiply": true,
-            "desc_forced_order": 2,
-            "show_bonus": true,
-            "stacks_on_trigger": "will_stack_manually"
+            "desc_forced_order": 0,
+            "stack_string_newline": true,
+            "show_stacks": true,
+            "stacks_on_trigger": "will_stack_manually",
+            "order_of_mag_mult": 10
         },
         {
-            "effect_string": "pre_stack_(no_not_that_kind),1"
+            "effect_string": "pre_stack_(no_not_that_kind),1",
+            "off_when_benched": true
         },
         {
             "effect_string": "buff_upgrade,0,21244",
-            "amount_expr": "upgrade_amount(21245,0)",
+            "off_when_benched": true,
+            "amount_expr": "upgrade_amount(21245,1)",
             "stack_title": "Total Stars",
-            "desc_forced_order": 1,
+            "desc_forced_order": 2,
             "max_stacks": 4000000000,
             "stacks_multiply": false,
             "show_bonus": true,
@@ -119,13 +125,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "do_nothing",
+            "off_when_benched": true,
             "stack_title": "Stars gained this adventure",
-            "desc_forced_order": 0,
+            "desc_forced_order": 1,
             "show_stacks": true,
+            "stacks_multiply": false,
             "stacks_on_trigger": "will_stack_manually"
         },
         {
             "effect_string": "jangsao_star_collector_v2,1",
+            "off_when_benched": true,
             "all_time_stacking_index": 2,
             "oom_stacking_index": 0,
             "this_run_stacking_index": 3
@@ -308,7 +317,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "jangsao_moon_collector,0.5",
+            "effect_string": "jangsao_moon_collector_v2,0.5",
             "goober_name": "Projectile_JangSao_Moon",
             "goober_graphic_id": 21156,
             "goober_graphic_id_large": 21156,
