@@ -251,7 +251,10 @@ Events will have either one rework OR three rebalances.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="turiel.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Turiel Portrait Icon](images/turiel/portrait.png)
         </span>
@@ -273,6 +276,9 @@ Events will have either one rework OR three rebalances.
             Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
     <span class="indexChampionTableRowNoHover">
         <span class="indexChampionTableIcon">
             ![Krull Portrait Icon](images/krull/portrait.png)
@@ -485,7 +491,10 @@ Events will have either one rework OR three rebalances.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="turiel.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Turiel Portrait Icon](images/turiel/portrait.png)
         </span>
@@ -504,6 +513,9 @@ Events will have either one rework OR three rebalances.
             ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 {::nomarkdown}
 <a href="penelope.html">
 {:/nomarkdown}
@@ -651,7 +663,7 @@ Events will have either one rework OR three rebalances.
 
 Miscellaneous spoilers with due dates.
 
-* Emergence 17 - 30 September 2026
+* [Emergence 17](emergence_17.md) - 30 September 2026
 * [Bastion](bastion.md) - TBD September 2026
 * [Trials & Legendaries](trialsLegs.md) - ???
 
