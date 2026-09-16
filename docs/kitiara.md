@@ -255,7 +255,7 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **The Only Truth** (Guess)
-> When Champions other than Kitiara cumulatively take damage equal to 100% of their max health, Kitiara gains a Power stack. This can trigger multiple times each time other Champions reach the threshold. The post-stack effect of Merciless Resolve is increased by 10% for each Power stack she has, stacking multiplicatively. Caps at 100 stacks and reset when changing areas.
+> When Champions other than Kitiara cumulatively take damage equal to 100% of their max health, Kitiara gains a Power stack. This can trigger multiple times each time other Champions reach the threshold. The post-stack effect of Merciless Resolve is increased by 50% for each Power stack she has, stacking multiplicatively. Caps at 100 stacks and reset when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -263,7 +263,7 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
     "id": 2915,
     "flavour_text": "",
     "description": {
-        "desc": "When Champions other than Kitiara cumulatively take damage equal to 100% of their max health, Kitiara gains a Power stack. This can trigger multiple times each time other Champions reach the threshold.  The post-stack effect of Merciless Resolve is increased by 10% for each Power stack she has, stacking multiplicatively. Caps at 100 stacks and reset when changing areas."
+        "desc": "When Champions other than Kitiara cumulatively take damage equal to 100% of their max health, Kitiara gains a Power stack. This can trigger multiple times each time other Champions reach the threshold.  The post-stack effect of Merciless Resolve is increased by 50% for each Power stack she has, stacking multiplicatively. Caps at 100 stacks and reset when changing areas."
     },
     "effect_keys": [
         {
@@ -276,7 +276,7 @@ Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 
             "stack_reset_mult": 0
         },
         {
-            "effect_string": "buff_upgrade,10,20597,1",
+            "effect_string": "buff_upgrade,50,20597,1",
             "off_when_benched": true,
             "stacks_on_trigger": "will_stack_manually",
             "stacks_multiply": true,
