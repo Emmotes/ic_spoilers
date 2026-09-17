@@ -11,7 +11,7 @@ Below are all the data we have for these reworks.
 ## 17 September 2026
 
 1. Blood Vials will not be a thing after the rework. Ordinary ones will "poof" away and paid-for Prismatic Vials will "poof" away and turn into Platinum.
-2. Upgrading legendaries will no longer cost favour. In response to this - the current design has Thellora getting three new feats. One of each uncommon rare and epic and they will add one two and three zones to her skip respectively. You will be able to equip multiple of these at the same time which will allow for a variance of 0-6 extra zones.
+2. Upgrading legendaries will no longer cost favour. In response to this - the current design has Thellora getting three new feats. One of each uncommon rare and epic and they will add one two and three zones to her skip respectively. You will apparently be able to equip multiple of these at the same time which will allow for a variance of 0-6 extra zones.
 
 # Missions
 
