@@ -56,7 +56,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Increases the health threshold of Debilitating Magic to trigger when Raistlin is above 80% health.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Emergence 17</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">30 Sept 2026</span>
@@ -73,7 +73,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Increases the health bonus of the Unyielding component of Minthara's Oath of Vengeance ability by 80%.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Emergence 17</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">30 Sept 2026</span>
@@ -90,7 +90,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Increases the Initiative and Follow Through stacks gained when Flint attacks to 2.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Emergence 17</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">30 Sept 2026</span>
@@ -107,7 +107,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Increases the Intelligence score of Caramon by 2.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Emergence 17</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">30 Sept 2026</span>
@@ -124,7 +124,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Increases the maximum number of Ongoing Investigation's Clue Stacks by 50%.</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Emergence 17</span>
         </span>
         <span class="featTableDate">
             <span class="featTableInner">30 Sept 2026</span>
