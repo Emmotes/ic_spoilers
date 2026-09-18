@@ -4,6 +4,7 @@
 
 A list of recently archived spoilers. Note that I delete archives older than 6 months to avoid bloat.
 
+* [Bastion](archive/bastion.md)
 * [Caramon Majere](archive/caramon.md)
 * [Corazón](archive/corazon.md)
 * [Dragondown Augments](archive/augments_30.md)

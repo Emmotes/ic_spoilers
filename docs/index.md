@@ -664,7 +664,6 @@ Events will have either one rework OR three rebalances.
 Miscellaneous spoilers with due dates.
 
 * [Emergence 17](emergence_17.md) - 30 September 2026
-* [Bastion](bastion.md) - TBD September 2026
 * [Trials & Legendaries](trialsLegs.md) - ???
 
 # Misc
