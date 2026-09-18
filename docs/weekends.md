@@ -187,7 +187,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/corazon.png')">
                         <span class="weekendTableChampionNameplate">Corazón</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 85**Corazón de Ballena**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 85**Corazón de Ballena**Increases the effect of Corazón's Pirate's Code ability by 200%. (Prestack)<code>buff_upgrade,200,20276</code></span>
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/dob.png')">
                         <span class="weekendTableChampionNameplate">Dob</span>
