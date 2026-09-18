@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/838.png">
-            <span class="weekendTooltipContents">ID: 838**Gold Galaxy Chest**Loot for: Prudence, Rust, Nayeli, Tyril and Corazón<code>"for_crusaders":[84,94,3,10,85]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Adventures in Space**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    18 September 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Corazón
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/prudence.png')">
-                        <span class="weekendTableChampionNameplate">Prudence</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 84**Prudence**Increases the damage of Prudence by 400%.<code>hero_dps_multiplier_mult,400</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/rust.png')">
-                        <span class="weekendTableChampionNameplate">Rust</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 94**Rust on the Harbour**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/nayeli.png')">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 3**Nayeli Goldflower**Increases the effect of Nayeli's Aura of Courage ability by 200%.<code>buff_upgrade,200,38</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/tyril.png')">
-                        <span class="weekendTableChampionNameplate">Tyril</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 10**Tyril Tallguy**Increases the effect of Tyril's Moonbeam and Wild Inspiration by 200%.<code>buff_upgrades,200,145,344</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/corazon.png')">
-                        <span class="weekendTableChampionNameplate">Corazón</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 85**Corazón de Ballena**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/839.png">
             <span class="weekendTooltipContents">ID: 839**Gold Commercial Chest**Loot for: Diana, Eric, Calliope, Celeste and Hank<code>"for_crusaders":[148,157,5,2,163]</code></span>
         </span>
