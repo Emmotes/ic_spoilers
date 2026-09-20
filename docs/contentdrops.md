@@ -254,6 +254,8 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
 
 ## Mastery 4 - 28 October 2026
 
+<span style="font-size:1.2em;">ⓘ</span> This content drop should come with new Legendary [Feats](feats.md){:target="_blank"} purchaseable with Mastery Medallions.
+
 <span class="contentDropsTableColumn">
     <span class="contentDropsTableRowHeader">
         <span class="contentDropsTableIcons">
