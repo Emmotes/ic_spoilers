@@ -75,7 +75,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 346**Dr. Floof, the Conjured Almiraj**Dr. Floof is a dedicated healer, despite his tendency to prescribe laughter.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Dr. Floof, the Conjured Almiraj Portrait](images/familiars/drflooftheconjuredalmiraj.png)<span class="featTooltipContents">ID: 346**Dr. Floof, the Conjured Almiraj**Dr. Floof is a dedicated healer, despite his tendency to prescribe laughter.<img src="images/familiars/drflooftheconjuredalmiraj.webp" alt="Dr. Floof, the Conjured Almiraj Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Dr. Floof, the Conjured Almiraj

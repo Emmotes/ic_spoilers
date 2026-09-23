@@ -24,12 +24,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="emergenceShopFeatIcon5 tooltipHolder">![Weekend Warrior Feat Portrait](images/featicons/eric.png)<span class="itemTooltipContents">ID: 2774**Weekend Warrior**Is it Saturday yet?<br><br><span style="color:var(--Flavescent)">Eric increases the effect of his Trait specialization by 100% for each 5% of his current Corrupted Gem Scavenger cap that he has collected. Once all Champions in the formation have knocked back enemies at least 60 times in the current area, Eric's second specialization ability gains 1 additional stack(s). The requirement is reduced by a static 5 if it's the weekend (ie. a Weekend Promo Buff is active).</span><code>effect_def,2904</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor</span>
+            <span style="margin-left:15px">Weekend Warrior</span>
+            <span style="margin-left:15px">Eric</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -681,7 +681,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 346**Dr. Floof, the Conjured Almiraj**Dr. Floof is a dedicated healer, despite his tendency to prescribe laughter.</span></span>
+            <span class="tooltipHolder">![Dr. Floof, the Conjured Almiraj Familiar Portrait](images/premiums/familiar_346.png)<span class="itemTooltipContents">ID: 346**Dr. Floof, the Conjured Almiraj**Dr. Floof is a dedicated healer, despite his tendency to prescribe laughter.<img src="images/premiums/familiar_346.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -742,11 +742,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Freeblade Kitiara Skin Portrait](images/premiums/skin_734.png)<span class="itemTooltipContents">ID: 734**Freeblade Kitiara (Kitiara)**<img src="images/premiums/skin_734.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Morte on the Rocks Skin Portrait](images/premiums/skin_763.png)<span class="itemTooltipContents">ID: 763**Morte on the Rocks (Morte)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_763.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_763-skull.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Freeblade Kitiara</span>
+            <span style="margin-left:15px">Morte on the Rocks</span>
         </span>
     </span>
     <span class="premiumsTableItem">

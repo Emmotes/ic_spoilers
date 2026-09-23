@@ -315,6 +315,23 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Morte on the Rocks Portrait](images/skin_portraits/morteontherocks.png)<span class="featTooltipContents">ID: 763**Morte on the Rocks (Morte)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/morteontherocks.webp" alt="Morte on the Rocks Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/morteontherocks-skull.webp" alt="Morte on the Rocks Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+        </span>
+        <span class="skinTableName">
+            Morte on the Rocks
+        </span>
+        <span class="skinTableSource">
+            Morte on the Rocks Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            04 Nov 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Widdle Stardust Portrait](images/skin_portraits/widdlestardust.png)<span class="featTooltipContents">ID: 738**Widdle Stardust (Widdle)**<img src="images/skin_models/widdlestardust.webp" alt="Widdle Stardust Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
