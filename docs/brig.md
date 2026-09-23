@@ -50,7 +50,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stack_title": "Hype Stacks",
             "total_title": "Hype Bonus",
             "show_bonus": true,
-            "desc_forced_order": 0
+            "desc_forced_order": 0,
+            "max_stacks": 100
         },
         {
             "off_when_benched": true,
