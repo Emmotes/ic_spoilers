@@ -76,7 +76,8 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
         {
             "type": "melee_attack",
             "target_offset_x": -34,
-            "damage_frame": 2
+            "start_frame": 6,
+            "damage_frame": 8
         }
     ],
     "tags": [
@@ -115,6 +116,7 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
             "no_damage_display": true,
             "animation_sequence_name": "idle",
             "alternate_charge_sequence": "idle",
+            "force_count_for_bud": false,
             "charge_manually": true
         }
     ],
@@ -133,7 +135,7 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: Skull Mob** (Guess)
 > Morte summons an avalanche of his friends from the Bones of the Night to come and take a bite out of all enemies.  
-> Cooldown: 360s (Cap 90s)
+> Cooldown: 240s (Cap 60s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -147,18 +149,11 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 0.03,
-    "cooldown": 360,
+    "cooldown": 240,
     "animations": [
         {
             "type": "morte_ultimate",
-            "projectile_data": {
-                "projectile": "empty",
-                "projectile_details": {
-                    "type": "ranged_attack",
-                    "projectile_hit_graphic_id": 31449,
-                    "impact_offset_y": -40
-                }
-            }
+            "graphic_id": 31449
         }
     ],
     "tags": [
@@ -234,12 +229,25 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
             "targets": [
                 "all"
             ],
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ],
             "off_when_benched": true,
+            "desc_forced_order": 2,
+            "show_bonus": true
+        },
+        {
+            "effect_string": "buff_upgrade,100,20955,1",
+            "off_when_benched": true,
+            "desc_forced_order": 1,
+            "amount_expr": "upgrade_amount(20955,0)",
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`debuff`)",
             "show_bonus": true,
             "stack_title": "Debuff Champions",
+            "total_title": "Debuff Champions Buff",
             "amount_updated_listeners": [
                 "slot_changed",
                 "hero_tags_changed"
@@ -272,12 +280,21 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
     "id": 2974,
     "flavour_text": "",
     "description": {
-        "desc": "Morte causes enemies he attacks to take $amount% additional damage for each Debuff affecting them (including this one), stacking multiplicatively. This can count at most 25 debuffs, does not stack itself, and lasts until the enemy dies."
+        "pre": "Morte causes enemies he attacks to take $(amount)% additional damage for each Debuff affecting them (including this one), stacking multiplicatively. This can count at most $max_stacks debuffs, does not stack itself, and lasts until the enemy dies.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Bonus damage at max stacks: $(morte_litany_of_curses_max_buff)%"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
             "effect_string": "morte_litany_of_curses,100",
             "off_when_benched": true,
+            "max_stacks": 25,
             "debuffing_attack_ids": [
                 1007,
                 1008
@@ -289,12 +306,10 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
                     "active_graphic_y": -45,
                     "max_stacks": 25,
                     "use_collection_source": true
-                },
-                {
-                    "effect_string": "morte_debuff"
                 }
             ],
-            "debuff_before_damage": true
+            "debuff_before_damage": true,
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -315,7 +330,7 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Give 'em the Laugh** (Guess)
-> Morte begins every area with stacks of Evasion equal to his overwhelm point. When Morte gets attacked (including "attacks" from the variant such as objects falling from the sky or cold/weather damage), as long as he has at least 1 stack of Evasion left, he dodges the attack completely and uses up stacks_to_use stack of Evasion. Morte restores 1 stack of Evasion every second for each Debuff Champion in the formation. The number of Evasion stacks he has can not surpass his overwhelm point. If a boss or enemies are enraged, max stacks are divided by the enrage multiplier, rounded down.
+> Morte begins every area with stacks of Evasion equal to his overwhelm point. When Morte gets attacked (including "attacks" from the variant such as objects falling from the sky or cold/weather damage), as long as he has at least 1 stack of Evasion left, he dodges the attack completely and uses up 1 stack of Evasion. Morte restores 1 stack of Evasion every second for each Debuff Champion in the formation. The number of Evasion stacks he has can not surpass his overwhelm point. If a boss or enemies are enraged, max stacks are divided by the enrage multiplier, rounded down.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -323,11 +338,10 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
     "id": 2975,
     "flavour_text": "",
     "description": {
-        "desc": "Morte begins every area with stacks of Evasion equal to his overwhelm point. When Morte gets attacked (including \"attacks\" from the variant such as objects falling from the sky or cold/weather damage), as long as he has at least 1 stack of Evasion left, he dodges the attack completely and uses up stacks_to_use stack of Evasion. Morte restores $stacks_to_restore stack of Evasion every second for each Debuff Champion in the formation. The number of Evasion stacks he has can not surpass his overwhelm point. If a boss or enemies are enraged, max stacks are divided by the enrage multiplier, rounded down."
+        "desc": "Morte begins every area with stacks of Evasion equal to his overwhelm point. When Morte gets attacked (including \"attacks\" from the variant such as objects falling from the sky or cold/weather damage), as long as he has at least 1 stack of Evasion left, he dodges the attack completely and uses up $stacks_to_use stack of Evasion. Morte restores $stacks_to_restore stack of Evasion every second for each Debuff Champion in the formation. The number of Evasion stacks he has can not surpass his overwhelm point. If a boss or enemies are enraged, max stacks are divided by the enrage multiplier, rounded down."
     },
     "effect_keys": [
         {
-            "off_when_benched": true,
             "effect_string": "morte_give_em_the_laugh",
             "manual_stacking": true,
             "show_stacks": true,
@@ -364,6 +378,7 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
+        "show_outgoing_desc_when_benched": false,
         "default_bonus_index": 0
     }
 }
@@ -387,13 +402,13 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
     "effect_keys": [
         {
             "effect_string": "overwhelm_start_increase,5",
-            "targets": [
-                "all"
-            ],
             "off_when_benched": true,
             "amount_func": "add",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "!HasTag(`debuff`)",
+            "per_hero_targets": [
+                "all"
+            ],
             "show_bonus": true,
             "stack_title": "Non Debuff Champions",
             "total_title": "Total Additional Overwhelm",
@@ -506,7 +521,7 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "buff_upgrade,20,20955",
+            "effect_string": "buff_upgrade,20,20955,1",
             "stacks_multiply": true,
             "show_bonus": true,
             "amount_func": "mult",
@@ -548,18 +563,18 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
     "id": 2979,
     "flavour_text": "",
     "description": {
-        "desc": "Morte increases the effect of Biting Wit by $amount% for each Female or Non-Binary Champion in the formation, stacking multiplicatively."
+        "desc": "Morte increases the effect of Biting Wit by $(not_buffed amount)% for each Female or Non-Binary Champion in the formation, stacking multiplicatively."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "buff_upgrade,100,20955",
+            "effect_string": "buff_upgrade,100,20955,1",
             "stacks_multiply": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`female`) || HasTag(`non_binary`)",
             "show_bonus": true,
-            "stack_title": "Qualified Champions:",
+            "stack_title": "Qualified Champions",
             "amount_updated_listeners": [
                 "slot_changed",
                 "hero_tags_changed"
@@ -593,18 +608,18 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
     "id": 2980,
     "flavour_text": "",
     "description": {
-        "desc": "Morte increases the effect of Biting Wit by $amount% for each Champion in the formation who is Undead or a Non-Standard Species, stacking multiplicatively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf."
+        "desc": "Morte increases the effect of Biting Wit by $(not_buffed amount)% for each Champion in the formation who is Undead or a Non-Standard Species, stacking multiplicatively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "buff_upgrade,100,20955",
+            "effect_string": "buff_upgrade,100,20955,1",
             "stacks_multiply": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`undead`) || has_non_standard_race",
             "show_bonus": true,
-            "stack_title": "Qualified Champions:",
+            "stack_title": "Qualified Champions",
             "amount_updated_listeners": [
                 "slot_changed",
                 "hero_tags_changed"
@@ -638,18 +653,18 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
     "id": 2981,
     "flavour_text": "",
     "description": {
-        "desc": "Morte increases the effect of Biting Wit by $amount% for each Champion in the formation who is a Rogue, Evil, or Chaotic, stacking multiplicatively."
+        "desc": "Morte increases the effect of Biting Wit by $(not_buffed amount)% for each Champion in the formation who is a Rogue, Evil, or Chaotic, stacking multiplicatively."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "buff_upgrade,100,20955",
+            "effect_string": "buff_upgrade,100,20955,1",
             "stacks_multiply": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`rogue`) || HasTag(`evil`) || HasTag(`chaotic`)",
             "show_bonus": true,
-            "stack_title": "Qualified Champions:",
+            "stack_title": "Qualified Champions",
             "amount_updated_listeners": [
                 "slot_changed",
                 "hero_tags_changed"
@@ -716,6 +731,8 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Dodgy Tactics** (Guess)
 > Morte requires and consumes twice as many Evasion stacks when he dodges an attack, but the base effect of Litany of Curses is increased by 10% for 5 seconds after he does so. Does not stack, but the timer resets if he dodges again before it expires.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -730,19 +747,25 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
             "effect_string": "change_upgrade_data,20957",
             "off_when_benched": true,
             "data": {
+                "stacks_to_trigger": 2,
                 "stacks_to_use": 2
             }
         },
         {
             "effect_string": "morte_dodgy_tactics_handler",
             "off_when_benched": true,
-            "buff_index": 2,
+            "buff_index": 3,
             "time": 5,
             "broadcast_name": "morte_evasion"
         },
         {
-            "effect_string": "buff_upgrade,10,20956",
+            "effect_string": "pre_stack,10",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "buff_upgrade,10,20956,0",
             "off_when_benched": true,
+            "amount_expr": "upgrade_amount(20965,2)",
             "apply_manually": true
         }
     ],
@@ -764,7 +787,9 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Laughing Skull** (Guess)
-> When any Champion (including Morte) is attacked but takes no damage, Morte mocks the enemy that attacked that Champion, increasing the damage that enemy takes by 100. If Morte mocks the same enemy multiple times, the effect applies up to 10 times per enemy, stacking multiplicatively.
+> When any Champion (including Morte) is attacked but takes no damage, Morte mocks the enemy that attacked that Champion, increasing the damage that enemy takes by 100%. If Morte mocks the same enemy multiple times, the effect applies up to 10 times per enemy, stacking multiplicatively.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -772,21 +797,27 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
     "id": 2984,
     "flavour_text": "",
     "description": {
-        "desc": "When any Champion (including Morte) is attacked but takes no damage, Morte mocks the enemy that attacked that Champion, increasing the damage that enemy takes by $amount. If Morte mocks the same enemy multiple times, the effect applies up to 10 times per enemy, stacking multiplicatively."
+        "desc": "When any Champion (including Morte) is attacked but takes no damage, Morte mocks the enemy that attacked that Champion, increasing the damage that enemy takes by $amount%. If Morte mocks the same enemy multiple times, the effect applies up to 10 times per enemy, stacking multiplicatively."
     },
     "effect_keys": [
         {
-            "effect_string": "morte_laughing_skull,100",
+            "effect_string": "pre_stack,100",
+            "skip_effect_key_desc": true
+        },
+        {
+            "effect_string": "morte_laughing_skull,0",
             "off_when_benched": true,
             "debuff_effects": [
                 {
-                    "effect_string": "increase_monster_damage,$amount",
+                    "effect_string": "increase_monster_damage,0",
+                    "amount_expr": "upgrade_amount(20966,0)",
                     "active_graphic_id": 31544,
                     "active_graphic_y": -125,
                     "max_stacks": 10,
                     "stacks_on_reapply": true,
                     "manual_stacking": true,
                     "stacks_multiply": true,
+                    "stack_count_debug": true,
                     "use_collection_source": true,
                     "stack_across_effects": false
                 }
@@ -888,7 +919,6 @@ Unknown.
 ![Skittering Skulls Icon](images/morte/31378.png) **Variant 1: Skittering Skulls** (Complete Area 75)
 > Morte starts in the formation. He can be moved, but not removed.  
 > You may only use Champions who qualify for one of Morte's specialization choices (which is a pretty broad selection)  
-> These are female, non-binary, undead, non-standard species, rogues, chaotic, or evil Champions.  
 > 1 Skullface Spider spawn with each wave. These enemies do not count toward quest progress or drop gold, and move 50% faster and deal 100% more damage.  
 > An additional Skullface Spider spawns with each wave for every 100 areas completed.  
 > <b>Getting to Know Morte:</b> Morte has a wide variety of Champions he specializes in working with. What can we say? He's pretty friendly for a talking skull.
