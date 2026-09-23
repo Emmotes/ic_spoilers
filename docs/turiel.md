@@ -84,13 +84,23 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "buff_upgrade,30,21265,1",
+            "off_when_benched": true,
             "stacks_on_trigger": "will_stack_manually",
             "max_stacks": 30,
             "stacks_multiply": true,
             "show_bonus": true
         },
         {
+            "effect_string": "buff_upgrade,30,21265,2",
+            "off_when_benched": true,
+            "stacks_on_trigger": "will_stack_manually",
+            "max_stacks": 30,
+            "stacks_multiply": true,
+            "show_bonus": false
+        },
+        {
             "effect_string": "orders_demand_v2",
+            "off_when_benched": true,
             "is_reworked_effect": true,
             "embodiment_buff_effect_key_index": 0,
             "overlay_lower_id": 6236,
@@ -137,22 +147,26 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "unflinching_hatred_v2,400",
+            "off_when_benched": true,
             "embodiment_buff_key_index": 1,
             "orders_demand_buff_key_index": 2,
             "tag": "fiend"
         },
         {
             "effect_string": "buff_upgrade,0,21265,1",
+            "off_when_benched": true,
             "amount_expr": "upgrade_amount(21267,0)",
             "apply_manually": true
         },
         {
             "effect_string": "buff_upgrade,0,21266",
+            "off_when_benched": true,
             "amount_expr": "upgrade_amount(21267,0)",
             "apply_manually": true
         },
         {
             "effect_string": "favored_foe,fiend",
+            "off_when_benched": true,
             "apply_manually": true
         }
     ],
@@ -186,7 +200,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack_amount,200"
+            "effect_string": "pre_stack_amount,200",
+            "off_when_benched": true
         },
         {
             "off_when_benched": true,
