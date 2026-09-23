@@ -76,6 +76,21 @@ We know from a leak that there is a new dialogue called "Missions of Tiamat". It
 > "key": "sort_missions_label",  
 > "contents": "Sort Active Missions By:"
 
+> "key": "trials_autofill_limit_familiar_count",  
+> "contents": "Use all but $num Familiars (you have $amount Familiars)"
+
+> "key": "trials_autofill_familiar_mission_duration",  
+> "contents": "Only use Familiars on missions longer than $num minutes"
+
+> "key": "trials_autofill_chance_auto_start",  
+> "contents": "Auto-start if $num % success chance or better"
+
+> "key": "trials_autofill_prioritize_boons",  
+> "contents": "Prioritize Champions with Boons"
+
+> "key": "trials_autofill_go_to_next_mission",  
+> "contents": "Go to next mission after starting"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
