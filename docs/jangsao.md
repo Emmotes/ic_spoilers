@@ -171,6 +171,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "buff_upgrade,10,13257",
+            "off_when_benched": true,
             "stack_title": "Total Pigments",
             "amount_func": "mult",
             "stacks_multiply": true,
@@ -353,12 +354,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "buff_upgrade,1,21245",
+            "off_when_benched": true,
             "amount_func": "add",
             "stack_title": "Stars gained this adventure",
             "show_bonus": true,
             "stack_func": "get_stat",
             "instance_stat": true,
-            "stat": "jangsao_star_collector_stacks_this_run"
+            "stat": "jangsao_star_collector_stacks_this_run",
+            "amount_updated_listeners": [
+                "jang_sao_stars_changed"
+            ]
         }
     ],
     "requirements": "",
