@@ -35,15 +35,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 2988,
     "flavour_text": "",
     "description": {
-        "desc": "Whenever Penelope attacks an enemy and doesn't kill it, all Champions deal $(not_buffed amount)% additional damage against them. This effect can stack multiplicatively up to $(upgrade_stacks_total 21233,1) times, with buffs applying to the post-stack damage.",
-        "post": {
-            "conditions": [
-                {
-                    "condition": "(not static_desc)^(has_bonus)",
-                    "desc": "^^Bonus damage at max stacks: $(active_upgrade_value 21233,1)%"
-                }
-            ]
-        }
+        "desc": "Whenever Penelope attacks an enemy and doesn't kill it, all Champions deal $(not_buffed amount)% additional damage against them. This effect can stack multiplicatively up to $(upgrade_stacks_total 21233,1) times, with buffs applying to the post-stack damage."
     },
     "effect_keys": [
         {
@@ -83,8 +75,12 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "slot_changed",
                 "hero_tags_changed"
             ],
-            "show_bonus": false,
-            "show_stacks": false
+            "show_bonus": true,
+            "show_stack_type": false,
+            "hide_stack_description": true,
+            "show_stack_post_amounts": false,
+            "show_bonus_multiplier": true,
+            "total_title": "Bonus damage at max stacks"
         }
     ],
     "requirements": "",
@@ -445,6 +441,80 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Story Time** (Guess)
+> Each time a Champion adjacent to Penelope attacks, add a stack of Story Time. The party's gold find is increased by 1% for each stack of Story Time, stacking additively. Story Time stacks are capped at 1000000000. Whenever a boss enemy enters an Insect Swarm, the number of Story Time stacks are increased by 2.5%.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 3025,
+    "flavour_text": "",
+    "description": {
+        "desc": "Each time a Champion adjacent to Penelope attacks, add a stack of Story Time. The party's gold find is increased by $(not_buffed amount)% for each stack of Story Time, stacking additively. Story Time stacks are capped at $(max_stacks). Whenever a boss enemy enters an Insect Swarm, the number of Story Time stacks are increased by $(boss_percent)%."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "gold_multiplier_mult,1",
+            "max_stacks": 1000000000,
+            "boss_percent": 2.5,
+            "more_triggers": [
+                {
+                    "trigger": "on_broadcast_stacks,penelope_adj_attack",
+                    "action": {
+                        "type": "add_stacks"
+                    }
+                },
+                {
+                    "trigger": "on_broadcast_stacks,penelope_boss_entered_swarm",
+                    "action": {
+                        "type": "add_percent",
+                        "percent": 2.5
+                    }
+                }
+            ],
+            "stacks_multiply": false,
+            "show_bonus": true,
+            "stack_title": "Story Time Stacks"
+        },
+        {
+            "show_description": false,
+            "effect_string": "stacks_data_binder_safe",
+            "index": 0,
+            "stat_name": "penelope_story_time_stacks",
+            "is_instanced_stat": true,
+            "use_stat_defs": true
+        },
+        {
+            "show_description": false,
+            "effect_string": "broadcast_on_trigger,penelope_adj_attack,hero_targeted_by_effect_attacked",
+            "targets": [
+                "adj"
+            ]
+        },
+        {
+            "show_description": false,
+            "effect_string": "penelope_story_time_offline",
+            "off_when_benched": true,
+            "max_story_time_stacks": 1000000000
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
 # Specialisations
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
@@ -640,7 +710,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,400,14701",
+            "effect_string": "buff_upgrade,400,21235",
             "more_triggers": [
                 {
                     "trigger": "on_broadcast_stacks,penelope_swarm_dispersed",
@@ -712,7 +782,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(14707,0)",
+                    "amount_expr": "upgrade_amount(21241,0)",
                     "use_collection_source": false
                 }
             ]
@@ -733,7 +803,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(14707,1)",
+                    "amount_expr": "upgrade_amount(21241,1)",
                     "use_collection_source": false
                 }
             ]
@@ -754,7 +824,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(14707,2)",
+                    "amount_expr": "upgrade_amount(21241,2)",
                     "use_collection_source": false
                 }
             ]
@@ -775,7 +845,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(14707,3)",
+                    "amount_expr": "upgrade_amount(21241,3)",
                     "use_collection_source": false
                 }
             ]
@@ -796,7 +866,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(14707,0)",
+                    "amount_expr": "upgrade_amount(21241,4)",
                     "use_collection_source": false
                 }
             ]
@@ -817,7 +887,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(14707,1)",
+                    "amount_expr": "upgrade_amount(21241,5)",
                     "use_collection_source": false
                 }
             ]
@@ -838,7 +908,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(14707,2)",
+                    "amount_expr": "upgrade_amount(21241,0)",
                     "use_collection_source": false
                 }
             ]
@@ -859,7 +929,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(14707,3)",
+                    "amount_expr": "upgrade_amount(21241,1)",
                     "use_collection_source": false
                 }
             ]
@@ -880,7 +950,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(14707,0)",
+                    "amount_expr": "upgrade_amount(21241,2)",
                     "use_collection_source": false
                 }
             ]
@@ -901,7 +971,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(14707,1)",
+                    "amount_expr": "upgrade_amount(21241,3)",
                     "use_collection_source": false
                 }
             ]
@@ -922,7 +992,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(14707,2)",
+                    "amount_expr": "upgrade_amount(21241,4)",
                     "use_collection_source": false
                 }
             ]
@@ -943,7 +1013,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(14707,3)",
+                    "amount_expr": "upgrade_amount(21241,5)",
                     "use_collection_source": false
                 }
             ]
