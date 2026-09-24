@@ -4,48 +4,6 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 757</div>
-### Eric's Legendary Feat Pack - 1,680 Platinum  
-Date of release: 23 Sept 2026
-
-> Unlock Eric's full potential with his Legendary Feat & 6 Tanking Pigments now!
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Eric Champion Unlock Portrait](images/premiums/unlock_champion_157.png)<span class="itemTooltipContents">ID: 157**Eric (Seat 4)**<img src="images/premiums/unlock_champion_157.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Eric</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon5 tooltipHolder">![Weekend Warrior Feat Portrait](images/featicons/eric.png)<span class="itemTooltipContents">ID: 2774**Weekend Warrior**Is it Saturday yet?<br><br><span style="color:var(--Flavescent)">Eric increases the effect of his Trait specialization by 100% for each 5% of his current Corrupted Gem Scavenger cap that he has collected. Once all Champions in the formation have knocked back enemies at least 60 times in the current area, Eric's second specialization ability gains 1 additional stack(s). The requirement is reduced by a static 5 if it's the weekend (ie. a Weekend Promo Buff is active).</span><code>effect_def,2904</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Weekend Warrior</span>
-            <span style="margin-left:15px">Eric</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Marvelous Tanking Pigment Buff Portrait](images/premiums/buff_1907.png)<span class="itemTooltipContents">ID: 1907**Marvelous Tanking Pigment**Adds a Champion-tag-based effect to an epic or higher equipment item of your choice!<code>legendary_apply_pigment,4</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Marvelous Tanking Pigment</span>
-            <span style="margin-left:15px">x6</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 758</div>
 ### Scholar of the Nine Hells Karlach Skin & Feat Pack - 1,680 Platinum  
 Date of release: 30 Sept 2026

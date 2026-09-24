@@ -30,23 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Eric</span>
-        </span>
-        <span class="featTableIcon5">
-            ![Weekend Warrior Icon](images/featicons/eric.png)<span class="featTooltipContents">ID: 2774**Weekend Warrior (Eric)**Is it Saturday yet?<br><br><span style="color:var(--Flavescent)">Eric increases the effect of his Trait specialization by 100% for each 5% of his current Corrupted Gem Scavenger cap that he has collected. Once all Champions in the formation have knocked back enemies at least 60 times in the current area, Eric's second specialization ability gains 1 additional stack(s). The requirement is reduced by a static 5 if it's the weekend (ie. a Weekend Promo Buff is active).</span><code>effect_def,2904</code></span>Weekend Warrior
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Eric increases the effect of his Trait specialization by 100% for each 5% of his current Corrupted Gem Scavenger cap that he has collected. Once all Champions in the formation have knocked back enemies at least 60 times in the current area, Eric's second specialization ability gains 1 additional stack(s). The requirement is reduced by a static 5 if it's the weekend (ie. a Weekend Promo Buff is active).</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">23 Sept 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Raistlin</span>
         </span>
         <span class="featTableIcon4">
