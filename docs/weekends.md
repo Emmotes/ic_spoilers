@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/839.png">
-            <span class="weekendTooltipContents">ID: 839**Gold Commercial Chest**Loot for: Diana, Eric, Calliope, Celeste and Hank<code>"for_crusaders":[148,157,5,2,163]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **We'll Be Right Back**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    25 September 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Hank
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/diana.png')">
-                        <span class="weekendTableChampionNameplate">Diana</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 148**Diana**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/eric.png')">
-                        <span class="weekendTableChampionNameplate">Eric</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 157**Eric**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/calliope.png')">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 5**Calliope**Increases the effect of Calliope's Bardic Inspiration ability by 200%.<code>buff_upgrade,200,71</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/celeste.png')">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 2**Celeste**Increases the effect of Celeste's Crusader's Mantle ability by 200%.<code>buff_upgrade,200,24</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/hank.png')">
-                        <span class="weekendTableChampionNameplate">Hank</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 163**Hank**Increases the effect of Hank's Stalwart Encouragement ability by 200%.<code>buff_upgrade,200,17079</code></span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/840.png">
             <span class="weekendTooltipContents">ID: 840**Gold Durge Chest**Loot for: Dark Urge, Karlach, Minsc, Asharra and Wyll<code>"for_crusaders":[146,143,7,6,142]</code></span>
         </span>
