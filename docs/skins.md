@@ -451,6 +451,23 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 764**Snow Day Diana (Diana)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Snow Day Diana
+        </span>
+        <span class="skinTableSource">
+            Snow Day Diana Party Pack
+        </span>
+        <span class="skinTableCost">
+            $24.99
+        </span>
+        <span class="skinTableDate">
+            10 Dec 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 759**Feywild Fairytale Yorven (Yorven)**</span></span>
         </span>
         <span class="skinTableName">
