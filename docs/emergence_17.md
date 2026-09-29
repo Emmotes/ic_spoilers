@@ -22,6 +22,26 @@ We know the next Emergence event will be Draconians and that it will start on 30
     </span>
     <span class="emergenceShopTableItem">
         <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Golden Epic Icon for Certainty Slot 3](images/emergence_17/ge_3277.png)<span class="itemTooltipContents">ID: 3277**Teddy of Time (Certainty)**A strange, bald man gave me this in the Feywild. Is that weird?<br><br><span style="color:var(--Flavescent)">Increases the effect of Certainty's Reboot Expert ability by 275%.</span><code>buff_upgrade,275,12506</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Teddy of Time</span>
+            <span style="margin-left:15px">Certainty (Slot 3)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Golden Epic Icon for Wren Slot 1](images/emergence_17/ge_3677.png)<span class="itemTooltipContents">ID: 3677**Memory of Hope (Wren)**No matter how dark things get, I will never give up my hope.<br><br><span style="color:var(--Flavescent)">All Champions damage +230%.</span><code>global_dps_multiplier_mult,230</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Golden Epic**</span>
+            <span style="margin-left:15px">Memory of Hope</span>
+            <span style="margin-left:15px">Wren (Slot 1)</span>
+        </span>
+    </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
             <span class="tooltipHolder">![Golden Epic Icon for Caramon Slot 2](images/emergence_17/ge_4353.png)<span class="itemTooltipContents">ID: 4353**Storied Plate (Caramon)**They don't need me. Even Tika doesn't need me, not like Raist needed me.<br><br><span style="color:var(--Flavescent)">Increases the health of Caramon by 100%.</span><code>health_mult,100</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
@@ -89,7 +109,18 @@ We know the next Emergence event will be Draconians and that it will start on 30
             <span style="margin-left:15px">Caramon</span>
         </span>
     </span>
+    <span class="emergenceShopTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Draconian Emergence Chest Icon](images/emergence_17/chest_849.png)<span class="itemTooltipContents">ID: 849**Draconian Emergence Chest**Loot for: Certainty, Presto, Umberto, Minthara, Wren, Raistlin, Flint and Caramon<code>"for_crusaders":[138,144,151,154,155,173,178,179]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Draconian Emergence Chest</span>
+        </span>
+    </span>
 </span>
+
+The Draconian Emergence Chest will contain loot for Certainty, Presto, Umberto, Minthara, Wren, Raistlin, Flint and Caramon.
 
 {% comment %}
 # Emergence FAQ
