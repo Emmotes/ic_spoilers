@@ -1634,11 +1634,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2874**Feat**???: 2874</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2874**TBD Diana Feat**TBD Diana Feat for EGS Promo</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2874</span>
+            <span style="margin-left:15px">TBD Diana Feat</span>
+            <span style="margin-left:15px">Diana</span>
         </span>
     </span>
     <span class="premiumsTableItem">
