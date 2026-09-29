@@ -818,7 +818,7 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
                     "manual_stacking": true,
                     "stacks_multiply": true,
                     "stack_count_debug": true,
-                    "use_collection_source": true,
+                    "use_collection_source": false,
                     "stack_across_effects": false
                 }
             ]
@@ -832,7 +832,8 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 0,
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -919,7 +920,7 @@ Unknown.
 ![Skittering Skulls Icon](images/morte/31378.png) **Variant 1: Skittering Skulls** (Complete Area 75)
 > Morte starts in the formation. He can be moved, but not removed.  
 > You may only use Champions who qualify for one of Morte's specialization choices (which is a pretty broad selection)  
-> 1 Skullface Spider spawn with each wave. These enemies do not count toward quest progress or drop gold, and move 50% faster and deal 100% more damage.  
+> 1 Skullface Spider spawns with each wave. These enemies do not count toward quest progress or drop gold, and move 50% faster and deal 100% more damage.  
 > An additional Skullface Spider spawns with each wave for every 100 areas completed.  
 > <b>Getting to Know Morte:</b> Morte has a wide variety of Champions he specializes in working with. What can we say? He's pretty friendly for a talking skull.
 </div></div>
