@@ -91,6 +91,9 @@ We know from a leak that there is a new dialogue called "Missions of Tiamat". It
 > "key": "trials_autofill_go_to_next_mission",  
 > "contents": "Go to next mission after starting"
 
+> "key": "trials_mission",  
+> "contents": "Trials Mission"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
