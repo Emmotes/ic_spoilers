@@ -266,8 +266,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "retain_on_slot_changed": true,
-        "default_bonus_index": 0
+        "retain_on_slot_changed": true
     }
 }
 </pre>
@@ -710,7 +709,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,400,21235",
+            "effect_string": "buff_upgrade,400,21235,2",
             "more_triggers": [
                 {
                     "trigger": "on_broadcast_stacks,penelope_swarm_dispersed",
@@ -728,6 +727,25 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stacks_multiply": true,
             "show_bonus": true,
             "stack_title": "Dispersed Swarms Stacks"
+        },
+        {
+            "effect_string": "buff_upgrade,400,21235,3",
+            "more_triggers": [
+                {
+                    "trigger": "on_broadcast_stacks,penelope_swarm_dispersed",
+                    "action": {
+                        "type": "add_stacks"
+                    }
+                },
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reset"
+                    }
+                }
+            ],
+            "stacks_multiply": true,
+            "show_bonus": false
         },
         {
             "effect_string": "penelope_fury_of_the_fire_flies"
@@ -908,7 +926,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(21241,0)",
+                    "amount_expr": "upgrade_amount(21241,6)",
                     "use_collection_source": false
                 }
             ]
@@ -929,7 +947,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(21241,1)",
+                    "amount_expr": "upgrade_amount(21241,7)",
                     "use_collection_source": false
                 }
             ]
@@ -950,7 +968,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(21241,2)",
+                    "amount_expr": "upgrade_amount(21241,8)",
                     "use_collection_source": false
                 }
             ]
@@ -971,7 +989,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(21241,3)",
+                    "amount_expr": "upgrade_amount(21241,9)",
                     "use_collection_source": false
                 }
             ]
@@ -992,7 +1010,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(21241,4)",
+                    "amount_expr": "upgrade_amount(21241,10)",
                     "use_collection_source": false
                 }
             ]
@@ -1013,7 +1031,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "debuff_effects": [
                 {
                     "effect_string": "monster_speed_reduce,0",
-                    "amount_expr": "upgrade_amount(21241,5)",
+                    "amount_expr": "upgrade_amount(21241,11)",
                     "use_collection_source": false
                 }
             ]
