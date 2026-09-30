@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Alchemical Savant Presto Portrait](images/skin_portraits/alchemicalsavantpresto.png)<span class="featTooltipContents">ID: 743**Alchemical Savant Presto (Presto)**<img src="images/skin_models/alchemicalsavantpresto.webp" alt="Alchemical Savant Presto Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Alchemical Savant Presto
-        </span>
-        <span class="skinTableSource">
-            Emergence 17
-        </span>
-        <span class="skinTableCost">
-            ???
-        </span>
-        <span class="skinTableDate">
-            30 Sept 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Scholar of the Nine Hells Karlach Portrait](images/skin_portraits/scholaroftheninehellskarlach.png)<span class="featTooltipContents">ID: 725**Scholar of the Nine Hells Karlach (Karlach)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/scholaroftheninehellskarlach.webp" alt="Scholar of the Nine Hells Karlach Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/scholaroftheninehellskarlach-infernal_engine.webp" alt="Scholar of the Nine Hells Karlach Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Scholar of the Nine Hells Karlach
-        </span>
-        <span class="skinTableSource">
-            Scholar of the Nine Hells Karlach Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            30 Sept 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Freeblade Kitiara Portrait](images/skin_portraits/freebladekitiara.png)<span class="featTooltipContents">ID: 734**Freeblade Kitiara (Kitiara)**<img src="images/skin_models/freebladekitiara.webp" alt="Freeblade Kitiara Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
