@@ -1,9 +1,23 @@
 [Back to Main](index.md)
 
-{% comment %}
 <span class="championPortraitsRow">
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![PC Portrait for Tanis](images/tanis/portrait.png)
+        </span>
+        <span>
+            Portrait
+        </span>
+    </span>
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Model WebP of Tanis](images/tanis/model.webp)
+        </span>
+        <span>
+            Model
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 # Tanthalas Half-Elven
 
