@@ -1190,7 +1190,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Champion Unlock Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 182**Tanis**</span></span>
+            <span class="tooltipHolder">![Tanis Champion Unlock Portrait](images/premiums/unlock_champion_182.png)<span class="itemTooltipContents">ID: 182**Tanis**<img src="images/premiums/unlock_champion_182.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Champion Unlock**</span>
