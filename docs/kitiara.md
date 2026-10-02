@@ -35,23 +35,63 @@
 
 Kitiara Uth Matar will be a new champion in the Liars' Night event on 7 October 2026.
 
-<span class="champStatsTableGridSmall">
+<span class="champStatsTableGrid">
   <span>**Seat**:</span>
   <span>4</span>
+  <span>**Stat**</span>
+  <span>**Value**</span>
+  <span>**Day 1 Trials**</span>
+  <span>**Patrons**</span>
+  <span>**Skylla Patrons**</span>
   <span>**Species**:</span>
-  <span>Human (Guess)</span>
+  <span>Human</span>
+  <span>**Strength**:</span>
+  <span>14</span>
+  <span>Yes</span>
+  <span>Mirt</span>
+  <span>Mirt</span>
   <span>**Class**:</span>
-  <span>Unknown</span>
+  <span>Fighter</span>
+  <span>**Dexterity**:</span>
+  <span>18</span>
+  <span>Yes</span>
+  <span>Vajra</span>
+  <span>-</span>
   <span>**Roles**:</span>
-  <span>Support / Control (Guess)</span>
+  <span>Support / Tanking / Control / Breaker</span>
+  <span>**Constitution**:</span>
+  <span>14</span>
+  <span>Yes</span>
+  <span>Strahd</span>
+  <span>Strahd</span>
   <span>**Age**:</span>
-  <span>Unknown</span>
+  <span>33</span>
+  <span>**Intelligence**:</span>
+  <span>13</span>
+  <span>Yes</span>
+  <span>Zariel</span>
+  <span>Zariel</span>
   <span>**Gender**:</span>
-  <span>Female (Guess)</span>
+  <span>Female</span>
+  <span>**Wisdom**:</span>
+  <span>9</span>
+  <span>-</span>
+  <span>Elminster</span>
+  <span>Elminster</span>
   <span>**Alignment**:</span>
-  <span>Unknown</span>
+  <span>Neutral Evil</span>
+  <span>**Charisma**:</span>
+  <span>16</span>
+  <span>Yes</span>
+  <span>&nbsp;</span>
+  <span></span>
   <span>**Affiliation**:</span>
-  <span>- (Guess)</span>
+  <span>-</span>
+  <span>**Total**:</span>
+  <span>84</span>
+  <span>&nbsp;</span>
+  <span style="justify-content:flex-end;padding-right:6px;">Champion ID:</span>
+  <span>180</span>
 </span>
 
 # Formation
