@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/840.png">
-            <span class="weekendTooltipContents">ID: 840**Gold Durge Chest**Loot for: Dark Urge, Karlach, Minsc, Asharra and Wyll<code>"for_crusaders":[146,143,7,6,142]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Durge Run**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    02 October 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Wyll
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/darkurge.png')">
-                        <span class="weekendTableChampionNameplate">Dark Urge</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 146**The Dark Urge**Increases the effect of Dark Urge's The Urge ability by 200%.<code>buff_upgrade,200,14379</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/karlach.png')">
-                        <span class="weekendTableChampionNameplate">Karlach</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 143**Karlach**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/minsc.png')">
-                        <span class="weekendTableChampionNameplate">Minsc</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 7**Minsc**Increases the effect of Minsc's Favored Enemy: Beasts, Favored Enemy: Fey, Favored Enemy: Humanoids, Favored Enemy: Monstrosities and Favored Enemy: Undead by 200%.<code>buff_upgrades,200,109,111,108,112,110</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/asharra.png')">
-                        <span class="weekendTableChampionNameplate">Asharra</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 6**Asharra**Increases the effect of Asharra's Bond: Dwarves and Elves, Bond: Exotic Species, Bond: Half n' Half, Bond: Humans, Bond: Potpourri and Bond: Short-folk by 200%.<code>buff_upgrades,200,91,976,975,90,92,977</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/wyll.png')">
-                        <span class="weekendTableChampionNameplate">Wyll</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 142**Wyll**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/845.png">
             <span class="weekendTooltipContents">ID: 845**Gold Distinguished Chest**Loot for: Bruenor, Tyril, Caramon, Laurana and Kitiara<code>"for_crusaders":[1,10,179,175,180]</code></span>
         </span>
