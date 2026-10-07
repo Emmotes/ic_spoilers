@@ -80,7 +80,7 @@ We know from a leak that there is a new dialogue called "Missions of Tiamat". It
 > "contents": "Use all but $num Familiars (you have $amount Familiars)"
 
 > "key": "trials_autofill_familiar_mission_duration",  
-> "contents": "Only use Familiars on missions longer than $num minutes"
+> "contents": "Only use Familiars on missions longer than $num hours"
 
 > "key": "trials_autofill_chance_auto_start",  
 > "contents": "Auto-start if $num % success chance or better"
@@ -93,6 +93,21 @@ We know from a leak that there is a new dialogue called "Missions of Tiamat". It
 
 > "key": "trials_mission",  
 > "contents": "Trials Mission"
+
+> "key": "arcana_chests",  
+> "contents": "Arcana Chests"
+
+> "key": "arcana_chests_refresh_time",  
+> "contents": "New Chests in $formattedTime"
+
+> "key": "incarnum",  
+> "contents": "Incarnum"
+
+> "key": "mission_consumables",  
+> "contents": "Mission Consumables"
+
+> "key": "arcana_chest_resets",  
+> "contents": "Arcana Chest Resets"
 
 [Back to Top](#top)
 
