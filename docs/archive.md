@@ -15,6 +15,7 @@ A list of recently archived spoilers. Note that I delete archives older than 6 m
 * [Emergence 17](archive/emergence_17.md)
 * [Flint Fireforge](archive/flint.md)
 * [Jim](archive/jim.md)
+* [Kitiara Uth Matar](archive/kitiara.md)
 * [Lauralanthalasa Kanan](archive/laurana.md)
 * [Legendary Feats](archive/legendaryFeats.md)
 * [Melf](archive/melf.md)

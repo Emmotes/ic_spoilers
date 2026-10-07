@@ -23,34 +23,6 @@ These are the new event champions that are upcoming and all the information we k
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="kitiara.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Kitiara Uth Matar Portrait Icon](images/kitiara/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Kitiara Uth Matar
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Fighter</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Liars' Night - 7 October 2026</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐<br>Roadmapped 🗺️
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="morte.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -290,36 +262,6 @@ Events will have either one rework OR three rebalances.
 These are the upcoming new and reworked/rebalanced champions and where they'll be found.  
 Events will have either one rework OR three rebalances.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
-## Liars' Night - 7 October 2026
-<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
-{::nomarkdown}
-<a href="kitiara.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Kitiara Uth Matar Portrait Icon](images/kitiara/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Kitiara Uth Matar
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Fighter</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐<br>Roadmapped 🗺️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-</span>
-</div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
 ## Feast of the Moon - 4 November 2026
 <span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
