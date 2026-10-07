@@ -116,90 +116,6 @@ Events will have either one rework OR three rebalances.
 
 <span class="indexChampionTableColumn">
 {::nomarkdown}
-<a href="avren.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Avren Portrait Icon](images/avren/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Avren
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Half-Elf Warlock / Sorcerer of Heroes of the Planes</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Liars' Night - 7 October 2026</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️<br>Roadmapped 🗺️
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
-<a href="brig.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Brig Hellclaw Portrait Icon](images/brig/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Brig Hellclaw
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Rogue / Bard of Sirens of the Realms</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Liars' Night - 7 October 2026</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️<br>Roadmapped 🗺️
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
-<a href="dob.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Dob Portrait Icon](images/dob/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Dob
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Half-Orc Bard of Oxventurers Guild</span>
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Liars' Night - 7 October 2026</span>
-            </span>
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️<br>Roadmapped 🗺️
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
 <a href="penelope.html">
 {:/nomarkdown}
     <span class="indexChampionTableRow">
@@ -283,7 +199,10 @@ Events will have either one rework OR three rebalances.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="krull.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Krull Portrait Icon](images/krull/portrait.png)
         </span>
@@ -305,7 +224,13 @@ Events will have either one rework OR three rebalances.
             Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
     </span>
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="regis.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Regis Portrait Icon](images/regis/portrait.png)
         </span>
@@ -327,6 +252,9 @@ Events will have either one rework OR three rebalances.
             Rebalance 🛠️<br>Roadmapped 🗺️
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
     <span class="indexChampionTableRowNoHover">
         <span class="indexChampionTableIcon">
             ![Talin Uran Portrait Icon](images/talin/portrait.png)
@@ -385,81 +313,6 @@ Events will have either one rework OR three rebalances.
         </span>
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
-<a href="avren.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Avren Portrait Icon](images/avren/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Avren
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Half-Elf Warlock / Sorcerer of Heroes of the Planes</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️<br>Roadmapped 🗺️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
-<a href="brig.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Brig Hellclaw Portrait Icon](images/brig/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Brig Hellclaw
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Human Rogue / Bard of Sirens of the Realms</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️<br>Roadmapped 🗺️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Melee Attack Icon](images/general/icon_melee.png)
-        </span>
-    </span>
-{::nomarkdown}
-</a>
-{:/nomarkdown}
-{::nomarkdown}
-<a href="dob.html">
-{:/nomarkdown}
-    <span class="indexChampionTableRow">
-        <span class="indexChampionTableIcon">
-            ![Dob Portrait Icon](images/dob/portrait.png)
-        </span>
-        <span class="indexChampionTableInfo">
-            <span class="indexChampionTableChampion">
-                Dob
-            </span>
-            <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Half-Orc Bard of Oxventurers Guild</span>
-            </span>
-        </span>
-        <span class="indexChampionTableType indexChampionTableNoLink">
-            Rebalance 🛠️<br>Roadmapped 🗺️
-        </span>
-        <span class="indexChampionTableAttack">
-            ![Magic Attack Icon](images/general/icon_magic.png)
         </span>
     </span>
 {::nomarkdown}
@@ -601,7 +454,10 @@ Events will have either one rework OR three rebalances.
 {::nomarkdown}
 </a>
 {:/nomarkdown}
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+<a href="regis.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Regis Portrait Icon](images/regis/portrait.png)
         </span>
@@ -620,7 +476,13 @@ Events will have either one rework OR three rebalances.
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
-    <span class="indexChampionTableRowNoHover">
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+{::nomarkdown}
+<a href="krull.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
         <span class="indexChampionTableIcon">
             ![Krull Portrait Icon](images/krull/portrait.png)
         </span>
@@ -639,6 +501,9 @@ Events will have either one rework OR three rebalances.
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
     </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
     <span class="indexChampionTableRowNoHover">
         <span class="indexChampionTableIcon">
             ![Talin Uran Portrait Icon](images/talin/portrait.png)
