@@ -160,7 +160,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 348**Avatar of Lolth**One of the most accursed of the Spider Queen’s gifts is transformation into a drider.</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Avatar of Lolth Portrait](images/familiars/avataroflolth.png)<span class="featTooltipContents">ID: 348**Avatar of Lolth**One of the most accursed of the Spider Queen’s gifts is transformation into a drider.<img src="images/familiars/avataroflolth.webp" alt="Avatar of Lolth Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Avatar of Lolth
@@ -177,7 +177,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 349**Sage the Elemental Owl**Beware his icicle wingspan!</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Sage the Elemental Owl Portrait](images/familiars/sagetheelementalowl.png)<span class="featTooltipContents">ID: 349**Sage the Elemental Owl**Beware his icicle wingspan!<img src="images/familiars/sagetheelementalowl.webp" alt="Sage the Elemental Owl Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Sage the Elemental Owl

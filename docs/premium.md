@@ -840,7 +840,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 740**Ice Queen Minthara (Minthara)**</span></span>
+            <span class="tooltipHolder">![Ice Queen Minthara Skin Portrait](images/premiums/skin_740.png)<span class="itemTooltipContents">ID: 740**Ice Queen Minthara (Minthara)**<img src="images/premiums/skin_740.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1340,7 +1340,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 757**Regis Goblin Shaman Kllug (Regis)**</span></span>
+            <span class="tooltipHolder">![Regis Goblin Shaman Kllug Skin Portrait](images/premiums/skin_757.png)<span class="itemTooltipContents">ID: 757**Regis Goblin Shaman Kllug (Regis)**<img src="images/premiums/skin_757.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1402,7 +1402,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 348**Avatar of Lolth**One of the most accursed of the Spider Queen’s gifts is transformation into a drider.</span></span>
+            <span class="tooltipHolder">![Avatar of Lolth Familiar Portrait](images/premiums/familiar_348.png)<span class="itemTooltipContents">ID: 348**Avatar of Lolth**One of the most accursed of the Spider Queen’s gifts is transformation into a drider.<img src="images/premiums/familiar_348.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1687,7 +1687,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 349**Sage the Elemental Owl**Beware his icicle wingspan!</span></span>
+            <span class="tooltipHolder">![Sage the Elemental Owl Familiar Portrait](images/premiums/familiar_349.png)<span class="itemTooltipContents">ID: 349**Sage the Elemental Owl**Beware his icicle wingspan!<img src="images/premiums/familiar_349.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>

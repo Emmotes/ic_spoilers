@@ -315,7 +315,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 740**Ice Queen Minthara (Minthara)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Ice Queen Minthara Portrait](images/skin_portraits/icequeenminthara.png)<span class="featTooltipContents">ID: 740**Ice Queen Minthara (Minthara)**<img src="images/skin_models/icequeenminthara.webp" alt="Ice Queen Minthara Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Ice Queen Minthara
@@ -383,7 +383,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 757**Regis Goblin Shaman Kllug (Regis)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Regis Goblin Shaman Kllug Portrait](images/skin_portraits/regisgoblinshamankllug.png)<span class="featTooltipContents">ID: 757**Regis Goblin Shaman Kllug (Regis)**<img src="images/skin_models/regisgoblinshamankllug.webp" alt="Regis Goblin Shaman Kllug Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Regis Goblin Shaman Kllug
