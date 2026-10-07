@@ -47,6 +47,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Kitiara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Total Eclipse Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2801**Total Eclipse (Kitiara)**You are a woman still, Kitiara. You love... And you hurt. ~Lord Soth<br><br><span style="color:var(--Flavescent)">Increases the effect of Kitiara's Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,20602,20603,20604</code></span>Total Eclipse
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Kitiara's Specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">07 Oct 2026<br>07 Jan 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Krond</span>
         </span>
         <span class="featTableIcon4">
@@ -685,6 +702,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Kitiara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tainted Love Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2794**Tainted Love (Kitiara)**I - I loved her. All these years. I refused to see who she was. ~Tanis<br><br><span style="color:var(--Flavescent)">The Only Truth now keeps 35% of its stacks when changing areas.</span><code>change_upgrade_data,20599,0</code></span>Tainted Love
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">The Only Truth now keeps 35% of its stacks when changing areas.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Lucius</span>
         </span>
         <span class="featTableIcon4">
@@ -719,6 +753,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Kitiara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Maneater Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2796**Maneater (Kitiara)**He was my friend, too. I knew - the moment I killed him. ~Kitiara<br><br><span style="color:var(--Flavescent)">Changes the minimum stacks of Cruel Cunning to 3.</span><code>change_upgrade_data,20600,0</code></span>Maneater
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Changes the minimum stacks of Cruel Cunning to 3.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Caramon</span>
         </span>
         <span class="featTableIcon3">
@@ -726,6 +777,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the Constitution score of Caramon by 1.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Kitiara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Shadows of the Night Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2797**Shadows of the Night (Kitiara)**This - this creature serves you? ~Ariakas<br><br><span style="color:var(--Flavescent)">Changes the duration of Knight of the Black Rose to 20 seconds.</span><code>change_upgrade_data,20601,0</code></span>Shadows of the Night
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Changes the duration of Knight of the Black Rose to 20 seconds.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -770,6 +838,23 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Kitiara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Black Velvet Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2798**Black Velvet (Kitiara)**Let us say, we agree to serve each other. ~Kitiara<br><br><span style="color:var(--Flavescent)">Increases the number of power stacks gained from Knight of the Black Rose by 1 per second.</span><code>buff_upgrade_add,1,20601,0</code></span>Black Velvet
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the number of power stacks gained from Knight of the Black Rose by 1 per second.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Laurana</span>
         </span>
         <span class="featTableIcon4">
@@ -777,6 +862,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Enemies that attempt to attack this Champion will instead attack a different Champion, if possible.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Kitiara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![King of Pain Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2799**King of Pain (Kitiara)**He comes and goes as he chooses. It's his castle, after all. ~Kitiara<br><br><span style="color:var(--Flavescent)">Changes the amount of enrage stacks needed for Knight of the Black Rose to retrigger to multiples of 4.</span><code>change_upgrade_data,20601,0</code></span>King of Pain
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Changes the amount of enrage stacks needed for Knight of the Black Rose to retrigger to multiples of 4.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -845,6 +947,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Celeste gains the Hunter role and Undead become her favored foe. The effect of Crusader's Mantle is increased by 250% whenever any favored foe appears, stacking multiplicatively up to 10 times and resetting when changing areas. If at least 5 Champion(s) in the formation have the Hunter role, the range of Crusader's Mantle and Mass Cure Wounds are increased by 1. Additionally, if there are at least 10 Hunter Champion(s) in the formation, all enemies are considered Undead for the purposes of all Champions' Hunter mechanics.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Dark Urge</span>
+        </span>
+        <span class="featTableIcon5">
+            ![Astral-Touched Tadpole Icon](images/featicons/astraltouchedtadpole.png)<span class="featTooltipContents">ID: 2875**Astral-Touched Tadpole (Dark Urge)**Astral-Touched Tadpole (Durge)<br><br><span style="color:var(--Flavescent)">The Dark Urge adds up the total ability scores of himself and all the Champions adjacent to him. He increases the effect of The Urge by 100% ffor every 25 total ability score he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,3064</code></span>Astral-Touched Tadpole
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">The Dark Urge adds up the total ability scores of himself and all the Champions adjacent to him. He increases the effect of The Urge by 100% ffor every 25 total ability score he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>

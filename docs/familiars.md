@@ -143,7 +143,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 347**Tanis the Red-Pelted Fox**Tanis had to remind himself that even though squirrels taste as good as rabbits, he probably shouldn't eat squirrel Tasslehoff…</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Tanis the Red-Pelted Fox Portrait](images/familiars/tanistheredpeltedfox.png)<span class="featTooltipContents">ID: 347**Tanis the Red-Pelted Fox**Tanis had to remind himself that even though squirrels taste as good as rabbits, he probably shouldn't eat squirrel Tasslehoff…<img src="images/familiars/tanistheredpeltedfox.webp" alt="Tanis the Red-Pelted Fox Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Tanis the Red-Pelted Fox
@@ -190,6 +190,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             16 Dec 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 350**Puddles the Kapak Draconian**</span></span>
+        </span>
+        <span class="skinTableName">
+            Puddles the Kapak Draconian
+        </span>
+        <span class="skinTableSource">
+            None
+        </span>
+        <span class="skinTableCost">
+            Free?
+        </span>
+        <span class="skinTableDate">
+            ???
         </span>
     </span>
 </span>

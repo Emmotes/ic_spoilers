@@ -42,11 +42,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2801**Feat**???: 2801</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Total Eclipse Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2801**Total Eclipse**You are a woman still, Kitiara. You love... And you hurt. ~Lord Soth<br><br><span style="color:var(--Flavescent)">Increases the effect of Kitiara's Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,20602,20603,20604</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2801</span>
+            <span style="margin-left:15px">Total Eclipse</span>
+            <span style="margin-left:15px">Kitiara</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -189,6 +190,88 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum Astarion Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 798</div>
+### From the Vault: Cataclysmic Kas Skin Pack - 1,000 Platinum  
+Date of release: 09 Oct 2026
+
+> Available till the end of the event - From the Vault: Cataclysmic Kas
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Kas Champion Unlock Portrait](images/premiums/unlock_champion_153.png)<span class="itemTooltipContents">ID: 153**Kas (Seat 6)**<img src="images/premiums/unlock_champion_153.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Kas</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Cataclysmic Kas Skin Portrait](images/premiums/skin_566.png)<span class="itemTooltipContents">ID: 566**Cataclysmic Kas (Kas)**<img src="images/premiums/skin_566.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Cataclysmic Kas</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Kas Chest Chest Portrait](images/premiums/chests_577.png)<span class="itemTooltipContents">ID: 577**Platinum Kas Chest**Loot for: Kas<code>"for_crusaders":[153]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Kas Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 799</div>
+### From the Vault: Cranium Rat Avren Skin Pack - 1,000 Platinum  
+Date of release: 12 Oct 2026
+
+> Available till the end of the event - From the Vault: Cranium Rat Avren
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Avren Champion Unlock Portrait](images/premiums/unlock_champion_51.png)<span class="itemTooltipContents">ID: 51**Avren (Seat 11)**<img src="images/premiums/unlock_champion_51.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Avren</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Cranium Rat Avren Skin Portrait](images/premiums/skin_200.png)<span class="itemTooltipContents">ID: 200**Cranium Rat Avren (Avren)**<img src="images/premiums/skin_200.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Cranium Rat Avren</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Avren Chest Chest Portrait](images/premiums/chests_161.png)<span class="itemTooltipContents">ID: 161**Platinum Avren Chest**Loot for: Avren<code>"for_crusaders":[51]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Avren Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -400,6 +483,28 @@ Contents:
 </div></div>
 
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 800</div>
+### From the Vault: Jack the Pumpkin Sprout Familiar Pack - 1,000 Platinum  
+Date of release: 16 Oct 2026
+
+> Available till the end of the event - From the Vault: Jack the Pumpkin Sprout
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Jack the Pumpkin Sprout Familiar Portrait](images/premiums/familiar_193.png)<span class="itemTooltipContents">ID: 193**Jack the Pumpkin Sprout**Gourd to meet you!<img src="images/premiums/familiar_193.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Jack the Pumpkin Sprout</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 770</div>
 ### Aurum the Hoard Scarab Familiar Pack - 1,140 Platinum  
 Date of release: 21 Oct 2026
@@ -506,6 +611,47 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum Ezmerelda Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 801</div>
+### From the Vault: Headless Horseman Kent Skin Pack - 1,000 Platinum  
+Date of release: 22 Oct 2026
+
+> Available till the end of the event - From the Vault: Headless Horseman Kent
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Kent Champion Unlock Portrait](images/premiums/unlock_champion_114.png)<span class="itemTooltipContents">ID: 114**Kent (Seat 4)**<img src="images/premiums/unlock_champion_114.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Kent</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Headless Horseman Kent Skin Portrait](images/premiums/skin_475.png)<span class="itemTooltipContents">ID: 475**Headless Horseman Kent (Kent)**<img src="images/premiums/skin_475.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Headless Horseman Kent</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Kent Chest Chest Portrait](images/premiums/chests_430.png)<span class="itemTooltipContents">ID: 430**Platinum Kent Chest**Loot for: Kent<code>"for_crusaders":[114]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Kent Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -1199,16 +1345,16 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 1**Birthday Suit (Jarlaxle)**</span></span>
+            <span class="tooltipHolder">![Dragon Army Tanis Skin Portrait](images/premiums/skin_765.png)<span class="itemTooltipContents">ID: 765**Dragon Army Tanis (Tanis)**<img src="images/premiums/skin_765.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Birthday Suit</span>
+            <span style="margin-left:15px">Dragon Army Tanis</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 347**Tanis the Red-Pelted Fox**Tanis had to remind himself that even though squirrels taste as good as rabbits, he probably shouldn't eat squirrel Tasslehoff…</span></span>
+            <span class="tooltipHolder">![Tanis the Red-Pelted Fox Familiar Portrait](images/premiums/familiar_347.png)<span class="itemTooltipContents">ID: 347**Tanis the Red-Pelted Fox**Tanis had to remind himself that even though squirrels taste as good as rabbits, he probably shouldn't eat squirrel Tasslehoff…<img src="images/premiums/familiar_347.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
@@ -1217,21 +1363,20 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2879**Feat**???: 2879</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor</span>
+            <span style="margin-left:15px">???: 2879</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Kitiara Chest Chest Portrait](images/premiums/chests_842.png)<span class="itemTooltipContents">ID: 842**Platinum Kitiara Chest**Loot for: Kitiara<code>"for_crusaders":[180]</code></span></span>
+            <span class="tooltipHolder">![Unknown Chest Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 851**Platinum Tanis Chest**Loot for: Tanis<code>"for_crusaders":[182]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Kitiara Chest</span>
+            <span style="margin-left:15px">Platinum Tanis Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
@@ -1625,7 +1770,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 759**Feywild Fairytale Yorven (Yorven)**</span></span>
+            <span class="tooltipHolder">![Feywild Fairytale Yorven Skin Portrait](images/premiums/skin_759.png)<span class="itemTooltipContents">ID: 759**Feywild Fairytale Yorven (Yorven)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_759.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_759-shadow_mastiff.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

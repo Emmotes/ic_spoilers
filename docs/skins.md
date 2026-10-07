@@ -366,6 +366,23 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Dragon Army Tanis Portrait](images/skin_portraits/dragonarmytanis.png)<span class="featTooltipContents">ID: 765**Dragon Army Tanis (Tanis)**<img src="images/skin_models/dragonarmytanis.webp" alt="Dragon Army Tanis Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Dragon Army Tanis
+        </span>
+        <span class="skinTableSource">
+            Dragon Army Tanis Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            02 Dec 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 756**Gladiator Krull (Krull)**</span></span>
         </span>
         <span class="skinTableName">
@@ -434,7 +451,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 759**Feywild Fairytale Yorven (Yorven)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Feywild Fairytale Yorven Portrait](images/skin_portraits/feywildfairytaleyorven.png)<span class="featTooltipContents">ID: 759**Feywild Fairytale Yorven (Yorven)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/feywildfairytaleyorven.webp" alt="Feywild Fairytale Yorven Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/feywildfairytaleyorven-shadow_mastiff.webp" alt="Feywild Fairytale Yorven Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Feywild Fairytale Yorven
