@@ -72,7 +72,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     ],
     "requirements": "",
     "graphic_id": 21198,
-    "large_graphic_id": 0,
+    "large_graphic_id": 21198,
     "properties": {
         "is_formation_ability": true,
         "show_owner_incoming": true
@@ -142,7 +142,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     ],
     "requirements": "",
     "graphic_id": 21196,
-    "large_graphic_id": 0,
+    "large_graphic_id": 21196,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
@@ -184,7 +184,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     ],
     "requirements": "",
     "graphic_id": 21195,
-    "large_graphic_id": 0,
+    "large_graphic_id": 21195,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true
