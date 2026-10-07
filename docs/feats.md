@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Astarion</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Immortal Chains Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2771**Immortal Chains (Astarion)**I may never be free of this. I may as well learn to live with it. Forever.<br><br><span style="color:var(--Flavescent)">Increases the effect of Astarion's Outflank (Top) and Outflank (Bottom) by 80%.</span><code>buff_upgrades,80,12493,12494</code></span>Immortal Chains
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Astarion's Outflank (Top) and Outflank (Bottom) by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">07 Oct 2026<br>07 Jan 2027</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Kitiara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Total Eclipse Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2801**Total Eclipse (Kitiara)**You are a woman still, Kitiara. You love... And you hurt. ~Lord Soth<br><br><span style="color:var(--Flavescent)">Increases the effect of Kitiara's Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,20602,20603,20604</code></span>Total Eclipse
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Kitiara's Specializations by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">07 Oct 2026<br>07 Jan 2027</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Krond</span>
         </span>
         <span class="featTableIcon4">

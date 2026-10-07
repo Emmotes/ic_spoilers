@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Freeblade Kitiara Portrait](images/skin_portraits/freebladekitiara.png)<span class="featTooltipContents">ID: 734**Freeblade Kitiara (Kitiara)**<img src="images/skin_models/freebladekitiara.webp" alt="Freeblade Kitiara Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Freeblade Kitiara
-        </span>
-        <span class="skinTableSource">
-            Freeblade Kitiara Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            07 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Vampire Spawn Astarion Portrait](images/skin_portraits/vampirespawnastarion.png)<span class="featTooltipContents">ID: 731**Vampire Spawn Astarion (Astarion)**<img src="images/skin_models/vampirespawnastarion.webp" alt="Vampire Spawn Astarion Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Vampire Spawn Astarion
-        </span>
-        <span class="skinTableSource">
-            Vampire Spawn Astarion Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            07 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Headless Cavalier Thellora Portrait](images/skin_portraits/headlesscavalierthellora.png)<span class="featTooltipContents">ID: 732**Headless Cavalier Thellora (Thellora)**<img src="images/skin_models/headlesscavalierthellora.webp" alt="Headless Cavalier Thellora Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

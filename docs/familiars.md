@@ -7,40 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Scout the Cooper's Hawk Portrait](images/familiars/scoutthecoopershawk.png)<span class="featTooltipContents">ID: 338**Scout the Cooper's Hawk**This agile hunter awaits her master's signal. Only then can she strike.<img src="images/familiars/scoutthecoopershawk.webp" alt="Scout the Cooper's Hawk Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Scout the Cooper's Hawk
-        </span>
-        <span class="skinTableSource">
-            Freeblade Kitiara Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            07 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Slash the Chwinga Portrait](images/familiars/slashthechwinga.png)<span class="featTooltipContents">ID: 339**Slash the Chwinga**Fear comes in fun size.<img src="images/familiars/slashthechwinga.webp" alt="Slash the Chwinga Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Slash the Chwinga
-        </span>
-        <span class="skinTableSource">
-            Slash the Chwinga Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            840p
-        </span>
-        <span class="skinTableDate">
-            07 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Gourd the Bat Portrait](images/familiars/gourdthebat.png)<span class="featTooltipContents">ID: 340**Gourd the Bat**The only thing scarier than the pumpkin is what's inside!<img src="images/familiars/gourdthebat.webp" alt="Gourd the Bat Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
