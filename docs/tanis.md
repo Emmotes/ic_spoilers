@@ -438,6 +438,118 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**War Hero** (Guess)
+> Tanis adds 1 stack to all stacking abilities naturally from Champions with the Heroes of the Lance affiliation. His Two Worlds specialization is increased by 100% for each ability affected.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 3037,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tanis adds 1 stack to all stacking abilities naturally from Champions with the Heroes of the Lance affiliation. His Two Worlds specialization is increased by $(not_buffed amount___2)% for each ability affected."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "add_stack_count_for_heroes_by_tag,heroeslance",
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "buff_upgrades,100,21568,21569,21570",
+            "off_when_benched": true,
+            "stacks_multiply": true,
+            "show_bonus": true,
+            "stacks_on_trigger": "will_stack_manually",
+            "stack_title": "Extra Stacks Added",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "stacks_changed"
+            ]
+        },
+        {
+            "effect_string": "tanis_war_hero_handler",
+            "buff_effect_index": 1,
+            "tag": "heroeslance"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "owner_use_outgoing_description": true,
+        "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Tactical Positioning** (Guess)
+> Tanis duplicates any positional formation abilities that are affecting him to the Champions with the DPS role that are nearest to him in the formation. If a receiving Champion is already getting the buff, they do not get another copy. His Two Worlds specialization is increased by 100% for each positional ability affecting him, and he doesn't count against the number of champions targeted for the purposes of Raistlin's Savant ability.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 3038,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tanis duplicates any positional formation abilities that are affecting him to the Champions with the DPS role that are nearest to him in the formation. If a receiving Champion is already getting the buff, they do not get another copy. His Two Worlds specialization is increased by 100% for each positional ability affecting him, and he doesn't count against the number of champions targeted for the purposes of Raistlin's Savant ability."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "tanis_tactical_positioning_target",
+            "targets": [
+                "nearest_dps_hero"
+            ],
+            "filter_targets": [
+                {
+                    "type": "by_tags",
+                    "tags": "dps"
+                }
+            ],
+            "override_effect_key_desc": "Tanis redirects abilities that target him to $target."
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "tanis_tactical_positioning",
+            "effect_scale_title": "Duplicated",
+            "effect_scale_description": "Duplicated by"
+        },
+        {
+            "effect_string": "buff_upgrades,100,21568,21569,21570,0",
+            "off_when_benched": true,
+            "stacks_multiply": true,
+            "stack_func": "per_positional_formation_ability",
+            "show_bonus": true,
+            "stack_title": "Positional Formation Abilities",
+            "amount_updated_listeners": [
+                "slot_changed",
+                "positional_formation_ability_changed"
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "retain_on_slot_changed": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Tactical Positioning** (Guess)
 > Unknown effect.
 <details><summary><em>Raw Data</em></summary>
