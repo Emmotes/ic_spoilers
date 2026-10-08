@@ -62,7 +62,7 @@ These are the new event champions that are upcoming and all the information we k
                 Tanthalas Half-Elven
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Half-Elf Fighter (Guess)</span>
+                <span class="indexChampionTableNoLink">Half-Elf Fighter of Heroes of the Lance (Guess)</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Simril - 2 December 2026</span>
@@ -388,7 +388,7 @@ Events will have either one rework OR three rebalances.
                 Tanthalas Half-Elven
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">Half-Elf Fighter (Guess)</span>
+                <span class="indexChampionTableNoLink">Half-Elf Fighter of Heroes of the Lance (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">

@@ -43,7 +43,7 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
   <span>**Alignment**:</span>
   <span>Unknown</span>
   <span>**Affiliation**:</span>
-  <span>Unknown</span>
+  <span>Heroes of the Lance (Guess)</span>
 </span>
 
 # Formation
