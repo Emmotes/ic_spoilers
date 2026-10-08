@@ -148,7 +148,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "skip_effect_key_desc": true
         },
         {
-            "effect_string": "buff_upgrades___OFF,500,21593,21594",
+            "effect_string": "buff_upgrades,500,21593,21594",
             "amount_expr": "upgrade_amount(21591,0)",
             "off_when_benched": true,
             "max_stacks": 20,
@@ -224,7 +224,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Guided Strike** (Guess)
-> Regis increases her crit chance by 5% for each adjacent Champion.
+> Regis increases his crit chance by 5% for each adjacent Champion.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -232,7 +232,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3065,
     "flavour_text": "",
     "description": {
-        "desc": "Regis increases her crit chance by $(not_buffed amount)% for each adjacent Champion"
+        "desc": "Regis increases his crit chance by $(not_buffed amount)% for each adjacent Champion"
     },
     "effect_keys": [
         {
