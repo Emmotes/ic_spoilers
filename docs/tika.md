@@ -11,73 +11,25 @@
 
 # Basic Information
 
-Tika Waylan will be a new champion - potentially in the Liars' Night event on 7 October 2026.
+Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
 
-<span class="champStatsTableColumn">
-    <span class="champStatsTableRow">
-        <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Seat**:</span>
-        </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
-        </span>
-    </span>
-    <span class="champStatsTableRow">
-        <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Species**:</span>
-        </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Human (Guess)</span>
-        </span>
-    </span>
-    <span class="champStatsTableRow">
-        <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Class**:</span>
-        </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
-        </span>
-    </span>
-    <span class="champStatsTableRow">
-        <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Roles**:</span>
-        </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
-        </span>
-    </span>
-    <span class="champStatsTableRow">
-        <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Age**:</span>
-        </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
-        </span>
-    </span>
-    <span class="champStatsTableRow">
-        <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Gender**:</span>
-        </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Female (Guess)</span>
-        </span>
-    </span>
-    <span class="champStatsTableRow">
-        <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Alignment**:</span>
-        </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Unknown</span>
-        </span>
-    </span>
-    <span class="champStatsTableRow">
-        <span class="champStatsTableInfoHeader">
-            <span style="margin-right:4px;">**Affiliation**:</span>
-        </span>
-        <span class="champStatsTableInfoSmall">
-            <span style="margin-left:8px;">Heroes of the Lance (Guess)</span>
-        </span>
-    </span>
+<span class="champStatsTableGridSmall">
+  <span>**Seat**:</span>
+  <span>Unknown</span>
+  <span>**Species**:</span>
+  <span>Human (Guess)</span>
+  <span>**Class**:</span>
+  <span>Unknown</span>
+  <span>**Roles**:</span>
+  <span>Unknown</span>
+  <span>**Age**:</span>
+  <span>Unknown</span>
+  <span>**Gender**:</span>
+  <span>Female (Guess)</span>
+  <span>**Alignment**:</span>
+  <span>Unknown</span>
+  <span>**Affiliation**:</span>
+  <span>Heroes of the Lance (Guess)</span>
 </span>
 
 # Formation
@@ -117,12 +69,15 @@ Unknown.
 
 Unknown.
 
-{% comment %}
 # Other Champion Images
 
 <span class="championImagesColumn">
+    <span class="championImagesRow">
+        <span class="championImagesPortrait">
+            ![Tika Waylan Console Portrait](images/tika/console.png)Console Portrait
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 [Back to Top](#top)
 
