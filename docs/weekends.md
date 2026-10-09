@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/845.png">
-            <span class="weekendTooltipContents">ID: 845**Gold Distinguished Chest**Loot for: Bruenor, Tyril, Caramon, Laurana and Kitiara<code>"for_crusaders":[1,10,179,175,180]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Renown**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    09 October 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Kitiara
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/bruenor.png')">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 1**Bruenor Battlehammer**Increases the effect of Bruenor's Rally ability by 200%.<code>buff_upgrade,200,4</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/tyril.png')">
-                        <span class="weekendTableChampionNameplate">Tyril</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 10**Tyril Tallguy**Increases the effect of Tyril's Moonbeam and Wild Inspiration by 200%.<code>buff_upgrades,200,145,344</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/caramon.png')">
-                        <span class="weekendTableChampionNameplate">Caramon</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 179**Caramon Majere**Increases the effect of Caramon's Raise Spirits: Encirclement, Raise Spirits: Overwatch and Raise Spirits: Spearhead by 200%.<code>buff_upgrades,200,20177,20178,20179</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/laurana.png')">
-                        <span class="weekendTableChampionNameplate">Laurana</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 175**Lauralanthalasa Kanan**Increases the effect of Laurana's Battle Plan: Charge, Battle Plan: Fortify and Battle Plan: Outflank by 200%.<code>buff_upgrades,200,19354,19356,19355</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/kitiara.png')">
-                        <span class="weekendTableChampionNameplate">Kitiara</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 180**Kitiara Uth Matar**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/846.png">
             <span class="weekendTooltipContents">ID: 846**Gold Tentacled Chest**Loot for: Nayeli, Celeste, Prudence, Corazón and Dob<code>"for_crusaders":[3,2,84,85,105]</code></span>
         </span>
