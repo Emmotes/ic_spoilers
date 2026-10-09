@@ -69,7 +69,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ???
         </span>
         <span class="skinTableCost">
-            ???
+            Patron Shop?
         </span>
         <span class="skinTableDate">
             28 Oct 2026
@@ -86,7 +86,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ???
         </span>
         <span class="skinTableCost">
-            ???
+            Patron Shop?
         </span>
         <span class="skinTableDate">
             28 Oct 2026
@@ -103,7 +103,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ???
         </span>
         <span class="skinTableCost">
-            ???
+            Patron Shop?
         </span>
         <span class="skinTableDate">
             28 Oct 2026
@@ -120,7 +120,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ???
         </span>
         <span class="skinTableCost">
-            ???
+            Patron Shop?
         </span>
         <span class="skinTableDate">
             28 Oct 2026
@@ -137,7 +137,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ???
         </span>
         <span class="skinTableCost">
-            ???
+            Patron Shop?
         </span>
         <span class="skinTableDate">
             28 Oct 2026
@@ -154,7 +154,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ???
         </span>
         <span class="skinTableCost">
-            ???
+            Patron Shop?
         </span>
         <span class="skinTableDate">
             28 Oct 2026
@@ -171,7 +171,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ???
         </span>
         <span class="skinTableCost">
-            ???
+            Patron Shop?
         </span>
         <span class="skinTableDate">
             28 Oct 2026
@@ -188,7 +188,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ???
         </span>
         <span class="skinTableCost">
-            ???
+            Patron Shop?
         </span>
         <span class="skinTableDate">
             28 Oct 2026
@@ -205,7 +205,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ???
         </span>
         <span class="skinTableCost">
-            ???
+            Patron Shop?
         </span>
         <span class="skinTableDate">
             28 Oct 2026
@@ -222,7 +222,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             ???
         </span>
         <span class="skinTableCost">
-            ???
+            Patron Shop?
         </span>
         <span class="skinTableDate">
             28 Oct 2026
