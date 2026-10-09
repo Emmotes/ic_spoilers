@@ -60,16 +60,16 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Celeste (Elminster) Portrait](images/skin_portraits/chromaticcelesteelminster.png)<span class="featTooltipContents">ID: 748**Chromatic Celeste (Elminster) (Celeste)**<img src="images/skin_models/chromaticcelesteelminster.webp" alt="Chromatic Celeste (Elminster) Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Celeste Portrait](images/skin_portraits/chromaticceleste.png)<span class="featTooltipContents">ID: 754**Chromatic Celeste (Celeste)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/chromaticceleste-1-mirt.webp" alt="Chromatic Celeste Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticceleste-2-vajra.webp" alt="Chromatic Celeste Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticceleste-3-strahd.webp" alt="Chromatic Celeste Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticceleste-4-zariel.webp" alt="Chromatic Celeste Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticceleste-5-elminster.webp" alt="Chromatic Celeste Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
-            Chromatic Celeste (Elminster)
+            Chromatic Celeste
         </span>
         <span class="skinTableSource">
-            ???
+            Patron Shop (Mastery Medallions)?
         </span>
         <span class="skinTableCost">
-            Patron Shop?
+            10,000?
         </span>
         <span class="skinTableDate">
             28 Oct 2026
@@ -77,152 +77,16 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Celeste (Mirt) Portrait](images/skin_portraits/chromaticcelestemirt.png)<span class="featTooltipContents">ID: 744**Chromatic Celeste (Mirt) (Celeste)**<img src="images/skin_models/chromaticcelestemirt.webp" alt="Chromatic Celeste (Mirt) Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Strongheart Portrait](images/skin_portraits/chromaticstrongheart.png)<span class="featTooltipContents">ID: 755**Chromatic Strongheart (Strongheart)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/chromaticstrongheart-1-mirt.webp" alt="Chromatic Strongheart Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticstrongheart-2-vajra.webp" alt="Chromatic Strongheart Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticstrongheart-3-strahd.webp" alt="Chromatic Strongheart Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticstrongheart-4-zariel.webp" alt="Chromatic Strongheart Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticstrongheart-5-elminster.webp" alt="Chromatic Strongheart Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
-            Chromatic Celeste (Mirt)
+            Chromatic Strongheart
         </span>
         <span class="skinTableSource">
-            ???
+            Patron Shop (Mastery Medallions)?
         </span>
         <span class="skinTableCost">
-            Patron Shop?
-        </span>
-        <span class="skinTableDate">
-            28 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Celeste (Strahd) Portrait](images/skin_portraits/chromaticcelestestrahd.png)<span class="featTooltipContents">ID: 746**Chromatic Celeste (Strahd) (Celeste)**<img src="images/skin_models/chromaticcelestestrahd.webp" alt="Chromatic Celeste (Strahd) Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Chromatic Celeste (Strahd)
-        </span>
-        <span class="skinTableSource">
-            ???
-        </span>
-        <span class="skinTableCost">
-            Patron Shop?
-        </span>
-        <span class="skinTableDate">
-            28 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Celeste (Vajra) Portrait](images/skin_portraits/chromaticcelestevajra.png)<span class="featTooltipContents">ID: 745**Chromatic Celeste (Vajra) (Celeste)**<img src="images/skin_models/chromaticcelestevajra.webp" alt="Chromatic Celeste (Vajra) Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Chromatic Celeste (Vajra)
-        </span>
-        <span class="skinTableSource">
-            ???
-        </span>
-        <span class="skinTableCost">
-            Patron Shop?
-        </span>
-        <span class="skinTableDate">
-            28 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Celeste (Zariel) Portrait](images/skin_portraits/chromaticcelestezariel.png)<span class="featTooltipContents">ID: 747**Chromatic Celeste (Zariel) (Celeste)**<img src="images/skin_models/chromaticcelestezariel.webp" alt="Chromatic Celeste (Zariel) Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Chromatic Celeste (Zariel)
-        </span>
-        <span class="skinTableSource">
-            ???
-        </span>
-        <span class="skinTableCost">
-            Patron Shop?
-        </span>
-        <span class="skinTableDate">
-            28 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Strongheart (Elminster) Portrait](images/skin_portraits/chromaticstrongheartelminster.png)<span class="featTooltipContents">ID: 753**Chromatic Strongheart (Elminster) (Strongheart)**<img src="images/skin_models/chromaticstrongheartelminster.webp" alt="Chromatic Strongheart (Elminster) Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Chromatic Strongheart (Elminster)
-        </span>
-        <span class="skinTableSource">
-            ???
-        </span>
-        <span class="skinTableCost">
-            Patron Shop?
-        </span>
-        <span class="skinTableDate">
-            28 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Strongheart (Mirt) Portrait](images/skin_portraits/chromaticstrongheartmirt.png)<span class="featTooltipContents">ID: 749**Chromatic Strongheart (Mirt) (Strongheart)**<img src="images/skin_models/chromaticstrongheartmirt.webp" alt="Chromatic Strongheart (Mirt) Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Chromatic Strongheart (Mirt)
-        </span>
-        <span class="skinTableSource">
-            ???
-        </span>
-        <span class="skinTableCost">
-            Patron Shop?
-        </span>
-        <span class="skinTableDate">
-            28 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Strongheart (Strahd) Portrait](images/skin_portraits/chromaticstrongheartstrahd.png)<span class="featTooltipContents">ID: 751**Chromatic Strongheart (Strahd) (Strongheart)**<img src="images/skin_models/chromaticstrongheartstrahd.webp" alt="Chromatic Strongheart (Strahd) Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Chromatic Strongheart (Strahd)
-        </span>
-        <span class="skinTableSource">
-            ???
-        </span>
-        <span class="skinTableCost">
-            Patron Shop?
-        </span>
-        <span class="skinTableDate">
-            28 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Strongheart (Vajra) Portrait](images/skin_portraits/chromaticstrongheartvajra.png)<span class="featTooltipContents">ID: 750**Chromatic Strongheart (Vajra) (Strongheart)**<img src="images/skin_models/chromaticstrongheartvajra.webp" alt="Chromatic Strongheart (Vajra) Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Chromatic Strongheart (Vajra)
-        </span>
-        <span class="skinTableSource">
-            ???
-        </span>
-        <span class="skinTableCost">
-            Patron Shop?
-        </span>
-        <span class="skinTableDate">
-            28 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Strongheart (Zariel) Portrait](images/skin_portraits/chromaticstrongheartzariel.png)<span class="featTooltipContents">ID: 752**Chromatic Strongheart (Zariel) (Strongheart)**<img src="images/skin_models/chromaticstrongheartzariel.webp" alt="Chromatic Strongheart (Zariel) Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Chromatic Strongheart (Zariel)
-        </span>
-        <span class="skinTableSource">
-            ???
-        </span>
-        <span class="skinTableCost">
-            Patron Shop?
+            10,000?
         </span>
         <span class="skinTableDate">
             28 Oct 2026
