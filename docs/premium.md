@@ -4,47 +4,6 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 798</div>
-### From the Vault: Cataclysmic Kas Skin Pack - 1,000 Platinum  
-Date of release: 09 Oct 2026
-
-> Available till the end of the event - From the Vault: Cataclysmic Kas
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Kas Champion Unlock Portrait](images/premiums/unlock_champion_153.png)<span class="itemTooltipContents">ID: 153**Kas (Seat 6)**<img src="images/premiums/unlock_champion_153.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Kas</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Cataclysmic Kas Skin Portrait](images/premiums/skin_566.png)<span class="itemTooltipContents">ID: 566**Cataclysmic Kas (Kas)**<img src="images/premiums/skin_566.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Cataclysmic Kas</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Kas Chest Chest Portrait](images/premiums/chests_577.png)<span class="itemTooltipContents">ID: 577**Platinum Kas Chest**Loot for: Kas<code>"for_crusaders":[153]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Kas Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 799</div>
 ### From the Vault: Cranium Rat Avren Skin Pack - 1,000 Platinum  
 Date of release: 12 Oct 2026
