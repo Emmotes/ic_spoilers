@@ -4,47 +4,6 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 799</div>
-### From the Vault: Cranium Rat Avren Skin Pack - 1,000 Platinum  
-Date of release: 12 Oct 2026
-
-> Available till the end of the event - From the Vault: Cranium Rat Avren
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Avren Champion Unlock Portrait](images/premiums/unlock_champion_51.png)<span class="itemTooltipContents">ID: 51**Avren (Seat 11)**<img src="images/premiums/unlock_champion_51.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Avren</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Cranium Rat Avren Skin Portrait](images/premiums/skin_200.png)<span class="itemTooltipContents">ID: 200**Cranium Rat Avren (Avren)**<img src="images/premiums/skin_200.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Cranium Rat Avren</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Avren Chest Chest Portrait](images/premiums/chests_161.png)<span class="itemTooltipContents">ID: 161**Platinum Avren Chest**Loot for: Avren<code>"for_crusaders":[51]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Avren Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 768</div>
 ### Gourd the Bat Familiar Pack - 1,680 Platinum  
 Date of release: 14 Oct 2026
