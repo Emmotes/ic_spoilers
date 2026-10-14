@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Gourd the Bat Portrait](images/familiars/gourdthebat.png)<span class="featTooltipContents">ID: 340**Gourd the Bat**The only thing scarier than the pumpkin is what's inside!<img src="images/familiars/gourdthebat.webp" alt="Gourd the Bat Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Gourd the Bat
-        </span>
-        <span class="skinTableSource">
-            Gourd the Bat Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            14 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Aurum the Hoard Scarab Portrait](images/familiars/aurumthehoardscarab.png)<span class="featTooltipContents">ID: 341**Aurum the Hoard Scarab**Thieves beware! These beetle-like creatures blend in perfectly among piles of gold coins.<img src="images/familiars/aurumthehoardscarab.webp" alt="Aurum the Hoard Scarab Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -160,7 +143,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 350**Puddles the Kapak Draconian**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 350**Puddles the Kapak Draconian**Beware the dripping maw!</span></span>
         </span>
         <span class="skinTableName">
             Puddles the Kapak Draconian

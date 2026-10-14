@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Headless Cavalier Thellora Portrait](images/skin_portraits/headlesscavalierthellora.png)<span class="featTooltipContents">ID: 732**Headless Cavalier Thellora (Thellora)**<img src="images/skin_models/headlesscavalierthellora.webp" alt="Headless Cavalier Thellora Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Headless Cavalier Thellora
-        </span>
-        <span class="skinTableSource">
-            Headless Cavalier Thellora Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            14 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Mummy Krond Portrait](images/skin_portraits/mummykrond.png)<span class="featTooltipContents">ID: 737**Mummy Krond (Krond)**<img src="images/skin_models/mummykrond.webp" alt="Mummy Krond Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Mummy Krond
-        </span>
-        <span class="skinTableSource">
-            Mummy Krond Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            14 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Forsaken Bride Ezmerelda Portrait](images/skin_portraits/forsakenbrideezmerelda.png)<span class="featTooltipContents">ID: 733**Forsaken Bride Ezmerelda (Ezmerelda)**<img src="images/skin_models/forsakenbrideezmerelda.webp" alt="Forsaken Bride Ezmerelda Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
