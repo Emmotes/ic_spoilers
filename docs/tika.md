@@ -47,11 +47,232 @@ Unknown.
 
 # Abilities
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Adaptive Training** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 31703,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Formation_Tika_AdaptiveTraining",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Order Up** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 31704,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Formation_Tika_OrderUp",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Spirited Defiance** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 31705,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Formation_Tika_SpiritedDefiance",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Specialisations
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Excellent Service** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 31708,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Specialization_Tika_ExcellentService",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Fast Food** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 31709,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Specialization_Tika_FastFood",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Home Cooking** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 31711,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Specialization_Tika_HomeCooking",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Hearty Heroes** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 31710,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Specialization_Tika_HeartyHeroes",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Hometown Heroes** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 31712,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Specialization_Tika_HometownHeroes",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Humble Heroes** (Guess)
+> Unknown effect.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 31713,
+    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Specialization_Tika_HumbleHeroes",
+    "v": 2,
+    "fs": 0,
+    "p": 0,
+    "type": 1,
+    "export_params": {
+        "uses": [
+            "icon"
+        ],
+        "quantize": true
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
 
 # Items
 
@@ -75,6 +296,14 @@ Unknown.
     <span class="championImagesRow">
         <span class="championImagesPortrait">
             ![Tika Waylan Console Portrait](images/tika/console.png)Console Portrait
+        </span>
+    </span>
+    <span class="championImagesRow">
+        <span class="championImagesChests">
+            ![Tika Waylan Gold Chest Icon](images/tika/chest_gold.png)Gold Chest Icon
+        </span>
+        <span class="championImagesChests">
+            ![Tika Waylan Silver Chest Icon](images/tika/chest_silver.png)Silver Chest Icon
         </span>
     </span>
 </span>
