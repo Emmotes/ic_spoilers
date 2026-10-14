@@ -322,6 +322,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">07 Jan 2027</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Krond</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Cantrip: Ascendant Fire Bolt Icon](images/featicons/krondfirebolt.png)<span class="featTooltipContents">ID: 2219**Cantrip: Ascendant Fire Bolt (Krond)**An ancient red dragon was among my finest masters. I slew her and took her flame for my own.<br><br><span style="color:var(--Flavescent)">Krond's base attacks shoot out 5 fire bolts, each dealing 300% of its base damage to up to five other random enemies.</span><code>krond_fire_bolt,300,5<br>change_base_attack,865</code></span>Cantrip: Ascendant Fire Bolt
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Krond's base attacks shoot out 5 fire bolts, each dealing 300% of its base damage to up to five other random enemies.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">14 Jan 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Thellora</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Callessa's Champion Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2772**Callessa's Champion (Thellora)**We WILL win this day! We shall NOT fail her!<br><br><span style="color:var(--Flavescent)">Increases the effect of Thellora's Paladin's Resolve ability by 80%.</span><code>buff_upgrade,80,12980</code></span>Callessa's Champion
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Thellora's Paladin's Resolve ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">14 Jan 2027</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
