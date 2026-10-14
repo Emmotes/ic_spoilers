@@ -27,7 +27,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Spot Weakness** (Guess)
-> Talin increases the damage of all Champions by 400%. This ability is increased by 400% for each enemy killed in the current area, stacking multiplicatively and capping at 400 kills.
+> Talin increases the damage of all Champions by 400%. This ability is increased by 50% for each enemy killed in the current area, stacking multiplicatively and capping at 25 kills.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -35,25 +35,22 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3074,
     "flavour_text": "",
     "description": {
-        "pre": "Talin increases the damage of all Champions by $(amount)%. This ability is increased by $(amount_per_stack)% for each enemy killed in the current area, stacking multiplicatively and capping at $(talin_weakness_max_stacks) kills.",
-        "post": {
-            "conditions": [
-                {
-                    "condition": "not static_desc",
-                    "desc": "^^Current Stacks: $(talin_weakness_current_stacks)^Damage Bonus Amount: $(talin_weakness_total_bonus)%"
-                }
-            ]
-        }
+        "desc": "Talin increases the damage of all Champions by $(amount)%. This ability is increased by $(amount___2)% for each enemy killed in the current area, stacking multiplicatively and capping at $(max_stacks___2) kills."
     },
     "effect_keys": [
         {
-            "effect_string": "hero_dps_multiplier_Increase,400",
-            "off_when_benched": true
+            "effect_string": "hero_dps_multiplier_mult,400",
+            "off_when_benched": true,
+            "targets": [
+                "all"
+            ],
+            "desc_forced_order": 1
         },
         {
-            "effect_string": "buff_upgrade,100,21606",
+            "effect_string": "buff_upgrade,50,21606,0",
             "off_when_benched": true,
             "stacks_on_trigger": "monster_killed",
+            "stacks_multiply": true,
             "max_stacks": 25,
             "more_triggers": [
                 {
@@ -62,7 +59,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                         "type": "reset_timer"
                     }
                 }
-            ]
+            ],
+            "amount_updated_listeners": [
+                "hero_tags_changed",
+                "slot_changed"
+            ],
+            "desc_forced_order": 0,
+            "show_bonus": true
         }
     ],
     "requirements": "",
@@ -73,7 +76,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -83,7 +86,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Scatter Tacks** (Guess)
-> When Talin attacks with Quiet Ambush he leaves behind a set of Scatter Tacks which cause enemies standing on them to be slowed by 50% and take 100% more damage from attacks. Each set of tacks lasts for 100 seconds before disappearing, and the effects stack multiplicatively if an enemy is in multiple sets at the same time.
+> When Talin attacks with Quiet Ambush he leaves behind a set of Scatter Tacks which cause enemies standing on them to be slowed by 50% and take 100% more damage from attacks. Each set of tacks lasts for 30 seconds before disappearing, and the effects stack multiplicatively if an enemy is in multiple sets at the same time. Tacks are spread in a medium radius.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -93,11 +96,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "description": {
         "conditions": [
             {
-                "condition": "upgrade_purchased 4766",
-                "desc": "When Talin attacks with Quiet Ambush he leaves behind a set of Scatter Tacks which cause enemies standing on them to be slowed by 75% and take $(amount)% more damage from attacks. Each set of tacks lasts for $duration seconds before disappearing, and the effects stack multiplicatively if an enemy is in multiple sets at the same time"
+                "condition": "upgrade_purchased 21610",
+                "desc": "When Talin attacks with Quiet Ambush he leaves behind a set of Scatter Tacks which cause enemies standing on them to be slowed by 75% and take $(amount)% more damage from attacks. Each set of tacks lasts for $duration seconds before disappearing, and the effects stack multiplicatively if an enemy is in multiple sets at the same time. Tacks are spread in a medium radius. "
             },
             {
-                "desc": "When Talin attacks with Quiet Ambush he leaves behind a set of Scatter Tacks which cause enemies standing on them to be slowed by 50% and take $(amount)% more damage from attacks. Each set of tacks lasts for $duration seconds before disappearing, and the effects stack multiplicatively if an enemy is in multiple sets at the same time"
+                "desc": "When Talin attacks with Quiet Ambush he leaves behind a set of Scatter Tacks which cause enemies standing on them to be slowed by 50% and take $(amount)% more damage from attacks. Each set of tacks lasts for $duration seconds before disappearing, and the effects stack multiplicatively if an enemy is in multiple sets at the same time. Tacks are spread in a medium radius. "
             }
         ]
     },
@@ -105,10 +108,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "effect_string": "add_monster_hit_effects,100",
             "off_when_benched": true,
-            "amount_expr": "upgrade_amount(21607,0)",
             "optional_attack_ids": [
                 353
             ],
+            "duration": 30,
             "with_all_buff_effects": true,
             "monster_effect": {
                 "effect_string": "ground_effect_area,$amount",
@@ -158,7 +161,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3076,
     "flavour_text": "",
     "description": {
-        "desc": "Talin increases the damage of Good Champions by 100% for each Evil Champion in the formation, and increases the damage of Evil Champions by 100% for each Good Champion in the formation. Both effects stack multiplicatively."
+        "desc": "Talin increases the damage of Good Champions by $amount% for each Evil Champion in the formation, and increases the damage of Evil Champions by $amount% for each Good Champion in the formation. Both effects stack multiplicatively."
     },
     "effect_keys": [
         {
@@ -166,7 +169,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "skip_effect_key_desc": true
         },
         {
-            "effect_string": "hero_dps_multiplier_increase,0",
+            "effect_string": "hero_dps_multiplier_mult,0",
             "off_when_benched": true,
             "amount_expr": "upgrade_amount(21608,0)",
             "amount_func": "mult",
@@ -185,12 +188,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "hero_tags_changed",
                 "slot_changed"
             ],
+            "use_computed_amount_for_description": true,
             "stack_title": "Evil Champions",
             "total_title": "Good Champion Buff",
             "show_bonus": true
         },
         {
-            "effect_string": "hero_dps_multiplier_increase,0",
+            "effect_string": "hero_dps_multiplier_mult,0",
             "off_when_benched": true,
             "amount_expr": "upgrade_amount(21608,0)",
             "amount_func": "mult",
@@ -209,6 +213,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "hero_tags_changed",
                 "slot_changed"
             ],
+            "use_computed_amount_for_description": true,
             "stack_title": "Good Champions",
             "total_title": "Evil Champion Buff",
             "show_bonus": true
@@ -219,6 +224,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 9546,
     "properties": {
         "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0,
@@ -234,7 +240,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Path Finder** (Guess)
-> Increases the stack cap and damage buff of Spot Weakness by 100%.
+> Talin increases the damage of Spot Weakness by 400%. If there are at least three Champions adjacent to Talin, the stack cap is doubled as well.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -242,15 +248,33 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3077,
     "flavour_text": "",
     "description": {
-        "desc": "Increases the stack cap and damage buff of Spot Weakness by $(amount)%."
+        "desc": "Talin increases the damage of Spot Weakness by $amount___2%. If there are at least three Champions adjacent to Talin, the stack cap is doubled as well."
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,100,21606",
+            "effect_string": "apply_effects_at_stacks",
+            "show_description": false,
+            "apply_effect_stack_amounts": [
+                0,
+                3
+            ],
+            "show_stacks": true,
+            "stacks_are_bonus": false,
+            "stacks_from_amount_func": "adjacent_champions",
+            "stack_title": "Adjacent Champions",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
+        },
+        {
+            "effect_string": "buff_upgrade,400,21606",
+            "apply_manually": true,
             "off_when_benched": true
         },
         {
-            "effect_string": "buff_upgrade_max_stacks_mult,100,21606"
+            "effect_string": "buff_upgrade_effect_stacks_max_mult,100,21606",
+            "apply_manually": true,
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -258,6 +282,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0,
         "owner_use_outgoing_description": true
     }
 }
@@ -268,7 +295,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Additional Scatter Tacks** (Guess)
-> Increase the slow effect, radius, and damage of Scatter Tacks by 50% (multiplicatively).
+> Talin increases the damage of Scatter Tacks by 400%. If there are three or fewer Champions adjacent to Talin, the slow effect and radius of the Scatter Tacks are increased by 50% as well.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -276,20 +303,46 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3078,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the slow effect, radius, and damage of Scatter Tacks by $(amount)% (multiplicatively)."
+        "desc": "Talin increases the damage of Scatter Tacks by $amount___2%. If there are three or fewer Champions adjacent to Talin, the slow effect and radius of the Scatter Tacks are increased by $amount___3% as well."
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,50,4763"
+            "effect_string": "apply_effects_at_stacks",
+            "show_description": false,
+            "apply_effect_stack_amounts": [
+                0,
+                3,
+                3,
+                3
+            ],
+            "show_stacks": true,
+            "stacks_are_bonus": false,
+            "apply_on_less_than_stack_amount": true,
+            "stacks_from_amount_func": "adjacent_champions",
+            "stack_title": "Adjacent Champions",
+            "amount_updated_listeners": [
+                "slot_changed"
+            ]
         },
         {
-            "effect_string": "buff_ground_effect_property,50,radius,4763"
+            "effect_string": "buff_upgrade,400,21607",
+            "apply_manually": true,
+            "off_when_benched": true
         },
         {
-            "effect_string": "buff_ground_effect_property,50,area_effects[0].amount,4763"
+            "effect_string": "buff_ground_effect_property,50,radius,21607",
+            "apply_manually": true,
+            "off_when_benched": true
         },
         {
-            "effect_string": "buff_ground_effect_property,200,density,4763"
+            "effect_string": "buff_ground_effect_property,50,area_effects[0].amount,21607",
+            "apply_manually": true,
+            "off_when_benched": true
+        },
+        {
+            "effect_string": "buff_ground_effect_property,200,density,21607",
+            "apply_manually": true,
+            "off_when_benched": true
         }
     ],
     "requirements": "",
