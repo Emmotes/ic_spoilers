@@ -69,7 +69,7 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
     "graphic_id": 0,
     "target": "front",
     "num_targets": 1,
-    "aoe_radius": 0,
+    "aoe_radius": 100,
     "damage_modifier": 1,
     "cooldown": 5,
     "animations": [
@@ -80,12 +80,16 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
             "jump_sound": 30,
             "sound_frames": {
                 "2": 154
+            },
+            "change_attack_by_target_distance": {
+                "near_attack_id": 1010,
+                "far_attack_id": 1011
             }
         }
     ],
     "tags": [
-        "melee",
-        "ranged"
+        "ranged",
+        "melee"
     ],
     "damage_types": [
         "melee"
@@ -118,14 +122,23 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
         {
             "type": "ranged_attack",
             "projectile": "arrow",
-            "shoot_frame": 23,
-            "projectile_count": 5,
+            "animation_sequence_name": "attack_b",
+            "shoot_frame": 10,
+            "projectile_delay_no_pause": 0.18,
+            "projectile_count": 2,
+            "projectile_speed": 800,
             "projectile_graphic_id": 5946,
-            "shoot_offset_x": 40,
-            "shoot_offset_y": -10
+            "shoot_offset_x": 45,
+            "shoot_offset_y": -25,
+            "hold_shoot_frame": false,
+            "change_attack_by_target_distance": {
+                "near_attack_id": 1010,
+                "far_attack_id": 1011
+            }
         }
     ],
     "tags": [
+        "melee",
         "ranged"
     ],
     "damage_types": [
@@ -675,16 +688,26 @@ Unknown.
 > Simril is ruined! Someone has pilfered the food supplies!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 1: Variant 1** (Complete Area 75)
-> 
+![Taking Solace Icon](images/tanis/31598.png) **Variant 1: Taking Solace** (Complete Area 75)
+> Tanis starts in the formation. He can be moved, but not removed.  
+> You may only use Champions who are Humans, Elves, Half-Elves, or members of the Heroes of the Lance affiliation.  
+> 1-2 Goblins spawn in each wave in all non-boss areas.  
+> Starting in area 250, in boss areas, an Aurak Draconian spawns alongside the normal boss. It must also be defeated in order to progress.  
+> <b>Getting to Know Tanis:</b> Tanis is conflicted between his human and elf sides, but can work well no matter which side you choose.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 2: Variant 2** (Complete Area 125)
-> 
+![Chosen Path Icon](images/tanis/31599.png) **Variant 2: Chosen Path** (Complete Area 125)
+> Tanis starts in the formation. He can be moved, but not removed.  
+> Only Tanis and Champions buffed by his Two Worlds specialization can deal damage.  
+> Fizban joins the formation. Champions adjacent to him have their base attack cooldown decreased by 1.0 seconds.  
+> <b>Getting to Know Tanis:</b> Tanis will buff either his column, the tallest column, or the shortest column in the formation, depending on which specialization you choose.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Variant 3: Variant 3** (Complete Area 175)
-> 
+![Role For Initiative Icon](images/tanis/31600.png) **Variant 3: Role For Initiative** (Complete Area 175)
+> Tanis starts in the formation. He can be moved, but not removed.  
+> Other than Tanis, you may not use Champions who only have the Support Role.  
+> Only Champions with the formation's most present non-Support Role can deal damage.  
+> <b>Getting to Know Tanis:</b> Tanis's buffs are greatly increased based on the roles of the Champions in your formation. A wide variety of roles, but with one over-represented, will give the best possible boost.
 </div></div>
 
 # Other Champion Images
