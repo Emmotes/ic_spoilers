@@ -109,6 +109,15 @@ We know from a leak that there is a new dialogue called "Missions of Tiamat". It
 > "key": "arcana_chest_resets",  
 > "contents": "Arcana Chest Resets"
 
+> "key": "no_arcana_message",  
+> "contents": "No Arcana in inventory!"
+
+> "key": "upgrade_arcana_chest_confirmation",  
+> "contents": "Spend $amount Incarnum to upgrade this Arcana Chest?"
+
+> "key": "reset_arcana_chests_confirmation",  
+> "contents": "Spend 1 Reset Item to reset Arcana Chests?"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
