@@ -4,28 +4,6 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 800</div>
-### From the Vault: Jack the Pumpkin Sprout Familiar Pack - 1,000 Platinum  
-Date of release: 16 Oct 2026
-
-> Available till the end of the event - From the Vault: Jack the Pumpkin Sprout
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Jack the Pumpkin Sprout Familiar Portrait](images/premiums/familiar_193.png)<span class="itemTooltipContents">ID: 193**Jack the Pumpkin Sprout**Gourd to meet you!<img src="images/premiums/familiar_193.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">Jack the Pumpkin Sprout</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 770</div>
 ### Aurum the Hoard Scarab Familiar Pack - 1,140 Platinum  
 Date of release: 21 Oct 2026
