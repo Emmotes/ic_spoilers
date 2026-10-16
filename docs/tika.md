@@ -1,9 +1,15 @@
 [Back to Main](index.md)
 
-{% comment %}
 <span class="championPortraitsRow">
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
+            ![Model WebP of Tika](images/tika/model.webp)
+        </span>
+        <span>
+            Model
+        </span>
+    </span>
 </span>
-{% endcomment %}
 
 # Tika Waylan
 
