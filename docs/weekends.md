@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/846.png">
-            <span class="weekendTooltipContents">ID: 846**Gold Tentacled Chest**Loot for: Nayeli, Celeste, Prudence, Corazón and Dob<code>"for_crusaders":[3,2,84,85,105]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Echoes from the Far Realm**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    16 October 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Dob
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/nayeli.png')">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 3**Nayeli Goldflower**Increases the effect of Nayeli's Aura of Courage ability by 200%.<code>buff_upgrade,200,38</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/celeste.png')">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 2**Celeste**Increases the effect of Celeste's Crusader's Mantle ability by 200%.<code>buff_upgrade,200,24</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/prudence.png')">
-                        <span class="weekendTableChampionNameplate">Prudence</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 84**Prudence**Increases the damage of Prudence by 400%.<code>hero_dps_multiplier_mult,400</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/corazon.png')">
-                        <span class="weekendTableChampionNameplate">Corazón</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 85**Corazón de Ballena**Increases the effect of Corazón's Pirate's Code ability by 200%. (Prestack)<code>buff_upgrade,200,20276</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/dob.png')">
-                        <span class="weekendTableChampionNameplate">Dob</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 105**Dob**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/847.png">
             <span class="weekendTooltipContents">ID: 847**Gold Rising Darkness Chest**Loot for: Avren, Calliope, Arkhan, Widdle and Hew Maan<code>"for_crusaders":[51,5,12,91,75]</code></span>
         </span>
