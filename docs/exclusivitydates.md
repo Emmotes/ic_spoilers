@@ -322,6 +322,23 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">14 Jan 2027</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Ezmerelda</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vow of Vengeance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2773**Vow of Vengeance (Ezmerelda)**You could say I'm married to my career. I love what I do.<br><br><span style="color:var(--Flavescent)">Increases the effect of Ezmerelda's Preparation ability by 80%.</span><code>buff_upgrade,80,15038</code></span>Vow of Vengeance
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Ezmerelda's Preparation ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">21 Jan 2027</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
