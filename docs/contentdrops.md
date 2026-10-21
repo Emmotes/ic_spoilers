@@ -516,6 +516,139 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
 </span>
 
+## Mastery 7 - 27 January 2027
+
+<span style="font-size:1.2em;">ⓘ</span> This content drop should come with new Legendary [Feats](feats.md){:target="_blank"} purchaseable with Mastery Medallions.
+
+<span class="contentDropsTableColumn">
+    <span class="contentDropsTableRowHeader">
+        <span class="contentDropsTableIcons">
+            <span style="margin-left:8px;">**Icon**</span>
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">**Campaign**</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">**Adventure Name**</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">**Type**</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Dont Break Toys (Variant)](images/contentdrop_portraits/mastery_dontbreaktoys_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Dont Break Toys</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Flock Around (Variant)](images/contentdrop_portraits/mastery_flockaround_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Flock Around</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Highlanders (Variant)](images/contentdrop_portraits/mastery_highlanders_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Highlanders</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Meteor Ology (Variant)](images/contentdrop_portraits/mastery_meteorology_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Meteor Ology</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Mirts Meticulous (Variant)](images/contentdrop_portraits/mastery_mirtsmeticulous_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Mirts Meticulous</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Pains and Gains (Variant)](images/contentdrop_portraits/mastery_painsandgains_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Pains and Gains</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Passion of Strahd (Variant)](images/contentdrop_portraits/mastery_passionofstrahd_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Passion of Strahd</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Rudely Distracted (Variant)](images/contentdrop_portraits/mastery_rudelydistracted_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Rudely Distracted</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+</span>
+
 
 [Back to Top](#top)
 
