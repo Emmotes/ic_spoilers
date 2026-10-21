@@ -44,7 +44,7 @@ These are the new event champions that are upcoming and all the information we k
             ![Melee Attack Icon](images/general/icon_melee.png)
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
+            New ⭐<br>Roadmapped 🗺️
         </span>
     </span>
 {::nomarkdown}
@@ -340,7 +340,7 @@ Events will have either one rework OR three rebalances.
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
-            New ⭐
+            New ⭐<br>Roadmapped 🗺️
         </span>
         <span class="indexChampionTableAttack">
             ![Melee Attack Icon](images/general/icon_melee.png)
