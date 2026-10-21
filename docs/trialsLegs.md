@@ -118,6 +118,9 @@ We know from a leak that there is a new dialogue called "Missions of Tiamat". It
 > "key": "reset_arcana_chests_confirmation",  
 > "contents": "Spend 1 Reset Item to reset Arcana Chests?"
 
+> "key": "clear_mission_assignments",  
+> "contents": "Clear Assignments"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
