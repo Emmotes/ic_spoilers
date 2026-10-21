@@ -30,23 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Ezmerelda</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Vow of Vengeance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2773**Vow of Vengeance (Ezmerelda)**You could say I'm married to my career. I love what I do.<br><br><span style="color:var(--Flavescent)">Increases the effect of Ezmerelda's Preparation ability by 80%.</span><code>buff_upgrade,80,15038</code></span>Vow of Vengeance
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Ezmerelda's Preparation ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">21 Oct 2026<br>21 Jan 2027</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Karlach</span>
         </span>
         <span class="featTableIcon5">
@@ -149,6 +132,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Lazaapz</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2898**TBD Lazaapz Feat (Do not translate) (Lazaapz)**</span>TBD Lazaapz Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">25 Nov 2026<br>25 Feb 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Krull</span>
         </span>
         <span class="featTableIcon4">
@@ -230,6 +230,74 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">16 Dec 2026<br>16 Mar 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Hank</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2899**TBD Hank Feat (Do not translate) (Hank)**</span>TBD Hank Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">23 Dec 2026<br>23 Mar 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Barrowin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2894**TBD Barrowin Feat (Do not translate) (Barrowin)**</span>TBD Barrowin Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">06 Jan 2027<br>06 Apr 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Eric</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2895**TBD Eric Feat (Do not translate) (Eric)**</span>TBD Eric Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">13 Jan 2027<br>13 Apr 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Rust</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2897**TBD Rust Feat (Do not translate) (Rust)**</span>TBD Rust Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">20 Jan 2027<br>20 Apr 2027</span>
         </span>
     </span>
 </span>
@@ -892,7 +960,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">Dark Urge</span>
         </span>
         <span class="featTableIcon5">
-            ![Astral-Touched Tadpole Icon](images/featicons/astraltouchedtadpole.png)<span class="featTooltipContents">ID: 2875**Astral-Touched Tadpole (Dark Urge)**Astral-Touched Tadpole (Durge)<br><br><span style="color:var(--Flavescent)">The Dark Urge adds up the total ability scores of himself and all the Champions adjacent to him. He increases the effect of The Urge by 100% for every 25 total ability score he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,3064</code></span>Astral-Touched Tadpole
+            ![Astral-Touched Tadpole Icon](images/featicons/astraltouchedtadpole.png)<span class="featTooltipContents">ID: 2875**Astral-Touched Tadpole (Dark Urge)**Are you watching, Father? <br><br><span style="color:var(--Flavescent)">The Dark Urge adds up the total ability scores of himself and all the Champions adjacent to him. He increases the effect of The Urge by 100% for every 25 total ability score he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,3064</code></span>Astral-Touched Tadpole
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">The Dark Urge adds up the total ability scores of himself and all the Champions adjacent to him. He increases the effect of The Urge by 100% for every 25 total ability score he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>

@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Aurum the Hoard Scarab Portrait](images/familiars/aurumthehoardscarab.png)<span class="featTooltipContents">ID: 341**Aurum the Hoard Scarab**Thieves beware! These beetle-like creatures blend in perfectly among piles of gold coins.<img src="images/familiars/aurumthehoardscarab.webp" alt="Aurum the Hoard Scarab Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Aurum the Hoard Scarab
-        </span>
-        <span class="skinTableSource">
-            Aurum the Hoard Scarab Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            1,140p
-        </span>
-        <span class="skinTableDate">
-            21 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Dr. Floof, the Conjured Almiraj Portrait](images/familiars/drflooftheconjuredalmiraj.png)<span class="featTooltipContents">ID: 346**Dr. Floof, the Conjured Almiraj**Dr. Floof is a dedicated healer, despite his tendency to prescribe laughter.<img src="images/familiars/drflooftheconjuredalmiraj.webp" alt="Dr. Floof, the Conjured Almiraj Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -139,6 +122,74 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             16 Dec 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 352**Slushie the White Dragon Wyrmling**Among the most primal chromatic dragons, white dragons prioritize survival over all.</span></span>
+        </span>
+        <span class="skinTableName">
+            Slushie the White Dragon Wyrmling
+        </span>
+        <span class="skinTableSource">
+            Slushie the White Dragon Wyrmling Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            840p
+        </span>
+        <span class="skinTableDate">
+            06 Jan 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 351**Solace, the Animated Frying Pan**A little taste of home when away on an adventure.</span></span>
+        </span>
+        <span class="skinTableName">
+            Solace, the Animated Frying Pan
+        </span>
+        <span class="skinTableSource">
+            Inn of the Last Home Tika Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            06 Jan 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 353**Fanglor the Winter Wolf**Malar is the god of those who delight in the hunt, don’t shy from bloodshed, and savor the fear of their prey.</span></span>
+        </span>
+        <span class="skinTableName">
+            Fanglor the Winter Wolf
+        </span>
+        <span class="skinTableSource">
+            Avatar of Malar Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            13 Jan 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 354**Flurry the Young Remorhaz**A centipede-like terror that burrows through snow and ice to ambush smaller creatures that trespass in their territory.</span></span>
+        </span>
+        <span class="skinTableName">
+            Flurry the Young Remorhaz
+        </span>
+        <span class="skinTableSource">
+            Flurry the Young Remorhaz Familiar & Modron Pack
+        </span>
+        <span class="skinTableCost">
+            2,380p
+        </span>
+        <span class="skinTableDate">
+            20 Jan 2027
         </span>
     </span>
     <span class="skinTableRow">

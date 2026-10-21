@@ -9,23 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Forsaken Bride Ezmerelda Portrait](images/skin_portraits/forsakenbrideezmerelda.png)<span class="featTooltipContents">ID: 733**Forsaken Bride Ezmerelda (Ezmerelda)**<img src="images/skin_models/forsakenbrideezmerelda.webp" alt="Forsaken Bride Ezmerelda Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Forsaken Bride Ezmerelda
-        </span>
-        <span class="skinTableSource">
-            Forsaken Bride Ezmerelda Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            21 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Chromatic Celeste Portrait](images/skin_portraits/chromaticceleste.png)<span class="featTooltipContents">ID: 754**Chromatic Celeste (Celeste)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/chromaticceleste-1-mirt.webp" alt="Chromatic Celeste Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticceleste-2-vajra.webp" alt="Chromatic Celeste Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticceleste-3-strahd.webp" alt="Chromatic Celeste Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticceleste-4-zariel.webp" alt="Chromatic Celeste Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticceleste-5-elminster.webp" alt="Chromatic Celeste Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
@@ -162,6 +145,23 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 771**Frostbite Lazaapz (Lazaapz)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Frostbite Lazaapz
+        </span>
+        <span class="skinTableSource">
+            Frostbite Lazaapz Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            25 Nov 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Dragon Army Tanis Portrait](images/skin_portraits/dragonarmytanis.png)<span class="featTooltipContents">ID: 765**Dragon Army Tanis (Tanis)**<img src="images/skin_models/dragonarmytanis.webp" alt="Dragon Army Tanis Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -230,7 +230,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 764**Snow Day Diana (Diana)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 764**Snow Day Diana (Diana)**<img src="images/skin_models/snowdaydiana.webp" alt="Snow Day Diana Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
         </span>
         <span class="skinTableName">
             Snow Day Diana
@@ -260,6 +260,108 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             16 Dec 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 772**Snow Day Hank (Hank)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Snow Day Hank
+        </span>
+        <span class="skinTableSource">
+            Snow Day Hank Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            23 Dec 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 766**Inn of the Last Home Tika (Tika)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Inn of the Last Home Tika
+        </span>
+        <span class="skinTableSource">
+            Inn of the Last Home Tika Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            06 Jan 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 767**Wintershield Knight Barrowin (Barrowin)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Wintershield Knight Barrowin
+        </span>
+        <span class="skinTableSource">
+            Wintershield Knight Barrowin Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            06 Jan 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 768**Wintershield Knight Eric (Eric)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Wintershield Knight Eric
+        </span>
+        <span class="skinTableSource">
+            Wintershield Knight Eric Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            13 Jan 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 769**Wintershield Knight Gazrick (Gazrick)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Wintershield Knight Gazrick
+        </span>
+        <span class="skinTableSource">
+            Wintershield Knight Gazrick Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            13 Jan 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 770**Wintershield Knight Rust (Rust)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Wintershield Knight Rust
+        </span>
+        <span class="skinTableSource">
+            Wintershield Knight Rust Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            20 Jan 2027
         </span>
     </span>
 </span>
