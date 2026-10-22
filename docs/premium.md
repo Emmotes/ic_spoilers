@@ -871,7 +871,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 756**Gladiator Krull (Krull)**</span></span>
+            <span class="tooltipHolder">![Gladiator Krull Skin Portrait](images/premiums/skin_756.png)<span class="itemTooltipContents">ID: 756**Gladiator Krull (Krull)**<img src="images/premiums/skin_756.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>

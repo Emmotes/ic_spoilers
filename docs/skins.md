@@ -179,7 +179,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 756**Gladiator Krull (Krull)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Gladiator Krull Portrait](images/skin_portraits/gladiatorkrull.png)<span class="featTooltipContents">ID: 756**Gladiator Krull (Krull)**<img src="images/skin_models/gladiatorkrull.webp" alt="Gladiator Krull Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Gladiator Krull
