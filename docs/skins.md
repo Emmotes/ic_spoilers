@@ -230,7 +230,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 764**Snow Day Diana (Diana)**<img src="images/skin_models/snowdaydiana.webp" alt="Snow Day Diana Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Snow Day Diana Portrait](images/skin_portraits/snowdaydiana.png)<span class="featTooltipContents">ID: 764**Snow Day Diana (Diana)**<img src="images/skin_models/snowdaydiana.webp" alt="Snow Day Diana Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Snow Day Diana

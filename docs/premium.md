@@ -4,47 +4,6 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 801</div>
-### From the Vault: Headless Horseman Kent Skin Pack - 1,000 Platinum  
-Date of release: 22 Oct 2026
-
-> Available till the end of the event - From the Vault: Headless Horseman Kent
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Kent Champion Unlock Portrait](images/premiums/unlock_champion_114.png)<span class="itemTooltipContents">ID: 114**Kent (Seat 4)**<img src="images/premiums/unlock_champion_114.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Kent</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Headless Horseman Kent Skin Portrait](images/premiums/skin_475.png)<span class="itemTooltipContents">ID: 475**Headless Horseman Kent (Kent)**<img src="images/premiums/skin_475.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Headless Horseman Kent</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Kent Chest Chest Portrait](images/premiums/chests_430.png)<span class="itemTooltipContents">ID: 430**Platinum Kent Chest**Loot for: Kent<code>"for_crusaders":[114]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Kent Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 772</div>
 ### Karlach's Legendary Feat Pack - 1,680 Platinum  
 Date of release: 28 Oct 2026
@@ -1156,7 +1115,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 764**Snow Day Diana (Diana)**<img src="images/premiums/skin_764.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Snow Day Diana Skin Portrait](images/premiums/skin_764.png)<span class="itemTooltipContents">ID: 764**Snow Day Diana (Diana)**<img src="images/premiums/skin_764.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
