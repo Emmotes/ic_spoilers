@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/847.png">
-            <span class="weekendTooltipContents">ID: 847**Gold Rising Darkness Chest**Loot for: Avren, Calliope, Arkhan, Widdle and Hew Maan<code>"for_crusaders":[51,5,12,91,75]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Darkness Rises**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    23 October 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Hew Maan
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/avren.png')">
-                        <span class="weekendTableChampionNameplate">Avren</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 51**Avren**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/calliope.png')">
-                        <span class="weekendTableChampionNameplate">Calliope</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 5**Calliope**Increases the effect of Calliope's Bardic Inspiration ability by 200%.<code>buff_upgrade,200,71</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/arkhan.png')">
-                        <span class="weekendTableChampionNameplate">Arkhan</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 12**Arkhan**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/widdle.png')">
-                        <span class="weekendTableChampionNameplate">Widdle</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 91**Widdle**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/hewmaan.png')">
-                        <span class="weekendTableChampionNameplate">Hew Maan</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 75**Hew Maan**Increases the effect of Hew Maan's Hello, Fellow Humans ability by 200%.<code>buff_upgrade,200,10649</code></span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/848.png">
             <span class="weekendTooltipContents">ID: 848**Gold Clawed Chest**Loot for: Asharra, Jarlaxle, Briv, Lae'zel and Brig<code>"for_crusaders":[6,4,58,128,90]</code></span>
         </span>
@@ -227,7 +179,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/arkhan.png')">
                         <span class="weekendTableChampionNameplate">Arkhan</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 12**Arkhan**</span>
+                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 12**Arkhan**Increases the effect of Arkhan's Bulk Up and Usurped Power by 200%.<code>buff_upgrades,200,243,244</code></span>
                     </span>
                     <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/artemis.png')">
                         <span class="weekendTableChampionNameplate">Artemis</span>
