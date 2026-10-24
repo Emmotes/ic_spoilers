@@ -343,13 +343,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Space Jams Vrock on (Variant)](images/contentdrop_portraits/mastery_spacejamsvrockon_0.png)
+            ![Mastery: Space Jams Vrock On (Variant)](images/contentdrop_portraits/mastery_spacejamsvrockon_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Space Jams Vrock on</span>
+            <span style="margin-left: 8px;">Space Jams Vrock On</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant</span>
