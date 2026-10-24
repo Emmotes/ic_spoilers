@@ -156,13 +156,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Bra in Frog (Variant)](images/contentdrop_portraits/mastery_brainfrog_0.png)
+            ![Mastery: Brain Frog (Variant)](images/contentdrop_portraits/mastery_brainfrog_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Bra in Frog</span>
+            <span style="margin-left: 8px;">Brain Frog</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant</span>
@@ -170,13 +170,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Clawsn Jaws (Variant)](images/contentdrop_portraits/mastery_clawsnjaws_0.png)
+            ![Mastery: Claws'n'Jaws (Variant)](images/contentdrop_portraits/mastery_clawsnjaws_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Clawsn Jaws</span>
+            <span style="margin-left: 8px;">Claws'n'Jaws</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant</span>
@@ -184,13 +184,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Hav is Choosy Chapbook (Variant)](images/contentdrop_portraits/mastery_havischoosychapbook_0.png)
+            ![Mastery: Havi's Choosy Chapbook (Variant)](images/contentdrop_portraits/mastery_havischoosychapbook_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Hav is Choosy Chapbook</span>
+            <span style="margin-left: 8px;">Havi's Choosy Chapbook</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant</span>
@@ -198,13 +198,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Ihave Dark Vision (Variant)](images/contentdrop_portraits/mastery_ihavedarkvision_0.png)
+            ![Mastery: I Have Dark Vision (Variant)](images/contentdrop_portraits/mastery_ihavedarkvision_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Ihave Dark Vision</span>
+            <span style="margin-left: 8px;">I Have Dark Vision</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant</span>
@@ -212,13 +212,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Mortes Entourage (Variant)](images/contentdrop_portraits/mastery_mortesentourage_0.png)
+            ![Mastery: Morte's Entourage (Variant)](images/contentdrop_portraits/mastery_mortesentourage_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Mortes Entourage</span>
+            <span style="margin-left: 8px;">Morte's Entourage</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant</span>
@@ -254,13 +254,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Whata Disaster (Variant)](images/contentdrop_portraits/mastery_whatadisaster_0.png)
+            ![Mastery: What a Disaster (Variant)](images/contentdrop_portraits/mastery_whatadisaster_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Whata Disaster</span>
+            <span style="margin-left: 8px;">What a Disaster</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant</span>
@@ -343,13 +343,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Space Jams Vrock On (Variant)](images/contentdrop_portraits/mastery_spacejamsvrockon_0.png)
+            ![Mastery: Space Jams Vrock on (Variant)](images/contentdrop_portraits/mastery_spacejamsvrockon_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Space Jams Vrock On</span>
+            <span style="margin-left: 8px;">Space Jams Vrock on</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant</span>
@@ -385,13 +385,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Th is is Some Rescue (Variant)](images/contentdrop_portraits/mastery_thisissomerescue_0.png)
+            ![Mastery: This is Some Rescue (Variant)](images/contentdrop_portraits/mastery_thisissomerescue_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Th is is Some Rescue</span>
+            <span style="margin-left: 8px;">This is Some Rescue</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant</span>
@@ -399,13 +399,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Without A Glitch (Variant)](images/contentdrop_portraits/mastery_withoutaglitch_0.png)
+            ![Mastery: Without a Glitch (Variant)](images/contentdrop_portraits/mastery_withoutaglitch_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Without A Glitch</span>
+            <span style="margin-left: 8px;">Without a Glitch</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant</span>
@@ -432,7 +432,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Crystalwork (Variant 3)](images/contentdrop_portraits/fortune'swheel_crystalwork_3.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Crystalwork (Variant 3)](images/contentdrop_portraits/fortuneswheel_crystalwork_3.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Fortune's Wheel</span>
@@ -446,7 +446,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Welcome to the Outlands (Variant 3)](images/contentdrop_portraits/fortune'swheel_welcometotheoutlands_3.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: Welcome to the Outlands (Variant 3)](images/contentdrop_portraits/fortuneswheel_welcometotheoutlands_3.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Fortune's Wheel</span>
@@ -460,7 +460,7 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: The Witch and the Wyrmling (Variant 3)](images/contentdrop_portraits/fortune'swheel_thewitchandthewyrmling_3.png)
+            ![Variant Spacer](images/contentdrop_portraits/variantspacer.png) ![Fortune's Wheel: The Witch and the Wyrmling (Variant 3)](images/contentdrop_portraits/fortuneswheel_thewitchandthewyrmling_3.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Fortune's Wheel</span>
@@ -579,13 +579,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Meteor Ology (Variant)](images/contentdrop_portraits/mastery_meteorology_0.png)
+            ![Mastery: Meteor'o'logy (Variant)](images/contentdrop_portraits/mastery_meteorology_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Meteor Ology</span>
+            <span style="margin-left: 8px;">Meteor'o'logy</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant</span>
@@ -593,13 +593,13 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
     </span>
     <span class="contentDropsTableRow">
         <span class="contentDropsTableIcons">
-            ![Mastery: Mirts Meticulous (Variant)](images/contentdrop_portraits/mastery_mirtsmeticulous_0.png)
+            ![Mastery: Mirt's Meticulous (Variant)](images/contentdrop_portraits/mastery_mirtsmeticulous_0.png)
         </span>
         <span class="contentDropsTableCampaign">
             <span style="margin-left: 8px;">Mastery</span>
         </span>
         <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Mirts Meticulous</span>
+            <span style="margin-left: 8px;">Mirt's Meticulous</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant</span>
