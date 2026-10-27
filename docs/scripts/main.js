@@ -240,7 +240,7 @@ function exclusiveToggleContent(id) {
 	const elea = document.getElementById(id + `a`);
 	if (ele && elea) {
 		ele.hidden = !ele.hidden;
-		ele.innerHTML = `<span class="postSeasonTableShowContents">${ele.hidden ? "[show contents]" : "[hide contents]"}</span>`;
+		elea.innerHTML = `<span class="postSeasonTableShowContents">${ele.hidden ? "[show contents]" : "[hide contents]"}</span>`;
 	}
 }
 
