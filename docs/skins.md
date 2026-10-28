@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Celeste Portrait](images/skin_portraits/chromaticceleste.png)<span class="featTooltipContents">ID: 754**Chromatic Celeste (Celeste)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/chromaticceleste-1-mirt.webp" alt="Chromatic Celeste Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticceleste-2-vajra.webp" alt="Chromatic Celeste Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticceleste-3-strahd.webp" alt="Chromatic Celeste Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticceleste-4-zariel.webp" alt="Chromatic Celeste Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticceleste-5-elminster.webp" alt="Chromatic Celeste Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Chromatic Celeste
-        </span>
-        <span class="skinTableSource">
-            Patron Shop (Mastery Medallions)?
-        </span>
-        <span class="skinTableCost">
-            10,000?
-        </span>
-        <span class="skinTableDate">
-            28 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Chromatic Strongheart Portrait](images/skin_portraits/chromaticstrongheart.png)<span class="featTooltipContents">ID: 755**Chromatic Strongheart (Strongheart)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/chromaticstrongheart-1-mirt.webp" alt="Chromatic Strongheart Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticstrongheart-2-vajra.webp" alt="Chromatic Strongheart Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticstrongheart-3-strahd.webp" alt="Chromatic Strongheart Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticstrongheart-4-zariel.webp" alt="Chromatic Strongheart Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/chromaticstrongheart-5-elminster.webp" alt="Chromatic Strongheart Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Chromatic Strongheart
-        </span>
-        <span class="skinTableSource">
-            Patron Shop (Mastery Medallions)?
-        </span>
-        <span class="skinTableCost">
-            10,000?
-        </span>
-        <span class="skinTableDate">
-            28 Oct 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Midnight Turiel Portrait](images/skin_portraits/midnightturiel.png)<span class="featTooltipContents">ID: 739**Midnight Turiel (Turiel)**<img src="images/skin_models/midnightturiel.webp" alt="Midnight Turiel Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

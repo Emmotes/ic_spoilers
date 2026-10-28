@@ -30,57 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Karlach</span>
-        </span>
-        <span class="featTableIcon5">
-            ![Astral-Touched Tadpole Icon](images/featicons/karlach.png)<span class="featTooltipContents">ID: 2802**Astral-Touched Tadpole (Karlach)**Stick it in my eye before I change my mind.<br><br><span style="color:var(--Flavescent)">Karlach adds up the total Constitution scores of herself and all the Champions adjacent to her. She increases the effect of The Fury of Avernus by 100% for every 4 CON she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,2930</code></span>Astral-Touched Tadpole
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Karlach adds up the total Constitution scores of herself and all the Champions adjacent to her. She increases the effect of The Fury of Avernus by 100% for every 4 CON she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">28 Oct 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Celeste</span>
-        </span>
-        <span class="featTableIcon5">
-            ![Neverwinter Memories Icon](images/featicons/celeste.png)<span class="featTooltipContents">ID: 2803**Neverwinter Memories (Celeste)**The light of Selûne will cleanse away the wicked.<br><br><span style="color:var(--Flavescent)">Celeste gains the Hunter role and Undead become her favored foe. The effect of Crusader's Mantle is increased by 250% whenever any favored foe appears, stacking multiplicatively up to 10 times and resetting when changing areas. If at least 5 Champion(s) in the formation have the Hunter role, the range of Crusader's Mantle and Mass Cure Wounds are increased by 1. Additionally, if there are at least 10 Hunter Champion(s) in the formation, all enemies are considered Undead for the purposes of all Champions' Hunter mechanics.</span><code>effect_def,2954</code></span>Neverwinter Memories
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Celeste gains the Hunter role and Undead become her favored foe. The effect of Crusader's Mantle is increased by 250% whenever any favored foe appears, stacking multiplicatively up to 10 times and resetting when changing areas. If at least 5 Champion(s) in the formation have the Hunter role, the range of Crusader's Mantle and Mass Cure Wounds are increased by 1. Additionally, if there are at least 10 Hunter Champion(s) in the formation, all enemies are considered Undead for the purposes of all Champions' Hunter mechanics.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Mastery Shop</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">28 Oct 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Dynaheir</span>
-        </span>
-        <span class="featTableIcon5">
-            ![True One Icon](images/featicons/dynaheir.png)<span class="featTooltipContents">ID: 2804**True One (Dynaheir)**No more mistakes, people. We can afford no more losses.<br><br><span style="color:var(--Flavescent)">The effect of The Resolve of Rashemen is increased by 250% for each Hunter Champion in the formation. If there are at least 10 Hunter Champions in the formation, the CON requirement of The Resolve of Rashemen is reduced by 2 and the base effect is increased by 100%.</span><code>effect_def,2960</code></span>True One
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">The effect of The Resolve of Rashemen is increased by 250% for each Hunter Champion in the formation. If there are at least 10 Hunter Champions in the formation, the CON requirement of The Resolve of Rashemen is reduced by 2 and the base effect is increased by 100%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Mastery Shop</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">28 Oct 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Widdle</span>
         </span>
         <span class="featTableIcon4">
