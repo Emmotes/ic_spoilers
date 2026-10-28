@@ -97,10 +97,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "conditions": [
             {
                 "condition": "upgrade_purchased 21610",
-                "desc": "When Talin attacks with Quiet Ambush he leaves behind a set of Scatter Tacks which cause enemies standing on them to be slowed by 75% and take $(amount)% more damage from attacks. Each set of tacks lasts for $duration seconds before disappearing, and the effects stack multiplicatively if an enemy is in multiple sets at the same time. Tacks are spread in a medium radius. "
+                "desc": "When Talin attacks with Quiet Ambush he leaves behind a set of Scatter Tacks which cause enemies standing on them to be slowed by 75% and take $(amount)% more damage from attacks. Each set of tacks lasts for $duration seconds before disappearing, and the effects stack multiplicatively if an enemy is in multiple sets at the same time. Tacks are spread in a medium radius."
             },
             {
-                "desc": "When Talin attacks with Quiet Ambush he leaves behind a set of Scatter Tacks which cause enemies standing on them to be slowed by 50% and take $(amount)% more damage from attacks. Each set of tacks lasts for $duration seconds before disappearing, and the effects stack multiplicatively if an enemy is in multiple sets at the same time. Tacks are spread in a medium radius. "
+                "desc": "When Talin attacks with Quiet Ambush he leaves behind a set of Scatter Tacks which cause enemies standing on them to be slowed by 50% and take $(amount)% more damage from attacks. Each set of tacks lasts for $duration seconds before disappearing, and the effects stack multiplicatively if an enemy is in multiple sets at the same time. Tacks are spread in a medium radius."
             }
         ]
     },
