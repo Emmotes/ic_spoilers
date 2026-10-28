@@ -156,7 +156,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3040,
     "flavour_text": "",
     "description": {
-        "desc": "If Krull is in the formation, you may also use Arkhan and Torogar, regardless of whether or not they qualify for the adventure due to variant or patron restrictions. "
+        "desc": "If Krull is in the formation, you may also use Arkhan and Torogar, regardless of whether or not they qualify for the adventure due to variant or patron restrictions."
     },
     "effect_keys": [
         {
@@ -200,6 +200,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "draconic_plague_v2",
+            "off_when_benched": true,
             "skip_effect_key_desc": true,
             "cooldown": 5,
             "base_attack_plague_stack_amount": 2,
@@ -211,7 +212,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "apply_manually": true,
-            "effect_string": "effect_def,3046"
+            "effect_string": "effect_def,3046",
+            "show_bonus": true
         },
         {
             "apply_manually": true,
@@ -251,7 +253,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3046,
     "flavour_text": "",
     "description": {
-        "desc": "Infected enemy drops $(amount)% more gold per stack."
+        "pre": "Infected enemy drops $(not_buffed amount)% more gold per stack.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Post-Stack Multiplier: $(upgrade_bonus 21579,1)%^Bonus Gold at Max Stacks: $(krull_plague_max_buff 1)%"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -283,7 +293,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3047,
     "flavour_text": "",
     "description": {
-        "desc": "Infected enemy takes $(amount)% more damage per stack."
+        "pre": "Infected enemy takes $(not_buffed amount)% more damage per stack.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Post-Stack Multiplier: $(upgrade_bonus 21579,2)%^Bonus Damage at Max Stacks: $(krull_plague_max_buff 2)%"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -315,7 +333,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3048,
     "flavour_text": "",
     "description": {
-        "desc": "When infected enemy is damaged, nearby enemies also receive $(amount)% of that damage per stack."
+        "pre": "When infected enemy is damaged, nearby enemies also receive $(not_buffed amount)% of that damage per stack.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Post-Stack Multiplier: $(upgrade_bonus 21579,3)%^Shared Damage at Max Stacks: $(krull_plague_max_buff 3)%"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -352,7 +378,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "virulent_strain,10"
+            "effect_string": "virulent_strain,10",
+            "off_when_benched": true
         }
     ],
     "requirements": [],
@@ -433,7 +460,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Dark Order Synergy** (Guess)
-> Increase the effect of $(upgrade_name id) by 100% for each Dark Order member adjacent to Krull.
+> Increase the effect of $(upgrade_name id) by 100% for each of the following attributes that an adjacent Champion shares with Krull: Affiliation, Good/Evil Alignment Axis, Lawful/Chaotic Alignment Axis, Class, or Species).
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -441,7 +468,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3051,
     "flavour_text": "",
     "description": {
-        "desc": "Increase the effect of $(upgrade_name id) by $(not_buffed amount)% for each Dark Order member adjacent to $source."
+        "desc": "Increase the effect of $(upgrade_name id) by $(not_buffed amount)% for each of the following attributes that an adjacent Champion shares with Krull: Affiliation, Good/Evil Alignment Axis, Lawful/Chaotic Alignment Axis, Class, or Species)."
     },
     "effect_keys": [
         {
@@ -450,7 +477,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stacks_multiply": true,
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
-            "post_process_expr": "AggregateCompareHeroPropertiesByTarget(`adj`, `race`, `sum`) + AggregateCompareHeroPropertiesByTarget(`adj`, `class`, `sum`) + AggregateCompareHeroPropertiesByTarget(`adj`, `alignment_ge`, `sum`) + AggregateCompareHeroPropertiesByTarget(`adj`, `alignment_lc`, `sum`) + AggregateCompareHeroPropertiesByTarget(`adj`, `affiliation`, `sum`)",
+            "per_hero_targets": [
+                "self_slot"
+            ],
+            "per_hero_expr": "AggregateCompareHeroPropertiesByTarget(`adj`, `race`, `sum`) + AggregateCompareHeroPropertiesByTarget(`adj`, `class`, `sum`) + AggregateCompareHeroPropertiesByTarget(`adj`, `alignment_ge`, `sum`) + AggregateCompareHeroPropertiesByTarget(`adj`, `alignment_lc`, `sum`) + AggregateCompareHeroPropertiesByTarget(`adj`, `affiliation`, `sum`)",
             "show_bonus": true,
             "stack_title": "Qualified Champions",
             "amount_updated_listeners": [
@@ -489,7 +519,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrades,400,243,244"
+            "effect_string": "buff_upgrades,400,243,244",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -520,14 +551,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3052,
     "flavour_text": "",
     "description": {
-        "desc": "Krull increases the effect of Plague: Pilfer by $(amount)% and has a $(amount___2)% higher chance to apply Plague: Pilfer when an enemy spawns or he attacks it."
+        "desc": "Krull increases the effect of Plague: Pilfer by $(not_buffed amount)% and has a $(amount___2)% higher chance to apply Plague: Pilfer when an enemy spawns or he attacks it."
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,100,21579,1"
+            "effect_string": "buff_upgrade,100,21579,1",
+            "off_when_benched": true
         },
         {
             "effect_string": "plague_focus_pilfer,50",
+            "off_when_benched": true,
             "effect_id": 3046
         }
     ],
@@ -557,14 +590,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3053,
     "flavour_text": "",
     "description": {
-        "desc": "Krull increases the effect of Plague: Pain by $(amount)% and has a $(amount___2)% higher chance to apply Plague: Pain when an enemy spawns or he attacks it."
+        "desc": "Krull increases the effect of Plague: Pain by $(not_buffed amount)% and has a $(amount___2)% higher chance to apply Plague: Pain when an enemy spawns or he attacks it."
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,100,21579,2"
+            "effect_string": "buff_upgrade,100,21579,2",
+            "off_when_benched": true
         },
         {
             "effect_string": "plague_focus_pain,50",
+            "off_when_benched": true,
             "effect_id": 3047
         }
     ],
@@ -594,14 +629,16 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3054,
     "flavour_text": "",
     "description": {
-        "desc": "Krull increases the effect of Plague: Traitor by $(amount)% and has a $(amount___2)% higher chance to apply Plague: Traitor when an enemy spawns or he attacks it."
+        "desc": "Krull increases the effect of Plague: Traitor by $(not_buffed amount)% and has a $(amount___2)% higher chance to apply Plague: Traitor when an enemy spawns or he attacks it."
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade,100,21579,3"
+            "effect_string": "buff_upgrade,100,21579,3",
+            "off_when_benched": true
         },
         {
             "effect_string": "plague_focus_traitor,50",
+            "off_when_benched": true,
             "effect_id": 3048
         }
     ],
