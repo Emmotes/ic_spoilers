@@ -121,6 +121,9 @@ We know from a leak that there is a new dialogue called "Missions of Tiamat". It
 > "key": "clear_mission_assignments",  
 > "contents": "Clear Assignments"
 
+> "key": "recall_hero_confirmation",  
+> "contents": "Recall $heroName from this mission?"
+
 [Back to Top](#top)
 
 *Last Modified: {{ site.time }}*
