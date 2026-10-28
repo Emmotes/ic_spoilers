@@ -199,25 +199,22 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
 <p>
 <pre>
 {
-    "id": 3031,
+    "id": 3095,
     "flavour_text": "",
     "description": {
         "desc": "Tanis may be used in any adventure or variant if Kitiara is already in the formation, even if the variant restrictions would forbid it. Likewise, when Tanis is already in the formation, Laurana may always be used."
     },
     "effect_keys": [
         {
-            "effect_string": "force_allow_hero",
-            "off_when_benched": true,
-            "ignore_hero_source_check": true,
-            "hero_ids": [
-                175
-            ],
-            "skip_effect_key_desc": true
+            "effect_string": "do_nothing",
+            "off_when_benched": false,
+            "skip_effect_key_desc": false,
+            "dev_note": "this FA exists to show the description of this ability while Tanis is benched, without allowing Laurana in. effect #3031 and #3039 are the real effects."
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31590,
+    "large_graphic_id": 31589,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -265,8 +262,8 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31588,
+    "large_graphic_id": 31586,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -294,7 +291,15 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
     "id": 3036,
     "flavour_text": "",
     "description": {
-        "desc": "Tanis increases the effect of his Two Worlds specialization by $amount% for each Champion with the non-Support role that is most popular in your formation."
+        "desc": "Tanis increases the effect of his Two Worlds specialization by $amount% for each Champion with the non-Support role that is most popular in your formation.",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Most Common Non-Support Role(s): $(most_common_non_support_role)"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -314,8 +319,8 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31587,
+    "large_graphic_id": 31585,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -352,19 +357,21 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
                 "tallest_column"
             ],
             "use_computed_amount_for_description": true,
-            "off_when_benched": true
+            "off_when_benched": true,
+            "target_empty_slots": false
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31593,
+    "large_graphic_id": 31593,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "retain_on_slot_changed": true
+        "retain_on_slot_changed": true,
+        "spec_option_post_apply_info": "Champions Targeted: $num_targets"
     }
 }
 </pre>
@@ -391,19 +398,21 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
                 "col"
             ],
             "use_computed_amount_for_description": true,
-            "off_when_benched": true
+            "off_when_benched": true,
+            "target_empty_slots": false
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31592,
+    "large_graphic_id": 31592,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "retain_on_slot_changed": true
+        "retain_on_slot_changed": true,
+        "spec_option_post_apply_info": "Champions Targeted: $num_targets"
     }
 }
 </pre>
@@ -430,19 +439,21 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
                 "shortest_column"
             ],
             "use_computed_amount_for_description": true,
-            "off_when_benched": true
+            "off_when_benched": true,
+            "target_empty_slots": false
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31594,
+    "large_graphic_id": 31594,
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "retain_on_slot_changed": true
+        "retain_on_slot_changed": true,
+        "spec_option_post_apply_info": "Champions Targeted: $num_targets"
     }
 }
 </pre>
@@ -452,7 +463,7 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **War Hero** (Guess)
-> Tanis adds 1 stack to all stacking abilities naturally from Champions with the Heroes of the Lance affiliation. His Two Worlds specialization is increased by 100% for each ability affected.
+> Tanis adds 1 stack to all stacking abilities naturally from Champions with the Heroes of the Lance affiliation (including this one). His Two Worlds specialization is increased by 100% for each ability affected.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -460,7 +471,7 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
     "id": 3037,
     "flavour_text": "",
     "description": {
-        "desc": "Tanis adds 1 stack to all stacking abilities naturally from Champions with the Heroes of the Lance affiliation. His Two Worlds specialization is increased by $(not_buffed amount___2)% for each ability affected."
+        "desc": "Tanis adds 1 stack to all stacking abilities naturally from Champions with the Heroes of the Lance affiliation (including this one). His Two Worlds specialization is increased by $(not_buffed amount___2)% for each ability affected."
     },
     "effect_keys": [
         {
@@ -482,19 +493,26 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
         {
             "effect_string": "tanis_war_hero_handler",
             "buff_effect_index": 1,
-            "tag": "heroeslance"
+            "tag": "heroeslance",
+            "blacklisted_upgrade_ids": [
+                19350,
+                19352,
+                19357,
+                20139
+            ]
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31595,
+    "large_graphic_id": 31595,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "owner_use_outgoing_description": true,
-        "retain_on_slot_changed": true
+        "retain_on_slot_changed": true,
+        "default_bonus_index": 1
     }
 }
 </pre>
@@ -527,7 +545,8 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
                     "tags": "dps"
                 }
             ],
-            "override_effect_key_desc": "Tanis redirects abilities that target him to $target."
+            "override_key_desc": "$target receives a copy of all positional abilities affecting Tanis.",
+            "retarget_when_any_hero_tags_changed": true
         },
         {
             "off_when_benched": true,
@@ -536,9 +555,9 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
             "effect_scale_description": "Duplicated by"
         },
         {
-            "effect_string": "buff_upgrades,100,21568,21569,21570,0",
+            "effect_string": "buff_upgrades,100,21568,21569,21570",
             "off_when_benched": true,
-            "stacks_multiply": true,
+            "amount_func": "mult",
             "stack_func": "per_positional_formation_ability",
             "show_bonus": true,
             "stack_title": "Positional Formation Abilities",
@@ -549,62 +568,16 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 31591,
+    "large_graphic_id": 31591,
     "properties": {
         "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
         "owner_use_outgoing_description": true,
-        "retain_on_slot_changed": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Tactical Positioning** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 31591,
-    "graphic": "Icons/Events/2017Simril/Simril_Y10/Icon_Specialization_Tanis_TacticalPositioning",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "chest_icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**War Hero** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 31595,
-    "graphic": "Icons/Events/2017Simril/Simril_Y10/Icon_Specialization_Tanis_WarHero",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "chest_icon"
-        ],
-        "quantize": true
+        "retain_on_slot_changed": true,
+        "default_bonus_index": 2
     }
 }
 </pre>
