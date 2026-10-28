@@ -48,17 +48,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "type": "ranged_attack",
             "projectile": "empty",
             "shoot_frame": 31,
+            "stun_on_hit": 5,
             "sound_frames": {
                 "39": 174
-            },
-            "stun_on_hit": 5,
-            "effect_frames": {
-                "39": {
-                    "effect_string": "buff_upgrades,200,21593,21594",
-                    "amount_func": "per_stunned_enemy",
-                    "boss_val": 5,
-                    "for_time": 15
-                }
             }
         }
     ],
@@ -130,7 +122,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ruby Amplification** (Guess)
-> Increases the effect of Ruby Encouragement by 100% when Regis scores a Critical Hit. This effect can stack up to 100 times (multiplicatively). Stacks are halved (rounded down) when changing areas.
+> Increases the effect of Ruby Encouragement by 500% when Regis scores a Critical Hit. This effect can stack up to 20 times (multiplicatively). Stacks are halved (rounded down) when changing areas.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -140,11 +132,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3062,
     "flavour_text": "",
     "description": {
-        "desc": "Increases the effect of Ruby Encouragement by $(not_buffed amount)% when Regis scores a Critical Hit. This effect can stack up to $max_stacks times (multiplicatively). Stacks are halved (rounded down) when changing areas."
+        "desc": "Increases the effect of Ruby Encouragement by $(amount)% when Regis scores a Critical Hit. This effect can stack up to $max_stacks___2 times (multiplicatively). Stacks are halved (rounded down) when changing areas."
     },
     "effect_keys": [
         {
-            "effect_string": "pre_stack,100",
+            "effect_string": "pre_stack,500",
             "skip_effect_key_desc": true
         },
         {
@@ -170,7 +162,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
-        "is_formation_ability": true
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -180,7 +176,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ruby Invigoration** (Guess)
-> Whenever a Champion in the formation is critically hit by an enemy, Regis stores up one charge of Ruby Invigoration. While he has at least one charge, his chance to Critical Hit is increased by 100%, and whenever he scores a Critical Hit a charge is consumed. He can store up to 5 charges.
+> Whenever a Champion in the formation is critically hit by an enemy or makes a critical hit against an enemy, Regis stores up one charge of Ruby Invigoration. When he has at least one charge, his next attack consumes a charge and becomes a guaranteed critical hit. 5 charges max.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -188,7 +184,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3063,
     "flavour_text": "",
     "description": {
-        "desc": "Whenever a Champion in the formation is critically hit by an enemy, Regis stores up one charge of Ruby Invigoration. While he has at least one charge, his chance to Critical Hit is increased by $(amount___2)%, and whenever he scores a Critical Hit a charge is consumed. He can store up to $max_charges charges.",
+        "desc": "Whenever a Champion in the formation is critically hit by an enemy or makes a critical hit against an enemy, Regis stores up one charge of Ruby Invigoration. When he has at least one charge, his next attack consumes a charge and becomes a guaranteed critical hit. $max_charges charges max.",
         "post": {
             "conditions": [
                 {
@@ -201,6 +197,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "ruby_invigoration_v2",
+            "off_when_benched": true,
             "max_charges": 5
         },
         {
@@ -243,6 +240,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "per_hero_targets": [
                 "adj"
             ],
+            "amount_updated_listeners": [
+                "slot_changed"
+            ],
             "show_bonus": true
         }
     ],
@@ -252,7 +252,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "effect_name": "Guided Strike",
-        "show_in_owner_outgoing": true
+        "show_in_owner_outgoing": true,
+        "show_incoming": false
     }
 }
 </pre>
@@ -272,7 +273,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3056,
     "flavour_text": "",
     "description": {
-        "desc": "Increases the damage of Champions in the column in front of $source by $(amount)% for each Champion affected by this ability, stacking multiplicatively."
+        "conditions": [
+            {
+                "condition": "feat_assigned 2650",
+                "desc": "Increases the damage of Champions in the next two columns in front of $source by $(not_buffed amount)% for each Champion affected by this ability, stacking multiplicatively."
+            },
+            {
+                "desc": "Increases the damage of Champions in the column in front of $source by $(not_buffed amount)% for each Champion affected by this ability, stacking multiplicatively."
+            }
+        ]
     },
     "effect_keys": [
         {
@@ -315,7 +324,15 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3057,
     "flavour_text": "",
     "description": {
-        "desc": "Increases the damage of Champions in the column behind $source by $(not_buffed amount)% for each Champion affected by this ability, stacking multiplicatively."
+        "conditions": [
+            {
+                "condition": "feat_assigned 2650",
+                "desc": "Increases the damage of Champions in the previous two columns behind $source by $(not_buffed amount)% for each Champion affected by this ability, stacking multiplicatively."
+            },
+            {
+                "desc": "Increases the damage of Champions in the column behind $source by $(not_buffed amount)% for each Champion affected by this ability, stacking multiplicatively."
+            }
+        ]
     },
     "effect_keys": [
         {
@@ -350,7 +367,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Ruby Weakness (Ranged)** (Guess)
-> Increases the damage taken by enemies when damaged by ranged attacks by 100% for each Champion affected by this ability, stacking multiplicatively.
+> Increases the damage taken by enemies when damaged by ranged base attacks by 100% for each Champion affected by this ability, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -358,7 +375,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3058,
     "flavour_text": "",
     "description": {
-        "desc": "Increases the damage taken by enemies when damaged by ranged attacks by $(not_buffed amount)% for each Champion affected by this ability, stacking multiplicatively."
+        "desc": "Increases the damage taken by enemies when damaged by ranged base attacks by $(not_buffed amount)% for each Champion affected by this ability, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -376,7 +393,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "show_incoming": false
+        "show_incoming": false,
+        "spec_option_post_apply_info": "Ranged Champions: $num_stacks"
     }
 }
 </pre>
@@ -386,7 +404,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Ruby Weakness (Melee)** (Guess)
-> Increases the damage taken by enemies when damaged by melee attacks by 100% for each Champion affected by this ability, stacking multiplicatively.
+> Increases the damage taken by enemies when damaged by melee base attacks by 100% for each Champion affected by this ability, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -394,7 +412,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3059,
     "flavour_text": "",
     "description": {
-        "desc": "Increases the damage taken by enemies when damaged by melee attacks by $(amount)% for each Champion affected by this ability, stacking multiplicatively."
+        "desc": "Increases the damage taken by enemies when damaged by melee base attacks by $(not_buffed amount)% for each Champion affected by this ability, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -412,7 +430,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "show_incoming": false
+        "show_incoming": false,
+        "spec_option_post_apply_info": "Melee Champions: $num_stacks"
     }
 }
 </pre>
@@ -422,7 +441,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Ruby Weakness (Magic)** (Guess)
-> Increases the damage taken by enemies when damaged by magic attacks by 100% for each Champion affected by this ability, stacking multiplicatively.
+> Increases the damage taken by enemies when damaged by magic base attacks by 100% for each Champion affected by this ability, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -430,7 +449,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3060,
     "flavour_text": "",
     "description": {
-        "desc": "Increases the damage taken by enemies when damaged by magic attacks by $(amount)% for each Champion affected by this ability, stacking multiplicatively."
+        "desc": "Increases the damage taken by enemies when damaged by magic base attacks by $(not_buffed amount)% for each Champion affected by this ability, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -448,7 +467,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 0,
     "properties": {
         "is_formation_ability": true,
-        "show_incoming": false
+        "show_incoming": false,
+        "spec_option_post_apply_info": "Magic Champions: $num_stacks"
     }
 }
 </pre>
