@@ -282,7 +282,64 @@ Unknown.
 
 # Items
 
-Unknown.
+<span class="itemTableColumn">
+    <span class="itemTableRowHeader">
+        <span class="itemTableIcon" style="justify-content:flex-start">
+            <span style="margin-left:8px;">**Icons**</span>
+        </span>
+        <span class="itemTableNameSmall">
+            **Name**
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Memories Icon](images/tika/31769.png)</span><span class="itemTableIcon2">![Memories Icon](images/tika/31769.png)</span><span class="itemTableIcon3">![Memories Icon](images/tika/31770.png)</span><span class="itemTableIcon4">![Memories Icon](images/tika/31771.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Memories
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Mismatched Armor Icon](images/tika/31772.png)</span><span class="itemTableIcon2">![Mismatched Armor Icon](images/tika/31772.png)</span><span class="itemTableIcon3">![Mismatched Armor Icon](images/tika/31773.png)</span><span class="itemTableIcon4">![Mismatched Armor Icon](images/tika/31774.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Mismatched Armor
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Other Armor Icon](images/tika/31775.png)</span><span class="itemTableIcon2">![Other Armor Icon](images/tika/31775.png)</span><span class="itemTableIcon3">![Other Armor Icon](images/tika/31776.png)</span><span class="itemTableIcon4">![Other Armor Icon](images/tika/31777.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Other Armor
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Story Connection Icon](images/tika/31778.png)</span><span class="itemTableIcon2">![Story Connection Icon](images/tika/31778.png)</span><span class="itemTableIcon3">![Story Connection Icon](images/tika/31779.png)</span><span class="itemTableIcon4">![Story Connection Icon](images/tika/31780.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Story Connection
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Things Icon](images/tika/31781.png)</span><span class="itemTableIcon2">![Things Icon](images/tika/31781.png)</span><span class="itemTableIcon3">![Things Icon](images/tika/31782.png)</span><span class="itemTableIcon4">![Things Icon](images/tika/31783.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Things
+        </span>
+    </span>
+    <span class="itemTableRow">
+        <span class="itemTableIcon">
+            <span class="itemTableIcon1">![Weapon Icon](images/tika/31784.png)</span><span class="itemTableIcon2">![Weapon Icon](images/tika/31784.png)</span><span class="itemTableIcon3">![Weapon Icon](images/tika/31785.png)</span><span class="itemTableIcon4">![Weapon Icon](images/tika/31786.png)</span>
+        </span>
+        <span class="itemTableNameSmall">
+            Weapon
+        </span>
+    </span>
+</span>
 
 # Feats
 
