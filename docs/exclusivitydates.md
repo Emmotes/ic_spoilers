@@ -662,7 +662,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 <a id="e17a" onclick="exclusiveToggleContent(`e17`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
-                ![Unknown or Missing Image](images/general/unknown.png)**Emergence 17** - Draconians
+                ![Emergence 17 Icon](images/general/e17.png)**Emergence 17** - Draconians
             </span>
         </span>
         <span id="e17" class="postSeasonTableRowShowHide" hidden>
