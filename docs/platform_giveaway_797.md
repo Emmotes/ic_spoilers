@@ -5,7 +5,7 @@
 Contents of an upcoming Unknown exclusive platform giveaway have been spoiled.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 797</div>
-### Snow Day Diana Party Pack - $24.99  
+### Snow Day Diana Holiday Pack - $24.99  
 Date of release: 10 December 2026
 
 > 
