@@ -24,12 +24,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+            <span class="emergenceShopFeatIcon5 tooltipHolder">![Astral-Touched Tadpole Feat Portrait](images/featicons/karlach.png)<span class="itemTooltipContents">ID: 2802**Astral-Touched Tadpole**Stick it in my eye before I change my mind.<br><br><span style="color:var(--Flavescent)">Karlach adds up the total Constitution scores of herself and all the Champions adjacent to her. She increases the effect of The Fury of Avernus by 100% for every 4 CON she counts, stacking multiplicatively. If she has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,2930</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">Selflessness</span>
-            <span style="margin-left:15px">Bruenor</span>
+            <span style="margin-left:15px">Astral-Touched Tadpole</span>
+            <span style="margin-left:15px">Karlach</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -50,7 +50,7 @@ Contents:
 ### Dr. Floof, the Conjured Almiraj Familiar Pack - $5.99  
 Date of release: 02 Nov 2026
 
-> Collect your own Dr. Floof, the Conjured Almiraj  familiar!
+> The net proceeds of all Dr. Floof sales through November 8th will be donated to Extra Life!
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: It appears that this pack will only be available for real money instead of Platinum.*
 
@@ -1076,7 +1076,7 @@ Contents:
 
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 797</div>
-### Snow Day Diana Party Pack - $24.99  
+### Snow Day Diana Holiday Pack - $24.99  
 Date of release: 10 Dec 2026
 
 > 

@@ -236,7 +236,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             Snow Day Diana
         </span>
         <span class="skinTableSource">
-            Snow Day Diana Party Pack
+            Snow Day Diana Holiday Pack
         </span>
         <span class="skinTableCost">
             $24.99
