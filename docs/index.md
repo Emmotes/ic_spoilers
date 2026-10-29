@@ -13,7 +13,7 @@ Just a collection of most of the currently-known spoilers. It is by no means exh
 
 {::nomarkdown}
 
-<div id="events_v1" hidden>
+<div id="events_v1">
 
 {:/nomarkdown}
 

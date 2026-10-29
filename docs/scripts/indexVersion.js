@@ -3,43 +3,24 @@ const checkboxId = `sortByEvents`;
 const localStorageKey = `spoilersSortByEvents`;
 
 function correctSortByEventsCheckbox() {
-	let ver = localStorage[localStorageKey];
-	ver = checkUndefinedVersion(ver);
-	let ele = document.getElementById(checkboxId);
-	if (ver == 2)
-		ele.checked = true;
-	else
-		ele.checked = false;
+	const ver = Number(localStorage.getItem(localStorageKey) ?? 1);
+	const ele = document.getElementById(checkboxId);
+	if (ele) ele.checked = ver === 2;
 }
 
 function setIndexVersionVisibility() {
-	let ver = localStorage[localStorageKey];
-	ver = checkUndefinedVersion(ver);
-	
+	const ver = Number(localStorage.getItem(localStorageKey) ?? 1);
 	for (let v of allVer) {
-		let ele = document.getElementById(`events_v${v}`);
-		if (v == ver)
-			ele.hidden = false;
-		else
-			ele.hidden = true;
+		const ele = document.getElementById(`events_v${v}`);
+		ele.hidden = v !== ver;
 	}
 }
 
 function changeIndexVersion() {
-	let ele = document.getElementById(checkboxId);
-	if (ele.checked)
-		localStorage[localStorageKey] = 2;
-	else
-		localStorage[localStorageKey] = 1;
+	const ele = document.getElementById(checkboxId);
+	if (ele.checked) localStorage.setItem(localStorageKey, 2);
+	else localStorage.removeItem(localStorageKey);
 	setIndexVersionVisibility();
-}
-
-function checkUndefinedVersion(ver) {
-	if (ver == undefined) {
-		ver = 1;
-		localStorage[localStorageKey] = ver;
-	}
-	return ver;
 }
 
 window.addEventListener('load', function() {correctSortByEventsCheckbox();setIndexVersionVisibility();});
