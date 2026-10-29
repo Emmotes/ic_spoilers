@@ -35,23 +35,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Raistlin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Into Darkness Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2698**Into Darkness (Raistlin)**No, my brother, where I go, you cannot follow. ~Raistlin<br><br><span style="color:var(--Flavescent)">Increases the effect of Raistlin's Savant ability by 80%. (Prestack)</span><code>buff_upgrade,80,18930</code></span>Into Darkness
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Raistlin's Savant ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">29 Oct 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Jim</span>
         </span>
         <span class="featTableIcon4">
