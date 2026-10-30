@@ -50,35 +50,35 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
   <span>Vajra</span>
   <span>-</span>
   <span>**Roles**:</span>
-  <span>Tanking / Support / Debuff (Guess)</span>
+  <span>Tanking / Support / Debuff</span>
   <span>**Constitution**:</span>
   <span>16</span>
   <span>Yes</span>
   <span>Strahd</span>
   <span>Strahd</span>
   <span>**Age**:</span>
-  <span>400 (Guess)</span>
+  <span>400</span>
   <span>**Intelligence**:</span>
   <span>13</span>
   <span>Yes</span>
   <span>-</span>
   <span>-</span>
   <span>**Gender**:</span>
-  <span>Male (Guess)</span>
+  <span>Male</span>
   <span>**Wisdom**:</span>
   <span>9</span>
   <span>-</span>
   <span>Elminster</span>
   <span>Elminster</span>
   <span>**Alignment**:</span>
-  <span>Chaotic Good (Guess)</span>
+  <span>Chaotic Good</span>
   <span>**Charisma**:</span>
   <span>6</span>
   <span>-</span>
   <span>&nbsp;</span>
   <span></span>
   <span>**Affiliation**:</span>
-  <span>- (Guess)</span>
+  <span>-</span>
   <span>**Total**:</span>
   <span>72</span>
   <span>&nbsp;</span>
