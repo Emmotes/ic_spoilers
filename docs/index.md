@@ -34,7 +34,7 @@ These are the new event champions that are upcoming and all the information we k
                 Mortimer Rictusgrin
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">&nbsp;</span>
+                <span class="indexChampionTableNoLink">Human Fighter</span>
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Feast of the Moon - 4 November 2026</span>
@@ -336,7 +336,7 @@ Events will have either one rework OR three rebalances.
                 Mortimer Rictusgrin
             </span>
             <span class="indexChampionTableEvent">
-                <span class="indexChampionTableNoLink">&nbsp;</span>
+                <span class="indexChampionTableNoLink">Human Fighter</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">

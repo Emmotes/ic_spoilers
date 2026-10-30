@@ -21,29 +21,69 @@
 
 # Mortimer Rictusgrin
 
-[Morte - Fandom Wiki](https://forgottenrealms.fandom.com/wiki/Morte){:target="_blank"}
+Whoever Mortimer Rictusgrin was in his mortal life hardly matters anymore. What remains of 'Morte' is a cheerful and chatty floating human skull of many talents. Once a companion of the Nameless One, he now helpfully guides newcomers around the city of Sigil in the Outlands, and confounds his unfortunate foes with acerbic taunts and a stubborn refusal to die.
 
 # Basic Information
 
 Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 November 2026.
 
-<span class="champStatsTableGridSmall">
+<span class="champStatsTableGrid">
   <span>**Seat**:</span>
-  <span>Unknown</span>
+  <span>6</span>
+  <span>**Stat**</span>
+  <span>**Value**</span>
+  <span>**Day 1 Trials**</span>
+  <span>**Patrons**</span>
+  <span>**Skylla Patrons**</span>
   <span>**Species**:</span>
-  <span>Unknown</span>
+  <span>Human</span>
+  <span>**Strength**:</span>
+  <span>12</span>
+  <span>Yes</span>
+  <span>Mirt</span>
+  <span>Mirt</span>
   <span>**Class**:</span>
-  <span>Unknown</span>
+  <span>Fighter</span>
+  <span>**Dexterity**:</span>
+  <span>16</span>
+  <span>Yes</span>
+  <span>Vajra</span>
+  <span>-</span>
   <span>**Roles**:</span>
-  <span>Support / Debuff (Guess)</span>
+  <span>Tanking / Support / Debuff (Guess)</span>
+  <span>**Constitution**:</span>
+  <span>16</span>
+  <span>Yes</span>
+  <span>Strahd</span>
+  <span>Strahd</span>
   <span>**Age**:</span>
-  <span>Unknown</span>
+  <span>400 (Guess)</span>
+  <span>**Intelligence**:</span>
+  <span>13</span>
+  <span>Yes</span>
+  <span>-</span>
+  <span>-</span>
   <span>**Gender**:</span>
   <span>Male (Guess)</span>
+  <span>**Wisdom**:</span>
+  <span>9</span>
+  <span>-</span>
+  <span>Elminster</span>
+  <span>Elminster</span>
   <span>**Alignment**:</span>
-  <span>Unknown</span>
+  <span>Chaotic Good (Guess)</span>
+  <span>**Charisma**:</span>
+  <span>6</span>
+  <span>-</span>
+  <span>&nbsp;</span>
+  <span></span>
   <span>**Affiliation**:</span>
-  <span>Unknown</span>
+  <span>- (Guess)</span>
+  <span>**Total**:</span>
+  <span>72</span>
+  <span>&nbsp;</span>
+  <span style="justify-content:flex-end;padding-right:6px;">Champion ID:</span>
+  <span>181</span>
 </span>
 
 # Formation
@@ -172,7 +212,7 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Cutter of the Cage** (Guess)
 > As a talking human skull, Morte is both Small and Undead, and counts as 'dead' for the purposes of effects that care about dead Champions, but 'alive' for all other purposes. In addition, Morte can be used in any Turn of Fortune's Wheel campaign adventure or variant, even if he would not normally be available to be used due to variant or patron restrictions.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -689,7 +729,7 @@ Mortimer Rictusgrin will be a new champion in the Feast of the Moon event on 4 N
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**What's Eatin' You Chief** (Guess)
+**What's Eatin' You, Chief?** (Guess)
 > Morte's base attack no longer targets enemies; instead, he zips over to your BUD-setting Champion and provides helpful encouragement, instantly resetting their base attack cooldown and increasing the damage of their next attack by 1000%. If Morte himself is the BUD-setting Champion, he gets confused and does nothing.
 <details><summary><em>Raw Data</em></summary>
 <p>
