@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/848.png">
-            <span class="weekendTooltipContents">ID: 848**Gold Clawed Chest**Loot for: Asharra, Jarlaxle, Briv, Lae'zel and Brig<code>"for_crusaders":[6,4,58,128,90]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Rise of Undeath**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    30 October 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Brig
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/asharra.png')">
-                        <span class="weekendTableChampionNameplate">Asharra</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 6**Asharra**Increases the effect of Asharra's Bond: Dwarves and Elves, Bond: Exotic Species, Bond: Half n' Half, Bond: Humans, Bond: Potpourri and Bond: Short-folk by 200%.<code>buff_upgrades,200,91,976,975,90,92,977</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/jarlaxle.png')">
-                        <span class="weekendTableChampionNameplate">Jarlaxle</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 4**Jarlaxle Baenre**Increases the effect of Jarlaxle's Master of Disguise and Master of Piracy by 200%.<code>buff_upgrades,200,52,2188</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/briv.png')">
-                        <span class="weekendTableChampionNameplate">Briv</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 58**Briv Steelmarrow**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/laezel.png')">
-                        <span class="weekendTableChampionNameplate">Lae'zel</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 128**Lae'zel**Increases the effect of Lae'zel's Lethal Coordination ability by 200%.<code>buff_upgrade,200,12113</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/brig.png')">
-                        <span class="weekendTableChampionNameplate">Brig</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 90**Brig Hellclaw**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/852.png">
             <span class="weekendTooltipContents">ID: 852**Gold Revelry Chest**Loot for: Nayeli, Bruenor, Donaar, Nordom and Morte<code>"for_crusaders":[3,1,34,100,181]</code></span>
         </span>
