@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Dr. Floof, the Conjured Almiraj Portrait](images/familiars/drflooftheconjuredalmiraj.png)<span class="featTooltipContents">ID: 346**Dr. Floof, the Conjured Almiraj**Dr. Floof is a dedicated healer, despite his tendency to prescribe laughter.<img src="images/familiars/drflooftheconjuredalmiraj.webp" alt="Dr. Floof, the Conjured Almiraj Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Dr. Floof, the Conjured Almiraj
-        </span>
-        <span class="skinTableSource">
-            Dr. Floof, the Conjured Almiraj Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            $5.99
-        </span>
-        <span class="skinTableDate">
-            02 Nov 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Slick the Dohwar Portrait](images/familiars/slickthedohwar.png)<span class="featTooltipContents">ID: 343**Slick the Dohwar**Who needs to fly when you can glide!<img src="images/familiars/slickthedohwar.webp" alt="Slick the Dohwar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

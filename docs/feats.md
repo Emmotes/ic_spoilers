@@ -391,7 +391,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
+            <span class="featTableInner">31 Dec 2031</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -408,7 +408,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
+            <span class="featTableInner">31 Dec 2031</span>
         </span>
     </span>
     <span class="featTableRow">

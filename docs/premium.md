@@ -4,60 +4,6 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 787</div>
-### Dr. Floof, the Conjured Almiraj Familiar Pack - $5.99  
-Date of release: 02 Nov 2026
-
-> The net proceeds of all Dr. Floof sales through November 8th will be donated to Extra Life!
-
-<span style="font-size:1.2em;">ⓘ</span> *Note: It appears that this pack will only be available for real money instead of Platinum.*
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Dr. Floof, the Conjured Almiraj Familiar Portrait](images/premiums/familiar_346.png)<span class="itemTooltipContents">ID: 346**Dr. Floof, the Conjured Almiraj**Dr. Floof is a dedicated healer, despite his tendency to prescribe laughter.<img src="images/premiums/familiar_346.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">Dr. Floof, the Conjured Almiraj</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Giant's Strength Buff Portrait](images/premiums/buff_4.png)<span class="itemTooltipContents">ID: 4**Huge Potion of Giant's Strength**A transparent potion in which floats the sliver of a giant's fingernail.<code>global_dps_multiplier_mult,900</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Huge Potion of Giant's Strength</span>
-            <span style="margin-left:15px">x2</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Clairvoyance Buff Portrait](images/premiums/buff_8.png)<span class="itemTooltipContents">ID: 8**Huge Potion of Clairvoyance**Three eyeballs bob in this yellowish potion.<code>gold_multiplier_mult,400</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Huge Potion of Clairvoyance</span>
-            <span style="margin-left:15px">x2</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Buff**</span>
-            <span style="margin-left:15px">Huge Potion of Speed</span>
-            <span style="margin-left:15px">x2</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 776</div>
 ### Morte on the Rocks Theme Pack - 3,830 Platinum  
 Date of release: 04 Nov 2026
