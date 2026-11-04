@@ -111,7 +111,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 771**Frostbite Lazaapz (Lazaapz)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Frostbite Lazaapz Portrait](images/skin_portraits/frostbitelazaapz.png)<span class="featTooltipContents">ID: 771**Frostbite Lazaapz (Lazaapz)**<img src="images/skin_models/frostbitelazaapz.webp" alt="Frostbite Lazaapz Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Frostbite Lazaapz
@@ -230,7 +230,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 772**Snow Day Hank (Hank)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Snow Day Hank Portrait](images/skin_portraits/snowdayhank.png)<span class="featTooltipContents">ID: 772**Snow Day Hank (Hank)**<img src="images/skin_models/snowdayhank.webp" alt="Snow Day Hank Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Snow Day Hank
@@ -264,7 +264,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 767**Wintershield Knight Barrowin (Barrowin)**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 767**Wintershield Knight Barrowin (Barrowin)**<img src="images/skin_models/wintershieldknightbarrowin.webp" alt="Wintershield Knight Barrowin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
         </span>
         <span class="skinTableName">
             Wintershield Knight Barrowin
@@ -328,6 +328,108 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             20 Jan 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 774**Autumn Twilight Bride Goldmoon (Goldmoon)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Autumn Twilight Bride Goldmoon
+        </span>
+        <span class="skinTableSource">
+            Autumn Twilight Bride Goldmoon Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            03 Feb 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Meteor Duelist Fen Portrait](images/skin_portraits/meteorduelistfen.png)<span class="featTooltipContents">ID: 775**Meteor Duelist Fen (Fen)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+        </span>
+        <span class="skinTableName">
+            Meteor Duelist Fen
+        </span>
+        <span class="skinTableSource">
+            Meteor Duelist Fen Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            03 Feb 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 776**Radiant Gala Karlach (Karlach)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Radiant Gala Karlach
+        </span>
+        <span class="skinTableSource">
+            Radiant Gala Karlach Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            03 Feb 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 777**Clockwork Cosmos Vi (Vi)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Clockwork Cosmos Vi
+        </span>
+        <span class="skinTableSource">
+            Clockwork Cosmos Vi Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            10 Feb 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 778**Lunar Vestments Kalix (Kalix)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Lunar Vestments Kalix
+        </span>
+        <span class="skinTableSource">
+            Lunar Vestments Kalix Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            10 Feb 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 779**Stargazer Presto (Presto)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Stargazer Presto
+        </span>
+        <span class="skinTableSource">
+            Stargazer Presto Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            17 Feb 2027
         </span>
     </span>
 </span>

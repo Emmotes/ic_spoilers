@@ -177,6 +177,57 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 355**Goldmoon's Wedding Dove**According to Que-shu tradition, the bridegift cannot be purchased. This symbol of love must be made by the hand of the beloved.</span></span>
+        </span>
+        <span class="skinTableName">
+            Goldmoon's Wedding Dove
+        </span>
+        <span class="skinTableSource">
+            Autumn Twilight Bride Goldmoon Theme Pack
+        </span>
+        <span class="skinTableCost">
+            3,830p
+        </span>
+        <span class="skinTableDate">
+            03 Feb 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 356**Aurora Flumph**Stuck between serenity and curiosity, the Aurora Flumph is our constant faithful companion.</span></span>
+        </span>
+        <span class="skinTableName">
+            Aurora Flumph
+        </span>
+        <span class="skinTableSource">
+            Aurora Flumph Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            840p
+        </span>
+        <span class="skinTableDate">
+            10 Feb 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 357**Starfall the Owlbear Cub**</span></span>
+        </span>
+        <span class="skinTableName">
+            Starfall the Owlbear Cub
+        </span>
+        <span class="skinTableSource">
+            Starfall the Owlbear Cub Familiar Pack
+        </span>
+        <span class="skinTableCost">
+            1,140p
+        </span>
+        <span class="skinTableDate">
+            17 Feb 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Puddles the Kapak Draconian Portrait](images/familiars/puddlesthekapakdraconian.png)<span class="featTooltipContents">ID: 350**Puddles the Kapak Draconian**Beware the dripping maw!<img src="images/familiars/puddlesthekapakdraconian.webp" alt="Puddles the Kapak Draconian Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

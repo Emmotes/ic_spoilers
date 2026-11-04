@@ -33,10 +33,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Widdle</span>
         </span>
         <span class="featTableIcon4">
-            ![Too Many Friends Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2779**Too Many Friends (Widdle)**Back up, people! I need some breathing room!<code>todo<br>DevNote: New effect-Increase the effect of Tasty Friends by 100% if there are 3 or fewer Champions adjacent to Widdle.</code></span>Too Many Friends
+            ![Too Many Friends Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2779**Too Many Friends (Widdle)**Back up, people! I need some breathing room!<br><br><span style="color:var(--Flavescent)">Increases the effect of Tasty Friends by 100% if there are 3 or fewer Champions adjacent to Widdle.</span><code>effect_def,3106</code></span>Too Many Friends
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Tasty Friends by 100% if there are 3 or fewer Champions adjacent to Widdle.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -50,7 +50,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Turiel</span>
         </span>
         <span class="featTableIcon4">
-            ![Dire Resolve Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2780**Dire Resolve (Turiel)**To destroy your enemy, sometimes you must become like them.<br><br><span style="color:var(--Flavescent)">Increases the effect of Turiel's Unflinching Hatred ability by 80%.</span><code>buff_upgrade,80,10660</code></span>Dire Resolve
+            ![Dire Resolve Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2780**Dire Resolve (Turiel)**To destroy your enemy, sometimes you must become like them.<br><br><span style="color:var(--Flavescent)">Increases the effect of Turiel's Unflinching Hatred ability by 80%.</span><code>buff_upgrade,80,21267</code></span>Dire Resolve
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Turiel's Unflinching Hatred ability by 80%.</span>
@@ -60,6 +60,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">04 Nov 2026<br>04 Feb 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Morte</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Bawdy Bone-Box Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2811**Bawdy Bone-Box (Morte)**Oh, Morte. Do you ever tire of being improper? ~Fall-from-Grace<br><br><span style="color:var(--Flavescent)">Increases the effect of Morte's Biting Wit ability by 80%. (Prestack)</span><code>buff_upgrade,80,20955</code></span>Bawdy Bone-Box
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Morte's Biting Wit ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Nov 2026<br>07 Jan 2027</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -118,10 +135,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Lazaapz</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2898**TBD Lazaapz Feat (Do not translate) (Lazaapz)**</span>TBD Lazaapz Feat (Do not translate)
+            ![Maximum Infusion Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2898**Maximum Infusion (Lazaapz)**This bad boy can fit SO much junk in it!<br><br><span style="color:var(--Flavescent)">Increases the effect of Lazaapz's Artificer Infusion ability by 80%.</span><code>buff_upgrade,80,17482</code></span>Maximum Infusion
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Lazaapz's Artificer Infusion ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -132,13 +149,30 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Nordom</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Augmented Ranks Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2383**Augmented Ranks (Nordom)**One. One. One. One... Two? Two! TWO!<br><br><span style="color:var(--Flavescent)">Changes Form Orderly Ranks to target the next two columns.</span><code>change_upgrade_targets,18058</code></span>Augmented Ranks
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Changes Form Orderly Ranks to target the next two columns.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">02 Dec 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Krull</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2781**TBD Krull Feat (Do not translate) (Krull)**</span>TBD Krull Feat (Do not translate)
+            ![Hell's Glory Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2781**Hell's Glory (Krull)**I fight, and I kill, in Arkhan's name. But the pleasure of the act? All mine.<br><br><span style="color:var(--Flavescent)">Increases the effect of Krull's $(upgrade_name id) ability by 80%.</span><code>buff_upgrade,80,21581</code></span>Hell's Glory
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the effect of Krull's $(upgrade_name id) ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -152,7 +186,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Regis</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2853**TBD Regis Feat (Do not translate) (Regis)**</span>TBD Regis Feat (Do not translate)
+            ![Goblin Glitch Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 2853**Goblin Glitch (Regis)**Fires down. Dark and quiet, all.<code>todo<br>DevNote: Goblin Glitch - Counts as Goblin +100% to Spec 1 for each Goblin in the formation (additive) (epic)</code></span>Goblin Glitch
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -169,7 +203,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Shadowheart</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2778**TBD Shadowheart Feat (Do not translate) (Shadowheart)**</span>TBD Shadowheart Feat (Do not translate)
+            ![Burden of Knowledge Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2778**Burden of Knowledge (Shadowheart)**Some memories are inescapable - they're burned into you.<code>todo<br>DevNote: Buff All Specs [pre-stack]</code></span>Burden of Knowledge
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -186,10 +220,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Diana</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2874**TBD Diana Feat (Diana)**TBD Diana Feat for EGS Promo</span>TBD Diana Feat
+            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2874**Standard Affair (Diana)**Come on, you guys! It's a snow day!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span>Standard Affair
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -203,7 +237,7 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Yorven</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2872**TBD Yorven Feat (Do not translate) (Yorven)**</span>TBD Yorven Feat (Do not translate)
+            ![Night of the Lepus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2872**Night of the Lepus (Yorven)**You're late, you're late, for a very violent fate.<code>todo<br>DevNote: Buff FA4 20%for each Non-Standard Species additive</code></span>Night of the Lepus
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -220,10 +254,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Hank</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2899**TBD Hank Feat (Do not translate) (Hank)**</span>TBD Hank Feat (Do not translate)
+            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2899**Standard Affair (Hank)**Let's get everyone together! It's time for some fun!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span>Standard Affair
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -234,13 +268,81 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Talin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Massive Damage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2900**Massive Damage (Talin)**Even a giant has to have a weak point.<br><br><span style="color:var(--Flavescent)">Increases the effect of Talin's $(upgrade_name id) ability by 80%.</span><code>buff_upgrade,80,21606</code></span>Massive Damage
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Talin's $(upgrade_name id) ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Dec 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Kitiara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Maneater Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2796**Maneater (Kitiara)**He was my friend, too. I knew - the moment I killed him. ~Kitiara<br><br><span style="color:var(--Flavescent)">Changes the minimum stacks of Cruel Cunning to 2.</span><code>change_upgrade_data,20600,0</code></span>Maneater
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Changes the minimum stacks of Cruel Cunning to 2.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Dec 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Desmond</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Amidst the Dark Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2901**Amidst the Dark (Desmond)**This is what we do.<br><br><span style="color:var(--Flavescent)">Additively increases the effect of Desmond's Devotion in Dark Times ability by 80%.</span><code>buff_upgrade_add_flat_amount,80,7301</code></span>Amidst the Dark
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Additively increases the effect of Desmond's Devotion in Dark Times ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Dec 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Laurana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 2576**Taunt (Laurana)**Soliasi Arath! ~Laurana<br><br><span style="color:var(--Flavescent)">All Champions damage +100%. Laurana's attacks have a 50% chance to taunt enemies.</span><code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +100%. Laurana's attacks have a 50% chance to taunt enemies.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Dec 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Barrowin</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2894**TBD Barrowin Feat (Do not translate) (Barrowin)**</span>TBD Barrowin Feat (Do not translate)
+            ![Flashing Blade Icon](images/featicons/cooldown.png)<span class="featTooltipContents">ID: 2894**Flashing Blade (Barrowin)**I'm here to get the job done. Faster is better.<br><br><span style="color:var(--Flavescent)">Reduces the cooldown on Barrowin's Base Attack by 1 second.</span><code>reduce_attack_cooldown,1</code></span>Flashing Blade
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Reduces the cooldown on Barrowin's Base Attack by 1 second.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -251,10 +353,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Eric</span>
+            <span class="featTableInner">Gazrick</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2895**TBD Eric Feat (Do not translate) (Eric)**</span>TBD Eric Feat (Do not translate)
+            ![Frozen Assets Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2896**Frozen Assets (Gazrick)**Everything must go, especially their armor!<code>todo<br>DevNote: Buff FA3/Armor Ablation base effect [pre-stack]</code></span>Frozen Assets
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -268,10 +370,44 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Eric</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2895**Standard Affair (Eric)**No school today? Jackpot!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span>Standard Affair
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">13 Jan 2027<br>13 Apr 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Rust</span>
         </span>
         <span class="featTableIcon4">
-            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2897**TBD Rust Feat (Do not translate) (Rust)**</span>TBD Rust Feat (Do not translate)
+            ![Silver & Gold Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2897**Silver & Gold (Rust)**I make new friends, yes, but I also keep the old!<br><br><span style="color:var(--Flavescent)">Increases the effect of Rust's Hello, Friends ability by 80%.</span><code>buff_upgrade,80,15357</code></span>Silver & Gold
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Rust's Hello, Friends ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">20 Jan 2027<br>20 Apr 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Fen</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2902**TBD Fen Feat (Do not translate) (Fen)**</span>TBD Fen Feat (Do not translate)
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">???</span>
@@ -280,7 +416,92 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">20 Jan 2027<br>20 Apr 2027</span>
+            <span class="featTableInner">03 Feb 2027<br>03 May 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Karlach</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2903**TBD Karlach Feat (Do not translate) (Karlach)**</span>TBD Karlach Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">03 Feb 2027<br>03 May 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Vi</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2904**TBD Vi Feat (Do not translate) (Vi)**</span>TBD Vi Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">10 Feb 2027<br>10 May 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Kalix</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2905**TBD Kalix Feat (Do not translate) (Kalix)**</span>TBD Kalix Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">10 Feb 2027<br>10 May 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Presto</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2906**TBD Presto Feat (Do not translate) (Presto)**</span>TBD Presto Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">17 Feb 2027<br>17 May 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Jaheira</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2907**TBD Jaheira Feat (Do not translate) (Jaheira)**</span>TBD Jaheira Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">24 Feb 2027<br>24 May 2027</span>
         </span>
     </span>
 </span>
@@ -471,23 +692,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Kyre's Radiant Soul ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Nordom</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Augmented Ranks Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2383**Augmented Ranks (Nordom)**One. One. One. One... Two? Two! TWO!<br><br><span style="color:var(--Flavescent)">Changes Form Orderly Ranks to target the next two columns.</span><code>change_upgrade_targets,18058</code></span>Augmented Ranks
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Changes Form Orderly Ranks to target the next two columns.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -736,23 +940,6 @@ These are the feats that have been filtered out of the list above due to having 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Kitiara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Maneater Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2796**Maneater (Kitiara)**He was my friend, too. I knew - the moment I killed him. ~Kitiara<br><br><span style="color:var(--Flavescent)">Changes the minimum stacks of Cruel Cunning to 2.</span><code>change_upgrade_data,20600,0</code></span>Maneater
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Changes the minimum stacks of Cruel Cunning to 2.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Caramon</span>
         </span>
         <span class="featTableIcon3">
@@ -777,23 +964,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Changes the duration of Knight of the Black Rose to 20 seconds.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Laurana</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 2576**Taunt (Laurana)**Soliasi Arath! ~Laurana<br><br><span style="color:var(--Flavescent)">All Champions damage +100%. Laurana's attacks have a 50% chance to taunt enemies.</span><code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +100%. Laurana's attacks have a 50% chance to taunt enemies.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
@@ -1627,6 +1797,23 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the BUD damage of Lazaapz's Gauntlet Launcher from her Guardian Specialization by 100%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jan 2032</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Penelope</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Flood of Friends Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2820**Flood of Friends (Penelope)**That's the thing about bugs - there's always more!<br><br><span style="color:var(--Flavescent)">Insect Plague now spawns 6 swarms.</span><code>change_upgrade_data,21234,0<br>change_upgrade_data,21234,4<br>change_upgrade_data,21234,5</code></span>Flood of Friends
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Insect Plague now spawns 6 swarms.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>

@@ -42,20 +42,21 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2811**Feat**???: 2811</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Bawdy Bone-Box Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2811**Bawdy Bone-Box**Oh, Morte. Do you ever tire of being improper? ~Fall-from-Grace<br><br><span style="color:var(--Flavescent)">Increases the effect of Morte's Biting Wit ability by 80%. (Prestack)</span><code>buff_upgrade,80,20955</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">???: 2811</span>
+            <span style="margin-left:15px">Bawdy Bone-Box</span>
+            <span style="margin-left:15px">Morte</span>
         </span>
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Kitiara Chest Chest Portrait](images/premiums/chests_842.png)<span class="itemTooltipContents">ID: 842**Platinum Kitiara Chest**Loot for: Kitiara<code>"for_crusaders":[180]</code></span></span>
+            <span class="tooltipHolder">![Platinum Morte Chest Chest Portrait](images/premiums/chests_844.png)<span class="itemTooltipContents">ID: 844**Platinum Morte Chest**Loot for: Morte<code>"for_crusaders":[181]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Kitiara Chest</span>
+            <span style="margin-left:15px">Platinum Morte Chest</span>
             <span style="margin-left:15px">x32 (Shinies x2)</span>
         </span>
     </span>
@@ -102,7 +103,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Too Many Friends Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2779**Too Many Friends**Back up, people! I need some breathing room!<code>todo<br>DevNote: New effect-Increase the effect of Tasty Friends by 100% if there are 3 or fewer Champions adjacent to Widdle.</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Too Many Friends Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2779**Too Many Friends**Back up, people! I need some breathing room!<br><br><span style="color:var(--Flavescent)">Increases the effect of Tasty Friends by 100% if there are 3 or fewer Champions adjacent to Widdle.</span><code>effect_def,3106</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -173,7 +174,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Dire Resolve Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2780**Dire Resolve**To destroy your enemy, sometimes you must become like them.<br><br><span style="color:var(--Flavescent)">Increases the effect of Turiel's Unflinching Hatred ability by 80%.</span><code>buff_upgrade,80,10660</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Dire Resolve Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2780**Dire Resolve**To destroy your enemy, sometimes you must become like them.<br><br><span style="color:var(--Flavescent)">Increases the effect of Turiel's Unflinching Hatred ability by 80%.</span><code>buff_upgrade,80,21267</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -208,6 +209,47 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum Turiel Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 823</div>
+### From the Vault: Athar Jang Sao Skin Pack - 1,000 Platinum  
+Date of release: 05 Nov 2026
+
+> Available till the end of the event - From the Vault: Athar Jang Sao
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Jang Sao Champion Unlock Portrait](images/premiums/unlock_champion_140.png)<span class="itemTooltipContents">ID: 140**Jang Sao (Seat 8)**<img src="images/premiums/unlock_champion_140.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Jang Sao</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Athar Jang Sao Skin Portrait](images/premiums/skin_354.png)<span class="itemTooltipContents">ID: 354**Athar Jang Sao (Jang Sao)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_354.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_354-starry_form.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Athar Jang Sao</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Jang Sao Chest Chest Portrait](images/premiums/chests_551.png)<span class="itemTooltipContents">ID: 551**Platinum Jang Sao Chest**Loot for: Jang Sao<code>"for_crusaders":[140]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Jang Sao Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
@@ -409,6 +451,28 @@ Contents:
 </div></div>
 
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 824</div>
+### From the Vault: Starsilk the Chimeric Hare Familiar Pack - 1,000 Platinum  
+Date of release: 12 Nov 2026
+
+> Available till the end of the event - From the Vault: Starsilk the Chimeric Hare
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Starsilk the Chimeric Hare Familiar Portrait](images/premiums/familiar_54.png)<span class="itemTooltipContents">ID: 54**Starsilk the Chimeric Hare**A popular pet in the lost necropolis of Ythryn<img src="images/premiums/familiar_54.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Starsilk the Chimeric Hare</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 782</div>
 ### Frostbite Skylla Skin & Feat Pack - 1,680 Platinum  
 Date of release: 18 Nov 2026
@@ -532,6 +596,47 @@ Contents:
 </div></div>
 
 
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 825</div>
+### From the Vault: Snow Maan Skin Pack - 1,000 Platinum  
+Date of release: 19 Nov 2026
+
+> Available till the end of the event - From the Vault: Snow Maan
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Hew Maan Champion Unlock Portrait](images/premiums/unlock_champion_75.png)<span class="itemTooltipContents">ID: 75**Hew Maan (Seat 8)**<img src="images/premiums/unlock_champion_75.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Hew Maan</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Snow Maan Skin Portrait](images/premiums/skin_198.png)<span class="itemTooltipContents">ID: 198**Snow Maan (Hew Maan)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_198.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_198-zrang.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_198-yassa.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_198-kleeb.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Snow Maan</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Hew Maan Chest Chest Portrait](images/premiums/chests_257.png)<span class="itemTooltipContents">ID: 257**Platinum Hew Maan Chest**Loot for: Hew Maan<code>"for_crusaders":[75]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Hew Maan Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 784</div>
 ### Gale's Legendary Feat Pack - 1,680 Platinum  
 Date of release: 25 Nov 2026
@@ -594,7 +699,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 771**Frostbite Lazaapz (Lazaapz)**</span></span>
+            <span class="tooltipHolder">![Frostbite Lazaapz Skin Portrait](images/premiums/skin_771.png)<span class="itemTooltipContents">ID: 771**Frostbite Lazaapz (Lazaapz)**<img src="images/premiums/skin_771.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -603,11 +708,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2898**TBD Lazaapz Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Maximum Infusion Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2898**Maximum Infusion**This bad boy can fit SO much junk in it!<br><br><span style="color:var(--Flavescent)">Increases the effect of Lazaapz's Artificer Infusion ability by 80%.</span><code>buff_upgrade,80,17482</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Lazaapz Feat (Do not translate)</span>
+            <span style="margin-left:15px">Maximum Infusion</span>
             <span style="margin-left:15px">Lazaapz</span>
         </span>
     </span>
@@ -743,11 +848,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2781**TBD Krull Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Hell's Glory Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2781**Hell's Glory**I fight, and I kill, in Arkhan's name. But the pleasure of the act? All mine.<br><br><span style="color:var(--Flavescent)">Increases the effect of Krull's $(upgrade_name id) ability by 80%.</span><code>buff_upgrade,80,21581</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Krull Feat (Do not translate)</span>
+            <span style="margin-left:15px">Hell's Glory</span>
             <span style="margin-left:15px">Krull</span>
         </span>
     </span>
@@ -814,11 +919,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2853**TBD Regis Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Goblin Glitch Feat Portrait](images/featicons/glitch.png)<span class="itemTooltipContents">ID: 2853**Goblin Glitch**Fires down. Dark and quiet, all.<code>todo<br>DevNote: Goblin Glitch - Counts as Goblin +100% to Spec 1 for each Goblin in the formation (additive) (epic)</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Regis Feat (Do not translate)</span>
+            <span style="margin-left:15px">Goblin Glitch</span>
             <span style="margin-left:15px">Regis</span>
         </span>
     </span>
@@ -937,11 +1042,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2778**TBD Shadowheart Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Burden of Knowledge Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2778**Burden of Knowledge**Some memories are inescapable - they're burned into you.<code>todo<br>DevNote: Buff All Specs [pre-stack]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Shadowheart Feat (Do not translate)</span>
+            <span style="margin-left:15px">Burden of Knowledge</span>
             <span style="margin-left:15px">Shadowheart</span>
         </span>
     </span>
@@ -1028,11 +1133,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2874**TBD Diana Feat**TBD Diana Feat for EGS Promo</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2874**Standard Affair**Come on, you guys! It's a snow day!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Diana Feat</span>
+            <span style="margin-left:15px">Standard Affair</span>
             <span style="margin-left:15px">Diana</span>
         </span>
     </span>
@@ -1099,11 +1204,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2872**TBD Yorven Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Night of the Lepus Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2872**Night of the Lepus**You're late, you're late, for a very violent fate.<code>todo<br>DevNote: Buff FA4 20%for each Non-Standard Species additive</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Yorven Feat (Do not translate)</span>
+            <span style="margin-left:15px">Night of the Lepus</span>
             <span style="margin-left:15px">Yorven</span>
         </span>
     </span>
@@ -1245,7 +1350,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 772**Snow Day Hank (Hank)**</span></span>
+            <span class="tooltipHolder">![Snow Day Hank Skin Portrait](images/premiums/skin_772.png)<span class="itemTooltipContents">ID: 772**Snow Day Hank (Hank)**<img src="images/premiums/skin_772.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1254,11 +1359,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2899**TBD Hank Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2899**Standard Affair**Let's get everyone together! It's time for some fun!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Hank Feat (Do not translate)</span>
+            <span style="margin-left:15px">Standard Affair</span>
             <span style="margin-left:15px">Hank</span>
         </span>
     </span>
@@ -1504,7 +1609,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 767**Wintershield Knight Barrowin (Barrowin)**</span></span>
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 767**Wintershield Knight Barrowin (Barrowin)**<img src="images/premiums/skin_767.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -1513,11 +1618,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2894**TBD Barrowin Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Flashing Blade Feat Portrait](images/featicons/cooldown.png)<span class="itemTooltipContents">ID: 2894**Flashing Blade**I'm here to get the job done. Faster is better.<br><br><span style="color:var(--Flavescent)">Reduces the cooldown on Barrowin's Base Attack by 1 second.</span><code>reduce_attack_cooldown,1</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Barrowin Feat (Do not translate)</span>
+            <span style="margin-left:15px">Flashing Blade</span>
             <span style="margin-left:15px">Barrowin</span>
         </span>
     </span>
@@ -1636,11 +1741,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2895**TBD Eric Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Standard Affair Feat Portrait](images/featicons/dpsallchampions.png)<span class="itemTooltipContents">ID: 2895**Standard Affair**No school today? Jackpot!<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Eric Feat (Do not translate)</span>
+            <span style="margin-left:15px">Standard Affair</span>
             <span style="margin-left:15px">Eric</span>
         </span>
     </span>
@@ -1707,12 +1812,12 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2896**TBD Gazrick Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Frozen Assets Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2896**Frozen Assets**Everything must go, especially their armor!<code>todo<br>DevNote: Buff FA3/Armor Ablation base effect [pre-stack]</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Gazrick Feat (Do not translate)</span>
-            <span style="margin-left:15px">???: 0</span>
+            <span style="margin-left:15px">Frozen Assets</span>
+            <span style="margin-left:15px">Gazrick</span>
         </span>
     </span>
     <span class="premiumsTableItem">
@@ -1898,11 +2003,11 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Unknown Feat Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 2897**TBD Rust Feat (Do not translate)**</span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Silver & Gold Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2897**Silver & Gold**I make new friends, yes, but I also keep the old!<br><br><span style="color:var(--Flavescent)">Increases the effect of Rust's Hello, Friends ability by 80%.</span><code>buff_upgrade,80,15357</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
-            <span style="margin-left:15px">TBD Rust Feat (Do not translate)</span>
+            <span style="margin-left:15px">Silver & Gold</span>
             <span style="margin-left:15px">Rust</span>
         </span>
     </span>
@@ -1933,6 +2038,567 @@ Contents:
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Chest**</span>
             <span style="margin-left:15px">Platinum Rust Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 810</div>
+### Diana's Legendary Feat Pack - 1,680 Platinum  
+Date of release: 27 Jan 2027
+
+> Unlock Diana's full potential with her Legendary Feat & 6 Support Pigments now!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Dark Urge Champion Unlock Portrait](images/premiums/unlock_champion_146.png)<span class="itemTooltipContents">ID: 146**Dark Urge (Seat 11)**<img src="images/premiums/unlock_champion_146.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Dark Urge</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Selflessness</span>
+            <span style="margin-left:15px">Bruenor</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Marvelous DPS Pigment Buff Portrait](images/premiums/buff_1905.png)<span class="itemTooltipContents">ID: 1905**Marvelous DPS Pigment**Adds a Champion-tag-based effect to an epic or higher equipment item of your choice!<code>legendary_apply_pigment,2</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Marvelous DPS Pigment</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 813</div>
+### Autumn Twilight Bride Goldmoon Theme Pack - 3,830 Platinum  
+Date of release: 03 Feb 2027
+
+> Unlock Goldmoon along with an exclusive Skin & Wedding Dove Familiar!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Champion Unlock Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 184**Goldmoon**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Goldmoon</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 774**Autumn Twilight Bride Goldmoon (Goldmoon)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Autumn Twilight Bride Goldmoon</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 355**Goldmoon's Wedding Dove**According to Que-shu tradition, the bridegift cannot be purchased. This symbol of love must be made by the hand of the beloved.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Goldmoon's Wedding Dove</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Selflessness</span>
+            <span style="margin-left:15px">Bruenor</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Tanis Chest Chest Portrait](images/premiums/chests_851.png)<span class="itemTooltipContents">ID: 851**Platinum Tanis Chest**Loot for: Tanis<code>"for_crusaders":[182]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Tanis Chest</span>
+            <span style="margin-left:15px">x32 (Shinies x2)</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Potion of the Gem Hunter Buff Portrait](images/premiums/buff_1723.png)<span class="itemTooltipContents">ID: 1723**Potion of the Gem Hunter**Increases the gem drops from bosses by 50%<code>increase_boss_gems_percent,50</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Potion of the Gem Hunter</span>
+            <span style="margin-left:15px">x1</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 814</div>
+### Meteor Duelist Fen Skin & Feat Pack - 1,680 Platinum  
+Date of release: 03 Feb 2027
+
+> Unlock Fen along with her exclusive Meteor Duelist Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Fen Champion Unlock Portrait](images/premiums/unlock_champion_118.png)<span class="itemTooltipContents">ID: 118**Fen (Seat 6)**<img src="images/premiums/unlock_champion_118.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Fen</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Meteor Duelist Fen Skin Portrait](images/premiums/skin_775.png)<span class="itemTooltipContents">ID: 775**Meteor Duelist Fen (Fen)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Meteor Duelist Fen</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Selflessness</span>
+            <span style="margin-left:15px">Bruenor</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Fen Chest Chest Portrait](images/premiums/chests_438.png)<span class="itemTooltipContents">ID: 438**Platinum Fen Chest**Loot for: Fen<code>"for_crusaders":[118]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Fen Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 815</div>
+### Radiant Gala Karlach Skin & Feat Pack - 1,680 Platinum  
+Date of release: 03 Feb 2027
+
+> Unlock Karlach along with her exclusive Radiant Gala Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Karlach Champion Unlock Portrait](images/premiums/unlock_champion_143.png)<span class="itemTooltipContents">ID: 143**Karlach (Seat 4)**<img src="images/premiums/unlock_champion_143.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Karlach</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 776**Radiant Gala Karlach (Karlach)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Radiant Gala Karlach</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Selflessness</span>
+            <span style="margin-left:15px">Bruenor</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum  Karlach Chest Chest Portrait](images/premiums/chests_557.png)<span class="itemTooltipContents">ID: 557**Platinum  Karlach Chest**Loot for: Karlach<code>"for_crusaders":[143]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum  Karlach Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 816</div>
+### Aurora Flumph Familiar Pack - 840 Platinum  
+Date of release: 10 Feb 2027
+
+> Collect your own Aurora Flumph familiar!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 356**Aurora Flumph**Stuck between serenity and curiosity, the Aurora Flumph is our constant faithful companion.</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Aurora Flumph</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Giant's Strength Buff Portrait](images/premiums/buff_4.png)<span class="itemTooltipContents">ID: 4**Huge Potion of Giant's Strength**A transparent potion in which floats the sliver of a giant's fingernail.<code>global_dps_multiplier_mult,900</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Giant's Strength</span>
+            <span style="margin-left:15px">x2</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Clairvoyance Buff Portrait](images/premiums/buff_8.png)<span class="itemTooltipContents">ID: 8**Huge Potion of Clairvoyance**Three eyeballs bob in this yellowish potion.<code>gold_multiplier_mult,400</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Clairvoyance</span>
+            <span style="margin-left:15px">x2</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Speed</span>
+            <span style="margin-left:15px">x2</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 817</div>
+### Clockwork Cosmos Vi Skin & Feat Pack - 1,680 Platinum  
+Date of release: 10 Feb 2027
+
+> Unlock Vi along with her exclusive Clockwork Cosmos Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Vi Champion Unlock Portrait](images/premiums/unlock_champion_95.png)<span class="itemTooltipContents">ID: 95**Vi (Seat 12)**<img src="images/premiums/unlock_champion_95.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Vi</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 777**Clockwork Cosmos Vi (Vi)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Clockwork Cosmos Vi</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Selflessness</span>
+            <span style="margin-left:15px">Bruenor</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Vi Chest Chest Portrait](images/premiums/chests_347.png)<span class="itemTooltipContents">ID: 347**Platinum Vi Chest**Loot for: Vi<code>"for_crusaders":[95]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Vi Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 818</div>
+### Lunar Vestments Kalix Skin & Feat Pack - 1,680 Platinum  
+Date of release: 10 Feb 2027
+
+> Unlock Kalix along with his exclusive Lunar Vestments Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Kalix Champion Unlock Portrait](images/premiums/unlock_champion_158.png)<span class="itemTooltipContents">ID: 158**Kalix (Seat 5)**<img src="images/premiums/unlock_champion_158.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Kalix</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 778**Lunar Vestments Kalix (Kalix)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Lunar Vestments Kalix</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Selflessness</span>
+            <span style="margin-left:15px">Bruenor</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Kalix Chest Chest Portrait](images/premiums/chests_649.png)<span class="itemTooltipContents">ID: 649**Platinum Kalix Chest**Loot for: Kalix<code>"for_crusaders":[158]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Kalix Chest</span>
+            <span style="margin-left:15px">x14 (Shinies x1)</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 819</div>
+### Starfall the Owlbear Cub Familiar Pack - 1,140 Platinum  
+Date of release: 17 Feb 2027
+
+> Collect your own Starfall the Owlbear Cub familiar!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 357**Starfall the Owlbear Cub**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Familiar**</span>
+            <span style="margin-left:15px">Starfall the Owlbear Cub</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Fire Breath Buff Portrait](images/premiums/buff_40.png)<span class="itemTooltipContents">ID: 40**Huge Potion of Fire Breath**The orange liquid in this vial flickers and smoke fills the top of the container.<code>click_damage_seconds_global_dps,600</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Fire Breath</span>
+            <span style="margin-left:15px">x4</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Huge Potion of Speed Buff Portrait](images/premiums/buff_77.png)<span class="itemTooltipContents">ID: 77**Huge Potion of Speed**This potion's yellow fluid is streaked with black and swirls on its own.<code>time_scale,2.75</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Huge Potion of Speed</span>
+            <span style="margin-left:15px">x4</span>
+        </span>
+    </span>
+</span>
+</div></div>
+
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 820</div>
+### Stargazer Presto Skin & Feat Pack - 1,680 Platinum  
+Date of release: 17 Feb 2027
+
+> Unlock Presto along with his exclusive Stargazer Skin & Feat!
+
+Contents:
+
+<span class="premiumsTableRow">
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Presto Champion Unlock Portrait](images/premiums/unlock_champion_144.png)<span class="itemTooltipContents">ID: 144**Presto (Seat 2)**<img src="images/premiums/unlock_champion_144.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Champion Unlock**</span>
+            <span style="margin-left:15px">Presto</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Unknown Skin Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 779**Stargazer Presto (Presto)**</span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Skin**</span>
+            <span style="margin-left:15px">Stargazer Presto</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon2 tooltipHolder">![Selflessness Feat Portrait](images/featicons/globaldps.png)<span class="itemTooltipContents">ID: 1**Selflessness**Aye, a selfless dwarf I am.<br><br><span style="color:var(--Flavescent)">All Champions damage +10%.</span><code>global_dps_multiplier_mult,10</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Feat**</span>
+            <span style="margin-left:15px">Selflessness</span>
+            <span style="margin-left:15px">Bruenor</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Bounty Contract Buff Portrait](images/premiums/buff_20.png)<span class="itemTooltipContents">ID: 20**Large Bounty Contract**Claim a bounty worth 8 hours of offline gold earnings and event tokens.<code>seconds_worth_of_gold,28800</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Bounty Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Large Blacksmithing Contract Buff Portrait](images/premiums/buff_34.png)<span class="itemTooltipContents">ID: 34**Large Blacksmithing Contract**Contract a master blacksmith to improve a piece of equipment owned by one of your Champions.<code>level_up_loot,24</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Buff**</span>
+            <span style="margin-left:15px">Large Blacksmithing Contract</span>
+            <span style="margin-left:15px">x6</span>
+        </span>
+    </span>
+    <span class="premiumsTableItem">
+        <span class="emergenceShopTableIcon">
+            <span class="tooltipHolder">![Platinum Presto Chest Chest Portrait](images/premiums/chests_559.png)<span class="itemTooltipContents">ID: 559**Platinum Presto Chest**Loot for: Presto<code>"for_crusaders":[144]</code></span></span>
+        </span>
+        <span class="emergenceShopTableTextColumn">
+            <span style="margin-left:5px">**Chest**</span>
+            <span style="margin-left:15px">Platinum Presto Chest</span>
             <span style="margin-left:15px">x14 (Shinies x1)</span>
         </span>
     </span>
