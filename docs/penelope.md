@@ -425,8 +425,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 9103,
+    "large_graphic_id": 9103,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
@@ -499,8 +499,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         }
     ],
     "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
+    "graphic_id": 9109,
+    "large_graphic_id": 9108,
     "properties": {
         "is_formation_ability": true,
         "formation_circle_icon": false,
