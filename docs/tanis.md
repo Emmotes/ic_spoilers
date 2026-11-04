@@ -57,7 +57,7 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Power Attack** (Melee)
 > Tanis swings at the nearest enemy with his sword, cleaving nearby enemies as well.  
-> Cooldown: 5s (Cap 1.25s)
+> Cooldown: 5.5s (Cap 1.375s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -71,7 +71,7 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
     "num_targets": 1,
     "aoe_radius": 100,
     "damage_modifier": 1,
-    "cooldown": 5,
+    "cooldown": 5.5,
     "animations": [
         {
             "type": "melee_attack",
@@ -103,7 +103,7 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Rapid Shot** (Ranged and Melee)
 > Tanis shoots two arrows at the nearest enemy in quick succession, dealing two hits.  
-> Cooldown: 5s (Cap 1.25s)
+> Cooldown: 5.5s (Cap 1.375s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -117,7 +117,7 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 5,
+    "cooldown": 5.5,
     "animations": [
         {
             "type": "ranged_attack",
@@ -154,7 +154,7 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Ultimate Attack: For Krynn!** (Guess)
 > Tanis rallies his fellow Champions to deal an additional BUD-based hit with their next attack.  
-> Cooldown: 30s (Cap 7.5s)
+> Cooldown: 180s (Cap 45s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -168,7 +168,7 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 0.03,
-    "cooldown": 30,
+    "cooldown": 180,
     "animations": [
         {
             "type": "ultimate_attack",
@@ -358,7 +358,7 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
             ],
             "use_computed_amount_for_description": true,
             "off_when_benched": true,
-            "target_empty_slots": false
+            "description": "Unlocks Regis' Ruby Brilliance Ultimate Attack"
         }
     ],
     "requirements": "",
@@ -371,7 +371,7 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "retain_on_slot_changed": true,
-        "spec_option_post_apply_info": "Champions Targeted: $num_targets"
+        "spec_option_post_apply_info": "Slots Targeted: $num_targets"
     }
 }
 </pre>
@@ -398,8 +398,7 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
                 "col"
             ],
             "use_computed_amount_for_description": true,
-            "off_when_benched": true,
-            "target_empty_slots": false
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -412,7 +411,7 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "retain_on_slot_changed": true,
-        "spec_option_post_apply_info": "Champions Targeted: $num_targets"
+        "spec_option_post_apply_info": "Slots Targeted: $num_targets"
     }
 }
 </pre>
@@ -439,8 +438,7 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
                 "shortest_column"
             ],
             "use_computed_amount_for_description": true,
-            "off_when_benched": true,
-            "target_empty_slots": false
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -453,7 +451,7 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "retain_on_slot_changed": true,
-        "spec_option_post_apply_info": "Champions Targeted: $num_targets"
+        "spec_option_post_apply_info": "Slots Targeted: $num_targets"
     }
 }
 </pre>
@@ -546,13 +544,18 @@ Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 20
                 }
             ],
             "override_key_desc": "$target receives a copy of all positional abilities affecting Tanis.",
-            "retarget_when_any_hero_tags_changed": true
+            "retarget_when_any_hero_tags_changed": true,
+            "hide_amount_rate": true
         },
         {
             "off_when_benched": true,
             "effect_string": "tanis_tactical_positioning",
             "effect_scale_title": "Duplicated",
-            "effect_scale_description": "Duplicated by"
+            "effect_scale_description": "Duplicated by",
+            "can_gain_dps_tag_upgrade_ids": [
+                19344,
+                20139
+            ]
         },
         {
             "effect_string": "buff_upgrades,100,21568,21569,21570",
