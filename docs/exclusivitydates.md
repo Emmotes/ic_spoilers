@@ -1259,7 +1259,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Shout Above The Din Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1179**Shout Above The Din (Turiel)**The time for debate is over!<br><br><span style="color:var(--Flavescent)">Increases the effect of all of Turiel's specialization choices by 80%.</span><code>buff_upgrades,80,10663,10664</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Shout Above The Din Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1179**Shout Above The Din (Turiel)**The time for debate is over!<br><br><span style="color:var(--Flavescent)">Increases the effect of Turiel's Specializations by 80%.</span><code>buff_upgrades,80,21231,21232</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -2042,7 +2042,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Golden Epic Icon for Jang Sao Slot 5](images/exclusivities/ge_21172.png)<span class="itemTooltipContents">ID: 3333**Lunation (Jang Sao)**All of time and space, within your imagination<br><br><span style="color:var(--Flavescent)">Increases the effect of Jang Sao's Wisdom of the Ages and Speed of Shooting Stars by 275%. (Prestack)</span><code>buff_upgrades,275,13261,13262</code></span></span>
+                        <span class="tooltipHolder">![Golden Epic Icon for Jang Sao Slot 5](images/exclusivities/ge_21172.png)<span class="itemTooltipContents">ID: 3333**Lunation (Jang Sao)**All of time and space, within your imagination<br><br><span style="color:var(--Flavescent)">Increases the effect of Jang Sao's first set of Specializations by 100%. (Prestack)</span><code>buff_upgrades,100,21248,21249</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Golden Epic**</span>
