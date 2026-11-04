@@ -24,6 +24,23 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Puddles the Kapak Draconian Portrait](images/familiars/puddlesthekapakdraconian.png)<span class="featTooltipContents">ID: 350**Puddles the Kapak Draconian**Beware the dripping maw!<img src="images/familiars/puddlesthekapakdraconian.webp" alt="Puddles the Kapak Draconian Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+        </span>
+        <span class="skinTableName">
+            Puddles the Kapak Draconian
+        </span>
+        <span class="skinTableSource">
+            EGS Giveaway - Morte's Renown Pack
+        </span>
+        <span class="skinTableCost">
+            Free?
+        </span>
+        <span class="skinTableDate">
+            05 Nov 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Lady Icekiss Portrait](images/familiars/ladyicekiss.png)<span class="featTooltipContents">ID: 344**Lady Icekiss**The god of cold indifference who embodies winter's cruelty.<img src="images/familiars/ladyicekiss.webp" alt="Lady Icekiss Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -224,23 +241,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
         </span>
         <span class="skinTableDate">
             17 Feb 2027
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Puddles the Kapak Draconian Portrait](images/familiars/puddlesthekapakdraconian.png)<span class="featTooltipContents">ID: 350**Puddles the Kapak Draconian**Beware the dripping maw!<img src="images/familiars/puddlesthekapakdraconian.webp" alt="Puddles the Kapak Draconian Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Puddles the Kapak Draconian
-        </span>
-        <span class="skinTableSource">
-            None
-        </span>
-        <span class="skinTableCost">
-            Free?
-        </span>
-        <span class="skinTableDate">
-            ???
         </span>
     </span>
 </span>

@@ -679,10 +679,55 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
-                ![Years End Giveaway Winterfest Celebration Icon](images/general/years end.png)**Years End Giveaway** - Winterfest Celebration
+                ![EGS Giveaway Morte's Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Morte's Renown Pack
             </span>
         </span>
         <span id="g2" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Puddles the Kapak Draconian Familiar Icon](images/exclusivities/fam_350.png)<span class="featTooltipContents">ID: 350**Puddles the Kapak Draconian**Beware the dripping maw!<br><img src="images/exclusivities/fam_350.webp" alt="Puddles the Kapak Draconian Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Familiar**</span>
+                        <span style="margin-left:15px">Puddles the Kapak Draconian</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>05 November 2026</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>12 November 2026</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>12 February 2027 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Years End Giveaway Winterfest Celebration Icon](images/general/years end.png)**Years End Giveaway** - Winterfest Celebration
+            </span>
+        </span>
+        <span id="g3" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
