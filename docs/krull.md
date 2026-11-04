@@ -551,7 +551,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3052,
     "flavour_text": "",
     "description": {
-        "desc": "Krull increases the effect of Plague: Pilfer by $(not_buffed amount)% and has a $(amount___2)% higher chance to apply Plague: Pilfer when an enemy spawns or he attacks it."
+        "desc": "Krull increases the effect of Plague: Pilfer by $(amount)% and has a $(not_buffed amount___2)% higher chance to apply Plague: Pilfer when an enemy spawns or he attacks it."
     },
     "effect_keys": [
         {
@@ -590,7 +590,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3053,
     "flavour_text": "",
     "description": {
-        "desc": "Krull increases the effect of Plague: Pain by $(not_buffed amount)% and has a $(amount___2)% higher chance to apply Plague: Pain when an enemy spawns or he attacks it."
+        "desc": "Krull increases the effect of Plague: Pain by $(amount)% and has a $(not_buffed amount___2)% higher chance to apply Plague: Pain when an enemy spawns or he attacks it."
     },
     "effect_keys": [
         {
@@ -629,7 +629,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3054,
     "flavour_text": "",
     "description": {
-        "desc": "Krull increases the effect of Plague: Traitor by $(not_buffed amount)% and has a $(amount___2)% higher chance to apply Plague: Traitor when an enemy spawns or he attacks it."
+        "desc": "Krull increases the effect of Plague: Traitor by $(amount)% and has a $(not_buffed amount___2)% higher chance to apply Plague: Traitor when an enemy spawns or he attacks it."
     },
     "effect_keys": [
         {
