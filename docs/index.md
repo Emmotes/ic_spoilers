@@ -647,6 +647,7 @@ Events will have either one rework OR three rebalances.
 
 Miscellaneous spoilers with due dates.
 
+* Winterfest Celebration - 2 December 2026
 * [Unknown Exclusive Giveaway](platform_giveaway_797.md) - 10 December 2026
 * Emergence 18 - 30 December 2026
 * [Trials & Legendaries](trialsLegs.md) - ???

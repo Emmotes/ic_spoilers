@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Widdle</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Too Many Friends Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2779**Too Many Friends (Widdle)**Back up, people! I need some breathing room!<br><br><span style="color:var(--Flavescent)">Increases the effect of Tasty Friends by 100% if there are 3 or fewer Champions adjacent to Widdle.</span><code>effect_def,3106</code></span>Too Many Friends
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Tasty Friends by 100% if there are 3 or fewer Champions adjacent to Widdle.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">04 Nov 2026<br>04 Feb 2027</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Turiel</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Dire Resolve Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2780**Dire Resolve (Turiel)**To destroy your enemy, sometimes you must become like them.<br><br><span style="color:var(--Flavescent)">Increases the effect of Turiel's Unflinching Hatred ability by 80%.</span><code>buff_upgrade,80,21267</code></span>Dire Resolve
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Turiel's Unflinching Hatred ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">04 Nov 2026<br>04 Feb 2027</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Morte</span>
         </span>
         <span class="featTableIcon4">
@@ -149,23 +115,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Nordom</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Augmented Ranks Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2383**Augmented Ranks (Nordom)**One. One. One. One... Two? Two! TWO!<br><br><span style="color:var(--Flavescent)">Changes Form Orderly Ranks to target the next two columns.</span><code>change_upgrade_targets,18058</code></span>Augmented Ranks
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Changes Form Orderly Ranks to target the next two columns.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">02 Dec 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Krull</span>
         </span>
         <span class="featTableIcon4">
@@ -196,6 +145,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">02 Dec 2026<br>02 Mar 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Nordom</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Augmented Ranks Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2383**Augmented Ranks (Nordom)**One. One. One. One... Two? Two! TWO!<br><br><span style="color:var(--Flavescent)">Changes Form Orderly Ranks to target the next two columns.</span><code>change_upgrade_targets,18058</code></span>Augmented Ranks
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Changes Form Orderly Ranks to target the next two columns.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Years End</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">02 Dec 2026</span>
         </span>
     </span>
     <span class="featTableRow">

@@ -322,6 +322,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">21 Jan 2027</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Widdle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Too Many Friends Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2779**Too Many Friends (Widdle)**Back up, people! I need some breathing room!<br><br><span style="color:var(--Flavescent)">Increases the effect of Tasty Friends by 100% if there are 3 or fewer Champions adjacent to Widdle.</span><code>effect_def,3106</code></span>Too Many Friends
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Tasty Friends by 100% if there are 3 or fewer Champions adjacent to Widdle.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Feb 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Turiel</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Dire Resolve Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2780**Dire Resolve (Turiel)**To destroy your enemy, sometimes you must become like them.<br><br><span style="color:var(--Flavescent)">Increases the effect of Turiel's Unflinching Hatred ability by 80%.</span><code>buff_upgrade,80,21267</code></span>Dire Resolve
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Turiel's Unflinching Hatred ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Feb 2027</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -636,6 +670,52 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             </span>
             <span class="postSeasonTableDate">
                 <span>07 January 2027 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Years End Giveaway Winterfest Celebration Icon](images/general/years end.png)**Years End Giveaway** - Winterfest Celebration
+            </span>
+        </span>
+        <span id="g2" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Augmented Ranks Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2383**Augmented Ranks (Nordom)**One. One. One. One... Two? Two! TWO!<br><br><span style="color:var(--Flavescent)">Changes Form Orderly Ranks to target the next two columns.</span><code>change_upgrade_targets,18058</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Augmented Ranks</span>
+                        <span style="margin-left:15px">Nordom</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>02 December 2026</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>09 December 2026</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>09 March 2027 (Guess)</span>
             </span>
         </span>
     </span>
