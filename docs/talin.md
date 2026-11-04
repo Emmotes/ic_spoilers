@@ -35,7 +35,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3074,
     "flavour_text": "",
     "description": {
-        "desc": "Talin increases the damage of all Champions by $(amount)%. This ability is increased by $(amount___2)% for each enemy killed in the current area, stacking multiplicatively and capping at $(max_stacks___2) kills."
+        "desc": "Talin increases the damage of all Champions by $(not_buffed amount)%. This ability is increased by $(not_buffed amount___2)% for each enemy killed in the current area, stacking multiplicatively and capping at $(max_stacks___2) kills."
     },
     "effect_keys": [
         {
@@ -44,7 +44,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "targets": [
                 "all"
             ],
-            "desc_forced_order": 1
+            "desc_forced_order": 1,
+            "show_bonus": true
         },
         {
             "effect_string": "buff_upgrade,50,21606,0",
@@ -56,7 +57,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 {
                     "trigger": "area_changed",
                     "action": {
-                        "type": "reset_timer"
+                        "type": "reset"
                     }
                 }
             ],
@@ -65,6 +66,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
                 "slot_changed"
             ],
             "desc_forced_order": 0,
+            "total_title": "Buff Amount",
             "show_bonus": true
         }
     ],
@@ -111,11 +113,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "optional_attack_ids": [
                 353
             ],
+            "always_apply": true,
             "duration": 30,
             "with_all_buff_effects": true,
             "monster_effect": {
                 "effect_string": "ground_effect_area,$amount",
                 "area_key": "scatter_tacks",
+                "do_not_stack": false,
                 "drop_on_hero": true,
                 "radius": 100,
                 "duration": 30,
@@ -284,7 +288,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "is_formation_ability": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0,
+        "default_bonus_index": 1,
         "owner_use_outgoing_description": true
     }
 }
@@ -340,7 +344,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "off_when_benched": true
         },
         {
-            "effect_string": "buff_ground_effect_property,200,density,21607",
+            "effect_string": "buff_ground_effect_property,75,density,21607",
             "apply_manually": true,
             "off_when_benched": true
         }
@@ -351,7 +355,9 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "indexed_effect_properties": true
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 1
     }
 }
 </pre>
