@@ -661,7 +661,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: The Simril Spoilsport (Krull)** (Complete Area 50)
+![The Simril Spoilsport (Krull) Icon](images/krull/1650.png) **Unlock Adventure: The Simril Spoilsport (Krull)** (Complete Area 50)
 > Simril is ruined! Someone has pilfered the food supplies!
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
