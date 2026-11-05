@@ -3,6 +3,14 @@
 <span class="championPortraitsRow">
     <span class="championPortraitsColumn">
         <span class="championPortraitsImage">
+            ![PC Portrait for Tika](images/tika/portrait.png)
+        </span>
+        <span>
+            Portrait
+        </span>
+    </span>
+    <span class="championPortraitsColumn">
+        <span class="championPortraitsImage">
             ![Model WebP of Tika](images/tika/model.webp)
         </span>
         <span>
@@ -27,7 +35,7 @@ Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
   <span>**Class**:</span>
   <span>Unknown</span>
   <span>**Roles**:</span>
-  <span>Unknown</span>
+  <span>Gold (Guess)</span>
   <span>**Age**:</span>
   <span>Unknown</span>
   <span>**Gender**:</span>
@@ -54,23 +62,37 @@ Unknown.
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Adaptive Training** (Guess)
-> Unknown effect.
+**Unknown** (Guess)
+> Tika may be used in any adventure or variant if Caramon is already in the formation, even if the Patron or variant restrictions would forbid it. Likewise, if Tika is in the formation, then Caramon may be used as well.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 31703,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Formation_Tika_AdaptiveTraining",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 3120,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tika may be used in any adventure or variant if Caramon is already in the formation, even if the Patron or variant restrictions would forbid it. Likewise, if Tika is in the formation, then Caramon may be used as well. "
+    },
+    "effect_keys": [
+        {
+            "effect_string": "force_allow_hero",
+            "paired_hero_id": 179,
+            "off_when_benched": true,
+            "ignore_hero_source_check": true,
+            "hero_ids": [
+                179
+            ]
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -79,23 +101,31 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Order Up** (Guess)
-> Unknown effect.
+**Order Up!** (Guess)
+> Tika increases the damage of all Champions in the formation by 100%. On each affected Champion this effect is increased by 100% for each positional buff that is affecting that Champion, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 31704,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Formation_Tika_OrderUp",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 3121,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tika increases the damage of all Champions in the formation by 100%. On each affected Champion this effect is increased by 100% for each positional buff that is affecting that Champion, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -105,22 +135,63 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Spirited Defiance** (Guess)
-> Unknown effect.
+> When Tika attacks an enemy that has attacked a Champion in the formation or been on screen for at least 15 seconds, that enemy gains a Defiance stack. Each Defiance stack causes that enemy to take 100% additional damage from all Champions' attacks, stacking multiplicatively to a maximum of 10 stacks.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 31705,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Formation_Tika_SpiritedDefiance",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 3122,
+    "flavour_text": "",
+    "description": {
+        "desc": "When Tika attacks an enemy that has attacked a Champion in the formation or been on screen for at least 15 seconds, that enemy gains a Defiance stack. Each Defiance stack causes that enemy to take 100% additional damage from all Champions' attacks, stacking multiplicatively to a maximum of 10 stacks. "
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Adaptive Training** (Guess)
+> Tika watches and learns from her more experienced adventuring allies, augmenting her own abilities based on the most populous non-Support, non-Tanking role in the formation, or all relevant roles in case of a tie.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 3123,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tika watches and learns from her more experienced adventuring allies, augmenting her own abilities based on the most populous non-Support, non-Tanking role in the formation, or all relevant roles in case of a tie. "
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -132,47 +203,30 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Excellent Service** (Guess)
-> Unknown effect.
+> Tika gains the Gold role. Tika increases your Gold Find bonus by 50% for each positional buff being counted by her Order Up! ability, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 31708,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Specialization_Tika_ExcellentService",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Fast Food** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 31709,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Specialization_Tika_FastFood",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 3124,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tika gains the Gold role. Tika increases your Gold Find bonus by 50% for each positional buff being counted by her Order Up! ability, stacking multiplicatively. "
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -182,22 +236,30 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Home Cooking** (Guess)
-> Unknown effect.
+> Tika gains the Healing role. Tika grants temporary hit points equal to 10% of her max health to all Champions in the formation at the start of each area, increased by 5% for each positional buff being counted by her Order Up! ability, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 31711,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Specialization_Tika_HomeCooking",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 3125,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tika gains the Healing role. Tika grants temporary hit points equal to 10% of her max health to all Champions in the formation at the start of each area, increased by 5% for each positional buff being counted by her Order Up! ability, stacking multiplicatively."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -206,48 +268,31 @@ Unknown.
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Hearty Heroes** (Guess)
-> Unknown effect.
+**Fast Food** (Guess)
+> Tika gains the Speed role. In non-boss areas, enemies that Tika attacks have a 50% chance to drop Otik's Spiced Potatoes upon being defeated. When this item is collected, it counts as 1 progress toward the area's quest. The progress amount is increased by 1 for every 15 positional buffs being counted by her Order Up! ability.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 31710,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Specialization_Tika_HeartyHeroes",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Hometown Heroes** (Guess)
-> Unknown effect.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 31712,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Specialization_Tika_HometownHeroes",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 3126,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tika gains the Speed role. In non-boss areas, enemies that Tika attacks have a 50% chance to drop Otik's Spiced Potatoes upon being defeated. When this item is collected, it counts as 1 progress toward the area's quest. The progress amount is increased by 1 for every 15 positional buffs being counted by her Order Up! ability."
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -257,22 +302,96 @@ Unknown.
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Humble Heroes** (Guess)
-> Unknown effect.
+> Tika increases the effect of her Order Up! and Spirited Defiance abilities by 100% for each Champion in the formation with a total ability score of 78 or less, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
 {
-    "id": 31713,
-    "graphic": "Icons/Events/2017Wintershield/Wintershield_Y10/Icon_Specialization_Tika_HumbleHeroes",
-    "v": 2,
-    "fs": 0,
-    "p": 0,
-    "type": 1,
-    "export_params": {
-        "uses": [
-            "icon"
-        ],
-        "quantize": true
+    "id": 3127,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tika increases the effect of her Order Up! and Spirited Defiance abilities by 100% for each Champion in the formation with a total ability score of 78 or less, stacking multiplicatively. "
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Hearty Heroes** (Guess)
+> Tika increases the effect of her Order Up! and Spirited Defiance abilities by 100% for each Champion in the formation with a Constitution score of 13 or higher, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 3128,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tika increases the effect of her Order Up! and Spirited Defiance abilities by 100% for each Champion in the formation with a Constitution score of 13 or higher, stacking multiplicatively. "
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Hometown Heroes** (Guess)
+> Tika increases the effect of her Order Up! and Spirited Defiance abilities by 100% for each Champion in the formation who belongs to the Heroes of the Lance affiliation, stacking multiplicatively.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 3129,
+    "flavour_text": "",
+    "description": {
+        "desc": "Tika increases the effect of her Order Up! and Spirited Defiance abilities by 100% for each Champion in the formation who belongs to the Heroes of the Lance affiliation, stacking multiplicatively. "
+    },
+    "effect_keys": [
+        {
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
