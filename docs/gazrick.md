@@ -302,6 +302,72 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Sheer Cold** (Guess)
+> Each time Gazrick applies a stack of Armor Ablation, the effect of Frosty Friendship is increased by $amount%, stacking multiplicatively up to $max_stacks times. Stacks reset when changing areas.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 3113,
+    "flavour_text": "",
+    "description": {
+        "desc": "Each time Gazrick applies a stack of Armor Ablation, the effect of Frosty Friendship is increased by $amount%, stacking multiplicatively up to $max_stacks times. Stacks reset when changing areas."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Specialisation: Stay Frosty** (Guess)
+> Gazrick reduces the effect of Armor Ablation by 50%, but enemies he attacks take $amount% more damage from all attacks, stacking multiplicatively up to $max_stacks times.
+<details><summary><em>Raw Data</em></summary>
+<p>
+<pre>
+{
+    "id": 3114,
+    "flavour_text": "",
+    "description": {
+        "desc": "Gazrick reduces the effect of Armor Ablation by 50%, but enemies he attacks take $amount% more damage from all attacks, stacking multiplicatively up to $max_stacks times."
+    },
+    "effect_keys": [
+        {
+            "off_when_benched": true,
+            "effect_string": "do_nothing"
+        }
+    ],
+    "requirements": "",
+    "graphic_id": 0,
+    "large_graphic_id": 0,
+    "properties": {
+        "is_formation_ability": true,
+        "owner_use_outgoing_description": true,
+        "type": "upgrade",
+        "formation_circle_icon": false
+    }
+}
+</pre>
+</p>
+</details>
+</div></div>
+
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Finesse with Frost** (Guess)
 > Gazrick increases the effect of Control Weather by 200%.
 <details><summary><em>Raw Data</em></summary>
@@ -337,7 +403,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: The Endless War (Gazrick)** (Complete Area 50)
+![The Endless War (Gazrick) Icon](images/gazrick/2661.png) **Unlock Adventure: The Endless War (Gazrick)** (Complete Area 50)
 > Defend Triboar from a Githyanki invasion.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
