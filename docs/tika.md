@@ -470,7 +470,22 @@ Unknown.
 
 # Adventures and Variants
 
-Unknown.
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+![The Merry Map Misadventure (Tika) Icon](images/tika/1874.png) **Unlock Adventure: The Merry Map Misadventure (Tika)** (Complete Area 50)
+> Help a poor map find its way home for the holidays.
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 1: Variant 1** (Complete Area 75)
+> 
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 2: Variant 2** (Complete Area 125)
+> 
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
+**Variant 3: Variant 3** (Complete Area 175)
+> 
+</div></div>
 
 # Other Champion Images
 
