@@ -1542,7 +1542,7 @@ This list will only show feats that are going to be available on the release of 
             <span class="featTableInner">Increases the effect of Morte's Biting Wit ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
-            <span class="featTableInner">3,830 Platinum<br>50,000 Gems</span>
+            <span class="featTableInner">50,000 Gems</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -1816,7 +1816,7 @@ Van Richten: 5 / 6
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: The Crypt of Legends (Morte)** (Complete Area 50)
+![The Crypt of Legends (Morte) Icon](images/morte/1456.png) **Unlock Adventure: The Crypt of Legends (Morte)** (Complete Area 50)
 > Pay respects to the heroes of olde during the Feast of the Moon.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
