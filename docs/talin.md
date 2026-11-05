@@ -368,7 +368,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unlock Adventure: Deadwinter Day (Talin)** (Complete Area 50)
+![Deadwinter Day (Talin) Icon](images/talin/2003.png) **Unlock Adventure: Deadwinter Day (Talin)** (Complete Area 50)
 > Patrol the outskirts of Longsaddle on Deadwinter Day.
 </div></div>
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
