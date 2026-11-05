@@ -239,6 +239,23 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Morte</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Bawdy Bone-Box Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2811**Bawdy Bone-Box (Morte)**Oh, Morte. Do you ever tire of being improper? ~Fall-from-Grace<br><br><span style="color:var(--Flavescent)">Increases the effect of Morte's Biting Wit ability by 80%. (Prestack)</span><code>buff_upgrade,80,20955</code></span>Bawdy Bone-Box
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Morte's Biting Wit ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">07 Jan 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Astarion</span>
         </span>
         <span class="featTableIcon4">
