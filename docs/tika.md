@@ -48,12 +48,9 @@ Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
 
 # Formation
 
-Unknown.
-{% comment %}
 <span class="formationBorder">
-    ![Formation Layout](images/tika/formation.png)
+    <svg xmlns="http://www.w3.org/2000/svg" id="Tika" fill="#aaa" data-formationName="Tika" data-campaignName="Wintershield" width="339" height="140"><circle cx="215" cy="65" r="15"/><circle cx="215" cy="105" r="15"/><circle cx="175" cy="85" r="15"/><circle cx="175" cy="125" r="15"/><circle cx="135" cy="65" r="15"/><circle cx="135" cy="105" r="15"/><circle cx="95" cy="45" r="15"/><circle cx="55" cy="25" r="15"/><circle cx="15" cy="45" r="15"/><circle cx="15" cy="85" r="15"/><text x="245" y="25" fill="#dcdcdc" font-size="25" font-family="Arial" font-weight="bold">Tika</text><text x="245" y="65" fill="#dcdcdc" font-size="15" font-family="Arial" font-weight="bold">Wintershield</text></svg>
 </span>
-{% endcomment %}
 
 # Attacks
 
