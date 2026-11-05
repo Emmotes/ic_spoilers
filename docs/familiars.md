@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Slick the Dohwar Portrait](images/familiars/slickthedohwar.png)<span class="featTooltipContents">ID: 343**Slick the Dohwar**Who needs to fly when you can glide!<img src="images/familiars/slickthedohwar.webp" alt="Slick the Dohwar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Slick the Dohwar
-        </span>
-        <span class="skinTableSource">
-            Morte on the Rocks Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            04 Nov 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Puddles the Kapak Draconian Portrait](images/familiars/puddlesthekapakdraconian.png)<span class="featTooltipContents">ID: 350**Puddles the Kapak Draconian**Beware the dripping maw!<img src="images/familiars/puddlesthekapakdraconian.webp" alt="Puddles the Kapak Draconian Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

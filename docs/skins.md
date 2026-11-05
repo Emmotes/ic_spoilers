@@ -9,57 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Midnight Turiel Portrait](images/skin_portraits/midnightturiel.png)<span class="featTooltipContents">ID: 739**Midnight Turiel (Turiel)**<img src="images/skin_models/midnightturiel.webp" alt="Midnight Turiel Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Midnight Turiel
-        </span>
-        <span class="skinTableSource">
-            Midnight Turiel Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            04 Nov 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Morte on the Rocks Portrait](images/skin_portraits/morteontherocks.png)<span class="featTooltipContents">ID: 763**Morte on the Rocks (Morte)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/morteontherocks.webp" alt="Morte on the Rocks Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/morteontherocks-skull.webp" alt="Morte on the Rocks Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Morte on the Rocks
-        </span>
-        <span class="skinTableSource">
-            Morte on the Rocks Theme Pack
-        </span>
-        <span class="skinTableCost">
-            3,830p
-        </span>
-        <span class="skinTableDate">
-            04 Nov 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Widdle Stardust Portrait](images/skin_portraits/widdlestardust.png)<span class="featTooltipContents">ID: 738**Widdle Stardust (Widdle)**<img src="images/skin_models/widdlestardust.webp" alt="Widdle Stardust Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Widdle Stardust
-        </span>
-        <span class="skinTableSource">
-            Widdle Stardust Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            04 Nov 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Ice Queen Minthara Portrait](images/skin_portraits/icequeenminthara.png)<span class="featTooltipContents">ID: 740**Ice Queen Minthara (Minthara)**<img src="images/skin_models/icequeenminthara.webp" alt="Ice Queen Minthara Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
@@ -349,7 +298,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Meteor Duelist Fen Portrait](images/skin_portraits/meteorduelistfen.png)<span class="featTooltipContents">ID: 775**Meteor Duelist Fen (Fen)**</span><span style="position:absolute;bottom:-6px;right:-18px">❌</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Meteor Duelist Fen Portrait](images/skin_portraits/meteorduelistfen.png)<span class="featTooltipContents">ID: 775**Meteor Duelist Fen (Fen)**<img src="images/skin_models/meteorduelistfen.webp" alt="Meteor Duelist Fen Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
             Meteor Duelist Fen
