@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/852.png">
-            <span class="weekendTooltipContents">ID: 852**Gold Revelry Chest**Loot for: Nayeli, Bruenor, Donaar, Nordom and Morte<code>"for_crusaders":[3,1,34,100,181]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Heroes Parade**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    06 November 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Morte
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/nayeli.png')">
-                        <span class="weekendTableChampionNameplate">Nayeli</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 3**Nayeli Goldflower**Increases the effect of Nayeli's Aura of Courage ability by 200%.<code>buff_upgrade,200,38</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/bruenor.png')">
-                        <span class="weekendTableChampionNameplate">Bruenor</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 1**Bruenor Battlehammer**Increases the effect of Bruenor's Rally ability by 200%.<code>buff_upgrade,200,4</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/donaar.png')">
-                        <span class="weekendTableChampionNameplate">Donaar</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 34**Donaar Blit'zen**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/nordom.png')">
-                        <span class="weekendTableChampionNameplate">Nordom</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 100**Nordom Whistleklik**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/morte.png')">
-                        <span class="weekendTableChampionNameplate">Morte</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 181**Mortimer Rictusgrin**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/853.png">
             <span class="weekendTooltipContents">ID: 853**Gold All Star Chest**Loot for: Tyril, Celeste, Kalix, Strongheart and Turiel<code>"for_crusaders":[10,2,158,126,49]</code></span>
         </span>
@@ -64,7 +16,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **All Star**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    13 November 2026
+                    06 November 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
@@ -112,7 +64,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **Starlight**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    20 November 2026
+                    13 November 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
@@ -160,7 +112,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **Friendly**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    27 November 2026
+                    20 November 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
@@ -208,7 +160,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **Cloak & Dagger**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    04 December 2026
+                    27 November 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
@@ -256,7 +208,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **Heroes of Prismeer**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    11 December 2026
+                    04 December 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
@@ -304,7 +256,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **Darkness Rises**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    18 December 2026
+                    11 December 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
@@ -352,7 +304,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **Dragonrider**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    25 December 2026
+                    18 December 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
