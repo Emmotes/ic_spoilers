@@ -4,47 +4,6 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 823</div>
-### From the Vault: Athar Jang Sao Skin Pack - 1,000 Platinum  
-Date of release: 05 Nov 2026
-
-> Available till the end of the event - From the Vault: Athar Jang Sao
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Jang Sao Champion Unlock Portrait](images/premiums/unlock_champion_140.png)<span class="itemTooltipContents">ID: 140**Jang Sao (Seat 8)**<img src="images/premiums/unlock_champion_140.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Jang Sao</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Athar Jang Sao Skin Portrait](images/premiums/skin_354.png)<span class="itemTooltipContents">ID: 354**Athar Jang Sao (Jang Sao)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_354.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_354-starry_form.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Athar Jang Sao</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Jang Sao Chest Chest Portrait](images/premiums/chests_551.png)<span class="itemTooltipContents">ID: 551**Platinum Jang Sao Chest**Loot for: Jang Sao<code>"for_crusaders":[140]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Jang Sao Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 779</div>
 ### Ice Queen Minthara Skin & Feat Pack - 1,680 Platinum  
 Date of release: 11 Nov 2026
