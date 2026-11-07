@@ -16,7 +16,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **All Star**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    06 November 2026
+                    13 November 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
@@ -64,7 +64,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **Starlight**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    13 November 2026
+                    20 November 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
@@ -112,7 +112,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **Friendly**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    20 November 2026
+                    27 November 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
@@ -160,7 +160,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **Cloak & Dagger**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    27 November 2026
+                    04 December 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
@@ -208,7 +208,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **Heroes of Prismeer**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    04 December 2026
+                    11 December 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
@@ -256,7 +256,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **Darkness Rises**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    11 December 2026
+                    18 December 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
@@ -304,7 +304,7 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
                     **Dragonrider**
                 </span>
                 <span class="weekendTableContents" style="font-size:1.3em">
-                    18 December 2026
+                    25 December 2026
                 </span>
             </span>
             <span class="weekendTableContentBlock">
