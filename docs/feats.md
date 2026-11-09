@@ -98,6 +98,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Nordom</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Augmented Ranks Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2383**Augmented Ranks (Nordom)**One. One. One. One... Two? Two! TWO!<br><br><span style="color:var(--Flavescent)">Changes Form Orderly Ranks to target the next two columns.</span><code>change_upgrade_targets,18058</code></span>Augmented Ranks
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Changes Form Orderly Ranks to target the next two columns.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">Years End</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">02 Dec 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Krull</span>
         </span>
         <span class="featTableIcon4">
@@ -128,23 +145,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">02 Dec 2026<br>02 Mar 2027</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Nordom</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Augmented Ranks Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2383**Augmented Ranks (Nordom)**One. One. One. One... Two? Two! TWO!<br><br><span style="color:var(--Flavescent)">Changes Form Orderly Ranks to target the next two columns.</span><code>change_upgrade_targets,18058</code></span>Augmented Ranks
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Changes Form Orderly Ranks to target the next two columns.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">Years End</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">02 Dec 2026</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -561,7 +561,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">31 Dec 2031</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -578,7 +578,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">???</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">31 Dec 2031</span>
+            <span class="featTableInner">01 Jan 2032</span>
         </span>
     </span>
     <span class="featTableRow">
