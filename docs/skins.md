@@ -9,40 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Ice Queen Minthara Portrait](images/skin_portraits/icequeenminthara.png)<span class="featTooltipContents">ID: 740**Ice Queen Minthara (Minthara)**<img src="images/skin_models/icequeenminthara.webp" alt="Ice Queen Minthara Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Ice Queen Minthara
-        </span>
-        <span class="skinTableSource">
-            Ice Queen Minthara Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            11 Nov 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Starlit Sentry Portrait](images/skin_portraits/starlitsentry.png)<span class="featTooltipContents">ID: 741**Starlit Sentry (Sentry)**<img src="images/skin_models/starlitsentry.webp" alt="Starlit Sentry Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Starlit Sentry
-        </span>
-        <span class="skinTableSource">
-            Starlit Sentry Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            11 Nov 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Frostbite Skylla Portrait](images/skin_portraits/frostbiteskylla.png)<span class="featTooltipContents">ID: 742**Frostbite Skylla (Skylla)**<img src="images/skin_models/frostbiteskylla.webp" alt="Frostbite Skylla Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

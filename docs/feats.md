@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Minthara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Vengeful Assurance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1970**Vengeful Assurance (Minthara)**They will fall. It is simply a matter of patience.<br><br><span style="color:var(--Flavescent)">The Piercing component of Minthara's Oath of Vengeance ability removes an extra piece of armor or health.</span><code>buff_upgrade,100,15945,2</code></span>Vengeful Assurance
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">The Piercing component of Minthara's Oath of Vengeance ability removes an extra piece of armor or health.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">11 Nov 2026<br>11 Feb 2027</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Sentry</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2782**Multiversal Allies (Sentry)**Our bonds make us stronger.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">11 Nov 2026<br>11 Feb 2027</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Skylla</span>
         </span>
         <span class="featTableIcon4">
