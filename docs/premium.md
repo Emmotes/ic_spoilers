@@ -4,28 +4,6 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 824</div>
-### From the Vault: Starsilk the Chimeric Hare Familiar Pack - 1,000 Platinum  
-Date of release: 12 Nov 2026
-
-> Available till the end of the event - From the Vault: Starsilk the Chimeric Hare
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Starsilk the Chimeric Hare Familiar Portrait](images/premiums/familiar_54.png)<span class="itemTooltipContents">ID: 54**Starsilk the Chimeric Hare**A popular pet in the lost necropolis of Ythryn<img src="images/premiums/familiar_54.webp" alt="Familiar Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Familiar**</span>
-            <span style="margin-left:15px">Starsilk the Chimeric Hare</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 782</div>
 ### Frostbite Skylla Skin & Feat Pack - 1,680 Platinum  
 Date of release: 18 Nov 2026
