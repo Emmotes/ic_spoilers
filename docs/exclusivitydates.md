@@ -322,6 +322,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">04 Feb 2027</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vengeful Assurance Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1970**Vengeful Assurance (Minthara)**They will fall. It is simply a matter of patience.<br><br><span style="color:var(--Flavescent)">The Piercing component of Minthara's Oath of Vengeance ability removes an extra piece of armor or health.</span><code>buff_upgrade,100,15945,2</code></span>Vengeful Assurance
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">The Piercing component of Minthara's Oath of Vengeance ability removes an extra piece of armor or health.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">11 Feb 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Sentry</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2782**Multiversal Allies (Sentry)**Our bonds make us stronger.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">11 Feb 2027</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -3263,7 +3297,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 <span>01 August 2025</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>01 November 2025 (Guess)</span>
+                <span>01 November 2025</span>
             </span>
         </span>
     </span>
@@ -3387,7 +3421,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 <span>31 October 2025</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>31 January 2026 (Guess)</span>
+                <span>31 January 2026</span>
             </span>
         </span>
     </span>
@@ -3502,7 +3536,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 <span>02 January 2026</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>02 April 2026 (Guess)</span>
+                <span>02 April 2026</span>
             </span>
         </span>
     </span>
@@ -3772,7 +3806,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 <span>05 August 2026</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>05 November 2026 (Guess)</span>
+                <span>05 November 2026</span>
             </span>
         </span>
     </span>
