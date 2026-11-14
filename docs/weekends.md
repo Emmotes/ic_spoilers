@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/853.png">
-            <span class="weekendTooltipContents">ID: 853**Gold All Star Chest**Loot for: Tyril, Celeste, Kalix, Strongheart and Turiel<code>"for_crusaders":[10,2,158,126,49]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **All Star**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    13 November 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Turiel
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/tyril.png')">
-                        <span class="weekendTableChampionNameplate">Tyril</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 10**Tyril Tallguy**Increases the effect of Tyril's Moonbeam and Wild Inspiration by 200%.<code>buff_upgrades,200,145,344</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/celeste.png')">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 2**Celeste**Increases the effect of Celeste's Crusader's Mantle ability by 200%.<code>buff_upgrade,200,24</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/kalix.png')">
-                        <span class="weekendTableChampionNameplate">Kalix</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 158**Kalix**Increases the effect of Kalix's Chameleon Carapace and Unorthodox Alliance by 200%. (Prestack)<code>buff_upgrades,200,16519,16518</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/strongheart.png')">
-                        <span class="weekendTableChampionNameplate">Strongheart</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 126**Strongheart**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/turiel.png')">
-                        <span class="weekendTableChampionNameplate">Turiel</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 49**Turiel**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/854.png">
             <span class="weekendTooltipContents">ID: 854**Gold Starlit Chest**Loot for: Minsc, Arkhan, Artemis, Valentine and Jang Sao<code>"for_crusaders":[7,12,54,103,140]</code></span>
         </span>
