@@ -30,23 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Skylla</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Double Double Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2783**Double Double (Skylla)**Faerie Fire burn and granny's cauldron bubble...<br><br><span style="color:var(--Flavescent)">Increases the effect of Skylla's first set of Specializations by 80%.</span><code>buff_upgrades,80,17848,17849,17850</code></span>Double Double
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Skylla's first set of Specializations by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">18 Nov 2026<br>18 Feb 2027</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Lazaapz</span>
         </span>
         <span class="featTableIcon4">

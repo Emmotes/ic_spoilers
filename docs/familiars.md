@@ -7,23 +7,6 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Frost the Chwinga Portrait](images/familiars/frostthechwinga.png)<span class="featTooltipContents">ID: 345**Frost the Chwinga**Chwingas prefer to move about unseen, which is even easier in the snow of Icewind Dale.<img src="images/familiars/frostthechwinga.webp" alt="Frost the Chwinga Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="skinTableName">
-            Frost the Chwinga
-        </span>
-        <span class="skinTableSource">
-            Frost the Chwinga Familiar Pack
-        </span>
-        <span class="skinTableCost">
-            840p
-        </span>
-        <span class="skinTableDate">
-            18 Nov 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Tanis the Red-Pelted Fox Portrait](images/familiars/tanistheredpeltedfox.png)<span class="featTooltipContents">ID: 347**Tanis the Red-Pelted Fox**Tanis had to remind himself that even though squirrels taste as good as rabbits, he probably shouldn't eat squirrel Tasslehoff…<img src="images/familiars/tanistheredpeltedfox.webp" alt="Tanis the Red-Pelted Fox Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">
