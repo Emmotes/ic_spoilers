@@ -597,6 +597,15 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                         <span style="margin-left:15px">Nordom</span>
                     </span>
                 </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Bone Devil Nordom Skin Icon](images/exclusivities/skin_0.png)<span class="featTooltipContents">ID: 761**Bone Devil Nordom (Nordom)**<img src="images/exclusivities/skin_31656.webp" alt="Bone Devil Nordom Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Bone Devil Nordom</span>
+                    </span>
+                </span>
             </span>
         </span>
         <span class="postSeasonTableRowInner">
