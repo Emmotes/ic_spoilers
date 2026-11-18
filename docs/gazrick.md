@@ -177,6 +177,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         {
             "off_when_benched": true,
             "effect_string": "gazrick_armor_ablation_v2",
+            "broadcast_name": "gazrick_armor_ablation_applied",
+            "stacks_per_hit": 1,
             "max_ablation_stacks": 30
         },
         {
@@ -192,7 +194,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
-        "default_bonus_index": 0,
+        "default_bonus_index": 1,
         "retain_on_slot_changed": true
     }
 }
@@ -211,14 +213,24 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3111,
     "flavour_text": "",
     "description": {
-        "desc": "$(source_hero) causes enemies to take an additional $(not_buffed amount)% damage in areas where it is snowing. This effect is increased by $amount___2% for each area completed in the current adventure, stacking multiplicatively."
+        "desc": {
+            "pre": "$(source_hero) causes enemies to take an additional $(not_buffed amount)% damage in areas where it is snowing. This effect is increased by $amount___2% for each area completed in the current adventure, stacking multiplicatively.",
+            "post": {
+                "conditions": [
+                    {
+                        "condition": "not static_desc",
+                        "desc": "^^Currently $(gazrick_control_weather_active)"
+                    }
+                ]
+            }
+        }
     },
     "effect_keys": [
         {
             "off_when_benched": true,
             "effect_string": "do_nothing,200",
-            "show_bonus": true,
-            "desc_forced_order": 2
+            "desc_forced_order": 2,
+            "show_bonus": true
         },
         {
             "effect_string": "buff_upgrade,3.33,21674,0",
@@ -238,14 +250,13 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "effect_string": "increase_monster_damage,0",
             "apply_manually": true,
             "show_bonus": false,
-            "desc_forced_order": 3,
             "amount_expr": "upgrade_amount(21674,0)"
         },
         {
             "show_description": false,
             "effect_string": "gazrick_control_weather",
             "buff_indicies": [
-                3
+                2
             ]
         }
     ],
@@ -303,7 +314,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Sheer Cold** (Guess)
-> Each time Gazrick applies a stack of Armor Ablation, the effect of Frosty Friendship is increased by $amount%, stacking multiplicatively up to $max_stacks times. Stacks reset when changing areas.
+> Each time Gazrick applies a stack of Armor Ablation, the effect of Frosty Friendship is increased by 50%, stacking multiplicatively up to 30 times. Stacks reset when changing areas.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -315,8 +326,21 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
+            "effect_string": "buff_upgrade,50,21671,2",
             "off_when_benched": true,
-            "effect_string": "do_nothing"
+            "stacks_multiply": true,
+            "max_stacks": 30,
+            "stacks_on_trigger": "on_broadcast_stacks,gazrick_armor_ablation_applied",
+            "show_bonus": true,
+            "more_triggers": [
+                {
+                    "trigger": "area_changed",
+                    "action": {
+                        "type": "reduce_percent",
+                        "percent": 100
+                    }
+                }
+            ]
         }
     ],
     "requirements": "",
@@ -336,7 +360,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Specialisation: Stay Frosty** (Guess)
-> Gazrick reduces the effect of Armor Ablation by 50%, but enemies he attacks take $amount% more damage from all attacks, stacking multiplicatively up to $max_stacks times.
+> Gazrick reduces the effect of Armor Ablation by 50%, but enemies he attacks take 100% more damage from all attacks, stacking multiplicatively up to 30 times.
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -344,12 +368,56 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3114,
     "flavour_text": "",
     "description": {
-        "desc": "Gazrick reduces the effect of Armor Ablation by 50%, but enemies he attacks take $amount% more damage from all attacks, stacking multiplicatively up to $max_stacks times."
+        "desc": "Gazrick reduces the effect of Armor Ablation by $amount___3%, but enemies he attacks take $amount% more damage from all attacks, stacking multiplicatively up to $max_stacks times."
     },
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "do_nothing"
+            "effect_string": "gazrick_stay_frosty,100",
+            "debuffing_attack_ids": [
+                506
+            ],
+            "max_stacks": 30,
+            "debuff_effects": [
+                {
+                    "effect_string": "increase_monster_damage,$amount",
+                    "stack_count_debug": false,
+                    "default_stacks": 1,
+                    "active_graphic_id": 8354,
+                    "manual_stacking": true,
+                    "active_graphic_x": 0,
+                    "active_graphic_y": -40,
+                    "stacks_on_reapply": true,
+                    "stacks_multiply": true,
+                    "max_stacks": "$max_stacks",
+                    "stack_across_effects": false,
+                    "use_collection_source": true
+                }
+            ],
+            "use_computed_amount_for_description": true
+        },
+        {
+            "effect_string": "gazrick_amount_at_max_stacks,100",
+            "amount_func": "mult",
+            "off_when_benched": true,
+            "stacks_multiply": true,
+            "stack_func": "per_hero_attribute",
+            "post_process_expr": "30",
+            "amount_updated_listeners": [
+                "upgrade_unlocked",
+                "slot_changed",
+                "hero_tags_changed"
+            ],
+            "show_bonus": true,
+            "show_stack_type": false,
+            "hide_stack_description": true,
+            "show_stack_post_amounts": false,
+            "show_bonus_multiplier": true,
+            "total_title": "Bonus damage at max stacks"
+        },
+        {
+            "effect_string": "debuff_upgrade,50,21673",
+            "off_when_benched": true
         }
     ],
     "requirements": "",
@@ -358,7 +426,8 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "properties": {
         "is_formation_ability": true,
         "owner_use_outgoing_description": true,
-        "type": "upgrade",
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
         "formation_circle_icon": false
     }
 }
@@ -382,7 +451,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "off_when_benched": true,
-            "effect_string": "buff_upgrade,200,7537"
+            "effect_string": "buff_upgrade,200,21674"
         }
     ],
     "requirements": "",
