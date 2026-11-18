@@ -568,50 +568,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Specialisation: Unknown** (Guess)
-> Increases the effect of Regis' Ruby Encouragement ability by 100% for each goblin Champion in the formation, stacking additively.
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 3169,
-    "flavour_text": "",
-    "description": {
-        "desc": "Increases the effect of Regis' Ruby Encouragement ability by $(amount)% for each goblin Champion in the formation, stacking additively"
-    },
-    "effect_keys": [
-        {
-            "off_when_benched": true,
-            "effect_string": "buff_upgrades,100,21593,21594",
-            "amount_func": "add",
-            "stack_func": "per_hero_attribute",
-            "show_bonus": true,
-            "per_hero_expr": "HasTag(`goblin`)",
-            "amount_updated_listeners": [
-                "slot_changed",
-                "hero_tags_changed"
-            ]
-        }
-    ],
-    "requirements": "",
-    "graphic_id": 0,
-    "large_graphic_id": 0,
-    "properties": {
-        "is_formation_ability": true,
-        "effect_name": "Goblin Glitch",
-        "show_in_owner_outgoing": true,
-        "owner_use_outgoing_description": true,
-        "indexed_effect_properties": true,
-        "per_effect_index_bonuses": true,
-        "default_bonus_index": 0
-    }
-}
-</pre>
-</p>
-</details>
-</div></div>
-
 # Adventures and Variants
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
