@@ -23,54 +23,6 @@ Only abilities that have seen some changes will be displayed here - and be aware
 
 Please do me a favour and don't get all melodramatic about what you find here. I - and CNE - don't appreciate it. These are spoilers and will almost certainly change before release - likely multiple times. That and we don't have access to any upgrade data prior to release. Making assumptions on how the champions will turn out based on this information would be premature.
 
-# Attacks
-
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Ultimate: Holy Weapon** (Guess)
-> Barrowin infuses her hammer with holy energy and throws it at a random enemy, stunning it for 5 seconds. For the next 15 seconds, the base effect of Blessed Hammer is increased by 100%.  
-> Cooldown: 360s (Cap 90s)
-<details><summary><em>Raw Data</em></summary>
-<p>
-<pre>
-{
-    "id": 1021,
-    "name": "Holy Weapon",
-    "description": "Barrowin infuses her hammer with holy energy, stunning a random enemy and buffing Blessed Hammer.",
-    "long_description": "Barrowin infuses her hammer with holy energy and throws it at a random enemy, stunning it for 5 seconds. For the next 15 seconds, the base effect of Blessed Hammer is increased by 100%.",
-    "graphic_id": 1872,
-    "target": "random",
-    "num_targets": 1,
-    "aoe_radius": 0,
-    "damage_modifier": 0.03,
-    "cooldown": 360,
-    "animations": [
-        {
-            "projectile_details": {
-                "projectile_graphic_id": 1984
-            },
-            "type": "ranged_attack",
-            "projectile_graphic_id": 1,
-            "projectile": "holy_weapon",
-            "shoot_frame": 28,
-            "hold_shoot_frame": true,
-            "shoot_sound": 149,
-            "hit_sound": 133,
-            "stun_on_hit": 5
-        }
-    ],
-    "tags": [
-        "melee",
-        "ultimate"
-    ],
-    "damage_types": [
-        "ranged"
-    ]
-}
-</pre>
-</p>
-</details>
-</div></div>
-
 # Abilities
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
@@ -258,8 +210,10 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </details>
 </div></div>
 
+# Specialisations
+
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Fine As Is** (Guess)
+**Specialisation: Fine As Is** (Guess)
 > Paid Up-Front continues to only apply to adjacent Champions and if at least 4 Champions are affected by it, the effect is increased by 400% for each Champion affected by it, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -303,7 +257,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Keep Your Distance** (Guess)
+**Specialisation: Keep Your Distance** (Guess)
 > Paid Up-Front now only applies to all non-adjacent Champions and if at least 5 Champions are affected by it, the effect is increased by 500% for each Champion affected by it, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -352,7 +306,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Monster Fodder** (Guess)
+**Specialisation: Monster Fodder** (Guess)
 > Paid Up-Front now only applies to all Champions in front of Môrgæn and if at least 6 Champions are affected by it, the effect is increased by 600% for each Champion affected by it, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -401,7 +355,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Stay Out Of My Way** (Guess)
+**Specialisation: Stay Out Of My Way** (Guess)
 > Paid Up-Front now only applies to all Champions behind Môrgæn and if at least 7 Champions are affected by it, the effect is increased by 700% for each Champion affected by it, stacking multiplicatively.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -450,7 +404,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Keep It Simple** (Guess)
+**Specialisation: Keep It Simple** (Guess)
 > The effect of Paid Up-Front is increased by 1500%.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -480,7 +434,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Specialisation: Unknown** (Guess)
 > The effect of Paid Up-Front is increased by 100% for each Champion in the formation with a DEX score of 16 or higher.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -525,7 +479,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Specialisation: Unknown** (Guess)
 > The effect of Paid Up-Front is increased by 100% for each Champion in the formation with a CHA score of 12 or lower.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -570,7 +524,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Specialisation: Unknown** (Guess)
 > The effect of Paid Up-Front is increased by 100% for each Champion in the formation from the Acquisitions Incorporated or The "C"-Team affiliations.
 <details><summary><em>Raw Data</em></summary>
 <p>
@@ -615,7 +569,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 </div></div>
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
-**Unknown** (Guess)
+**Specialisation: Unknown** (Guess)
 > Increases the effect of Regis' Ruby Encouragement ability by 100% for each goblin Champion in the formation, stacking additively.
 <details><summary><em>Raw Data</em></summary>
 <p>
