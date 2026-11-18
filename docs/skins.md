@@ -26,7 +26,7 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Frostbite Lazaapz Portrait](images/skin_portraits/frostbitelazaapz.png)<span class="featTooltipContents">ID: 771**Frostbite Lazaapz (Lazaapz)**<img src="images/skin_models/frostbitelazaapz.webp" alt="Frostbite Lazaapz Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Frostbite Lazaapz Portrait](images/skin_portraits/frostbitelazaapz.png)<span class="featTooltipContents">ID: 771**Frostbite Lazaapz (Lazaapz)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/frostbitelazaapz.webp" alt="Frostbite Lazaapz Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/frostbitelazaapz-drone_graphic.webp" alt="Frostbite Lazaapz Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Frostbite Lazaapz
@@ -87,6 +87,23 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableCost">
             1,680p
+        </span>
+        <span class="skinTableDate">
+            02 Dec 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 761**Bone Devil Nordom (Nordom)**<img src="images/skin_models/bonedevilnordom.webp" alt="Bone Devil Nordom Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span><span style="position:absolute;bottom:-6px;right:-18px">✔️</span></span>
+        </span>
+        <span class="skinTableName">
+            Bone Devil Nordom
+        </span>
+        <span class="skinTableSource">
+            Years End Giveaway - Winterfest Celebration
+        </span>
+        <span class="skinTableCost">
+            Free?
         </span>
         <span class="skinTableDate">
             02 Dec 2026

@@ -177,7 +177,7 @@ Upcoming familiars that are found in future premiums or simply listed as unavail
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 357**Starfall the Owlbear Cub**</span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 357**Starfall the Owlbear Cub**As long as he approves of you, he's a bundle of cosmic cuddles!</span></span>
         </span>
         <span class="skinTableName">
             Starfall the Owlbear Cub

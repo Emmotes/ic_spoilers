@@ -152,10 +152,10 @@ Feats that have already released in a premium pack and are in their exclusivity 
             <span class="featTableInner">Yorven</span>
         </span>
         <span class="featTableIcon4">
-            ![Night of the Lepus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2872**Night of the Lepus (Yorven)**You're late, you're late, for a very violent fate.<code>todo<br>DevNote: Buff FA4 20%for each Non-Standard Species additive</code></span>Night of the Lepus
+            ![Night of the Lepus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2872**Night of the Lepus (Yorven)**You're late, you're late, for a very violent fate.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,3170<br>DevNote: Buff FA4 20%for each Non-Standard Species additive</code></span>Night of the Lepus
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">???</span>
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -1028,7 +1028,7 @@ These are the feats that have been filtered out of the list above due to having 
             <span class="featTableInner">Gale</span>
         </span>
         <span class="featTableIcon5">
-            ![Astral-Touched Tadpole Icon](images/featicons/laezel.png)<span class="featTooltipContents">ID: 2852**Astral-Touched Tadpole (Gale)**If this is what the fates have offered to aid our cause, then who am I to refuse?<br><br><span style="color:var(--Flavescent)">Gale adds up the total Intelligence scores of himself and all the Champions adjacent to him. He increases the effect of Archmage's Insight by 100% for every 5 INT he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,3005</code></span>Astral-Touched Tadpole
+            ![Astral-Touched Tadpole Icon](images/featicons/gale.png)<span class="featTooltipContents">ID: 2852**Astral-Touched Tadpole (Gale)**If this is what the fates have offered to aid our cause, then who am I to refuse?<br><br><span style="color:var(--Flavescent)">Gale adds up the total Intelligence scores of himself and all the Champions adjacent to him. He increases the effect of Archmage's Insight by 100% for every 5 INT he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,3005</code></span>Astral-Touched Tadpole
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Gale adds up the total Intelligence scores of himself and all the Champions adjacent to him. He increases the effect of Archmage's Insight by 100% for every 5 INT he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>

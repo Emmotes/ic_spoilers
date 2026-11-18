@@ -230,7 +230,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Frostbite Lazaapz Skin Portrait](images/premiums/skin_771.png)<span class="itemTooltipContents">ID: 771**Frostbite Lazaapz (Lazaapz)**<img src="images/premiums/skin_771.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+            <span class="tooltipHolder">![Frostbite Lazaapz Skin Portrait](images/premiums/skin_771.png)<span class="itemTooltipContents">ID: 771**Frostbite Lazaapz (Lazaapz)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_771.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_771-drone_graphic.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_771-repair_spark_graphic.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Skin**</span>
@@ -735,7 +735,7 @@ Contents:
     </span>
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="emergenceShopFeatIcon4 tooltipHolder">![Night of the Lepus Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2872**Night of the Lepus**You're late, you're late, for a very violent fate.<code>todo<br>DevNote: Buff FA4 20%for each Non-Standard Species additive</code></span></span>
+            <span class="emergenceShopFeatIcon4 tooltipHolder">![Night of the Lepus Feat Portrait](images/featicons/upgradefa.png)<span class="itemTooltipContents">ID: 2872**Night of the Lepus**You're late, you're late, for a very violent fate.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,3170<br>DevNote: Buff FA4 20%for each Non-Standard Species additive</code></span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Feat**</span>
@@ -2035,7 +2035,7 @@ Contents:
 <span class="premiumsTableRow">
     <span class="premiumsTableItem">
         <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 357**Starfall the Owlbear Cub**</span></span>
+            <span class="tooltipHolder">![Unknown Familiar Portrait](images/general/unknown.png)<span class="itemTooltipContents">ID: 357**Starfall the Owlbear Cub**As long as he approves of you, he's a bundle of cosmic cuddles!</span></span>
         </span>
         <span class="emergenceShopTableTextColumn">
             <span style="margin-left:5px">**Familiar**</span>
