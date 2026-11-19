@@ -4,47 +4,6 @@
 
 Upcoming real-money shop items.
 
-<div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 825</div>
-### From the Vault: Snow Maan Skin Pack - 1,000 Platinum  
-Date of release: 19 Nov 2026
-
-> Available till the end of the event - From the Vault: Snow Maan
-
-Contents:
-
-<span class="premiumsTableRow">
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Hew Maan Champion Unlock Portrait](images/premiums/unlock_champion_75.png)<span class="itemTooltipContents">ID: 75**Hew Maan (Seat 8)**<img src="images/premiums/unlock_champion_75.webp" alt="Champion Unlock Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Champion Unlock**</span>
-            <span style="margin-left:15px">Hew Maan</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Snow Maan Skin Portrait](images/premiums/skin_198.png)<span class="itemTooltipContents">ID: 198**Snow Maan (Hew Maan)**<span style="display:flex;flex-direction:row"><img src="images/premiums/skin_198.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_198-zrang.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_198-yassa.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/premiums/skin_198-kleeb.webp" alt="Skin Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Skin**</span>
-            <span style="margin-left:15px">Snow Maan</span>
-        </span>
-    </span>
-    <span class="premiumsTableItem">
-        <span class="emergenceShopTableIcon">
-            <span class="tooltipHolder">![Platinum Hew Maan Chest Chest Portrait](images/premiums/chests_257.png)<span class="itemTooltipContents">ID: 257**Platinum Hew Maan Chest**Loot for: Hew Maan<code>"for_crusaders":[75]</code></span></span>
-        </span>
-        <span class="emergenceShopTableTextColumn">
-            <span style="margin-left:5px">**Chest**</span>
-            <span style="margin-left:15px">Platinum Hew Maan Chest</span>
-            <span style="margin-left:15px">x14 (Shinies x1)</span>
-        </span>
-    </span>
-</span>
-</div></div>
-
-
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner rel"><div class="abilityBorderID">ID: 784</div>
 ### Gale's Legendary Feat Pack - 1,680 Platinum  
 Date of release: 25 Nov 2026
