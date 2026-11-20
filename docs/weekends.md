@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/854.png">
-            <span class="weekendTooltipContents">ID: 854**Gold Starlit Chest**Loot for: Minsc, Arkhan, Artemis, Valentine and Jang Sao<code>"for_crusaders":[7,12,54,103,140]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Starlight**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    20 November 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Jang Sao
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/minsc.png')">
-                        <span class="weekendTableChampionNameplate">Minsc</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 7**Minsc**Increases the effect of Minsc's Favored Enemy: Beasts, Favored Enemy: Fey, Favored Enemy: Humanoids, Favored Enemy: Monstrosities and Favored Enemy: Undead by 200%.<code>buff_upgrades,200,109,111,108,112,110</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/arkhan.png')">
-                        <span class="weekendTableChampionNameplate">Arkhan</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 12**Arkhan**Increases the effect of Arkhan's Bulk Up and Usurped Power by 200%.<code>buff_upgrades,200,243,244</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/artemis.png')">
-                        <span class="weekendTableChampionNameplate">Artemis</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 54**Artemis Entreri**Increases the effect of Artemis's Observance ability by 200%.<code>buff_upgrade,200,3267</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/valentine.png')">
-                        <span class="weekendTableChampionNameplate">Valentine</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 103**Valentine**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/jangsao.png')">
-                        <span class="weekendTableChampionNameplate">Jang Sao</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 140**Jang Sao**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/855.png">
             <span class="weekendTooltipContents">ID: 855**Gold Friendly Chest**Loot for: Makos, Celeste, BBEG, Shandie and Penelope<code>"for_crusaders":[9,2,125,47,71]</code></span>
         </span>
