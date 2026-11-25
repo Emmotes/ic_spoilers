@@ -9,7 +9,7 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Frostbite Lazaapz Portrait](images/skin_portraits/frostbitelazaapz.png)<span class="featTooltipContents">ID: 771**Frostbite Lazaapz (Lazaapz)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/frostbitelazaapz.webp" alt="Frostbite Lazaapz Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/frostbitelazaapz-drone_graphic.webp" alt="Frostbite Lazaapz Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Frostbite Lazaapz Portrait](images/skin_portraits/frostbitelazaapz.png)<span class="featTooltipContents">ID: 771**Frostbite Lazaapz (Lazaapz)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/frostbitelazaapz.webp" alt="Frostbite Lazaapz Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/frostbitelazaapz-drone_graphic.webp" alt="Frostbite Lazaapz Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/frostbitelazaapz-shield_graphic.webp" alt="Frostbite Lazaapz Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
         </span>
         <span class="skinTableName">
             Frostbite Lazaapz
@@ -66,7 +66,7 @@ Skins that are upcoming. Most skins are real money purchases only.
             Regis Goblin Shaman Kllug
         </span>
         <span class="skinTableSource">
-            Regis Goblin Shaman Kllug Skin & Feat Pack
+            Goblin Shaman Kllug Regis Skin & Feat Pack
         </span>
         <span class="skinTableCost">
             1,680p
@@ -90,6 +90,23 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             02 Dec 2026
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Feywild Fairytale Yorven Portrait](images/skin_portraits/feywildfairytaleyorven.png)<span class="featTooltipContents">ID: 759**Feywild Fairytale Yorven (Yorven)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/feywildfairytaleyorven.webp" alt="Feywild Fairytale Yorven Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/feywildfairytaleyorven-shadow_mastiff.webp" alt="Feywild Fairytale Yorven Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+        </span>
+        <span class="skinTableName">
+            Feywild Fairytale Yorven
+        </span>
+        <span class="skinTableSource">
+            Feywild Fairytale Yorven Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            09 Dec 2026
         </span>
     </span>
     <span class="skinTableRow">
@@ -128,13 +145,13 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Feywild Fairytale Yorven Portrait](images/skin_portraits/feywildfairytaleyorven.png)<span class="featTooltipContents">ID: 759**Feywild Fairytale Yorven (Yorven)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/feywildfairytaleyorven.webp" alt="Feywild Fairytale Yorven Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/feywildfairytaleyorven-shadow_mastiff.webp" alt="Feywild Fairytale Yorven Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 781**Moonlit Towers Infiltrator Halsin (Halsin)**</span></span>
         </span>
         <span class="skinTableName">
-            Feywild Fairytale Yorven
+            Moonlit Towers Infiltrator Halsin
         </span>
         <span class="skinTableSource">
-            Feywild Fairytale Yorven Skin & Feat Pack
+            Moonlit Towers Infiltrator Halsin Skin & Feat Pack
         </span>
         <span class="skinTableCost">
             1,680p
@@ -230,6 +247,23 @@ Skins that are upcoming. Most skins are real money purchases only.
     </span>
     <span class="skinTableRow">
         <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 782**Wintershield Knight Imoen (Imoen)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Wintershield Knight Imoen
+        </span>
+        <span class="skinTableSource">
+            Wintershield Knight Imoen Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            20 Jan 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 770**Wintershield Knight Rust (Rust)**</span></span>
         </span>
         <span class="skinTableName">
@@ -243,6 +277,23 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             20 Jan 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 783**Snow Day Sheila (Sheila)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Snow Day Sheila
+        </span>
+        <span class="skinTableSource">
+            Snow Day Sheila Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            27 Jan 2027
         </span>
     </span>
     <span class="skinTableRow">
@@ -345,6 +396,23 @@ Skins that are upcoming. Most skins are real money purchases only.
         </span>
         <span class="skinTableDate">
             17 Feb 2027
+        </span>
+    </span>
+    <span class="skinTableRow">
+        <span class="skinTableIcon">
+            <span class="skinTooltipHolder" style="width:max-content">![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 780**Harper's Gala Jaheira (Jaheira)**</span></span>
+        </span>
+        <span class="skinTableName">
+            Harper's Gala Jaheira
+        </span>
+        <span class="skinTableSource">
+            Harper's Gala Jaheira Skin & Feat Pack
+        </span>
+        <span class="skinTableCost">
+            1,680p
+        </span>
+        <span class="skinTableDate">
+            24 Feb 2027
         </span>
     </span>
 </span>

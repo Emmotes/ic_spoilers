@@ -30,6 +30,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Gale</span>
+        </span>
+        <span class="featTableIcon5">
+            ![Astral-Touched Tadpole Icon](images/featicons/gale.png)<span class="featTooltipContents">ID: 2852**Astral-Touched Tadpole (Gale)**If this is what the fates have offered to aid our cause, then who am I to refuse?<br><br><span style="color:var(--Flavescent)">Gale adds up the total Intelligence scores of himself and all the Champions adjacent to him. He increases the effect of Archmage's Insight by 100% for every 5 INT he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,3005</code></span>Astral-Touched Tadpole
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Gale adds up the total Intelligence scores of himself and all the Champions adjacent to him. He increases the effect of Archmage's Insight by 100% for every 5 INT he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">25 Nov 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Lazaapz</span>
         </span>
         <span class="featTableIcon4">
@@ -98,6 +115,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Yorven</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Night of the Lepus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2872**Night of the Lepus (Yorven)**You're late, you're late, for a very violent fate.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,3170<br>DevNote: Buff FA4 20%for each Non-Standard Species additive</code></span>Night of the Lepus
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">09 Dec 2026<br>09 Mar 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Shadowheart</span>
         </span>
         <span class="featTableIcon4">
@@ -132,13 +166,13 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Yorven</span>
+            <span class="featTableInner">Halsin</span>
         </span>
         <span class="featTableIcon4">
-            ![Night of the Lepus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2872**Night of the Lepus (Yorven)**You're late, you're late, for a very violent fate.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,3170<br>DevNote: Buff FA4 20%for each Non-Standard Species additive</code></span>Night of the Lepus
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2980**TBD Halsin Feat (Do not translate) (Halsin)**</span>TBD Halsin Feat (Do not translate)
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
+            <span class="featTableInner">???</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
@@ -285,6 +319,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Imoen</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2981**TBD Imoen Feat (Do not translate) (Imoen)**</span>TBD Imoen Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">20 Jan 2027<br>20 Apr 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Rust</span>
         </span>
         <span class="featTableIcon4">
@@ -298,6 +349,23 @@ Feats that have already released in a premium pack and are in their exclusivity 
         </span>
         <span class="featTableDate">
             <span class="featTableInner">20 Jan 2027<br>20 Apr 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Sheila</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Empty Placeholder](images/general/unknown.png)<span class="featTooltipContents">ID: 2982**TBD Sheila Feat (Do not translate) (Sheila)**</span>TBD Sheila Feat (Do not translate)
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">???</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">27 Jan 2027<br>27 Apr 2027</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -998,23 +1066,6 @@ These are the feats that have been filtered out of the list above due to having 
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">The Dark Urge adds up the total ability scores of himself and all the Champions adjacent to him. He increases the effect of The Urge by 100% for every 25 total ability score he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jan 2032</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Gale</span>
-        </span>
-        <span class="featTableIcon5">
-            ![Astral-Touched Tadpole Icon](images/featicons/gale.png)<span class="featTooltipContents">ID: 2852**Astral-Touched Tadpole (Gale)**If this is what the fates have offered to aid our cause, then who am I to refuse?<br><br><span style="color:var(--Flavescent)">Gale adds up the total Intelligence scores of himself and all the Champions adjacent to him. He increases the effect of Archmage's Insight by 100% for every 5 INT he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,3005</code></span>Astral-Touched Tadpole
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Gale adds up the total Intelligence scores of himself and all the Champions adjacent to him. He increases the effect of Archmage's Insight by 100% for every 5 INT he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">???</span>
