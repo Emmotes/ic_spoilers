@@ -4,137 +4,6 @@
 
 A list of the upcoming content drops. Just be aware that the dates and order of these content drops are educated guesses based on the order their graphics appear in the definitions. CNE have been known to release content drops in different orders - so don't be surprised if that happens again.
 
-## Mastery 5 - 25 November 2026
-
-<span class="contentDropsTableColumn">
-    <span class="contentDropsTableRowHeader">
-        <span class="contentDropsTableIcons">
-            <span style="margin-left:8px;">**Icon**</span>
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">**Campaign**</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">**Adventure Name**</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">**Type**</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Mastery: Brain Frog (Variant)](images/contentdrop_portraits/mastery_brainfrog_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Mastery</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Brain Frog</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Mastery: Claws'n'Jaws (Variant)](images/contentdrop_portraits/mastery_clawsnjaws_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Mastery</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Claws'n'Jaws</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Mastery: Havi's Choosy Chapbook (Variant)](images/contentdrop_portraits/mastery_havischoosychapbook_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Mastery</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Havi's Choosy Chapbook</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Mastery: I Have Dark Vision (Variant)](images/contentdrop_portraits/mastery_ihavedarkvision_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Mastery</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">I Have Dark Vision</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Mastery: Morte's Entourage (Variant)](images/contentdrop_portraits/mastery_mortesentourage_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Mastery</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">Morte's Entourage</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Mastery: The Evil Within (Variant)](images/contentdrop_portraits/mastery_theevilwithin_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Mastery</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">The Evil Within</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Mastery: The Unkindness (Variant)](images/contentdrop_portraits/mastery_theunkindness_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Mastery</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">The Unkindness</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant</span>
-        </span>
-    </span>
-    <span class="contentDropsTableRow">
-        <span class="contentDropsTableIcons">
-            ![Mastery: What a Disaster (Variant)](images/contentdrop_portraits/mastery_whatadisaster_0.png)
-        </span>
-        <span class="contentDropsTableCampaign">
-            <span style="margin-left: 8px;">Mastery</span>
-        </span>
-        <span class="contentDropsTableAdventure">
-            <span style="margin-left: 8px;">What a Disaster</span>
-        </span>
-        <span class="contentDropsTableType">
-            <span style="margin-left: 8px;">Variant</span>
-        </span>
-    </span>
-</span>
-
 ## Mastery 6 - 23 December 2026
 
 <span class="contentDropsTableColumn">
@@ -509,6 +378,137 @@ A list of the upcoming content drops. Just be aware that the dates and order of 
         </span>
         <span class="contentDropsTableAdventure">
             <span style="margin-left: 8px;">Rudely Distracted</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+</span>
+
+## Mastery 8 - 24 February 2027
+
+<span class="contentDropsTableColumn">
+    <span class="contentDropsTableRowHeader">
+        <span class="contentDropsTableIcons">
+            <span style="margin-left:8px;">**Icon**</span>
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">**Campaign**</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">**Adventure Name**</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">**Type**</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Lobster Queen (Variant)](images/contentdrop_portraits/mastery_lobsterqueen_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Lobster Queen</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Nightmare Scenario (Variant)](images/contentdrop_portraits/mastery_nightmarescenario_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Nightmare Scenario</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Ring Around the Devils (Variant)](images/contentdrop_portraits/mastery_ringaroundthedevils_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Ring Around the Devils</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Ring Around the Toadstool (Variant)](images/contentdrop_portraits/mastery_ringaroundthetoadstool_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Ring Around the Toadstool</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Shadow Wizard Gold (Variant)](images/contentdrop_portraits/mastery_shadowwizardgold_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Shadow Wizard Gold</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Squiddly's Electric B (Variant)](images/contentdrop_portraits/mastery_squiddlyselectricb_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Squiddly's Electric B</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: The Durable Duo (Variant)](images/contentdrop_portraits/mastery_thedurableduo_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">The Durable Duo</span>
+        </span>
+        <span class="contentDropsTableType">
+            <span style="margin-left: 8px;">Variant</span>
+        </span>
+    </span>
+    <span class="contentDropsTableRow">
+        <span class="contentDropsTableIcons">
+            ![Mastery: Whiteout (Variant)](images/contentdrop_portraits/mastery_whiteout_0.png)
+        </span>
+        <span class="contentDropsTableCampaign">
+            <span style="margin-left: 8px;">Mastery</span>
+        </span>
+        <span class="contentDropsTableAdventure">
+            <span style="margin-left: 8px;">Whiteout</span>
         </span>
         <span class="contentDropsTableType">
             <span style="margin-left: 8px;">Variant</span>
