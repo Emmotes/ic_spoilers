@@ -75,7 +75,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
 
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Blessed Hammer** (Guess)
-> Barrowin gains a stack of Blessed Hammer for each Champion in the formation who has an equal or higher base attack cooldown. Champions who attack twice as slow as Barrowin provide an additional stack. Champions who attack three times as slow as Barrowin provide another additional stack. Champions who attack four times as slow as Barrowin provide a third additional stack. For each stack, the damage of all Champions behind Barrowin is increased by 400%, stacking multiplicatively.
+> Barrowin gains a stack of Blessed Hammer for each Champion in the formation who has an equal or higher base attack cooldown. Champions who attack twice as slow as Barrowin provide an additional stack. Champions who attack three times as slow as Barrowin provide another additional stack. Champions who attack four times as slow as Barrowin provide a third additional stack. For each stack, the damage of all Champions behind Barrowin is increased by $(active_upgrade_value 21680,0)%, stacking multiplicatively.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This ability is prestack.*
 <details><summary><em>Raw Data</em></summary>
@@ -85,7 +85,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3147,
     "flavour_text": "",
     "description": {
-        "desc": "Barrowin gains a stack of Blessed Hammer for each Champion in the formation who has an equal or higher base attack cooldown. Champions who attack twice as slow as Barrowin provide an additional stack. Champions who attack three times as slow as Barrowin provide another additional stack. Champions who attack four times as slow as Barrowin provide a third additional stack. For each stack, the damage of all Champions behind Barrowin is increased by $amount%, stacking multiplicatively."
+        "desc": "Barrowin gains a stack of Blessed Hammer for each Champion in the formation who has an equal or higher base attack cooldown. Champions who attack twice as slow as Barrowin provide an additional stack. Champions who attack three times as slow as Barrowin provide another additional stack. Champions who attack four times as slow as Barrowin provide a third additional stack. For each stack, the damage of all Champions behind Barrowin is increased by $(active_upgrade_value 21680,0)%, stacking multiplicatively."
     },
     "effect_keys": [
         {
@@ -94,14 +94,19 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "off_when_benched": true,
+            "effect_string": "do_nothing,0",
+            "amount_expr": "upgrade_amount(21680,0)",
+            "stacks_multiply": true,
+            "stacks_on_trigger": "will_stack_manually",
+            "show_bonus": true
+        },
+        {
+            "off_when_benched": true,
             "effect_string": "hero_dps_multiplier_mult,0",
             "targets": [
                 "behind"
             ],
-            "amount_expr": "upgrade_amount(21680,0)",
-            "stacks_multiply": true,
-            "stacks_on_trigger": "will_stack_manually",
-            "show_bonus": true,
+            "amount_expr": "upgrade_amount(21680,1)",
             "use_computed_amount_for_description": true
         },
         {
@@ -326,6 +331,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "buff_upgrade,25,21680,1",
+            "off_when_benched": true,
             "stacks_on_trigger": "will_manually_stack",
             "stack_title": "Hammer Time Stacks",
             "show_bonus": true,
@@ -333,6 +339,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
         },
         {
             "effect_string": "barrowin_hammer_time",
+            "off_when_benched": true,
             "buff_effect_key_index": 0
         }
     ],
@@ -361,11 +368,11 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "id": 3152,
     "flavour_text": "",
     "description": {
-        "desc": "Barrowin's Blessed Hammer base effect is additively increased by $(not_buffed amount)% for each Vigilance stack she has."
+        "desc": "Barrowin's Blessed Hammer base effect is additively increased by $(amount)% for each Vigilance stack she has."
     },
     "effect_keys": [
         {
-            "effect_string": "buff_upgrade_add_flat_amount,20,21680,0",
+            "effect_string": "buff_upgrade_add_flat_amount,20,21680",
             "off_when_benched": true,
             "amount_func": "add",
             "amount_updated_listeners": [
@@ -375,7 +382,6 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "changing_stack_upgade_ids": [
                 21681
             ],
-            "stacks_multiply": false,
             "stack_func": "per_hero",
             "stack_func_data": {
                 "target_filters": [
@@ -387,16 +393,19 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             },
             "stack_title": "Vigilance Stacks",
             "show_bonus": true,
-            "percent_values": false,
-            "use_computed_amount_for_description": true,
-            "show_current_value_bonus_desc": false
+            "current_value_bonus_desc": "Total Bonus: $(bonus)%"
         }
     ],
     "requirements": [],
     "graphic_id": 0,
     "large_graphic_id": 0,
     "properties": {
-        "owner_use_outgoing_description": true
+        "is_formation_ability": true,
+        "formation_circle_icon": false,
+        "owner_use_outgoing_description": true,
+        "indexed_effect_properties": true,
+        "per_effect_index_bonuses": true,
+        "default_bonus_index": 0
     }
 }
 </pre>
@@ -418,6 +427,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     },
     "effect_keys": [
         {
+            "off_when_benched": true,
             "effect_string": "buff_upgrade,400,21680,0"
         }
     ],
@@ -448,6 +458,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "effect_keys": [
         {
             "effect_string": "barrowin_invert_attack_reductions",
+            "override_key_desc": "All effects that reduce $target's attack cooldowns have their effect inverted.",
             "off_when_benched": true,
             "targets": [
                 "other"
