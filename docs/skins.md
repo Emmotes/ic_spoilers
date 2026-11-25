@@ -9,23 +9,6 @@ Skins that are upcoming. Most skins are real money purchases only.
 <span class="skinTableColumn">
     <span class="skinTableRow">
         <span class="skinTableIcon">
-            <span class="skinTooltipHolder" style="width:max-content">![Frostbite Lazaapz Portrait](images/skin_portraits/frostbitelazaapz.png)<span class="featTooltipContents">ID: 771**Frostbite Lazaapz (Lazaapz)**<span style="display:flex;flex-direction:row;flex-wrap:wrap"><img src="images/skin_models/frostbitelazaapz.webp" alt="Frostbite Lazaapz Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/frostbitelazaapz-drone_graphic.webp" alt="Frostbite Lazaapz Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"><img src="images/skin_models/frostbitelazaapz-shield_graphic.webp" alt="Frostbite Lazaapz Alternate Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span></span>
-        </span>
-        <span class="skinTableName">
-            Frostbite Lazaapz
-        </span>
-        <span class="skinTableSource">
-            Frostbite Lazaapz Skin & Feat Pack
-        </span>
-        <span class="skinTableCost">
-            1,680p
-        </span>
-        <span class="skinTableDate">
-            25 Nov 2026
-        </span>
-    </span>
-    <span class="skinTableRow">
-        <span class="skinTableIcon">
             <span class="skinTooltipHolder" style="width:max-content">![Dragon Army Tanis Portrait](images/skin_portraits/dragonarmytanis.png)<span class="featTooltipContents">ID: 765**Dragon Army Tanis (Tanis)**<img src="images/skin_models/dragonarmytanis.webp" alt="Dragon Army Tanis Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
         </span>
         <span class="skinTableName">

@@ -30,40 +30,6 @@ Feats that have already released in a premium pack and are in their exclusivity 
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Gale</span>
-        </span>
-        <span class="featTableIcon5">
-            ![Astral-Touched Tadpole Icon](images/featicons/gale.png)<span class="featTooltipContents">ID: 2852**Astral-Touched Tadpole (Gale)**If this is what the fates have offered to aid our cause, then who am I to refuse?<br><br><span style="color:var(--Flavescent)">Gale adds up the total Intelligence scores of himself and all the Champions adjacent to him. He increases the effect of Archmage's Insight by 100% for every 5 INT he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span><code>effect_def,3005</code></span>Astral-Touched Tadpole
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Gale adds up the total Intelligence scores of himself and all the Champions adjacent to him. He increases the effect of Archmage's Insight by 100% for every 5 INT he counts, stacking multiplicatively. If he has at least 20 stacks, your formation gains one additional Ceremorphosis stack.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">???</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">25 Nov 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Lazaapz</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Maximum Infusion Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2898**Maximum Infusion (Lazaapz)**This bad boy can fit SO much junk in it!<br><br><span style="color:var(--Flavescent)">Increases the effect of Lazaapz's Artificer Infusion ability by 80%.</span><code>buff_upgrade,80,17482</code></span>Maximum Infusion
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Lazaapz's Artificer Infusion ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">1,680 Platinum<br>50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">25 Nov 2026<br>25 Feb 2027</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Nordom</span>
         </span>
         <span class="featTableIcon4">
