@@ -57,7 +57,7 @@ Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
 <div markdown="1" class="abilityBorder"><div markdown="1" class="abilityBorderInner">
 **Base Attack: Improvised Attack** (Melee)
 > Tika takes a swing at the nearest enemy with whatever implement she happens to have on hand.  
-> Cooldown: 4s (Cap 1s)
+> Cooldown: 6s (Cap 1.5s)
 <details><summary><em>Raw Data</em></summary>
 <p>
 <pre>
@@ -71,7 +71,7 @@ Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
     "num_targets": 1,
     "aoe_radius": 0,
     "damage_modifier": 1,
-    "cooldown": 4,
+    "cooldown": 6,
     "animations": [
         {
             "type": "melee_attack",
@@ -288,7 +288,15 @@ Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
     "id": 3122,
     "flavour_text": "",
     "description": {
-        "desc": "When Tika attacks an enemy that has attacked a Champion in the formation or been on screen for at least $time___2 seconds, that enemy gains a Defiance stack. Each Defiance stack causes that enemy to take $amount% additional damage from all Champions' attacks, stacking multiplicatively to a maximum of $max_stacks___2 stacks. "
+        "pre": "When Tika attacks an enemy that has attacked a Champion in the formation or been on screen for at least $time___2 seconds, that enemy gains a Defiance stack. Each Defiance stack causes that enemy to take $amount% additional damage from all Champions' attacks, stacking multiplicatively to a maximum of $max_stacks___2 stacks. ",
+        "post": {
+            "conditions": [
+                {
+                    "condition": "not static_desc",
+                    "desc": "^^Bonus damage at max stacks: $(tika_spirited_defiance_max_debuff)%"
+                }
+            ]
+        }
     },
     "effect_keys": [
         {
@@ -427,6 +435,12 @@ Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
         {
             "effect_string": "tika_adaptive_attack",
             "mode": "breaking"
+        },
+        {
+            "effect_string": "tika_breaker",
+            "targets": [
+                "all"
+            ]
         }
     ],
     "requirements": "",
@@ -462,6 +476,12 @@ Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
         {
             "effect_string": "tika_adaptive_attack",
             "mode": "control"
+        },
+        {
+            "effect_string": "tika_control",
+            "targets": [
+                "all"
+            ]
         }
     ],
     "requirements": "",
@@ -497,6 +517,12 @@ Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
         {
             "effect_string": "tika_adaptive_attack",
             "mode": "debuff"
+        },
+        {
+            "effect_string": "tika_debuff",
+            "targets": [
+                "all"
+            ]
         }
     ],
     "requirements": "",
@@ -530,13 +556,19 @@ Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
     },
     "effect_keys": [
         {
-            "effect_string": "base_attack_cooldown_override,0.05",
+            "effect_string": "base_attack_cooldown_override,0.01",
             "amount_func": "add",
             "stack_func": "per_hero_attribute",
-            "per_hero_expr": "as_int(hero_id == 183) * min(base_attack_cooldown, AggregateHeroExpressionsByTarget(`all`, `base_attack_cooldown`, `min`)) / 0.05)",
+            "per_hero_expr": "as_int(hero_id == 183) * min(base_attack_cooldown, AggregateHeroExpressionsByTarget(`all`, `base_attack_cooldown`, `min`)) / 0.01)",
             "amount_updated_listeners": [
                 "slot_changed",
                 "base_attack_cooldown_changed"
+            ]
+        },
+        {
+            "effect_string": "tika_dps",
+            "targets": [
+                "all"
             ]
         }
     ],
@@ -573,6 +605,12 @@ Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
         {
             "effect_string": "tika_adaptive_attack",
             "mode": "gold"
+        },
+        {
+            "effect_string": "tika_gold",
+            "targets": [
+                "all"
+            ]
         }
     ],
     "requirements": "",
@@ -607,6 +645,12 @@ Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
     "effect_keys": [
         {
             "effect_string": "tika_adaptive_healing,50"
+        },
+        {
+            "effect_string": "tika_healing",
+            "targets": [
+                "all"
+            ]
         }
     ],
     "requirements": "",
@@ -641,6 +685,12 @@ Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
     "effect_keys": [
         {
             "effect_string": "change_base_attack,1020"
+        },
+        {
+            "effect_string": "tika_hunter",
+            "targets": [
+                "all"
+            ]
         }
     ],
     "requirements": "",
@@ -675,6 +725,12 @@ Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
     "effect_keys": [
         {
             "effect_string": "increase_boss_gems,1"
+        },
+        {
+            "effect_string": "tika_speed",
+            "targets": [
+                "all"
+            ]
         }
     ],
     "requirements": "",
@@ -718,7 +774,7 @@ Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "hero_positional_formation_abilities",
-            "post_process_expr": "input + as_int(GetFeatEquipped(2973)) * 5 + as_int(GetFeatEquipped(2974)) * 10 + as_int(GetFeatEquipped(2975)) * 20",
+            "post_process_expr": "input + as_int(GetFeatEquipped(2972)) * 5 + as_int(GetFeatEquipped(2973)) * 10 + as_int(GetFeatEquipped(2974)) * 20",
             "show_bonus": true,
             "amount_updated_listeners": [
                 "slot_changed",
@@ -774,7 +830,7 @@ Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
             "amount_func": "mult",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "hero_positional_formation_abilities",
-            "post_process_expr": "input + as_int(GetFeatEquipped(2973)) * 5 + as_int(GetFeatEquipped(2974)) * 10 + as_int(GetFeatEquipped(2975)) * 20",
+            "post_process_expr": "input + as_int(GetFeatEquipped(2972)) * 5 + as_int(GetFeatEquipped(2973)) * 10 + as_int(GetFeatEquipped(2974)) * 20",
             "show_bonus": true,
             "amount_updated_listeners": [
                 "slot_changed",
@@ -827,7 +883,7 @@ Tika Waylan will be a new champion in the Wintershield event on 6 January 2027.
             "amount_func": "add",
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "hero_positional_formation_abilities",
-            "post_process_expr": "(input + as_int(GetFeatEquipped(2973)) * 5 + as_int(GetFeatEquipped(2974)) * 10 + as_int(GetFeatEquipped(2975)) * 20) / 15",
+            "post_process_expr": "(input + as_int(GetFeatEquipped(2972)) * 5 + as_int(GetFeatEquipped(2973)) * 10 + as_int(GetFeatEquipped(2974)) * 20) / 15",
             "show_bonus": false,
             "amount_updated_listeners": [
                 "slot_changed",
