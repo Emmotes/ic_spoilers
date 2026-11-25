@@ -59,7 +59,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "amount_expr": "upgrade_amount(21671,0)",
             "stacks_multiply": true,
             "amount_func": "mult",
-            "use_computed_amount_for_description": true,
+            "use_computed_amount_for_description": false,
             "include_hero_specific_multipliers_for_bonus": false,
             "stack_func": "per_upgrade_targets",
             "stack_func_data": {
@@ -103,7 +103,7 @@ Please do me a favour and don't get all melodramatic about what you find here. I
     "large_graphic_id": 13606,
     "properties": {
         "is_formation_ability": true,
-        "owner_use_outgoing_description": false,
+        "owner_use_outgoing_description": true,
         "indexed_effect_properties": true,
         "per_effect_index_bonuses": true,
         "default_bonus_index": 0
@@ -134,6 +134,19 @@ Please do me a favour and don't get all melodramatic about what you find here. I
             "stack_func": "per_hero_attribute",
             "per_hero_expr": "HasTag(`rivalswaterdeep`) || HasTag(`gold`)",
             "show_bonus": true,
+            "amount_updated_listeners": [
+                "slot_changed",
+                "hero_tags_changed"
+            ]
+        },
+        {
+            "off_when_benched": true,
+            "effect_string": "buff_upgrade,100,21671,2",
+            "amount_func": "mult",
+            "stack_func": "per_hero_attribute",
+            "per_hero_expr": "HasTag(`rivalswaterdeep`) || HasTag(`gold`)",
+            "show_bonus": false,
+            "show_stacks": false,
             "amount_updated_listeners": [
                 "slot_changed",
                 "hero_tags_changed"
