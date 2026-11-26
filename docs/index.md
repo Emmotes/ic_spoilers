@@ -104,6 +104,31 @@ These are the new event champions that are upcoming and all the information we k
 {::nomarkdown}
 </a>
 {:/nomarkdown}
+{::nomarkdown}
+<a href="breezy.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Briennelle Zaharina
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Half-Elf (Guess)</span>
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Fleetswake - 3 March 2027 (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
 </span>
 
 # Reworked & Rebalanced Champions
@@ -520,6 +545,33 @@ Events will have either one rework OR three rebalances.
             </span>
             <span class="indexChampionTableEvent">
                 <span class="indexChampionTableNoLink">Human Cleric of Heroes of the Lance (Guess)</span>
+            </span>
+        </span>
+        <span class="indexChampionTableType indexChampionTableNoLink">
+            New ⭐
+        </span>
+    </span>
+{::nomarkdown}
+</a>
+{:/nomarkdown}
+</span>
+</div></div>
+<div markdown="1" class="abilityBorder"><div markdown="1" style="padding-left:8px">
+## Fleetswake - 3 March 2027 (Guess)
+<span class="indexChampionTableColumn" style="margin:-15px 0 -20px -8px">
+{::nomarkdown}
+<a href="breezy.html">
+{:/nomarkdown}
+    <span class="indexChampionTableRow">
+        <span class="indexChampionTableIcon">
+            ![Unknown or Missing Portrait Icon](images/general/unknown_champion.png)
+        </span>
+        <span class="indexChampionTableInfo">
+            <span class="indexChampionTableChampion">
+                Briennelle Zaharina (Guess)
+            </span>
+            <span class="indexChampionTableEvent">
+                <span class="indexChampionTableNoLink">Half-Elf (Guess)</span>
             </span>
         </span>
         <span class="indexChampionTableType indexChampionTableNoLink">
