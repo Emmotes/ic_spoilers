@@ -27,23 +27,63 @@
 
 Tanthalas Half-Elven will be a new champion in the Simril event on 2 December 2026.
 
-<span class="champStatsTableGridSmall">
+<span class="champStatsTableGrid">
   <span>**Seat**:</span>
-  <span>Unknown</span>
+  <span>10</span>
+  <span>**Stat**</span>
+  <span>**Value**</span>
+  <span>**Day 1 Trials**</span>
+  <span>**Patrons**</span>
+  <span>**Skylla Patrons**</span>
   <span>**Species**:</span>
-  <span>Half-Elf (Guess)</span>
+  <span>Half-Elf</span>
+  <span>**Strength**:</span>
+  <span>16</span>
+  <span>Yes</span>
+  <span>-</span>
+  <span>-</span>
   <span>**Class**:</span>
-  <span>Fighter (Guess)</span>
+  <span>Fighter</span>
+  <span>**Dexterity**:</span>
+  <span>17</span>
+  <span>Yes</span>
+  <span>-</span>
+  <span>-</span>
   <span>**Roles**:</span>
-  <span>Support (Guess)</span>
+  <span>Support</span>
+  <span>**Constitution**:</span>
+  <span>12</span>
+  <span>Yes</span>
+  <span>-</span>
+  <span>Strahd</span>
   <span>**Age**:</span>
-  <span>Unknown</span>
+  <span>102</span>
+  <span>**Intelligence**:</span>
+  <span>12</span>
+  <span>Yes</span>
+  <span>Zariel</span>
+  <span>Zariel</span>
   <span>**Gender**:</span>
-  <span>Male (Guess)</span>
+  <span>Male</span>
+  <span>**Wisdom**:</span>
+  <span>13</span>
+  <span>Yes</span>
+  <span>Elminster</span>
+  <span>Elminster</span>
   <span>**Alignment**:</span>
-  <span>Unknown</span>
+  <span>Neutral Grood (Guess)</span>
+  <span>**Charisma**:</span>
+  <span>15</span>
+  <span>Yes</span>
+  <span>&nbsp;</span>
+  <span></span>
   <span>**Affiliation**:</span>
   <span>Heroes of the Lance (Guess)</span>
+  <span>**Total**:</span>
+  <span>85</span>
+  <span>&nbsp;</span>
+  <span style="justify-content:flex-end;padding-right:6px;">Champion ID:</span>
+  <span>182</span>
 </span>
 
 # Formation
