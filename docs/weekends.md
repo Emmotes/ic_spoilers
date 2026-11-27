@@ -7,54 +7,6 @@ Here are the upcoming weekends with their *estimated* dates - the *estimated* pu
 <span class="weekendsTableColumn">
     <span class="weekendTableRow">
         <span class="weekendTableIcon">
-            <img src="images/weekends/855.png">
-            <span class="weekendTooltipContents">ID: 855**Gold Friendly Chest**Loot for: Makos, Celeste, BBEG, Shandie and Penelope<code>"for_crusaders":[9,2,125,47,71]</code></span>
-        </span>
-        <span class="weekendTableMain">
-            <span class="weekendTableTitleRow">
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    **Friendly**
-                </span>
-                <span class="weekendTableContents" style="font-size:1.3em">
-                    27 November 2026
-                </span>
-            </span>
-            <span class="weekendTableContentBlock">
-                <span class="weekendTableReward">
-                    <span class="weekendTableContents" style="padding-top:5px">
-                        Assumed Reward:
-                    </span>
-                    <span class="weekendTableContents">
-                        Golden Epic for Penelope
-                    </span>
-                </span>
-                <span class="weekendTableChampions">
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/makos.png')">
-                        <span class="weekendTableChampionNameplate">Makos</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 9**Makos**Increases the effect of Makos's Dark Blessing and Dark Luck by 200%.<code>buff_upgrades,200,140,139</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/celeste.png')">
-                        <span class="weekendTableChampionNameplate">Celeste</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 2**Celeste**Increases the effect of Celeste's Crusader's Mantle ability by 200%.<code>buff_upgrade,200,24</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/bbeg.png')">
-                        <span class="weekendTableChampionNameplate">BBEG</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 125**Bartholemew Beelzebub Ezekiel Grubbe**</span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/shandie.png')">
-                        <span class="weekendTableChampionNameplate">Shandie</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 47**Shandie**Increases the effect of Shandie's Agile Allies and Explosive Arrow by 200%.<code>buff_upgrades,200,9727,9729</code></span>
-                    </span>
-                    <span class="weekendTableChampion weekendTableIcon" style="background-image:url('images/portraits/penelope.png')">
-                        <span class="weekendTableChampionNameplate">Penelope</span>
-                        <span class="weekendTooltipContents" style="font-size:1.3em">ID: 71**Penelope**</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-    </span>
-    <span class="weekendTableRow">
-        <span class="weekendTableIcon">
             <img src="images/weekends/856.png">
             <span class="weekendTooltipContents">ID: 856**Gold Cloaked Chest**Loot for: Bruenor, Nayeli, Laurana, Kitiara and Tanis<code>"for_crusaders":[1,3,175,180,182]</code></span>
         </span>
